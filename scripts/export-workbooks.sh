@@ -12,6 +12,11 @@ if ! command -v pandoc >/dev/null 2>&1; then
   exit 1
 fi
 
+if ! command -v weasyprint >/dev/null 2>&1; then
+  echo "weasyprint is required to export workbook PDF files." >&2
+  exit 1
+fi
+
 if [[ ! -d "${WORKBOOK_DIR}" ]]; then
   echo "Workbook directory not found: ${WORKBOOK_DIR}" >&2
   exit 1

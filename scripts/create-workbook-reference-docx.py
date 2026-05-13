@@ -4,6 +4,7 @@
 from __future__ import annotations
 
 import sys
+from pathlib import Path
 from docx import Document
 from docx.shared import Pt
 
@@ -15,7 +16,9 @@ def apply_style(document: Document, style_name: str, size: int) -> None:
 
 
 def main() -> int:
-    output_path = sys.argv[1] if len(sys.argv) > 1 else "styles/workbook-reference.docx"
+    default_output = Path(__file__).resolve().parent.parent / "styles" / "workbook-reference.docx"
+    output_path = Path(sys.argv[1]).resolve() if len(sys.argv) > 1 else default_output
+    output_path.parent.mkdir(parents=True, exist_ok=True)
     document = Document()
 
     apply_style(document, "Normal", 11)
@@ -23,7 +26,7 @@ def main() -> int:
     apply_style(document, "Heading 2", 16)
     apply_style(document, "Heading 3", 13)
 
-    document.save(output_path)
+    document.save(str(output_path))
     return 0
 
 
