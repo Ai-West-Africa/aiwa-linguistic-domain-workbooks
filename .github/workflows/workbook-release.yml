@@ -1,0 +1,53 @@
+name: Workbook Release Assets
+
+on:
+  push:
+    tags:
+      - "workbooks-v*"
+  workflow_dispatch:
+    inputs:
+      tag_name:
+        description: "Release tag name (for manual runs)"
+        required: true
+        type: string
+
+permissions:
+  contents: write
+
+jobs:
+  build-and-release-workbooks:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Install export dependencies
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y pandoc weasyprint fonts-noto-core
+          python3 -m pip install --upgrade pip
+          python3 -m pip install python-docx
+
+      - name: Create DOCX reference style (Noto Sans)
+        run: |
+          python3 scripts/create-workbook-reference-docx.py /tmp/workbook-reference.docx
+
+      - name: Export workbook files to DOCX and PDF
+        run: |
+          bash scripts/export-workbooks.sh release-assets/workbooks /tmp/workbook-reference.docx
+
+      - name: Upload workbook assets artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: workbook-release-assets
+          path: release-assets/workbooks/*
+
+      - name: Publish GitHub release assets
+        uses: softprops/action-gh-release@v2
+        with:
+          tag_name: ${{ github.event.inputs.tag_name || github.ref_name }}
+          files: |
+            release-assets/workbooks/*.docx
+            release-assets/workbooks/*.pdf
+          generate_release_notes: true

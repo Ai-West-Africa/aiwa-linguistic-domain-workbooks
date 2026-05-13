@@ -8,6 +8,7 @@
     "lint:css": "stylelint '**/*.{css,scss}' --ignore-path .stylelintignore",
     "lint:md": "markdownlint '**/*.md' --ignore node_modules --ignore vendor",
     "lint:md:workbooks": "markdownlint 'workbooks/**/*.md'",
+    "build:workbooks": "bash scripts/export-workbooks.sh",
     "lint:html": "htmlhint '**/*.html' --ignore-path .htmlhintignore",
     "lint:json": "node -e \"const fs=require('fs'),g=require('glob');g.sync('**/*.json',{ignore:['node_modules/**','vendor/**','composer.lock']}).forEach(f=>{try{JSON.parse(fs.readFileSync(f,'utf8'))}catch(e){console.error(f+': '+e.message);process.exit(1)}});console.log('All JSON files valid.')\"",
     "lint": "npm run lint:js && npm run lint:css && npm run lint:md && npm run lint:html && npm run lint:json"

@@ -1,0 +1,52 @@
+:root {
+  color-scheme: only light;
+}
+
+body {
+  font-family: "Noto Sans", sans-serif;
+  font-size: 11pt;
+  line-height: 1.45;
+  margin: 1in;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: "Noto Sans", sans-serif;
+  font-weight: 700;
+  margin-top: 1.2em;
+  margin-bottom: 0.5em;
+}
+
+p,
+ul,
+ol,
+blockquote,
+table {
+  margin-top: 0.55em;
+  margin-bottom: 0.55em;
+}
+
+table {
+  border-collapse: collapse;
+  width: 100%;
+}
+
+th,
+td {
+  border: 1px solid #d0d0d0;
+  padding: 0.35em 0.5em;
+  vertical-align: top;
+}
+
+th {
+  background: #f7f7f7;
+}
+
+@page {
+  size: A4;
+  margin: 20mm 18mm;
+}
