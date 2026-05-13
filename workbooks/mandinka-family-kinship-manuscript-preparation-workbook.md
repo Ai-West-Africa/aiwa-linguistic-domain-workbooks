@@ -1,85 +1,172 @@
 # AI West Africa Manuscript Preparation Workbook
 
-## Mandinka Family Kinship for the AIWA Junior Publishing Fellowship
+## Mandinka Family Kinship — Author's Proof Edition (AIWA Junior Publishing Fellowship)
 
 **Publisher Context:** AI West Africa — An African Owned, Busumbala Born, Gambian Grown Company.
 
-## Fellowship Positioning
+## Project Summary: Legal and Ethical Framing
 
-This workbook prepares the learner to serve as a **Linguistic Steward** and **Media Producer** while authoring family-kinship content for a future school textbook. Every exercise is framed as **New Authorship**, and every capture activity becomes a credited **textbook contribution**.
+This workbook applies a student-led publishing model that is culturally grounded and rights-conscious.
 
-## Lesson 1 Ethics Checkpoint (Mandatory)
+- **Non-Extractive:** Community knowledge is not removed as raw cultural data.
+- **Value-Added:** Students produce derivative educational literature for curriculum use.
+- **Community-Owned:** The physical workbook remains with the school as an enduring local record.
 
-Before beginning Lesson 1, complete the UNESCO cultural protocol checklist:
+**Legal Narrative:** Legacy and historical language sources are used as prompts for original writing. Students hold moral and economic rights over contemporary contributions submitted to AIWA's sovereign platform.
 
-- Confirm kinship terminology can be shared in educational settings.
-- Confirm private family narratives are excluded unless fully authorized.
-- Confirm contributor consent includes publication for school use.
+## Workbook Positioning: Personal Lab vs Sovereign Product
 
-## Lesson 1: Kinship Authorship Framework
+- **Personal Lab (Workbook):** Investigation notes, kinship mapping, lexical discovery, and manuscript drafts.
+- **Sovereign Product (Platform Submission):** Final authored entries commercialized under student rights and royalty terms.
 
-**Objective:** Establish chapter purpose and authorship scope.
+Student role: **Author and Rights-Holder**, operating as a **Linguistic Steward** and **Media Producer**.
 
-### New Authorship Activities (Lesson 1)
+## Page Attribution Block (Place at top of each printed page)
 
-1. Draft an author brief describing why kinship language matters for social identity and respectful communication.
-2. Write a chapter audience note for upper-primary learners.
-3. Record a short spoken preface introducing yourself as contributor-author.
+**Author/Contributor:** [Student Name] | **Contributing Expert:** [Elder Name] | **Copyright:** [School/Community Name] © 2026
 
-## Lesson 2 Ethics Checkpoint (Mandatory)
+## SIL RWC Domain Header
 
-- Confirm kinship terms are presented respectfully across age and gender relations.
-- Confirm no stigmatizing examples are included.
-- Confirm language variants are represented transparently.
+**SIL Domain ID:** 4.1 Kinship Terms
 
-## Lesson 2: Kinship Terminology Matrix
+---
 
-**Objective:** Prepare core terminology for textbook chapter layout.
+## Chapter 1 UNESCO Ethics Clause (Mandatory)
 
-### New Authorship Activities (Lesson 2)
+Before documenting any tradition, the student must complete a **Knowledge Exchange**: explain the manuscript goal to the elder, then receive formal verbal consent to include shared knowledge in a student-published educational work.
 
-1. Build a kinship matrix (Mandinka term, relation, context of use, formality level).
-2. Draft usage notes showing appropriate address in home, community, and ceremonial settings.
-3. Mark validated rows as “approved textbook contribution.”
+### Chapter 1: Editorial Research Charter for Kinship Language
 
-## Lesson 3 Ethics Checkpoint (Mandatory)
+**Objective:** Establish the editorial mission for a modern kinship chapter.
 
-- Confirm scenario recordings avoid naming real minors or vulnerable persons.
-- Confirm dialog examples protect family privacy.
-- Confirm contributor credits and usage rights are documented.
+#### Heritage Contrast Method
 
-## Lesson 3: Dialogue and Media Construction
+- **Input (Heritage Trigger):** "Colonial records often treated the Kabilo as an administrative or tax unit."
+- **Probe (Mandinka Reality):** In Mandinka, does Kabilo express lineage root, social duty, or living relationship networks?
+- **Authorial Act (Master Work Prompt):** Compose a 200-word contemporary definition of Kabilo for publication.
 
-**Objective:** Produce pedagogical dialogue content.
+#### Chapter 1 Editorial Assignment Activities
 
-### New Authorship Activities (Lesson 3)
+1. Record your finding: define three core kinship values that must appear in the chapter.
+2. Record your finding: write audience notes for upper-primary students.
+3. Draft one "Inspired by" paragraph (heritage context, sepia/black-and-white layout zone) and one "New Work" paragraph (student innovation, high-color layout zone).
 
-1. Compose three short Mandinka dialogue scenes using target kinship terms.
-2. Record audio readings for each scene in clear classroom style.
-3. Attach each script and recording as a textbook contribution with author metadata.
+#### Chapter 1 Traditional Peer Review (Signature Box)
 
-## Lesson 4 Ethics Checkpoint (Mandatory)
+- Elder/Teacher Name: ____________________
+- Signature: ____________________
+- Date: ____________________
+- Review Note: Draft framing respects tradition and educational intent.
 
-- Confirm final manuscript has completed community review.
-- Confirm all corrections are integrated before publication release.
-- Confirm unresolved cultural concerns are escalated to editorial leadership.
+#### Lexical Discovery Table (10–15 Deep Words)
 
-## Lesson 4: Manuscript Finalization for Junior Publishing
+| # | Deep Word (Mandinka) | Relational Context | Root Meaning | Planned Use in Chapter |
+|---|---|---|---|---|
+| 1 |  |  |  |  |
+| 2 |  |  |  |  |
+| 3 |  |  |  |  |
+| 4 |  |  |  |  |
+| 5 |  |  |  |  |
+| 6 |  |  |  |  |
+| 7 |  |  |  |  |
+| 8 |  |  |  |  |
+| 9 |  |  |  |  |
+| 10 |  |  |  |  |
 
-**Objective:** Finalize a chapter-ready kinship manuscript.
+---
 
-### New Authorship Activities (Lesson 4)
+## Chapter 2 UNESCO Ethics Clause (Mandatory)
 
-1. Assemble final chapter sections: concept overview, kinship matrix, dialogues, glossary.
-2. Add contributor credits and cultural review acknowledgements.
-3. Produce an editorial handoff note for textbook design.
+Repeat the **Knowledge Exchange** and confirm consent for educational publication, attribution of sources, and respectful representation of family structures.
 
-## Completion Deliverable
+### Chapter 2: Editorial Research Matrix and Contemporary Usage
 
-Submit a manuscript packet titled **Mandinka Family Kinship: Community Authored Learning Chapter** containing:
+**Objective:** Build a publishable kinship terminology matrix.
 
-- Authorship framework
-- Ethics checkpoint records
-- Kinship matrix and usage notes
-- Dialogue scripts with audio references
-- Editorial handoff note
+#### Chapter 2 Editorial Assignment Activities
+
+1. Build a matrix of 10–15 terms: Mandinka term, relation, social context, and contemporary school-use explanation.
+2. Develop a social mapping circles page where students draw contemporary family structures and annotate kinship language.
+3. Record your finding: which term is most misunderstood and requires a modern clarifying note?
+
+#### Metadata Log (bottom of each matrix/mapping page)
+
+**Source:** [Elder Name/Self] | **Originality Check:** [Verified] | **Ready for AIWA Upload:** [ ]
+
+#### Chapter 2 Traditional Peer Review (Signature Box)
+
+- Elder/Teacher Name: ____________________
+- Signature: ____________________
+- Date: ____________________
+- Verification: Terminology and mappings are culturally and pedagogically sound.
+
+#### Vocabulary Continuity Footer (Place on each vocabulary page)
+
+"These terms are documented for educational purposes to ensure the continuity of the Mandinka language within the Gambian National Curriculum."
+
+---
+
+## Chapter 3 UNESCO Ethics Clause (Mandatory)
+
+Before audio, dialogue, or narrative drafting, complete the **Knowledge Exchange** and confirm consent for voice use, context, and publication format.
+
+### Chapter 3: Creative Writing and Audio Editorial Studio
+
+**Objective:** Produce original, classroom-ready kinship literature.
+
+#### Chapter 3 Editorial Assignment Activities
+
+1. Compose one original short story or poem illustrating the contemporary meaning of a traditional kinship proverb.
+2. Write and record three kinship dialogue scenes for school use.
+3. Label each script and recording as a textbook contribution with full attribution metadata.
+
+#### Drafting Canvas: Master Manuscript Page (Student IP Zone)
+
+> **Everything written here is your intellectual property draft for sovereign submission.**
+
+- Final manuscript text (250 words): _______________________________________
+- Dialogue excerpt for publication: _________________________________________
+- Audio reference ID: _____________________________________________________
+
+#### Metadata Log
+
+**Source:** [Elder Name/Self] | **Originality Check:** [Verified] | **Ready for AIWA Upload:** [ ]
+
+#### Chapter 3 Traditional Peer Review (Signature Box)
+
+- Elder/Teacher Name: ____________________
+- Signature: ____________________
+- Date: ____________________
+- Verification: New writing respectfully extends living tradition.
+
+---
+
+## Chapter 4 UNESCO Ethics Clause (Mandatory)
+
+Complete final **Knowledge Exchange** and confirm consent, attribution, and publication readiness for chapter submission.
+
+### Chapter 4: Manuscript Finalization and Sovereign Platform Bridge
+
+**Objective:** Deliver a chapter-ready, student-owned publication package.
+
+#### Chapter 4 Editorial Assignment Activities
+
+1. Assemble final chapter sections: inspired heritage notes, term matrix, mapping circles, story/poem, dialogue scripts, and glossary.
+2. Record your finding: choose one flagship paragraph for chapter opening publication.
+3. Prepare upload-ready manuscript exports from Master Manuscript pages.
+
+#### Copy-to-Platform Checklist (Commercializable Assets)
+
+- [ ] 5+ contemporary kinship explanatory entries
+- [ ] 1 original story or poem linked to proverb meaning
+- [ ] 3 edited and attributed dialogue scenes
+- [ ] 10+ lexical entries from discovery matrix
+- [ ] 1 complete rights-and-attribution page
+
+#### Royalties & Rights Statement
+
+The student retains rights to original contemporary writing and media. Platform publication follows royalty-sharing agreements. The retained workbook is the student's and school's permanent record of authorship and cultural continuity.
+
+## Final Submission Label
+
+Mandinka Family Kinship: Author's Proof for Contemporary Educational Publishing
