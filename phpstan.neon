@@ -1,0 +1,27 @@
+parameters:
+    # SPARXSTAR Engineering Standards v2 mandates PHPStan Level 5 minimum.
+    # Prefer Level 8+ for core systems.
+    level: 5
+
+    paths:
+        - src
+
+    excludePaths:
+        - vendor
+        - tests
+        - coverage
+
+    # PHP 8.2+ only.
+    phpVersion: 80200
+
+    # WordPress function stubs are provided by szepeviktor/phpstan-wordpress.
+    # No need to list them manually here.
+
+    # Treat missing return types as errors at Level 5+.
+    checkMissingIterableValueType: true
+    checkGenericClassInNonGenericObjectType: true
+
+    # Do not suppress errors silently — violations must be fixed or documented.
+    reportUnmatchedIgnoredErrors: true
+
+    ignoreErrors: []

@@ -1,0 +1,79 @@
+<?xml version="1.0"?>
+<ruleset name="SPARXSTAR Boson Scaffold">
+    <description>PHPCS rules for SPARXSTAR Boson Scaffold — PHP 8.2+, WordPress VIP + PSR-12.</description>
+
+    <!-- Show progress and use colours -->
+    <arg value="ps"/>
+    <arg name="colors"/>
+
+    <!-- Scan PHP files only -->
+    <arg name="extensions" value="php"/>
+
+    <!-- What to scan -->
+    <file>.</file>
+
+    <!-- Exclude generated/third-party directories -->
+    <exclude-pattern>*/vendor/*</exclude-pattern>
+    <exclude-pattern>*/node_modules/*</exclude-pattern>
+    <exclude-pattern>*/coverage/*</exclude-pattern>
+
+    <!-- PHP version compatibility: PHP 8.2+ -->
+    <config name="testVersion" value="8.2-"/>
+    <rule ref="PHPCompatibility"/>
+
+    <!-- WordPress VIP Minimum (security-critical checks) -->
+    <rule ref="WordPressVIPMinimum"/>
+
+    <!-- WordPress Core coding standards -->
+    <rule ref="WordPress-Core">
+        <!-- Allow short array syntax (PSR-12 compatible) -->
+        <exclude name="Generic.Arrays.DisallowShortArraySyntax"/>
+        <exclude name="Universal.Arrays.DisallowShortArraySyntax"/>
+    </rule>
+
+    <!-- WordPress documentation standards -->
+    <rule ref="WordPress-Docs"/>
+
+    <!-- PSR-12 (where not overridden by WordPress VIP) -->
+    <rule ref="PSR12">
+        <!-- WordPress uses different brace styles; suppress PSR conflicts -->
+        <exclude name="PSR12.Classes.ClassInstantiation"/>
+        <exclude name="PSR1.Methods.CamelCapsMethodName"/>
+        <exclude name="PSR1.Files.SideEffects"/>
+        <exclude name="PSR2.Methods.FunctionCallSignature"/>
+        <exclude name="PSR2.ControlStructures.SwitchDeclaration"/>
+        <exclude name="PSR12.Files.FileHeader"/>
+    </rule>
+
+    <!-- Enforce i18n text domain -->
+    <rule ref="WordPress.WP.I18n">
+        <properties>
+            <property name="text_domain" type="array">
+                <element value="sparxstar-boson"/>
+            </property>
+        </properties>
+    </rule>
+
+    <!-- Enforce global prefix (rename spx_boson when building your project) -->
+    <rule ref="WordPress.NamingConventions.PrefixAllGlobals">
+        <properties>
+            <property name="prefixes" type="array">
+                <element value="spx_boson"/>
+                <element value="SPX_BOSON"/>
+                <element value="Starisian\Sparxstar\BosonScaffold"/>
+            </property>
+        </properties>
+        <!-- Tests define intentional WordPress core function stubs — exclude from prefix enforcement -->
+        <exclude-pattern>*/tests/*</exclude-pattern>
+    </rule>
+
+    <!-- Require strict_types in every file -->
+    <rule ref="Generic.PHP.RequireStrictTypes"/>
+
+    <!-- Forbid PHP 4-style constructors -->
+    <rule ref="Generic.NamingConventions.ConstructorName"/>
+
+    <!-- Disallow short open tags -->
+    <rule ref="Generic.PHP.DisallowShortOpenTag"/>
+
+</ruleset>
