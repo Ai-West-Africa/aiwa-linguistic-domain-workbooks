@@ -1,5 +1,5 @@
 SHELL := /bin/bash
-.PHONY: help install install-npm test lint lint-php lint-phpstan lint-js lint-css lint-md lint-html lint-json lint-fix clean
+.PHONY: help install install-npm test lint lint-php lint-phpstan lint-js lint-css lint-md lint-html lint-json build-workbooks lint-fix clean
 
 help: ## Show this help message
 	@echo 'Usage: make [target]'
@@ -42,6 +42,9 @@ lint-html: ## Run HTMLHint
 lint-json: ## Validate JSON files
 	npm run lint:json
 
+build-workbooks: ## Export workbook markdown files to DOCX and PDF
+	bash scripts/export-workbooks.sh
+
 lint-fix: ## Auto-fix PHP code style (PHPCBF — use with caution, not in CI)
 	vendor/bin/phpcbf
 
@@ -51,4 +54,3 @@ clean: ## Remove generated files
 	rm -rf coverage/
 	rm -f composer.lock
 	rm -f .phpunit.result.cache
-

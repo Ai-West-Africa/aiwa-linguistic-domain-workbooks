@@ -30,8 +30,13 @@ package-lock.json
 # Build
 /build/
 /dist/
+/release-assets/workbooks/
 
 # Testing
 /tmp/
 /tests/tmp/
 .phpunit.result.cache
+
+# Python
+__pycache__/
+*.pyc
