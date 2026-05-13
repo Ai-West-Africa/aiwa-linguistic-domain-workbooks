@@ -55,7 +55,7 @@ Before beginning Lesson 1, complete the UNESCO cultural protocol checklist:
 ### New Authorship Activities (Lesson 3)
 
 1. Compose three short Mandinka dialogue scenes using target kinship terms.
-2. Capture audio readings for each scene in clear classroom style.
+2. Record audio readings for each scene in clear classroom style.
 3. Attach each script and recording as a textbook contribution with author metadata.
 
 ## Lesson 4 Ethics Checkpoint (Mandatory)

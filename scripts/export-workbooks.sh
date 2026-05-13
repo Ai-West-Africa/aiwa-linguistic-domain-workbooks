@@ -3,6 +3,8 @@ set -euo pipefail
 
 ROOT_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")/.." && pwd)"
 WORKBOOK_DIR="${ROOT_DIR}/workbooks"
+REFERENCE_GENERATOR="${ROOT_DIR}/scripts/create-workbook-reference-docx.py"
+DEFAULT_REFERENCE_DOC="${ROOT_DIR}/styles/workbook-reference.docx"
 if [[ $# -ge 1 && -n "${1}" ]]; then
   OUTPUT_DIR="${1}"
 else
@@ -24,6 +26,19 @@ fi
 if [[ ! -d "${WORKBOOK_DIR}" ]]; then
   echo "Workbook directory not found: ${WORKBOOK_DIR}" >&2
   exit 1
+fi
+
+if [[ -z "${REFERENCE_DOC}" ]]; then
+  REFERENCE_DOC="${DEFAULT_REFERENCE_DOC}"
+fi
+
+if [[ ! -f "${REFERENCE_DOC}" ]]; then
+  if [[ -f "${REFERENCE_GENERATOR}" ]] && command -v python3 >/dev/null 2>&1; then
+    python3 "${REFERENCE_GENERATOR}" "${REFERENCE_DOC}"
+  else
+    echo "Reference DOCX not found and generator is unavailable: ${REFERENCE_DOC}" >&2
+    exit 1
+  fi
 fi
 
 mkdir -p "${OUTPUT_DIR}"
@@ -50,9 +65,7 @@ for workbook_file in "${workbook_files[@]}"; do
     --output="${docx_output}"
   )
 
-  if [[ -n "${REFERENCE_DOC}" && -f "${REFERENCE_DOC}" ]]; then
-    docx_args+=("--reference-doc=${REFERENCE_DOC}")
-  fi
+  docx_args+=("--reference-doc=${REFERENCE_DOC}")
 
   pandoc "${docx_args[@]}"
 

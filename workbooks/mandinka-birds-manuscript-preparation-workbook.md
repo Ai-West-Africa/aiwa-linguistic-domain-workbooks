@@ -54,7 +54,7 @@ Before beginning Lesson 1, complete the UNESCO cultural protocol checklist:
 
 ### New Authorship Activities (Lesson 3)
 
-1. Capture one bird-call recording and one habitat image per selected term.
+1. Produce one bird-call recording and one habitat image per selected term.
 2. Write a caption template connecting media evidence to Mandinka terminology.
 3. Submit each item as a “future textbook contribution,” not as raw data.
 

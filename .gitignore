@@ -30,6 +30,7 @@ package-lock.json
 # Build
 /build/
 /dist/
+/release-assets/workbooks/
 
 # Testing
 /tmp/
