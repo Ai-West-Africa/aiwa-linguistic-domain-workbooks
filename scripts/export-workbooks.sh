@@ -3,7 +3,11 @@ set -euo pipefail
 
 ROOT_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")/.." && pwd)"
 WORKBOOK_DIR="${ROOT_DIR}/workbooks"
-OUTPUT_DIR="${1:-${ROOT_DIR}/release-assets/workbooks}"
+if [[ $# -ge 1 && -n "${1}" ]]; then
+  OUTPUT_DIR="${1}"
+else
+  OUTPUT_DIR="$(mktemp -d "${TMPDIR:-/tmp}/workbooks-export.XXXXXX")"
+fi
 REFERENCE_DOC="${2:-}"
 CSS_FILE="${ROOT_DIR}/styles/workbook-print.css"
 
