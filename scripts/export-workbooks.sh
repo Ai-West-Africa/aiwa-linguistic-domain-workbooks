@@ -54,7 +54,7 @@ for workbook_file in "${workbook_files[@]}"; do
 
   pandoc "${workbook_file}" \
     --from=gfm \
-    --to=pdf \
+    --to=html \
     --standalone \
     --metadata=title:"${workbook_name}" \
     --pdf-engine=weasyprint \

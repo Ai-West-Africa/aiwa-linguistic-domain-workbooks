@@ -10,6 +10,8 @@ from docx.shared import Pt
 
 
 def apply_style(document: Document, style_name: str, size: int) -> None:
+    if style_name not in document.styles:
+        return
     style = document.styles[style_name]
     style.font.name = "Noto Sans"
     style.font.size = Pt(size)
