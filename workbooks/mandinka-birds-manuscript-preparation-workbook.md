@@ -1,348 +1,172 @@
-# AI West Africa Student Workbook
+# AI West Africa Manuscript Preparation Workbook
 
-## Mandinka Birds — 7-Week Book Development Workbook
+## Mandinka Birds — Author's Proof Edition (AIWA Junior Publishing Fellowship)
 
-This workbook supports a 7-week course in which students study birds in Mandinka language and culture, gather knowledge with care, and create a book together for younger learners in Gambian schools.
+**Publisher Context:** AI West Africa — An African Owned, Busumbala Born, Gambian Grown Company.
 
-Use this workbook as a working tool, not as assigned reading. Return to sections when the class needs them. Write in it, sketch in it, and use it to prepare the final group book.
+## Project Summary: Legal and Ethical Framing
 
-## What This Workbook Is For
+This workbook uses a prospective, student-author model for contemporary educational publishing.
 
-- building strong background knowledge about birds in The Gambia
-- collecting Mandinka words, phrases, stories, and observations
-- preparing for interviews, field visits, and expert conversations
-- drafting student writing for a shared classroom book
-- planning a 32-page children's book for lower-grade readers
+- **Non-Extractive:** We do not remove raw heritage data from the community.
+- **Value-Added:** Students produce derivative educational works that are legally distinct and serve public education.
+- **Community-Owned:** The physical workbook remains in the school library and preserves community intellectual value.
 
-## 7-Week Course Map
+**Legal Narrative:** Legacy records are used only as creative triggers. Students retain moral and economic rights to their original contemporary contributions, which may be submitted to a sovereign knowledge platform for royalty-bearing publication.
 
-| Week | Focus | What you will build in this workbook |
-| --- | --- | --- |
-| 1 | Ethics and identity | respect agreement, goals, first bird memories |
-| 2 | Subject mastery | bird facts, habitats, cultural meaning, vocabulary |
-| 3 | Technical composition | sentence work, key words, descriptions, short passages |
-| 4 | Field validation | interview notes, field observations, verified language |
-| 5 | Story and book planning | audience, book type, page map, team roles |
-| 6 | Drafting and illustration | spreads, captions, image plan, revisions |
-| 7 | Final production | edited pages, presentation plan, reflection |
+## Workbook Positioning: Personal Lab vs Sovereign Product
 
-## Week 1 — Ethics and Identity
+- **Personal Lab (Workbook):** Learning notes, interviews, lexical discovery, and draft experiments.
+- **Sovereign Product (Platform Submission):** Polished manuscript pages authored by the student as rights-holder.
 
-### Why This Domain Matters
+Address the student as **Author and Rights-Holder**. Record findings, then produce master text for publication.
 
-Birds are part of Gambian life, environment, and language. They appear in daily observation, oral tradition, proverbs, stories, hunting knowledge, farming knowledge, and conservation work. This course asks you to learn from both community knowledge and published facts.
+## Page Attribution Block (Place at top of each printed page)
 
-### Contract of Respect
+**Author/Contributor:** [Student Name] | **Contributing Expert:** [Elder Name] | **Copyright:** [School/Community Name] © 2026
 
-Before you begin, agree to these classroom commitments.
+## SIL RWC Domain Header
 
-- I will listen respectfully to elders, classmates, and experts.
-- I will ask permission before recording, photographing, or quoting anyone.
-- I will write carefully so that younger students can learn from our work.
-- I will help my group create a book that honors both language and knowledge.
+**SIL Domain ID:** 1.6.1 Birds
 
-Student signature: ____________________  Date: ____________________
+---
 
-### My Starting Point
+## Chapter 1 UNESCO Ethics Clause (Mandatory)
 
-1. What birds do I already know by sight, sound, or story?
-2. What Mandinka bird names do I already know?
-3. What do I want younger students to learn from our book?
+Before documenting any tradition, the student must complete a **Knowledge Exchange**: provide a summary of the educational manuscript being built, then receive formal verbal consent from the elder to include shared knowledge in a student-published work.
 
-Notes:
+### Chapter 1: Editorial Research Brief — From Legacy Trigger to New Authorship
 
-______________________________________________________________________________
+**Objective:** Move from archival trigger to original educational writing.
 
-______________________________________________________________________________
+#### Heritage Contrast Method
 
-## Week 2 — Subject Mastery
+- **Input (Heritage Trigger):** "Colonial records often reduced local bird knowledge to specimen labels."
+- **Probe (Mandinka Reality):** In Mandinka ecological language, what social, seasonal, or spiritual meanings are attached to bird naming?
+- **Authorial Act (Master Work Prompt):** Compose a 200-word contemporary definition of Mandinka bird naming for publication.
 
-### Birds in The Gambia
+#### Chapter 1 Editorial Assignment Activities
 
-The Gambia has rich birdlife across wetlands, mangroves, riverbanks, farms, compounds, forests, and coastlands. Birds are important for ecology, observation, tourism, storytelling, and local knowledge.
+1. Record your finding: write a two-paragraph editorial mission for a school bird guide.
+2. Record your finding: list community-led standards for respectful species identification.
+3. Draft your first textbook paragraph for the "Inspired by" section and your first paragraph for the "New Work" section.
 
-### Domain Reading Notes
+#### Chapter 1 Traditional Peer Review (Signature Box)
 
-Use class discussion, published facts, and local knowledge to build a strong foundation.
+- Elder/Teacher Name: ____________________
+- Signature: ____________________
+- Date: ____________________
+- Review Note: This draft respects traditional knowledge and educational purpose.
 
-| Topic | What I learned | New Mandinka words |
-| --- | --- | --- |
-| habitats and hotspots |  |  |
-| representative species |  |  |
-| bird behavior and sound |  |  |
-| conservation concerns |  |  |
-| birds in stories and proverbs |  |  |
+#### Lexical Discovery Table (10–15 Deep Words)
 
-### Bird Inventory
-
-| Bird | Mandinka name | Habitat | What it does | Why it matters |
-| --- | --- | --- | --- | --- |
+| # | Deep Word (Mandinka) | Context | Root Meaning | Planned Use in Chapter |
+|---|---|---|---|---|
 | 1 |  |  |  |  |
 | 2 |  |  |  |  |
 | 3 |  |  |  |  |
 | 4 |  |  |  |  |
 | 5 |  |  |  |  |
 | 6 |  |  |  |  |
+| 7 |  |  |  |  |
+| 8 |  |  |  |  |
+| 9 |  |  |  |  |
+| 10 |  |  |  |  |
 
-### Culture and Science Together
+---
 
-Use this page to connect two ways of knowing.
+## Chapter 2 UNESCO Ethics Clause (Mandatory)
 
-| Bird | Community knowledge, story, proverb, or belief | Scientific or observed fact | What both views help us understand |
-| --- | --- | --- | --- |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
+Before continuing Editorial Research, repeat the **Knowledge Exchange** with contributors and confirm consent for educational publication, attribution, and classroom circulation.
 
-## Week 3 — Technical Composition
+### Chapter 2: Editorial Research Lexicon and Scientific Field Guide Entries
 
-### Lexical Discovery
+**Objective:** Build chapter-ready lexical entries as textbook assets.
 
-Collect strong words that will help you write accurately and beautifully.
+#### Chapter 2 Editorial Assignment Activities
 
-| Deep word or phrase | Meaning | Context | How I will use it in the book |
-| --- | --- | --- | --- |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
+1. Create 10 scientific field-guide entries for selected birds: identification markers, habitat, Mandinka name, and educational note.
+2. For each entry, write one "Inspired by" line (heritage context, sepia/black-and-white layout zone) and one "New Work" line (modern student-authored explanation, high-color layout zone).
+3. Record your finding: which entry best demonstrates cultural continuity and modern relevance?
 
-### Sentence Workshop
+#### Metadata Log (bottom of each entry page)
 
-Build clear sentences from your domain.
+**Source:** [Elder Name/Self] | **Originality Check:** [Verified] | **Ready for AIWA Upload:** [ ]
 
-| Target | My sentence | English meaning | Check |
-| --- | --- | --- | --- |
-| noun |  |  | subject clear [ ] |
-| pronoun |  |  | reference clear [ ] |
-| verb |  |  | action clear [ ] |
-| adjective |  |  | detail added [ ] |
-| adverb or position word |  |  | setting clear [ ] |
-| joining or negation word |  |  | idea linked [ ] |
+#### Chapter 2 Traditional Peer Review (Signature Box)
 
-### Description and Imagery
+- Elder/Teacher Name: ____________________
+- Signature: ____________________
+- Date: ____________________
+- Verification: Field-guide entries are accurate and culturally respectful.
 
-The draft materials for this domain show that birds can be described through observation, metaphor, rhythm, and story. Practice both factual writing and expressive writing.
+#### Vocabulary Continuity Footer (Place on each vocabulary page)
 
-**Factual paragraph:** Describe one bird so a younger student can recognize it.
+"These terms are documented for educational purposes to ensure the continuity of the Mandinka language within the Gambian National Curriculum."
 
-______________________________________________________________________________
+---
 
-______________________________________________________________________________
+## Chapter 3 UNESCO Ethics Clause (Mandatory)
 
-**Creative paragraph or poem line:** Use sound, movement, or imagery.
+Complete the **Knowledge Exchange** before any media work. Confirm that image/audio use is consented, context-safe, and publication-ready.
 
-______________________________________________________________________________
+### Chapter 3: Visual and Media Studio — Educational Asset Production
 
-______________________________________________________________________________
+**Objective:** Produce media-backed manuscript evidence for textbook publication.
 
-## Week 4 — Field Validation
+#### Chapter 3 Editorial Assignment Activities
 
-### Preparing for a Field Visit or Expert Visit
+1. Prepare a bird anatomy diagram with blank naming slots; author chooses scientific name, Mandinka name, or a newly authored descriptive name.
+2. Produce one approved bird-call audio and one habitat image per selected entry.
+3. Write an original short poem or classroom micro-story inspired by a proverb related to birds, for modern readers.
 
-You may learn through a field trip, a guest speaker, or an interview with a local expert.
+#### Drafting Canvas: Master Manuscript Page (Student IP Zone)
 
-Possible experts:
+> **Everything written here is your intellectual property draft for sovereign submission.**
 
-- bird guides
-- farmers
-- hunters
-- griots
-- elders
-- conservation workers
+- Final manuscript paragraph (250 words): __________________________________
+- Caption package (image + audio + lexical links): ___________________________
+- Publication title for this page: __________________________________________
 
-### Interview Planner
+#### Metadata Log
 
-| Question | Who can answer it best? | Why does it matter for our book? |
-| --- | --- | --- |
-| What is this bird called in Mandinka? |  |  |
-| Where is it found? |  |  |
-| What do people say about it? |  |  |
-| What should children know about it? |  |  |
-| What words are hard to translate? |  |  |
+**Source:** [Elder Name/Self] | **Originality Check:** [Verified] | **Ready for AIWA Upload:** [ ]
 
-### Field Entry Template
+#### Chapter 3 Traditional Peer Review (Signature Box)
 
-| Item | Notes |
-| --- | --- |
-| date and place |  |
-| bird observed or discussed |  |
-| Mandinka name |  |
-| expert or speaker |  |
-| key facts |  |
-| story, proverb, or memory |  |
-| photo or sketch made |  |
-| audio recorded | yes [ ] no [ ] |
-| permission confirmed | yes [ ] no [ ] |
+- Elder/Teacher Name: ____________________
+- Signature: ____________________
+- Date: ____________________
+- Verification: Creative work honors tradition and contributes new educational value.
 
-### Verification Notes
+---
 
-What did we confirm? What still needs checking?
+## Chapter 4 UNESCO Ethics Clause (Mandatory)
 
-______________________________________________________________________________
+Before finalization, conduct final **Knowledge Exchange** and confirm approval for classroom publishing, archiving, and student attribution.
 
-______________________________________________________________________________
+### Chapter 4: Manuscript Assembly and Sovereign Submission Bridge
 
-## Week 5 — Planning the Group Book
+**Objective:** Convert drafts into publishable educational materials.
 
-### Our Book Goal
+#### Chapter 4 Editorial Assignment Activities
 
-As a class, we are making a book in our language for lower-grade students in Gambian schools. The book should be clear, accurate, welcoming, and enjoyable to read.
+1. Assemble chapter sections: inspired heritage notes, lexical entries, media plates, and new authored prose.
+2. Record your finding: identify the strongest contribution for the final textbook chapter opener.
+3. Prepare platform-ready files from Master Manuscript pages.
 
-### Audience Identification
+#### Copy-to-Platform Checklist (Commercializable Assets)
 
-- Who are the readers?
-- What age or grade level are they?
-- What do they already know?
-- What language level will help them succeed?
-- What kind of pictures will help them understand the text?
+- [ ] 5+ contemporary educational paragraphs
+- [ ] 1 poem or short story inspired by proverb meaning
+- [ ] 10+ lexical/scientific bird entries
+- [ ] 1 media evidence set (audio + image + caption metadata)
+- [ ] 1 completed contributor-attribution page
 
-Our audience notes:
+#### Royalties & Rights Statement
 
-______________________________________________________________________________
+The student author retains rights to contemporary authored content. Commercial publication on the sovereign platform follows agreed royalty-sharing terms, while this workbook remains the student's and school's permanent record of the creative process.
 
-______________________________________________________________________________
+## Final Submission Label
 
-### Choose the Type of Book
-
-Tick the option that best fits your group project.
-
-- [ ] picture book with one main story
-- [ ] informational bird book
-- [ ] mixed book with facts, stories, and poems
-- [ ] local habitat guide for children
-- [ ] another type: ____________________
-
-### Decide on the Central Idea
-
-What will hold the book together?
-
-- one bird and its world
-- several familiar birds around home and school
-- birds in Mandinka stories and sayings
-- birds and habitats across The Gambia
-- another organizing idea: ____________________
-
-### Group Roles
-
-| Role | Names | Main responsibilities |
-| --- | --- | --- |
-| writing team |  | drafting pages |
-| language team |  | checking Mandinka words and spelling |
-| research team |  | checking facts and interview notes |
-| art and photo team |  | sketches, photos, layout ideas |
-| editing team |  | clarity, consistency, final checks |
-
-### 32-Page Mockup
-
-Plan the book before writing all the content. A simple mockup helps the whole group see the flow.
-
-| Spread | What happens on these pages? | Text type | Picture idea |
-| --- | --- | --- | --- |
-| cover |  | title | cover image |
-| pages 2-3 |  |  |  |
-| pages 4-5 |  |  |  |
-| pages 6-7 |  |  |  |
-| pages 8-9 |  |  |  |
-| pages 10-11 |  |  |  |
-| pages 12-13 |  |  |  |
-| pages 14-15 |  |  |  |
-| pages 16-17 |  |  |  |
-| pages 18-19 |  |  |  |
-| pages 20-21 |  |  |  |
-| pages 22-23 |  |  |  |
-| pages 24-25 |  |  |  |
-| pages 26-27 |  |  |  |
-| pages 28-29 |  |  |  |
-| pages 30-31 |  |  |  |
-| back cover |  | blurb or credits | back cover image |
-
-## Week 6 — Drafting, Illustration, and Layout
-
-### Writing the Pages
-
-For each spread, decide what kind of writing belongs there.
-
-- short narrative
-- factual paragraph
-- caption
-- glossary note
-- poem line
-- interview quotation with permission
-
-### Illustration and Photo Planning
-
-Talk as a group before images are made.
-
-| Image need | Best option | Who will do it? | What must we check first? |
-| --- | --- | --- | --- |
-| bird close-up | drawing / photo / AI image |  | accuracy |
-| habitat scene | drawing / photo / AI image |  | place details |
-| cultural scene | drawing / photo |  | consent and respect |
-| diagram or map | drawing / digital layout |  | clarity |
-
-### Image Choices
-
-- drawings can highlight key features simply
-- photos can show real birds, places, and activities
-- AI imagery must be checked carefully for accuracy and cultural fit
-- no image should misrepresent local life, clothing, habitat, or bird features
-
-### Spread Drafting Sheet
-
-| Spread | Main text draft ready | image draft ready | needs revision |
-| --- | --- | --- | --- |
-| pages 2-3 | [ ] | [ ] | [ ] |
-| pages 4-5 | [ ] | [ ] | [ ] |
-| pages 6-7 | [ ] | [ ] | [ ] |
-| pages 8-9 | [ ] | [ ] | [ ] |
-| pages 10-11 | [ ] | [ ] | [ ] |
-| pages 12-13 | [ ] | [ ] | [ ] |
-
-## Week 7 — Final Production and Reflection
-
-### Final Editorial Checklist
-
-- [ ] the book fits the intended age group
-- [ ] Mandinka spelling has been checked
-- [ ] facts have been verified
-- [ ] permissions and attributions are recorded
-- [ ] pages follow the planned order
-- [ ] pictures support the meaning of the text
-- [ ] the group agrees on the final title
-
-### Book Credits
-
-Title: ______________________________________
-
-Class or school: ______________________________________
-
-Contributors: ______________________________________
-
-Experts or community contributors: ______________________________________
-
-### Reflection
-
-1. What did I contribute to the book?
-2. What did I learn about birds, language, and publishing?
-3. What should the next class improve?
-
-______________________________________________________________________________
-
-______________________________________________________________________________
-
-## Quick Reference Pages
-
-### Bird Knowledge to Return To
-
-- habitats and hotspots
-- representative species
-- bird sound and behavior
-- proverbs, beliefs, and metaphor
-- field recording and observation
-- vocabulary that younger students can understand
-
-### Final Reminder
-
-The goal is not only to collect words. The goal is to turn knowledge into a useful, beautiful book that helps younger students learn in their own language.
+Mandinka Birds: Author's Proof for Contemporary Educational Publishing
