@@ -135,6 +135,10 @@ Use this week to introduce one central idea from the draft materials: **identity
 | 8 |  |  |  |  |
 | 9 |  |  |  |  |
 | 10 |  |  |  |  |
+| 11 |  |  |  |  |
+| 12 |  |  |  |  |
+| 9 |  |  |  |  |
+| 10 |  |  |  |  |
 
 **Week 1 Transition:** Once the mission is clear and the ethics are understood, move from permission into deep listening about how kinship actually lives in Mandinka social life.
 
