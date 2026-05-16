@@ -719,6 +719,8 @@ Mandinka Family Kinship: Author's Proof for Contemporary Educational Publishing
 
 ---
 
+<!-- markdownlint-disable -->
+
 ## [RESTORED] Draft Source Content Authority Pack
 
 [RESTORED] The following sections are restored from `Mandinka Family Kinship Guidebook.md` (Markdown source authority) for author verification.
@@ -748,7 +750,7 @@ Mandinka kinship is celebrated through ceremonies that mark the life cycle:
 * **Naming ceremonies (baptism)** – A child remains indoors for seven days after birth; then the head is shaved and the baby is named. A bird or sheep may be sacrificed, and communal songs accompany the event.  
 * **Circumcision and puberty initiations** – Boys and girls undergo circumcision between ages 4–14. Initiates spend weeks in a “bush camp” where they learn secret songs, adult responsibilities and appropriate relations between the sexes. On their return, the village honours them with dancing and new respect. The **Kankurang** masked figure plays a protective role during these rites. Clad in red bark or leaves, the Kankurang carries a machete and guards initiates from evil spirits; he also appears at naming ceremonies, weddings and even Christmas festivities. Different masks (Ifangbondi, Jamba Wulengo kankurang) teach discipline, social rules, brotherhood and herbal knowledge.  
 * **Marriage rites** – Weddings often involve the exchange of bridewealth and are accompanied by griot songs and drumming. The Kankurang may escort the bride and enforce propriety. Women form singing circles that use praise songs and jokes to support the couple.  
-* **Funerals and ancestor veneration** – Funerals mobilise extended kin. Griots recite the deceased’s lineage and ancestors while drummers play mournful rhythms. Ritual charity is made on the third and fortieth days after death to mark the final separation of the deceased.
+* **Funerals and ancestor veneration** – Funerals mobilise extended kin. Griots recite the deceased’s lineage and ancestors while drummers play mournful rhythms. Ritual giving is made on the third and fortieth days after death to mark the final separation of the deceased.
 
 ## [RESTORED] Joking kinship and Sanankouya/Sanowaya {#joking-kinship-and-sanankouya/sanowaya}
 
@@ -764,7 +766,7 @@ Stories and poems communicate moral lessons—respect for elders, bravery, gener
 
 ## [RESTORED] Strategic significance {#strategic-significance}
 
-These stories, songs and rituals are not merely cultural curiosities; they are central to Mandinka kinship. Oral epics preserve the memory of ancestors and reinforce patrilineal descent. Praise songs at weddings and funerals publicly affirm lineage alliances. Initiation rites and the Kankurang ensure that youth internalise community values and solidarity. Joking relationships provide a grassroots mechanism for conflict resolution and inter‑clan cooperation. For anyone seeking to engage Mandinka communities—whether in development, education or cultural promotion—respecting and supporting these oral traditions and ceremonies is essential to building trust and harnessing kinship networks for positive change.
+These stories, songs and rituals are not merely cultural curiosities; they are central to Mandinka kinship. Oral epics preserve the memory of ancestors and reinforce patrilineal descent. Praise songs at weddings and funerals publicly affirm lineage alliances. Initiation rites and the Kankurang ensure that youth internalise community values and solidarity. Joking relationships provide a grassroots mechanism for conflict resolution and inter‑clan cooperation. For AIWA-aligned authors, producers, and researchers, respecting and supporting these oral traditions and ceremonies is essential to building trust and producing high-value language publications grounded in Mandinka kinship networks.
 
 # [RESTORED] Mandinka Family, Clan, and Kinship Traditions {#mandinka-family,-clan,-and-kinship-traditions}
 
@@ -1607,3 +1609,5 @@ By the end of this process, the you should be able to articulate three things:
 [image1]: <data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAC8AAAAGCAYAAABThMdSAAAAHklEQVR4XmOQW/Xx/1DFDOgCQwmPOn6g8KjjBwoDAOS8/s9EC0PsAAAAAElFTkSuQmCC>
 
 [image2]: <data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAQcAAAAcCAIAAADjr+0cAAADg0lEQVR4Xu2a0XXrQAhE1YlLSSkpxaW4lJSSUvR0wnkEDSw7rOSvcL8smBmUtdaSfbLtTdOc2bDQNH+e3hVNg/SuaBqkd0XTIL0rmgZhd8Xj8dh+OF5gzyHKA2wM0HBsnCFjQaaHJDbq6+sL2zPUiw2O7+/v3/FLHAkSVXqnSNZcr9crHGqL1aW23pDSOgDzdKF0QrxSEX3+B2hsngwaY6LwOSUu2q/vCpv2fD6xfcaKGdZcgh+qleqW2NILQLDi6ToA8/Q9WgVUnCFllqlFBbnM33amlhHLxpw3xQoaTk4hZUDJ5cVM5SIauJY8V2vu4wdmDKPx5C7tCnBTVqRr7zlq+RVxLBtz3hS7u2cGZhCj8ZRcXsxUrrCwDsBcCqHMDEbjSVx6h91TWdgKiwzLxpw3xe4uWQ8/Pj5OOgNYSEouL2YqV4A0PUzWAZicBwxIipapYIS4jj0Q1iVQPwn8w6KV5UWGZWPOm2KPt1xi7V10OmsqCCm5vJipLLO2DkCmO3IlCzaZPkf5y1eonoQSGo+rH4qhzN5PLComUaOuL48ZO6QkJhm9U/tsXN4doa4S3p5U1tB18FGjekgmSoKS1j7rJvgNsEdperswqkAGdRLrtatMYu0hvJInyUxae3Fx1lyCmRmckq+skeRoa/RRbgn8QjJASARJa4r3yiH8ZAkyvXw/Pz+tbHfKN3HMlSn+uQ64/Xz01p3/AhFO1BaDd5mkEyoIf2j2dl9Z4Mo6AEPFNCIRJK0pen3Lof+lNazLay/LW/ciU+zPXyG3n880UHds9flqBONKNL7lKwtMQ5J1AOKI6QBhJBvVSaxdXoSXmrTks9m+BqS1rZ4MDzmIlJGQaSPZqJ7DuFTD3L19pQqZwMqwYJzhtWhR5XYeExZ5TGqWo9+GR/cTIQ+5EXIQKWPQr2HTd0q/icHcsDiFdI1kvu4rJa6vA4A90qaE4rBYQhO29H5nZdtgXN69C1235GyFu85n+Z2yl04pQSFd+mmVfycMKyVKdn2OSrYQBpUGCN7iK1U0IQ9hZFbDsGwUzOQYXpmjOaMvlx4/2lcYeFeo9MUrP4Jr5co6APHpJtvIo67t/xg4XMD+uxj2zkxlKiBZNm7RM7RHxdioYJ8esTfGryockvAuVdqVCe1aJBHXXesAxNWm+cv0rmgapHdF0yC9K5oG6V3RNEjviqZBelc0DfIPBhFMHu+uatcAAAAASUVORK5CYII=>
+
+<!-- markdownlint-enable -->
