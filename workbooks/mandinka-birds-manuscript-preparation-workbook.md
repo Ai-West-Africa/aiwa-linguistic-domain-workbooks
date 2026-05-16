@@ -80,7 +80,7 @@ Before documenting any tradition, the student must complete a **Knowledge Exchan
 #### Week 1 Teacher Guidance
 
 - Frame this week as entry into responsibility and stewardship.
-- Explain that bird knowledge includes naming, warning, season-reading, proverb meaning, and social memory.
+- Explain that bird knowledge includes habitat, naming, warning, season-reading, proverb meaning, and spiritual or social interpretation.
 - Teach informed consent in simple language and let students rehearse it aloud.
 - Remind students that not every account is public knowledge; some things may be heard respectfully but not published.
 - Make the fellowship mission visible: students are not collecting dead facts; they are carrying living speech into educational form.

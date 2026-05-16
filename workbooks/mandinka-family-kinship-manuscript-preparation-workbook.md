@@ -87,7 +87,7 @@ Before documenting any tradition, the student must complete a **Knowledge Exchan
 
 #### Identity and Oral Tradition Grounding
 
-Mandinka kinship is held in story, praise, song, proverb, genealogy, and ceremony. A jali does not simply entertain. A jali carries collective memory, recites lineage, and helps a family remember its obligations. This means kinship vocabulary is more than a list of labels. It is a social map and a moral archive.
+Mandinka kinship is held in story, praise, song, proverb, genealogy, and ceremony. A jali, often called a griot in English, does not simply entertain. A jali carries collective memory, recites lineage, and helps a family remember its obligations. This means kinship vocabulary is more than a list of labels. It is a social map and a moral archive.
 
 Use this week to introduce one central idea from the draft materials: **identity is a chain, not an island**. In Mandinka life, a person is understood through ancestors, compound, clan, joking relations, and the living responsibilities attached to those ties. Students should therefore enter the workbook as future authors, but also as careful listeners to inherited language.
 
