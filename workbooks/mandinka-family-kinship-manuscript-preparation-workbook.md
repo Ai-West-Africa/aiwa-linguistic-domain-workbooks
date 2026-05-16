@@ -84,6 +84,7 @@ Before documenting any tradition, the student must complete a **Knowledge Exchan
 - Explain informed consent in classroom language: the elder must know the purpose, audience, and future use of the material.
 - Remind students that not every story is automatically for publication; some stories are for listening, learning, and stopping there.
 - Teach from the beginning that identity in Mandinka life is relational: the question is not only "Who are you?" but also "Who are your people?"
+- Teacher language note: use **jali** as the primary Mandinka term in this workbook and introduce **griot** only once as the English gloss.
 
 #### Identity and Oral Tradition Grounding
 
