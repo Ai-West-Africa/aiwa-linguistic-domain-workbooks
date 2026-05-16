@@ -294,7 +294,7 @@ Use these devices when students move from note to publishable paragraph, poem, o
 #### Chapter 2 Editorial Assignment Activities
 
 1. Create 10 field-guide entries for selected birds: identification markers, habitat, Mandinka name, and educational note.
-2. For each entry, write one "Inspired by" line and one "New Work" line.
+2. For each entry, write one "Inspired by" line (heritage context, sepia/black-and-white layout zone) and one "New Work" line (modern student-authored explanation, high-color layout zone).
 3. Record your finding: which entry best demonstrates cultural continuity and modern relevance?
 4. Write three sentence versions for one bird: field note, classroom explanation, and younger-reader explanation.
 5. Mark where exact pronunciation, tone, or metaphor changes the educational meaning.

@@ -84,7 +84,6 @@ Before documenting any tradition, the student must complete a **Knowledge Exchan
 - Explain informed consent in classroom language: the elder must know the purpose, audience, and future use of the material.
 - Remind students that not every story is automatically for publication; some stories are for listening, learning, and stopping there.
 - Teach from the beginning that identity in Mandinka life is relational: the question is not only "Who are you?" but also "Who are your people?"
-- Teacher language note: use **jali** as the primary Mandinka term in this workbook and introduce **griot** only once as the English gloss.
 
 #### Identity and Oral Tradition Grounding
 
@@ -102,7 +101,7 @@ Use this week to introduce one central idea from the draft materials: **identity
 
 1. Record your finding: define three core kinship values that must appear in the chapter.
 2. Record your finding: write audience notes for upper-primary students and explain what younger readers must understand first.
-3. Draft one "Inspired by" paragraph and one "New Work" paragraph.
+3. Draft one "Inspired by" paragraph (heritage context, sepia/black-and-white layout zone) and one "New Work" paragraph (student innovation, high-color layout zone).
 4. Practice a respectful informed-consent explanation in pairs before meeting an elder.
 5. Write a class publishing mission beginning with: "We are preserving Mandinka kinship language so that..."
 6. Add one line explaining how this workbook can support school reading and local-language pride.
