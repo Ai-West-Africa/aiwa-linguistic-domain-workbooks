@@ -212,6 +212,17 @@ While the bird list is impressive, some species and habitats are under pressure.
 
 The Gambia’s location along the Gambia River and at the crossroads of Sahel and forest ecosystems gives it a remarkable bird diversity. Depending on the authority consulted, there are about **566–629 bird species** in the country. Diverse habitats—mangroves, wetlands, savannahs, forests and agricultural land—support everything from large waterbirds, raptors and cranes to kingfishers, bee‑eaters, hornbills and colourful seed‑eaters. The country’s accessible sites, friendly guides and mixture of resident and migratory species make it one of West Africa’s premier bird‑watching destinations.
 
+[NEW] ## Field Listening and Birding Reference Network
+
+Use these live resources while expanding Mandinka bird vocabulary, call recognition, and local species verification:
+
+* **xeno-canto (global bird sound archive):** <https://xeno-canto.org/>
+* **xeno-canto audio guide to bird calls of The Gambia and Senegal:** <https://xeno-canto.org/set/2242?view=3>
+* **eBird Gambia bird list:** <https://ebird.org/region/GM/bird-list>
+* **Kartong Bird Observatory:** <https://kartongbirdobservatory.com/>
+* **African Bird Club:** <https://www.africanbirdclub.org/>
+* **Cornell Lab / Merlin context:** eBird and Merlin are both Cornell Lab of Ornithology tools used for field identification, checklists, and sound-supported learning.
+
 [RELOCATED FROM: Mandinka and Birds: Bridging Culture and Science]
 # Mandinka and Birds: Bridging Culture and Science {#mandinka-and-birds:-bridging-culture-and-science}
 
@@ -1464,6 +1475,11 @@ Illustration options are equal in value: student drawing, field photograph, or A
 
 [NEW] ### Final Distribution
 The final product goes to the school library. A copy goes to AIWA. A copy goes to the Gambian Ministry of Education.
+
+[NEW] ### Cultural Tourism Evidence and AIWA Opportunity Note
+Tourism contributes about 20% of GDP and supports over 100,000 Gambians directly or indirectly (<https://en.wikipedia.org/wiki/Tourism_in_the_Gambia>). Reported air arrivals reached 206,836 in 2023, up from 182,795 in 2022 (<https://visitthegambia.com/?page_id=5318>). UNWTO reporting cited The Gambia among the fastest-growing destinations in early 2025 with 46% growth in first-quarter visitors (<https://en.wikipedia.org/wiki/Tourism_in_the_Gambia>). Birdwatching is repeatedly identified as a major and growing niche linked to The Gambia’s migration corridors and species richness, but distinct birdwatching revenue and visitor-share data remain underdeveloped (<https://www.trade.gov/country-commercial-guides/gambia-travel-and-tourism>, <https://fatbirder.com/world-birding/africa/the-gambia/>, <https://www.discoverwildlife.com/holidays-days-out/travel-planner/african-holidays-directory/why-the-gambia-should-be-your-next-birdwatching-holiday-destination>, <https://www.statista.com/outlook/mmo/travel-tourism/gambia>).
+
+[NEW] AIWA editorial framing: this workbook captures Mandinka names, oral history, metaphor, and domain-specific symbolism that transforms birdwatching from species identification into a premium cultural experience. That creates publishable evidence for both education and tourism strategy.
 
 [RELOCATED FROM: Final verdict image references required by source image markers]
 [image1]: <data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAQcAAAAcCAIAAADjr+0cAAADg0lEQVR4Xu2a0XXrQAhE1YlLSSkpxaW4lJSSUvR0wnkEDSw7rOSvcL8smBmUtdaSfbLtTdOc2bDQNH+e3hVNg/SuaBqkd0XTIL0rmgZhd8Xj8dh+OF5gzyHKA2wM0HBsnCFjQaaHJDbq6+sL2zPUiw2O7+/v3/FLHAkSVXqnSNZcr9crHGqL1aW23pDSOgDzdKF0QrxSEX3+B2hsngwaY6LwOSUu2q/vCpv2fD6xfcaKGdZcgh+qleqW2NILQLDi6ToA8/Q9WgVUnCFllqlFBbnM33amlhHLxpw3xQoaTk4hZUDJ5cVM5SIauJY8V2vu4wdmDKPx5C7tCnBTVqRr7zlq+RVxLBtz3hS7u2cGZhCj8ZRcXsxUrrCwDsBcCqHMDEbjSVx6h91TWdgKiwzLxpw3xe4uWQ8/Pj5OOgNYSEouL2YqV4A0PUzWAZicBwxIipapYIS4jj0Q1iVQPwn8w6KV5UWGZWPOm2KPt1xi7V10OmsqCCm5vJipLLO2DkCmO3IlCzaZPkf5y1eonoQSGo+rH4qhzN5PLComUaOuL48ZO6QkJhm9U/tsXN4doa4S3p5U1tB18FGjekgmSoKS1j7rJvgNsEdperswqkAGdRLrtatMYu0hvJInyUxae3Fx1lyCmRmckq+skeRoa/RRbgn8QjJASARJa4r3yiH8ZAkyvXw/Pz+tbHfKN3HMlSn+uQ64/Xz01p3/AhFO1BaDd5mkEyoIf2j2dl9Z4Mo6AEPFNCIRJK0pen3Lof+lNazLay/LW/ciU+zPXyG3n880UHds9flqBONKNL7lKwtMQ5J1AOKI6QBhJBvVSaxdXoSXmrTks9m+BqS1rZ4MDzmIlJGQaSPZqJ7DuFTD3L19pQqZwMqwYJzhtWhR5XYeExZ5TGqWo9+GR/cTIQ+5EXIQKWPQr2HTd0q/icHcsDiFdI1kvu4rJa6vA4A90qaE4rBYQhO29H5nZdtgXN69C1235GyFu85n+Z2yl04pQSFd+mmVfycMKyVKdn2OSrYQBpUGCN7iK1U0IQ9hZFbDsGwUzOQYXpmjOaMvlx4/2lcYeFeo9MUrP4Jr5co6APHpJtvIo67t/xg4XMD+uxj2zkxlKiBZNm7RM7RHxdioYJ8esTfGryockvAuVdqVCe1aJBHXXesAxNWm+cv0rmgapHdF0yC9K5oG6V3RNEjviqZBelc0DfIPBhFMHu+uatcAAAAASUVORK5CYII=>
