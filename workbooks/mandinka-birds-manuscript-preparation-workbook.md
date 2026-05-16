@@ -145,8 +145,6 @@ Use this frame throughout the workbook:
 | 10 |  |  |  |  |
 | 11 |  |  |  |  |
 | 12 |  |  |  |  |
-| 9 |  |  |  |  |
-| 10 |  |  |  |  |
 
 **Week 1 Transition:** Once the ethics and mission are clear, students move into the world of birds as living language, living science, and living memory.
 
