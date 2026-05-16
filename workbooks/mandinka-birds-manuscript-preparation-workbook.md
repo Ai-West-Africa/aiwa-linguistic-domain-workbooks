@@ -1467,6 +1467,24 @@ Illustration options are equal in value: student drawing, field photograph, or A
 - Place English translation below Mandinka text where needed for reader support.
 - Maintain consistent page headers/footers with title and page number for binding order control.
 
+[NEW] ### Story Authoring Structure (Children's Narrative)
+Use this checklist when editing story pages so the final booklet works for both the child reader and the adult gatekeeper (teacher, caregiver, librarian):
+
+| Authoring check | Production requirement |
+| :---- | :---- |
+| Dual audience fit | Child: emotionally engaging and repeatable. Adult: safe, educational, and read-aloud friendly. |
+| Character strength | Protagonist has clear personality, agency, and a challenge children recognize (belonging, fear, courage, friendship). |
+| Hook quality | Open with a problem, surprise, unusual setting, or striking line that creates immediate curiosity. |
+| Dialogue quality | Keep speech age-appropriate and natural; avoid lecture tone and over-formal sentences. |
+| Arc integrity | Follow sequence: Hook → Place → Problem → Incident → Escalation → Resolution (happy ending for younger readers) → Recall moment. |
+| Repeatability | End with a memorable line, image, rhythm, or proverb children will want to hear again. |
+
+[NEW] ### Genre and Layout Quick Rules
+- Confirm target age before final edit; vocabulary, sentence density, and page planning must match that age.
+- Picture-book style pages require concise text blocks with strong image-text synergy.
+- For chapter/middle-grade pages, maintain clean novel-style flow and student-reader readability.
+- Choose orientation intentionally: landscape for journeys, vertical for character focus, square or standard for concept-heavy instructional pages.
+
 [NEW] ### Print and Bind Instructions
 - Print at A6 format.
 - Arrange sheets for center-staple binding.
