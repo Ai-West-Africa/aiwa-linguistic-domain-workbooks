@@ -80,7 +80,7 @@ Before documenting any tradition, the student must complete a **Knowledge Exchan
 #### Week 1 Teacher Guidance
 
 - Frame this week as entry into responsibility and stewardship.
-- Explain that bird knowledge includes habitat, naming, warning, season-reading, proverb meaning, and spiritual or social interpretation.
+- Explain that bird knowledge includes habitat, naming, warning, season reading, proverb meaning, and spiritual or social interpretation.
 - Teach informed consent in simple language and let students rehearse it aloud.
 - Remind students that not every account is public knowledge; some things may be heard respectfully but not published.
 - Make the fellowship mission visible: students are not collecting dead facts; they are carrying living speech into educational form.
@@ -237,7 +237,7 @@ Bird song and Mandinka oral performance meet in one important place: both carry 
 
 Before continuing editorial research, repeat the **Knowledge Exchange** with contributors and confirm consent for educational publication, attribution, and classroom circulation.
 
-### Chapter 2: Editorial Research Lexicon and Scientific Field Guide Entries
+### Chapter 2: Editorial Research Lexicon and Scientific Field-Guide Entries
 
 **Objective:** Build chapter-ready lexical entries as textbook assets without losing the Mandinka logic carried by naming and metaphor.
 
@@ -293,7 +293,7 @@ Use these devices when students move from note to publishable paragraph, poem, o
 
 #### Chapter 2 Editorial Assignment Activities
 
-1. Create 10 field-guide entries for selected birds: identification markers, habitat, Mandinka name, and educational note.
+1. Create 10 scientific field-guide entries for selected birds: identification markers, habitat, Mandinka name, and educational note.
 2. For each entry, write one "Inspired by" line (heritage context, sepia/black-and-white layout zone) and one "New Work" line (modern student-authored explanation, high-color layout zone).
 3. Record your finding: which entry best demonstrates cultural continuity and modern relevance?
 4. Write three sentence versions for one bird: field note, classroom explanation, and younger-reader explanation.

@@ -112,7 +112,7 @@ Use this week to introduce one central idea from the draft materials: **identity
 - State clearly that the work supports education, language preservation, and youth authorship.
 - Ask whether the elder agrees to classroom note-taking, quotation, audio capture, and attribution.
 - Record any limits: "may be quoted but not recorded," "can be shared in class only," or "must be reviewed again before publication."
-- Repeat the agreed limits back to the elder before closing the conversation.
+- Ask the elder to confirm those limits in their own words or approve your summary before closing the conversation.
 
 #### Chapter 1 Traditional Peer Review (Signature Box)
 
