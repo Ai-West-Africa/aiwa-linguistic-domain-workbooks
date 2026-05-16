@@ -120,7 +120,8 @@ Use this frame throughout the workbook:
 - State whether you want notes only, audio, photos, or all three.
 - Ask what may be quoted, what may be shared in class only, and what needs another review.
 - Record any limits before the interview starts.
-- Repeat back the limits in your own words so the elder can confirm or correct them.
+- Record how consent was confirmed: verbal, written, or witnessed.
+- Repeat back the limits in your own words so the elder can confirm or correct them before the consent recorder marks permissions.
 
 #### Chapter 1 Traditional Peer Review (Signature Box)
 
@@ -130,6 +131,8 @@ Use this frame throughout the workbook:
 - Review Note: This draft respects traditional knowledge and educational purpose.
 
 #### Lexical Discovery Table (10–15 Deep Words)
+
+Twelve starter rows are provided below; extend to 15 if the domain calls for it.
 
 | # | Deep Word (Mandinka) | Context | Root Meaning | Planned Use in Chapter |
 |---|---|---|---|---|
@@ -635,7 +638,7 @@ Use these creative routes after fieldwork:
 
 1. Prepare a bird anatomy diagram with blank naming slots; author chooses scientific name, Mandinka name, or a newly authored descriptive name.
 2. Produce one approved bird-call audio and one habitat image per selected entry.
-3. Write an original short poem or classroom micro-story inspired by a proverb related to birds.
+3. Write an original short poem or classroom micro-story inspired by a proverb related to birds, for modern readers.
 4. Create a children's book concept note: title, target age, core lesson, and why this story belongs in a Gambian classroom.
 5. Draft a page-by-page outline for a 10-12 page children's book based on fieldwork evidence.
 6. Write one teacher-use note showing how the finished book could support reading, science, or oral discussion.

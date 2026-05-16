@@ -112,6 +112,7 @@ Use this week to introduce one central idea from the draft materials: **identity
 - State clearly that the work supports education, language preservation, and youth authorship.
 - Ask whether the elder agrees to classroom note-taking, quotation, audio capture, and attribution.
 - Record any limits: "may be quoted but not recorded," "can be shared in class only," or "must be reviewed again before publication."
+- Record how consent was confirmed: verbal, written, or witnessed.
 - Ask the elder to confirm those limits in their own words or approve your summary before closing the conversation.
 
 #### Chapter 1 Traditional Peer Review (Signature Box)
@@ -122,6 +123,8 @@ Use this week to introduce one central idea from the draft materials: **identity
 - Review Note: Draft framing respects tradition and educational intent.
 
 #### Lexical Discovery Table (10–15 Deep Words)
+
+Twelve starter rows are provided below; extend to 15 if the domain calls for it.
 
 | # | Deep Word (Mandinka) | Relational Context | Root Meaning | Planned Use in Chapter |
 |---|---|---|---|---|
