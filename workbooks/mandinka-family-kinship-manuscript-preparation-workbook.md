@@ -75,7 +75,7 @@ Before documenting any tradition, the student must complete a **Knowledge Exchan
 
 ### Chapter 1: Editorial Research Charter for Kinship Language
 
-**Objective:** Establish the editorial mission for a modern kinship chapter.
+**Objective:** Establish the editorial mission for a modern kinship chapter while protecting Mandinka voice, oral authority, and intergenerational dignity.
 
 #### Week 1 Teacher Guidance
 
@@ -83,6 +83,13 @@ Before documenting any tradition, the student must complete a **Knowledge Exchan
 - Help students understand that kinship words carry duty, memory, respect, and social order.
 - Explain informed consent in classroom language: the elder must know the purpose, audience, and future use of the material.
 - Remind students that not every story is automatically for publication; some stories are for listening, learning, and stopping there.
+- Teach from the beginning that identity in Mandinka life is relational: the question is not only "Who are you?" but also "Who are your people?"
+
+#### Identity and Oral Tradition Grounding
+
+Mandinka kinship is held in story, praise, song, proverb, genealogy, and ceremony. A jali does not simply entertain. A jali carries collective memory, recites lineage, and helps a family remember its obligations. This means kinship vocabulary is more than a list of labels. It is a social map and a moral archive.
+
+Use this week to introduce one central idea from the draft materials: **identity is a chain, not an island**. In Mandinka life, a person is understood through ancestors, compound, clan, joking relations, and the living responsibilities attached to those ties. Students should therefore enter the workbook as future authors, but also as careful listeners to inherited language.
 
 #### Heritage Contrast Method
 
@@ -94,9 +101,10 @@ Before documenting any tradition, the student must complete a **Knowledge Exchan
 
 1. Record your finding: define three core kinship values that must appear in the chapter.
 2. Record your finding: write audience notes for upper-primary students and explain what younger readers must understand first.
-3. Draft one "Inspired by" paragraph (heritage context, sepia/black-and-white layout zone) and one "New Work" paragraph (student innovation, high-color layout zone).
+3. Draft one "Inspired by" paragraph and one "New Work" paragraph.
 4. Practice a respectful informed-consent explanation in pairs before meeting an elder.
 5. Write a class publishing mission beginning with: "We are preserving Mandinka kinship language so that..."
+6. Add one line explaining how this workbook can support school reading and local-language pride.
 
 #### Informed Consent Practice Notes
 
@@ -104,6 +112,7 @@ Before documenting any tradition, the student must complete a **Knowledge Exchan
 - State clearly that the work supports education, language preservation, and youth authorship.
 - Ask whether the elder agrees to classroom note-taking, quotation, audio capture, and attribution.
 - Record any limits: "may be quoted but not recorded," "can be shared in class only," or "must be reviewed again before publication."
+- Repeat the agreed limits back to the elder before closing the conversation.
 
 #### Chapter 1 Traditional Peer Review (Signature Box)
 
@@ -141,7 +150,7 @@ Repeat the **Knowledge Exchange** and confirm consent for educational publicatio
 
 Use this week to ground students in the deeper Mandinka logic behind kinship language.
 
-- **Oral tradition and griot/jali memory:** family histories, praise names, and genealogies are living archives.
+- **Oral tradition and jali memory:** family histories, praise names, and genealogies are living archives.
 - **Ba-dingya and social harmony:** kinship terms are also instructions for peaceful living.
 - **Kabilo and lineage:** family words often point beyond the household to wider belonging.
 - **Joking kinship and Sanankouya/Sanowaya:** language can heal tension, restore balance, and maintain dignity.
@@ -152,13 +161,30 @@ Use this week to ground students in the deeper Mandinka logic behind kinship lan
 - Teach foundational content through discussion, recitation, and example, not only through silent reading.
 - Ask students to connect every big idea to one real person, one real practice, and one real word.
 - Encourage students to identify what younger learners may misunderstand if kinship is explained too quickly or too literally.
+- Keep culturally sensitive topics guided by respect, context, and teacher judgment.
 
-#### Week 2 Domain Immersion Activities
+#### Family, Clan, and Ceremony Overview
 
-1. Build a kinship value map showing how respect, lineage, responsibility, joking cousinhood, and memory connect.
-2. Record one oral-tradition note on the role of the griot/jali in carrying family truth.
-3. Write a short explanation of how one ceremony changes the meaning or use of kinship language.
-4. Identify one concept that should never be flattened into a shallow English equivalent without explanation.
+| Theme | What the draft materials emphasize | Classroom value |
+|---|---|---|
+| Extended family life | Grandparents, aunts, uncles, cousins, and age-graded responsibility shape the compound | Helps students explain why kinship language goes beyond mother/father terms |
+| Clan identity | Surnames carry history, occupation memory, belonging, and hospitality | Supports glossary work and identity reflection |
+| Joking kinship | Sanankouya/Sanowaya reduces tension through humor and mutual obligation | Shows language as conflict resolution, not only naming |
+| Ceremonies and rites | Naming, marriage, initiation, and funerals teach social roles and memory | Connects vocabulary to lived events |
+| Women's roles | Women lead much ceremonial music, teaching, and relational guidance | Broadens who counts as a knowledge-holder |
+
+#### Family Life and Social Meaning Notes
+
+Mandinka family life is not only about household structure. It is also about the shared labor, protection, and continuity that make the compound a school of character. Students should notice how family language is tied to work, food, welcome, conflict resolution, and ritual obligation. This is why one proverb such as "One person cannot raise a child" carries both a social ethic and a curriculum lesson about collective responsibility.
+
+#### Kinship Proverb Starter Set
+
+| Kinship value | Proverb example | Publishing use |
+|---|---|---|
+| Respect for elders | "What an elder sees sitting down, a child cannot see even if they climb the tallest tree." | Use for explanation pages on wisdom and hierarchy |
+| Unity | "If you take a bundle of sticks, you cannot break them. But if you take them one by one, they snap easily." | Use in children's books about cooperation |
+| Identity and lineage | "A log may float in the river for ten years, but it will never become a crocodile." | Use to discuss roots, belonging, and continuity |
+| Parenting and guidance | "The mother hen does not step on her chicks to kill them, but to guide them." | Use in classroom discussion on discipline and care |
 
 #### Foundational Knowledge Log
 
@@ -170,10 +196,19 @@ Use this week to ground students in the deeper Mandinka logic behind kinship lan
 | Joking kinship |  |  |
 | Ceremony language |  |  |
 
+#### Week 2 Domain Immersion Activities
+
+1. Build a kinship value map showing how respect, lineage, responsibility, joking cousinhood, and memory connect.
+2. Record one oral-tradition note on the role of the jali in carrying family truth.
+3. Write a short explanation of how one ceremony changes the meaning or use of kinship language.
+4. Identify one concept that should never be flattened into a shallow English equivalent without explanation.
+5. Add one proverb and explain how it could become a story, poster, or children's book lesson.
+
 #### Teacher Checkpoint
 
 - Can students explain the difference between a simple family label and a kinship term that carries social duty?
 - Can they name which concepts require story, example, or proverb before definition?
+- Can they identify where joking kinship helps maintain peace?
 - Are they ready to move from ideas into more careful language work?
 
 **Week 2 Transition:** After students understand the cultural weight of the domain, they are ready to shape that knowledge into terminology, grammar, and classroom explanation.
@@ -188,7 +223,7 @@ Repeat the **Knowledge Exchange** and confirm consent for educational publicatio
 
 ### Chapter 2: Editorial Research Matrix and Contemporary Usage
 
-**Objective:** Build a publishable kinship terminology matrix.
+**Objective:** Build a publishable kinship terminology matrix that keeps relationship, duty, and social context visible.
 
 #### Week 3 Teacher Guidance
 
@@ -210,6 +245,25 @@ Students should practice kinship language through the following frames:
 - **Family and respect words:** elder titles, seniority, obligation markers
 - **Sentence type:** statement, question, instruction, blessing, warning, proverb line
 
+#### Kinship Language as Social Map
+
+Use these teacher notes from the draft materials when explaining why terminology matters:
+
+- **The past is alive, not dead:** when a language keeps distinct names for older generations, it keeps them socially present.
+- **Identity is a chain, not an island:** genealogy is not decoration; it is a person's credentials in story and society.
+- **The GPS of social survival:** kinship vocabulary helps people understand obligation, marriage boundaries, food sharing, and alliance.
+- **Preventing generational amnesia:** language can force memory forward when it preserves precise relational categories.
+
+#### Proverb and Literary Device Bridge
+
+| Tool | What it helps students do | Kinship use |
+|---|---|---|
+| Metaphor | Explain a deep social truth through image | Family as bundle, tree, river, or nest |
+| Juxtaposition | Show contrast between wisdom and foolishness | Small and big, near and far, elder and youth |
+| Personification | Teach without naming a real person directly | Hen, hyena, bird, tree, or pot can carry the lesson |
+| Parallelism | Balance two ideas in memorable rhythm | Useful for proverb lines and children’s book repetition |
+| Alliteration or sound play | Make a line easier to remember aloud | Useful in oral recitation and early reading |
+
 #### Chapter 2 Editorial Assignment Activities
 
 1. Build a matrix of 10–15 terms: Mandinka term, relation, social context, and contemporary school-use explanation.
@@ -217,6 +271,7 @@ Students should practice kinship language through the following frames:
 3. Record your finding: which term is most misunderstood and requires a modern clarifying note?
 4. Write three sentence pairs: one preserving exact elder wording, one classroom explanation, and one child-friendly explanation.
 5. Mark any word that cannot be translated well without a short story, proverb, or example.
+6. Add one proverb line and explain how its grammar carries respect, warning, or instruction.
 
 #### Terminology Integrity Checklist
 
@@ -260,6 +315,7 @@ Before audio, dialogue, or narrative preparation, complete the **Knowledge Excha
 - Teach that the interview is not an extraction exercise; it is a respectful exchange with a knowledge-holder.
 - Assign clear team roles so one student is not forced to ask, record, observe, and write at the same time.
 - Emphasize that silence, emotion, proverb, gesture, and hesitation are also data.
+- Prepare students to distinguish public family teaching from material that should remain private.
 
 #### Team Roles for Practice Interviews
 
@@ -267,6 +323,12 @@ Before audio, dialogue, or narrative preparation, complete the **Knowledge Excha
 - **Consent recorder:** confirms permissions and restrictions
 - **Language scribe:** captures exact wording, key terms, and pronunciation notes
 - **Observation recorder:** notices setting, objects, gestures, emotional shifts, and social context
+
+#### Warm-Up Question for Kinship Interviews
+
+Use one question that invites memory rather than interrogation:
+
+> "When you hear our family name or a deep kinship word, who comes to mind first, and what story follows that name?"
 
 #### Question Sequencing Guide
 
@@ -304,6 +366,44 @@ Before audio, dialogue, or narrative preparation, complete the **Knowledge Excha
 - Mark alternate pronunciations or variant forms.
 - Ask whether younger speakers still use the same form.
 - Note when a word sounds simple but carries metaphor, status, or emotional weight.
+- Preserve exact wording even when the meaning is not yet settled.
+
+#### Persona-Based Question Bank
+
+##### Family Elder or Patriarch
+
+- Which kinship term carries the most weight in this family, and why?
+- When a child behaves badly, which proverb or phrase is used to correct them?
+- How does a person show they remember their people in everyday life?
+- Which kinship word should never be used carelessly?
+
+##### The Jali
+
+- Which praise names or family lines must always be remembered with the surname?
+- How do you begin a story so listeners understand a person's lineage before the action starts?
+- Which kinship words become deeper or more beautiful inside praise language?
+- What proverb best teaches respect, peace, or social duty inside the compound?
+
+##### The Muso-keba (Matriarch)
+
+- Which words do mothers and grandmothers use when teaching care, hospitality, or correction?
+- Which proverb do you use when a child forgets responsibility?
+- In ceremonies, which speech or song belongs especially to women?
+- What should younger girls and boys understand about the language of guidance and nurture?
+
+##### Joking-Kinship Mediator or Community Elder
+
+- Which clans may tease one another, and what is the purpose of that teasing?
+- How does joking speech prevent anger from becoming conflict?
+- Which limits should never be crossed even inside joking relationships?
+- How would you explain Sanankouya/Sanowaya to a younger learner without losing the humor and respect?
+
+##### Youth or Urban Relative
+
+- Which kinship words still feel strong among young people, and which are fading?
+- What do you hear from elders that you almost never hear at school or online?
+- Which proverb feels old at first but becomes powerful once it is explained?
+- If you had to teach one kinship concept to a child today, which one would you choose first?
 
 #### Handling Uncertainty Respectfully
 
@@ -318,6 +418,7 @@ Before audio, dialogue, or narrative preparation, complete the **Knowledge Excha
 2. Rehearse a 3-minute consent explanation in pairs.
 3. Practice identifying metaphor, proverb meaning, and emotional significance from a sample oral response.
 4. Prepare a field notebook page that includes quotation space, pronunciation notes, and verification notes.
+5. Build one proverb-and-parable card that asks for both a saying and the story that proves it.
 
 #### Interview Readiness Check
 
@@ -392,6 +493,16 @@ Before recording or note-taking begins, restate the **Knowledge Exchange** and c
 |  |  |  |  |  |  |
 |  |  |  |  |  |  |
 
+#### Post-Field Reflection Questions
+
+Use selected questions from the draft materials after fieldwork:
+
+- Before this project, did the family name feel light? Does it feel heavier now?
+- Which word or proverb did you hear that was disappearing from your generation?
+- Was there a moment of silence or emotion that changed how you see your own family?
+- What felt impossible to translate without losing the soul of the word?
+- Do you now feel more like an individual only, or more like one link in a living chain?
+
 #### Week 5 Metadata Log
 
 **Source:** [Elder Name/Self] | **Recording Permission:** [Yes/No] | **Quotation Permission:** [Yes/No] | **Ready for Review:** [ ]
@@ -420,6 +531,7 @@ Before audio, dialogue, or narrative drafting, complete the **Knowledge Exchange
 - Keep the cultural center strong: younger learners should still hear Mandinka worldview, metaphor, and oral rhythm.
 - Encourage students to choose one truthful lesson and build a clear reading journey around it.
 - Link book creation to national language education needs: children need stories they can see themselves in, in language that honors home knowledge.
+- Keep exact elder wording visible in notes even when the final story becomes child-facing.
 
 #### Children's Book Concepting Steps
 
@@ -428,6 +540,16 @@ Before audio, dialogue, or narrative drafting, complete the **Knowledge Exchange
 3. **Decide the educational purpose:** vocabulary growth, moral reflection, cultural orientation, respect language, or family roles.
 4. **Keep the language age-appropriate:** use short sentences, repeated key terms, and clear transitions.
 5. **Protect the cultural meaning:** where a term cannot be simplified, explain it with scene, image, or dialogue instead of replacing it.
+
+#### The Book of Living Wisdom Workflow
+
+Use the draft's project logic here:
+
+1. **Collect the proverb:** one saying the elder actually uses.
+2. **Collect the evidence:** one short story or moment that proves why the proverb is true.
+3. **Transform carefully:** students are not merely copying. They are shaping the lesson into a publishable story, poem, or reading page.
+4. **Keep oral texture:** use repetition, imagery, ideophones, praise rhythm, or proverb placement where natural.
+5. **Prepare for younger readers:** define what they must feel, understand, and remember after reading.
 
 #### Educational Storytelling Basics
 
@@ -443,12 +565,23 @@ Before audio, dialogue, or narrative drafting, complete the **Knowledge Exchange
 - Page 7-10: bring in the elder's explanation, proverb, or turning point
 - Page 11-12: close with the lesson and a strong image of continuity
 
-#### Illustration Planning Notes
+#### Bantaba Writing Studio
 
-- Show real compounds, clothing, gestures, tools, and social settings from Gambian life.
-- Use visual cues to show relationships: seating order, who serves, who listens, who blesses.
-- Keep symbolism local and recognizable.
-- Add notes for illustrators when a proverb or emotional shift must be visible on the page.
+When students are stuck, use a speaking-before-writing approach:
+
+- Imagine standing at the Bantaba and saying one important truth to the whole village.
+- Choose one root word, one strong image, one conflict or lesson, and one final line of identity or hope.
+- Read the draft aloud before revising it on paper.
+- Ask whether the line sounds like something that can be remembered, recited, and passed on.
+
+#### Proverb Writing and Adaptation Guide
+
+| Step | Student move | Example direction |
+|---|---|---|
+| Choose a lesson | name the truth to teach | respect, patience, unity, responsibility |
+| Choose the image | select an animal, object, or action | tree, hen, bundle, river, nest |
+| Shape the proverb | build a short memorable line | observation plus conclusion |
+| Build the story | create a moment that proves the line true | family conflict, advice, ceremony, correction |
 
 #### Educational Messaging Check
 
@@ -464,6 +597,7 @@ Before audio, dialogue, or narrative drafting, complete the **Knowledge Exchange
 3. Label each script and recording as a textbook contribution with full attribution metadata.
 4. Create a children's book concept note: title, target age, core lesson, and why this story belongs in a Gambian classroom.
 5. Draft a page-by-page outline for a 10-12 page children's book based on fieldwork evidence.
+6. Add one teacher-use note showing how the finished book supports reading, discussion, or moral reflection.
 
 #### Children's Book Planning Grid
 
@@ -475,6 +609,8 @@ Before audio, dialogue, or narrative drafting, complete the **Knowledge Exchange
 | 4 |  |  |  |  |
 | 5 |  |  |  |  |
 | 6 |  |  |  |  |
+| 7 |  |  |  |  |
+| 8 |  |  |  |  |
 
 #### Drafting Canvas: Master Manuscript Page (Student IP Zone)
 
@@ -517,6 +653,22 @@ Complete final **Knowledge Exchange** and confirm consent, attribution, and publ
 - Run one round for language accuracy and one round for educational usability.
 - Confirm that each final page still carries cultural grounding and does not sound flattened or foreign.
 - Make archiving visible so students understand that preservation includes storage, retrieval, and future access.
+- End with reflection, gratitude, and a public statement of stewardship.
+
+#### Mirror and Bridge Workshop
+
+Use the closing workshop structure adapted from the draft materials:
+
+- **Object of memory:** each student brings one word, proverb, sketch, or object that holds the heart of what was learned.
+- **Emotional geography:** map the people, compounds, ceremonies, or stories that changed the student's understanding.
+- **Translation challenge:** translate one proverb or praise-word into modern youth language without losing its soul.
+- **Forward bridge:** decide who should hear the story next and in what form — book, read-aloud, school display, archive, or family conversation.
+
+#### Oath of the New Griot
+
+Close the fellowship with a spoken commitment:
+
+> I will not carry these words lightly. I will protect the elder voice behind the lesson. I will preserve exact wording before changing form. I will write for younger learners without cutting away Mandinka meaning. I will keep family memory, proverb, and language alive in the books I create.
 
 #### Week 7 Editorial Assignment Activities
 
