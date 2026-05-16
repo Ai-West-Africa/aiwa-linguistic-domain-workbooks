@@ -75,20 +75,35 @@ Before documenting any tradition, the student must complete a **Knowledge Exchan
 
 ### Chapter 1: Editorial Research Brief — From Legacy Trigger to New Authorship
 
-**Objective:** Move from archival trigger to original educational writing.
+**Objective:** Move from archival trigger to original educational writing without losing Mandinka worldview, tone, or oral authority.
 
 #### Week 1 Teacher Guidance
 
 - Frame this week as entry into responsibility and stewardship.
-- Explain that bird knowledge includes habitat, naming, warning systems, proverb meaning, and spiritual or social interpretation.
+- Explain that bird knowledge includes habitat, naming, warning, season reading, proverb meaning, and spiritual or social interpretation.
 - Teach informed consent in simple language and let students rehearse it aloud.
 - Remind students that not every account is public knowledge; some things may be heard respectfully but not published.
+- Make the fellowship mission visible: students are not collecting dead facts; they are carrying living speech into educational form.
+
+#### Cultural Grounding Note: Why This Domain Matters
+
+Mandinka communities in Senegambia have long held bird knowledge inside oral tradition, ritual memory, work, farming, hunting, and family teaching. Bird knowledge is therefore not only about species lists. It is also about proverb, warning, song, naming, and the patient reading of the land.
+
+A jali may hear in birds the language of praise and message. A farmer may hear season, danger, or harvest timing. A hunter may hear alarm, concealment, or the deep bush speaking. This workbook asks students to hold those knowledge systems together carefully so that school publishing does not flatten ancestral intelligence into only scientific description.
 
 #### Heritage Contrast Method
 
 - **Input (Heritage Trigger):** "Colonial records often reduced local bird knowledge to specimen labels."
 - **Probe (Mandinka Reality):** In Mandinka ecological language, what social, seasonal, or spiritual meanings are attached to bird naming?
 - **Authorial Act (Master Work Prompt):** Compose a 200-word contemporary definition of Mandinka bird naming for publication.
+
+#### Knowledge Converging Frame
+
+Use this frame throughout the workbook:
+
+- **Meaning and belief:** a bird may be messenger, warning, proverb carrier, or memory sign.
+- **Evidence and observation:** the same bird has habitat, behavior, seasonality, and ecological function.
+- **Educational publishing task:** students must write in a way that keeps both visible, so younger readers can inherit culture and observation together.
 
 #### Week 1 Editorial Assignment Activities
 
@@ -97,6 +112,7 @@ Before documenting any tradition, the student must complete a **Knowledge Exchan
 3. Draft your first textbook paragraph for the "Inspired by" section and your first paragraph for the "New Work" section.
 4. Practice a respectful informed-consent explanation in pairs before meeting an elder.
 5. Write a class statement beginning with: "We document bird knowledge to preserve..."
+6. Add one note explaining how this work supports local-language education for younger learners in Gambian schools.
 
 #### Informed Consent Practice Notes
 
@@ -104,6 +120,8 @@ Before documenting any tradition, the student must complete a **Knowledge Exchan
 - State whether you want notes only, audio, photos, or all three.
 - Ask what may be quoted, what may be shared in class only, and what needs another review.
 - Record any limits before the interview starts.
+- Record how consent was confirmed: verbal, written, or witnessed.
+- Repeat back the limits in your own words so the elder can confirm or correct them before the consent recorder marks permissions.
 
 #### Chapter 1 Traditional Peer Review (Signature Box)
 
@@ -113,6 +131,8 @@ Before documenting any tradition, the student must complete a **Knowledge Exchan
 - Review Note: This draft respects traditional knowledge and educational purpose.
 
 #### Lexical Discovery Table (10–15 Deep Words)
+
+Twelve starter rows are provided below; extend to 15 if the domain calls for it.
 
 | # | Deep Word (Mandinka) | Context | Root Meaning | Planned Use in Chapter |
 |---|---|---|---|---|
@@ -126,6 +146,8 @@ Before documenting any tradition, the student must complete a **Knowledge Exchan
 | 8 |  |  |  |  |
 | 9 |  |  |  |  |
 | 10 |  |  |  |  |
+| 11 |  |  |  |  |
+| 12 |  |  |  |  |
 
 **Week 1 Transition:** Once the ethics and mission are clear, students move into the world of birds as living language, living science, and living memory.
 
@@ -151,7 +173,37 @@ Use this week to establish the deeper Mandinka logic around birds.
 
 - Let students speak both from observation and from inherited memory.
 - Encourage them to notice when one bird carries more than one meaning.
-- Use the week to prepare students to move confidently between field observation and oral interpretation.
+- Use oral discussion, recitation, and drawing before asking for polished prose.
+- Keep UNESCO language preservation visible through living use, not through policy-heavy wording.
+
+#### Cultural and Folklore Cases for Discussion
+
+| Bird knowledge case | What it teaches culturally | What it teaches educationally |
+|---|---|---|
+| Owl as feared night bird | Some birds carry stories of danger, secrecy, or witchcraft | Students must record belief respectfully while separating belief, observation, and school explanation |
+| Hamerkop as "lightning bird" | A taboo can protect a species through fear and reverence | Conservation and culture may support one another |
+| Bird teaching cotton spinning | Birds may be treated as teachers in story and metaphor | Folktale can become a child-friendly lesson about observation and skill |
+| The worrying hen | Care, vigilance, and protection are carried through bird proverb | Family and ecology can be taught together |
+
+#### Communication in Song and Story
+
+Bird song and Mandinka oral performance meet in one important place: both carry knowledge through repeated sound. Students should notice that a jali's song and a bird's call can each function as a message system. One holds lineage memory. The other may hold warning, territory, rain-sign, or seasonal information. This is a strong bridge for classroom teaching because it joins literacy, listening, science, and oral tradition.
+
+#### Bird Proverb and Social Logic Table
+
+| Proverb or image | Social teaching | Observation bridge |
+|---|---|---|
+| "If a small bird joins a party of large birds, it risks losing many feathers." | Be careful about unequal company and social pressure | Size, dominance, and vulnerability are visible in the bird world |
+| "A worrying hen is the one whose chicks survive longer." | Care and vigilance protect the young | Parental investment improves survival |
+| Bird as messenger of destiny | Some birds are read as signs of coming change | Seasonality, movement, and timing matter in observation |
+| Bird of the house or field | A place is known by the birds that repeatedly appear there | Habitat and human life are linked |
+
+#### Practical and Spiritual Roles Notebook
+
+- Which birds are read as warnings?
+- Which birds are read as helpers or companions?
+- Which birds belong mainly to proverb, song, or praise language?
+- Which birds younger learners should know first, and why?
 
 #### Week 2 Domain Immersion Activities
 
@@ -159,6 +211,7 @@ Use this week to establish the deeper Mandinka logic around birds.
 2. Record one note on how a bird functions as messenger, warning, or teaching sign in community life.
 3. Write one short comparison between a scientific description and a Mandinka cultural description of the same bird.
 4. Identify one bird that younger learners in Gambian schools should know first, and explain why.
+5. Ask students to recite one bird proverb aloud and explain it in classroom language.
 
 #### Foundational Knowledge Log
 
@@ -174,6 +227,7 @@ Use this week to establish the deeper Mandinka logic around birds.
 
 - Can students explain how a bird can be both observed and interpreted?
 - Can they tell the difference between direct observation and inherited meaning?
+- Can they identify which bird stories are safe for classroom use and which require caution or review?
 - Are they ready to move from domain immersion into structured terminology work?
 
 **Week 2 Transition:** After students understand the domain's cultural and ecological depth, they are ready to build terminology, grammar, and field-guide language.
@@ -186,9 +240,9 @@ Use this week to establish the deeper Mandinka logic around birds.
 
 Before continuing editorial research, repeat the **Knowledge Exchange** with contributors and confirm consent for educational publication, attribution, and classroom circulation.
 
-### Chapter 2: Editorial Research Lexicon and Scientific Field Guide Entries
+### Chapter 2: Editorial Research Lexicon and Scientific Field-Guide Entries
 
-**Objective:** Build chapter-ready lexical entries as textbook assets.
+**Objective:** Build chapter-ready lexical entries as textbook assets without losing the Mandinka logic carried by naming and metaphor.
 
 #### Week 3 Teacher Guidance
 
@@ -210,6 +264,36 @@ Students should practice bird language through the following frames:
 - **Respect and interpretation words:** caution, blessing, taboo, proverb use
 - **Sentence type:** statement, question, instruction, warning, story line, proverb line
 
+#### Griot Literary Toolbox for Bird Writing
+
+Use these devices when students move from note to publishable paragraph, poem, or children's book scene.
+
+| Device | What it helps students do | Mandinka bird example |
+|---|---|---|
+| Symbolism | Attach a larger meaning to one bird | The vulture can stand for fearlessness and warrior dignity |
+| Personification | Let a bird teach, warn, boast, or guide | The hornbill can appear as a patient elder in story |
+| Metaphor | Carry hidden meaning without long explanation | A person's reputation may be described as a flying bird |
+| Imagery | Build a scene younger readers can picture | Kora sound compared to chirping birds or glittering water |
+
+#### Poetic Devices from Oral Performance
+
+| Poetic device | What it is | Classroom use |
+|---|---|---|
+| Call and response | One voice calls, the group answers | Use in class recitation or story launch |
+| Repetition | A line returns to hold memory | Useful for younger-reader books and oral rehearsal |
+| Praise singing | A rapid list of names, deeds, or qualities | Useful for hero pages, clan bird passages, or ceremonial moments |
+| Parallelism | Two lines balance each other | Useful for comparison pages and glossary explanations |
+| Simile and metaphor | Human character described through bird behavior | Useful for interpretation and creative writing |
+
+#### Bio-Cultural Field Entry Template
+
+| Layer | What to capture | Why it matters |
+|---|---|---|
+| Observation | shape, color, call, behavior, habitat | supports science and accuracy |
+| Mandinka naming | local name, variant name, imitation sound | preserves linguistic diversity |
+| Cultural meaning | proverb, warning, praise, taboo, memory | preserves intangible heritage |
+| School use | glossary note, reading paragraph, child explanation | prepares publication |
+
 #### Chapter 2 Editorial Assignment Activities
 
 1. Create 10 scientific field-guide entries for selected birds: identification markers, habitat, Mandinka name, and educational note.
@@ -217,6 +301,7 @@ Students should practice bird language through the following frames:
 3. Record your finding: which entry best demonstrates cultural continuity and modern relevance?
 4. Write three sentence versions for one bird: field note, classroom explanation, and younger-reader explanation.
 5. Mark where exact pronunciation, tone, or metaphor changes the educational meaning.
+6. Build one bio-cultural field card that includes observation, cultural meaning, and school-use language on the same page.
 
 #### Terminology Integrity Checklist
 
@@ -261,6 +346,7 @@ Complete the **Knowledge Exchange** before any audio, image, or interview practi
 - Show students that a good bird interview moves from simple observation to deep meaning.
 - Assign team roles so listening quality stays high.
 - Remind students that pauses, gestures, laughter, and sound imitation are part of the data.
+- Teach students to preserve exact wording first and interpretation second.
 
 #### Team Roles for Practice Interviews
 
@@ -268,6 +354,12 @@ Complete the **Knowledge Exchange** before any audio, image, or interview practi
 - **Consent recorder:** confirms what may be written, recorded, or photographed
 - **Language scribe:** captures exact wording, names, and pronunciation notes
 - **Observation recorder:** records setting, habitat clues, gestures, sound imitation, and emotional tone
+
+#### Warm-Up Question for the Field
+
+Use one oral opening that honors Mandinka worldview before more technical questions begin:
+
+> "They say that before humans learned to speak, the birds were the ones who held the news. If you could listen to any bird in the bush today, which one would tell you the most truth about our family?"
 
 #### Question Sequencing Guide
 
@@ -305,6 +397,44 @@ Complete the **Knowledge Exchange** before any audio, image, or interview practi
 - Record sound imitation separately from ordinary speech.
 - Note whether the bird name is descriptive, onomatopoeic, or lineage-linked.
 - Ask if younger speakers still use the same term.
+- Preserve exact wording even when you are not yet sure of the interpretation.
+
+#### Persona-Based Question Bank
+
+##### The Danoo (Traditional Hunter)
+
+- Which bird becomes your lookout in the deep bush, and how do its cries change with danger?
+- Are there birds whose names are spoken carefully because they carry strong spiritual power?
+- Which bird names are only used among hunters, and why are they protected?
+- When a hunter learns from a bird, what must he give back in respect?
+
+##### The Senelaa (Traditional Farmer)
+
+- Which birds arrive before the first rain, and what do they tell you about the season?
+- Which birds threaten rice or millet, and what songs or chants are used to chase them?
+- Which birds are friends of cattle or field work, and what do they reveal about land health?
+- Which bird signs tell you a field is tired, wet, or ready?
+
+##### The Jali (Griot)
+
+- Why does the vulture appear in praise language for courage or leadership?
+- Which bird metaphors are used to praise noble character or expose foolishness?
+- In old epics, which birds act as spies, messengers, or witnesses?
+- When you perform for youth, which bird image helps them understand history quickly?
+
+##### The Muso-keba (Matriarch or Grandmother)
+
+- Which bird stories are told to children at night, and what lesson do they carry?
+- Which birds are linked to hospitality, protection, or household warning?
+- Are feathers, eggshells, or bird images used in healing or child protection language?
+- Which bird proverb do you use when guiding a child back toward respect?
+
+##### Youth and Bird-Catchers
+
+- Which birds do young people notice most often today?
+- What nicknames or playful names are used by children in the fields or compound?
+- Which bird sounds can you imitate, and what do elders say about those sounds?
+- What do young people notice now that elders may not have named in the same way?
 
 #### Handling Uncertainty Respectfully
 
@@ -319,6 +449,7 @@ Complete the **Knowledge Exchange** before any audio, image, or interview practi
 2. Rehearse a 3-minute consent explanation in pairs.
 3. Practice identifying metaphor, proverb meaning, and emotional significance from a sample oral response.
 4. Prepare a field notebook page with quotation space, habitat notes, pronunciation notes, and verification notes.
+5. Mark which questions are best for warm-up, deepening, clarification, and closing.
 
 #### Interview Readiness Check
 
@@ -378,6 +509,24 @@ Before any recording begins, restate the **Knowledge Exchange** and confirm the 
 | Audio/image note |  |  |
 | Verification follow-up needed |  |  |
 
+#### Bio-Cultural Field Card
+
+| Prompt | Notes |
+|---|---|
+| What did we see directly? |  |
+| What did the elder explain? |  |
+| What word must remain exact? |  |
+| What proverb or deeper meaning appeared? |  |
+| What can a younger learner understand from this? |  |
+
+#### Audio Archive and Naming Practice
+
+- Record one clean file per speaker when possible.
+- Name files with date, place, speaker role, and topic.
+- Mark whether the recording is for class listening only, editing use, or publication review.
+- Preserve one short untouched excerpt before editing or clipping.
+- Add a notebook note on tone, gesture, laughter, silence, or imitation that the audio alone may not capture.
+
 #### Turning Oral Knowledge into Educational Notes
 
 - Keep the original quotation.
@@ -393,6 +542,15 @@ Before any recording begins, restate the **Knowledge Exchange** and confirm the 
 |  |  |  |  |  |  |
 |  |  |  |  |  |  |
 |  |  |  |  |  |  |
+
+#### Post-Field Reflection Prompt
+
+Ask students after each visit:
+
+- What surprised you?
+- Which word or phrase felt impossible to replace?
+- Which answer carried strong emotion?
+- Which answer still needs checking with another speaker?
 
 #### Week 5 Metadata Log
 
@@ -410,7 +568,7 @@ Complete the **Knowledge Exchange** before any media work. Confirm that image/au
 
 ### Chapter 3: Visual and Media Studio — Educational Asset Production
 
-**Objective:** Produce media-backed manuscript evidence for textbook publication.
+**Objective:** Produce media-backed manuscript evidence for textbook publication and transform fieldwork into local-language reading materials for younger learners.
 
 ### NEW Major Section: Concepting and Creating Educational Children's Books
 
@@ -422,6 +580,7 @@ Complete the **Knowledge Exchange** before any media work. Confirm that image/au
 - Help them keep both ecological truth and cultural meaning in view.
 - Encourage books that support local-language education and curiosity about the environment.
 - Use page planning and visual notes so the story can genuinely be illustrated and taught.
+- Link every draft to MoBSE classroom need: vocabulary, reading confidence, oral discussion, and cultural pride.
 
 #### Children's Book Concepting Steps
 
@@ -438,6 +597,14 @@ Complete the **Knowledge Exchange** before any media work. Confirm that image/au
 - Bring in an elder voice, proverb, or remembered lesson naturally.
 - End with a clear feeling of continuity, care, or understanding.
 
+#### From Fieldwork to Storybook Workflow
+
+1. **Collect the anchor:** choose one proverb, quote, or observation from Week 5.
+2. **Find the evidence:** what short story or moment proves the proverb is true?
+3. **Shape the reader journey:** what must a younger child understand first, second, and last?
+4. **Add oral texture:** repetition, call-and-response, sound words, or praise rhythm where appropriate.
+5. **Check educational use:** can a teacher read this aloud, pause for questions, and teach vocabulary from it?
+
 #### Page Planning and Visual Storytelling
 
 - Page 1-2: setting, child viewpoint, and first bird encounter
@@ -451,6 +618,14 @@ Complete the **Knowledge Exchange** before any media work. Confirm that image/au
 - Use illustrations to support identification: beak, color, posture, nest, or movement.
 - Keep symbols and emotional cues local and recognizable.
 - Add notes where sound, silence, or group listening must be visible on the page.
+
+#### Poem and Micro-Story Studio
+
+Use these creative routes after fieldwork:
+
+- **Poem route:** one bird, one lesson, one repeated line, one strong image
+- **Story route:** one child observer, one elder explanation, one turning point, one remembered proverb
+- **Informational route:** one field-guide page with a short narrative opener and glossary support
 
 #### Educational Messaging Check
 
@@ -466,6 +641,7 @@ Complete the **Knowledge Exchange** before any media work. Confirm that image/au
 3. Write an original short poem or classroom micro-story inspired by a proverb related to birds, for modern readers.
 4. Create a children's book concept note: title, target age, core lesson, and why this story belongs in a Gambian classroom.
 5. Draft a page-by-page outline for a 10-12 page children's book based on fieldwork evidence.
+6. Write one teacher-use note showing how the finished book could support reading, science, or oral discussion.
 
 #### Children's Book Planning Grid
 
@@ -477,6 +653,8 @@ Complete the **Knowledge Exchange** before any media work. Confirm that image/au
 | 4 |  |  |  |  |
 | 5 |  |  |  |  |
 | 6 |  |  |  |  |
+| 7 |  |  |  |  |
+| 8 |  |  |  |  |
 
 #### Drafting Canvas: Master Manuscript Page (Student IP Zone)
 
@@ -519,6 +697,22 @@ Before finalization, conduct final **Knowledge Exchange** and confirm approval f
 - Review both factual accuracy and educational usability.
 - Make sure the final product still sounds grounded in Gambian and Mandinka life.
 - Help students understand that archiving is part of preservation, not an afterthought.
+- Make time for oral presentation, reflection, and gratitude to contributors.
+
+#### Mirror and Bridge Reflection Workshop
+
+Use these closing activities to help students move from data gatherers to knowledge keepers.
+
+- **Object of memory:** bring one word, sound, sketch, or object that represents the heart of the bird domain.
+- **Emotional geography:** mark where learning happened — compound, field, mangrove, market, riverbank, or classroom.
+- **Translation challenge:** choose one proverb or term that could not be translated quickly and explain why it must remain partly in Mandinka.
+- **Forward carry:** ask who should hear this story next — younger siblings, classmates, school library users, or community listeners.
+
+#### Oath of the New Griot
+
+Close the fellowship with a spoken commitment:
+
+> I will not carry this knowledge carelessly. I will protect the voice behind the word. I will name my sources with respect. I will teach younger learners without stripping the meaning from what elders gave. I will keep Mandinka language, bird knowledge, and community memory alive in the work of my hands.
 
 #### Week 7 Editorial Assignment Activities
 
