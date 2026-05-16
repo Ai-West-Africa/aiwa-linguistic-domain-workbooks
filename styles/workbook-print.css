@@ -6,7 +6,8 @@ body {
   font-family: "Noto Sans", sans-serif;
   font-size: 11pt;
   line-height: 1.45;
-  margin: 1in;
+  margin: 0;
+  string-set: document-title content(text, first-except);
 }
 
 h1,
@@ -21,6 +22,22 @@ h6 {
   margin-bottom: 0.5em;
 }
 
+h1 {
+  font-size: 20pt;
+  string-set: section-title content(text);
+  break-before: page;
+}
+
+h2 {
+  font-size: 15pt;
+  string-set: section-title content(text);
+  break-before: page;
+}
+
+h3 {
+  font-size: 12.5pt;
+}
+
 p,
 ul,
 ol,
@@ -33,6 +50,8 @@ table {
 table {
   border-collapse: collapse;
   width: 100%;
+  border: 1px solid #bdbdbd;
+  background: #fff;
 }
 
 th,
@@ -43,10 +62,57 @@ td {
 }
 
 th {
-  background: #f7f7f7;
+  background: #f1f1f1;
+}
+
+blockquote {
+  border-left: 4px solid #c8c8c8;
+  background: #fafafa;
+  padding: 0.5em 0.9em;
 }
 
 @page {
   size: A4;
-  margin: 20mm 18mm;
+  margin-top: 20mm;
+  margin-bottom: 20mm;
+}
+
+@page :left {
+  margin-left: 25mm;
+  margin-right: 20mm;
+  @top-left {
+    content: string(document-title);
+    font-size: 9pt;
+    color: #444;
+  }
+  @bottom-left {
+    content: string(section-title);
+    font-size: 9pt;
+    color: #444;
+  }
+  @bottom-right {
+    content: counter(page);
+    font-size: 9pt;
+    color: #444;
+  }
+}
+
+@page :right {
+  margin-left: 20mm;
+  margin-right: 25mm;
+  @top-right {
+    content: string(document-title);
+    font-size: 9pt;
+    color: #444;
+  }
+  @bottom-left {
+    content: string(section-title);
+    font-size: 9pt;
+    color: #444;
+  }
+  @bottom-right {
+    content: counter(page);
+    font-size: 9pt;
+    color: #444;
+  }
 }
