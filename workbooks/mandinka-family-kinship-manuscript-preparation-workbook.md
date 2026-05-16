@@ -16,10 +16,46 @@ This workbook applies a student-led publishing model that is culturally grounded
 
 ## Workbook Positioning: Personal Lab vs Sovereign Product
 
-- **Personal Lab (Workbook):** Investigation notes, kinship mapping, lexical discovery, and manuscript drafts.
+- **Personal Lab (Workbook):** Investigation notes, kinship mapping, lexical discovery, interview records, and manuscript drafts.
 - **Sovereign Product (Platform Submission):** Final authored entries commercialized under student rights and royalty terms.
 
 Student role: **Author and Rights-Holder**, operating as a **Linguistic Steward** and **Media Producer**.
+
+## Fellowship Use in School
+
+This workbook is designed to function as a real 7-week publishing fellowship, a language preservation toolkit, and a classroom field guide.
+
+- It supports UNESCO-aligned language preservation by treating Mandinka as living heritage carried through voice, relationship, and memory.
+- It supports MoBSE language goals by helping students produce local-language educational materials for school use.
+- It supports literacy development through oral history, sentence engineering, glossary building, and authorship.
+- It supports youth publishing by guiding older students to create materials that younger learners can actually read, hear, and use.
+
+## Teacher/Facilitator Orientation
+
+- Keep the tone culturally respectful, community-centered, and practical.
+- Use the workbook as a guided production tool, not as a test-prep booklet.
+- Protect exact elder wording before students transform it into classroom-ready text.
+- Move each week from listening, to language noticing, to drafting, to editing, to publication.
+- Encourage teamwork, but make authorship and attribution visible on every major output.
+
+## 7-Week Fellowship Map
+
+| Week | Fellowship Focus | Guiding Question | Main Workbook Output |
+|---|---|---|---|
+| 1 | Identity, ethics, informed consent, cultural respect, publishing mission | Why does kinship language matter, and how do we carry it respectfully? | Editorial mission, ethics notes, consent practice, lexical discovery start |
+| 2 | Domain immersion and foundational knowledge | What do Kabilo, Ba-dingya, joking kinship, and oral tradition teach us? | Foundational knowledge notes, kinship value map, story prompts |
+| 3 | Language structure, grammar, sentence engineering, terminology | How is kinship meaning carried through terms, sentence patterns, and social context? | Terminology matrix, sentence models, classroom explanations |
+| 4 | Interview preparation, oral history methods, fieldwork practice | How do we approach elders with respect and gather living language carefully? | Interview plan, question bank, consent script, observation sheet |
+| 5 | Field interviews and evidence gathering | What did we hear, observe, verify, and preserve exactly? | Field notes, quotations, pronunciation notes, triangulated evidence log |
+| 6 | Creative transformation into stories, poems, educational content, and children's publishing | How do we turn fieldwork into stories and lessons for younger learners? | Story or poem draft, children's book concept, page plan, illustration notes |
+| 7 | Book creation, editing, archiving, presentation, and publication | How do we shape a classroom-ready Mandinka publication? | Final manuscript package, archive record, presentation, submission checklist |
+
+## Classroom Workflow and Assessment Routine
+
+- Begin each week with a short oral recap: "What did we inherit? What did we discover? What must we protect?"
+- End each week with one visible product that can be reviewed by peers, teacher, and community knowledge holders.
+- Assess students on respect, accuracy, clarity, teamwork, and authorship discipline, not only on length.
+- Use signatures, metadata, and reflection notes to show that the publishing process is accountable.
 
 ## Page Attribution Block (Place at top of each printed page)
 
@@ -31,7 +67,9 @@ Student role: **Author and Rights-Holder**, operating as a **Linguistic Steward*
 
 ---
 
-## Chapter 1 UNESCO Ethics Clause (Mandatory)
+## Week 1: Identity, Ethics, Cultural Respect, and Publishing Mission
+
+### Chapter 1 UNESCO Ethics Clause (Mandatory)
 
 Before documenting any tradition, the student must complete a **Knowledge Exchange**: explain the manuscript goal to the elder, then receive formal verbal consent to include shared knowledge in a student-published educational work.
 
@@ -39,17 +77,33 @@ Before documenting any tradition, the student must complete a **Knowledge Exchan
 
 **Objective:** Establish the editorial mission for a modern kinship chapter.
 
+#### Week 1 Teacher Guidance
+
+- Frame this week as entry into responsibility, not simply entry into content.
+- Help students understand that kinship words carry duty, memory, respect, and social order.
+- Explain informed consent in classroom language: the elder must know the purpose, audience, and future use of the material.
+- Remind students that not every story is automatically for publication; some stories are for listening, learning, and stopping there.
+
 #### Heritage Contrast Method
 
 - **Input (Heritage Trigger):** "Colonial records often treated the Kabilo as an administrative or tax unit."
 - **Probe (Mandinka Reality):** In Mandinka, does Kabilo express lineage root, social duty, or living relationship networks?
 - **Authorial Act (Master Work Prompt):** Compose a 200-word contemporary definition of Kabilo for publication.
 
-#### Chapter 1 Editorial Assignment Activities
+#### Week 1 Editorial Assignment Activities
 
 1. Record your finding: define three core kinship values that must appear in the chapter.
-2. Record your finding: write audience notes for upper-primary students.
+2. Record your finding: write audience notes for upper-primary students and explain what younger readers must understand first.
 3. Draft one "Inspired by" paragraph (heritage context, sepia/black-and-white layout zone) and one "New Work" paragraph (student innovation, high-color layout zone).
+4. Practice a respectful informed-consent explanation in pairs before meeting an elder.
+5. Write a class publishing mission beginning with: "We are preserving Mandinka kinship language so that..."
+
+#### Informed Consent Practice Notes
+
+- Explain who you are, which school you represent, and why the workbook is being created.
+- State clearly that the work supports education, language preservation, and youth authorship.
+- Ask whether the elder agrees to classroom note-taking, quotation, audio capture, and attribution.
+- Record any limits: "may be quoted but not recorded," "can be shared in class only," or "must be reviewed again before publication."
 
 #### Chapter 1 Traditional Peer Review (Signature Box)
 
@@ -73,9 +127,62 @@ Before documenting any tradition, the student must complete a **Knowledge Exchan
 | 9 |  |  |  |  |
 | 10 |  |  |  |  |
 
+**Week 1 Transition:** Once the mission is clear and the ethics are understood, move from permission into deep listening about how kinship actually lives in Mandinka social life.
+
 ---
 
-## Chapter 2 UNESCO Ethics Clause (Mandatory)
+## Week 2: Domain Immersion and Foundational Knowledge
+
+### Week 2 UNESCO Ethics Reminder
+
+Repeat the **Knowledge Exchange** and confirm consent for educational publication, attribution of sources, and respectful representation of family structures.
+
+### Foundational Knowledge Focus: What the Domain Carries
+
+Use this week to ground students in the deeper Mandinka logic behind kinship language.
+
+- **Oral tradition and griot/jali memory:** family histories, praise names, and genealogies are living archives.
+- **Ba-dingya and social harmony:** kinship terms are also instructions for peaceful living.
+- **Kabilo and lineage:** family words often point beyond the household to wider belonging.
+- **Joking kinship and Sanankouya/Sanowaya:** language can heal tension, restore balance, and maintain dignity.
+- **Ceremony and life passage:** naming, marriage, initiation, and mourning each activate special vocabularies.
+
+#### Week 2 Teacher Guidance
+
+- Teach foundational content through discussion, recitation, and example, not only through silent reading.
+- Ask students to connect every big idea to one real person, one real practice, and one real word.
+- Encourage students to identify what younger learners may misunderstand if kinship is explained too quickly or too literally.
+
+#### Week 2 Domain Immersion Activities
+
+1. Build a kinship value map showing how respect, lineage, responsibility, joking cousinhood, and memory connect.
+2. Record one oral-tradition note on the role of the griot/jali in carrying family truth.
+3. Write a short explanation of how one ceremony changes the meaning or use of kinship language.
+4. Identify one concept that should never be flattened into a shallow English equivalent without explanation.
+
+#### Foundational Knowledge Log
+
+| Theme | What the elder/community teaches | Why it matters for school publishing |
+|---|---|---|
+| Kabilo |  |  |
+| Ba-dingya |  |  |
+| Jamu/Kontongo |  |  |
+| Joking kinship |  |  |
+| Ceremony language |  |  |
+
+#### Teacher Checkpoint
+
+- Can students explain the difference between a simple family label and a kinship term that carries social duty?
+- Can they name which concepts require story, example, or proverb before definition?
+- Are they ready to move from ideas into more careful language work?
+
+**Week 2 Transition:** After students understand the cultural weight of the domain, they are ready to shape that knowledge into terminology, grammar, and classroom explanation.
+
+---
+
+## Week 3: Language Structure, Grammar, Sentence Engineering, and Terminology
+
+### Chapter 2 UNESCO Ethics Clause (Mandatory)
 
 Repeat the **Knowledge Exchange** and confirm consent for educational publication, attribution of sources, and respectful representation of family structures.
 
@@ -83,11 +190,40 @@ Repeat the **Knowledge Exchange** and confirm consent for educational publicatio
 
 **Objective:** Build a publishable kinship terminology matrix.
 
+#### Week 3 Teacher Guidance
+
+- Keep exact words from the elder intact before asking students to paraphrase.
+- Help students move carefully between Mandinka, glosses, and school-use explanations.
+- Use sentence engineering to show how kinship meaning changes with pronouns, respect forms, tense, negation, and social context.
+- Do not let "translation" erase tone, status, or relationship.
+
+#### Sentence Engineering Studio
+
+Students should practice kinship language through the following frames:
+
+- **Nouns:** who the relation is
+- **Pronouns:** whose duty, whose belonging, whose respect
+- **Verbs:** what kin do, owe, teach, protect, or refuse
+- **Adjectives and adverbs:** how relationships feel, appear, or are carried
+- **Position and time words:** where and when kinship obligations become visible
+- **Negation:** what happens when duty is broken
+- **Family and respect words:** elder titles, seniority, obligation markers
+- **Sentence type:** statement, question, instruction, blessing, warning, proverb line
+
 #### Chapter 2 Editorial Assignment Activities
 
 1. Build a matrix of 10–15 terms: Mandinka term, relation, social context, and contemporary school-use explanation.
 2. Develop a social mapping circles page where students draw contemporary family structures and annotate kinship language.
 3. Record your finding: which term is most misunderstood and requires a modern clarifying note?
+4. Write three sentence pairs: one preserving exact elder wording, one classroom explanation, and one child-friendly explanation.
+5. Mark any word that cannot be translated well without a short story, proverb, or example.
+
+#### Terminology Integrity Checklist
+
+- Record the exact wording first.
+- Note pronunciation, stress, or tone if it affects meaning.
+- Identify whether the term is everyday speech, ceremonial speech, praise language, or sensitive knowledge.
+- Add a "use with care" note where the meaning changes by age, status, or lineage.
 
 #### Metadata Log (bottom of each matrix/mapping page)
 
@@ -104,9 +240,169 @@ Repeat the **Knowledge Exchange** and confirm consent for educational publicatio
 
 "These terms are documented for educational purposes to ensure the continuity of the Mandinka language within the Gambian National Curriculum."
 
+**Week 3 Transition:** Once the language has structure, students can prepare for respectful oral-history work that gathers living evidence behind the terms.
+
 ---
 
-## Chapter 3 UNESCO Ethics Clause (Mandatory)
+## Week 4: Interview Preparation, Oral History Method, and Fieldwork Practice
+
+### Week 4 UNESCO Ethics Clause (Mandatory)
+
+Before audio, dialogue, or narrative preparation, complete the **Knowledge Exchange** and confirm consent for voice use, context, and publication format.
+
+### Interview Preparation Studio
+
+**Objective:** Prepare students to gather kinship knowledge respectfully, accurately, and professionally.
+
+#### Week 4 Teacher Guidance
+
+- Rehearse interview behavior before any real field visit.
+- Teach that the interview is not an extraction exercise; it is a respectful exchange with a knowledge-holder.
+- Assign clear team roles so one student is not forced to ask, record, observe, and write at the same time.
+- Emphasize that silence, emotion, proverb, gesture, and hesitation are also data.
+
+#### Team Roles for Practice Interviews
+
+- **Lead interviewer:** opens, asks, and closes respectfully
+- **Consent recorder:** confirms permissions and restrictions
+- **Language scribe:** captures exact wording, key terms, and pronunciation notes
+- **Observation recorder:** notices setting, objects, gestures, emotional shifts, and social context
+
+#### Question Sequencing Guide
+
+1. **Warm opening:** relationship, gratitude, and purpose
+2. **Grounding question:** "When you hear this kinship word, who comes to mind first?"
+3. **Experience question:** ask for a lived example, not only a definition
+4. **Meaning question:** ask what lesson, duty, or warning the term carries
+5. **Proverb/metaphor question:** ask how the idea appears in praise, proverb, or story
+6. **Follow-up question:** ask for clarification, contrast, or another example
+7. **Closing question:** ask what younger generations must never forget
+
+#### Respectful Elder Engagement Checklist
+
+- Greet properly and allow time before formal questions.
+- Ask where the elder prefers the conversation to take place.
+- Confirm whether any family member should also be present.
+- Do not interrupt a proverb, blessing, or emotionally heavy memory.
+- Ask before repeating back a sacred or sensitive term.
+
+#### Informed Consent Explanation Frame
+
+"We are preparing a Mandinka educational workbook for school and community learning. We want to preserve language carefully and respectfully. We would like your permission to listen, take notes, and, if you agree, record your voice. You may tell us what can be written, what should stay private, and what should be checked again before publication."
+
+#### Observation and Note-Taking Guide
+
+- Write the exact word first, then your explanation second.
+- Note who else is present and how that affects the answer.
+- Record objects, gestures, laughter, pauses, and moments of silence.
+- Mark whether a line is a proverb, praise phrase, warning, joke, blessing, or ordinary explanation.
+- Separate what you heard directly from what you inferred.
+
+#### Pronunciation, Nuance, and Meaning Capture
+
+- Ask the speaker to repeat key terms slowly if needed.
+- Mark alternate pronunciations or variant forms.
+- Ask whether younger speakers still use the same form.
+- Note when a word sounds simple but carries metaphor, status, or emotional weight.
+
+#### Handling Uncertainty Respectfully
+
+- If you do not understand, say so with humility and ask for another example.
+- If accounts differ, do not force one "winner" immediately; record who said what and why the versions may differ.
+- Use triangulation: compare elder, matriarch, youth, and teacher accounts.
+- Preserve exact wording even when the meaning is not yet settled.
+
+#### Interview Preparation Assignment Activities
+
+1. Draft a question bank with at least two warm-ups, four deep questions, and two closing questions.
+2. Rehearse a 3-minute consent explanation in pairs.
+3. Practice identifying metaphor, proverb meaning, and emotional significance from a sample oral response.
+4. Prepare a field notebook page that includes quotation space, pronunciation notes, and verification notes.
+
+#### Interview Readiness Check
+
+- Teacher/Facilitator Name: ____________________
+- Date: ____________________
+- Team ready for fieldwork: [ ] Yes [ ] Not yet
+- Revision note: _______________________________________________
+
+**Week 4 Transition:** Students now move from rehearsal into actual listening, evidence gathering, and respectful documentation.
+
+---
+
+## Week 5: Field Interviews and Evidence Gathering
+
+### Week 5 UNESCO Ethics Clause (Mandatory)
+
+Before recording or note-taking begins, restate the **Knowledge Exchange** and confirm the elder's final comfort with the interview format.
+
+### Fieldwork Practice: Living Kinship Evidence
+
+**Objective:** Gather accurate oral evidence that can be transformed into educational material without losing cultural soul.
+
+#### Week 5 Teacher Guidance
+
+- Visit in small, calm teams.
+- Review permissions before and after the interview.
+- Require students to distinguish observation, quotation, interpretation, and planned classroom use.
+- After fieldwork, debrief immediately while memory is fresh.
+
+#### Field Interview Workflow
+
+1. Greet and settle.
+2. Restate purpose and consent.
+3. Begin with easy relational questions.
+4. Move gradually into deeper stories, proverbs, or ceremonies.
+5. Ask for examples that show real social use.
+6. Close with gratitude, summary, and permission check for quoted material.
+
+#### Evidence Gathering Priorities
+
+- Exact kinship terms and their contextual meanings
+- Praise names, proverb lines, or story fragments
+- Differences between everyday use and ceremonial use
+- Emotional significance: what made the elder pause, smile, or become solemn
+- Conflicting accounts that need later triangulation
+- Notes on what should be used carefully with younger learners
+
+#### Field Evidence Log
+
+| Evidence Type | What was gathered | How it will be used in the book |
+|---|---|---|
+| Exact quotation |  |  |
+| Kinship term |  |  |
+| Proverb/metaphor |  |  |
+| Pronunciation note |  |  |
+| Observation note |  |  |
+| Verification follow-up needed |  |  |
+
+#### Turning Oral Knowledge into Educational Notes
+
+- Keep the original quote.
+- Add a short meaning note.
+- Add a classroom explanation.
+- Add a younger-reader explanation only after the first two are secure.
+- Mark anything that should remain in elder voice rather than student paraphrase.
+
+#### Triangulation Record
+
+| Question | Source 1 | Source 2 | Source 3 | What stays constant? | What differs? |
+|---|---|---|---|---|---|
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+
+#### Week 5 Metadata Log
+
+**Source:** [Elder Name/Self] | **Recording Permission:** [Yes/No] | **Quotation Permission:** [Yes/No] | **Ready for Review:** [ ]
+
+**Week 5 Transition:** With evidence gathered, students are ready to transform living language into stories, poems, and children's publishing without breaking the link to the original voice.
+
+---
+
+## Week 6: Creative Transformation and Concepting Educational Children's Books
+
+### Chapter 3 UNESCO Ethics Clause (Mandatory)
 
 Before audio, dialogue, or narrative drafting, complete the **Knowledge Exchange** and confirm consent for voice use, context, and publication format.
 
@@ -114,11 +410,71 @@ Before audio, dialogue, or narrative drafting, complete the **Knowledge Exchange
 
 **Objective:** Produce original, classroom-ready kinship literature.
 
+### NEW Major Section: Concepting and Creating Educational Children's Books
+
+**Purpose:** Turn fieldwork into books that older students create for younger students in support of local-language education.
+
+#### Week 6 Teacher Guidance
+
+- Remind students that children's publishing is not simplification by deletion; it is careful explanation with clarity and warmth.
+- Keep the cultural center strong: younger learners should still hear Mandinka worldview, metaphor, and oral rhythm.
+- Encourage students to choose one truthful lesson and build a clear reading journey around it.
+- Link book creation to national language education needs: children need stories they can see themselves in, in language that honors home knowledge.
+
+#### Children's Book Concepting Steps
+
+1. **Choose the core inheritance:** one kinship truth, proverb, story moment, or relationship lesson.
+2. **Identify the young reader:** lower basic, upper basic, or early independent reader.
+3. **Decide the educational purpose:** vocabulary growth, moral reflection, cultural orientation, respect language, or family roles.
+4. **Keep the language age-appropriate:** use short sentences, repeated key terms, and clear transitions.
+5. **Protect the cultural meaning:** where a term cannot be simplified, explain it with scene, image, or dialogue instead of replacing it.
+
+#### Educational Storytelling Basics
+
+- Start with a child-recognizable situation.
+- Bring in an elder voice, proverb, or remembered phrase naturally.
+- Let the story show the meaning before explaining it.
+- End with a sense of belonging, responsibility, or continuity.
+
+#### Page Planning and Visual Storytelling
+
+- Page 1-2: introduce the child, family setting, and central question
+- Page 3-6: show the problem, lesson, or discovery
+- Page 7-10: bring in the elder's explanation, proverb, or turning point
+- Page 11-12: close with the lesson and a strong image of continuity
+
+#### Illustration Planning Notes
+
+- Show real compounds, clothing, gestures, tools, and social settings from Gambian life.
+- Use visual cues to show relationships: seating order, who serves, who listens, who blesses.
+- Keep symbolism local and recognizable.
+- Add notes for illustrators when a proverb or emotional shift must be visible on the page.
+
+#### Educational Messaging Check
+
+- Does the story support local-language learning?
+- Does it preserve Mandinka dignity and worldview?
+- Can a teacher use it for reading, discussion, and vocabulary?
+- Does it help a younger learner understand why kinship language matters?
+
 #### Chapter 3 Editorial Assignment Activities
 
 1. Compose one original short story or poem illustrating the contemporary meaning of a traditional kinship proverb.
 2. Write and record three kinship dialogue scenes for school use.
 3. Label each script and recording as a textbook contribution with full attribution metadata.
+4. Create a children's book concept note: title, target age, core lesson, and why this story belongs in a Gambian classroom.
+5. Draft a page-by-page outline for a 10-12 page children's book based on fieldwork evidence.
+
+#### Children's Book Planning Grid
+
+| Page | What happens | Key Mandinka word or phrase | Illustration note | Educational purpose |
+|---|---|---|---|---|
+| 1 |  |  |  |  |
+| 2 |  |  |  |  |
+| 3 |  |  |  |  |
+| 4 |  |  |  |  |
+| 5 |  |  |  |  |
+| 6 |  |  |  |  |
 
 #### Drafting Canvas: Master Manuscript Page (Student IP Zone)
 
@@ -127,8 +483,10 @@ Before audio, dialogue, or narrative drafting, complete the **Knowledge Exchange
 - Final manuscript text (250 words): _______________________________________
 - Dialogue excerpt for publication: _________________________________________
 - Audio reference ID: _____________________________________________________
+- Children's book title: __________________________________________________
+- Young reader age band: _________________________________________________
 
-#### Metadata Log
+#### Chapter 3 Metadata Log
 
 **Source:** [Elder Name/Self] | **Originality Check:** [Verified] | **Ready for AIWA Upload:** [ ]
 
@@ -139,9 +497,13 @@ Before audio, dialogue, or narrative drafting, complete the **Knowledge Exchange
 - Date: ____________________
 - Verification: New writing respectfully extends living tradition.
 
+**Week 6 Transition:** Students now move from concept and draft into editing, page assembly, archiving, and final presentation.
+
 ---
 
-## Chapter 4 UNESCO Ethics Clause (Mandatory)
+## Week 7: Book Creation, Editing, Archiving, Presentation, and Publication
+
+### Chapter 4 UNESCO Ethics Clause (Mandatory)
 
 Complete final **Knowledge Exchange** and confirm consent, attribution, and publication readiness for chapter submission.
 
@@ -149,11 +511,37 @@ Complete final **Knowledge Exchange** and confirm consent, attribution, and publ
 
 **Objective:** Deliver a chapter-ready, student-owned publication package.
 
-#### Chapter 4 Editorial Assignment Activities
+#### Week 7 Teacher Guidance
 
-1. Assemble final chapter sections: inspired heritage notes, term matrix, mapping circles, story/poem, dialogue scripts, and glossary.
+- Teach revision as a form of respect: accuracy, readability, and attribution must all improve.
+- Run one round for language accuracy and one round for educational usability.
+- Confirm that each final page still carries cultural grounding and does not sound flattened or foreign.
+- Make archiving visible so students understand that preservation includes storage, retrieval, and future access.
+
+#### Week 7 Editorial Assignment Activities
+
+1. Assemble final chapter sections: inspired heritage notes, term matrix, mapping circles, story/poem, dialogue scripts, glossary, and children's book concept pages.
 2. Record your finding: choose one flagship paragraph for chapter opening publication.
 3. Prepare upload-ready manuscript exports from Master Manuscript pages.
+4. Create an archive sheet showing title, author, contributors, date, domain, and permissions.
+5. Present the work orally and explain what was preserved, what was transformed, and what still requires community review.
+
+#### Publishing Workflow Guidance
+
+- **Editing pass 1:** factual accuracy, exact wording, spelling of key Mandinka terms
+- **Editing pass 2:** child readability, page flow, transitions, and lesson clarity
+- **Editing pass 3:** design notes, illustration notes, attribution, metadata, and permissions
+- **Archiving pass:** folder naming, audio references, contributor list, and school-library retention copy
+
+#### Assessment Guidance
+
+| Area | Look for |
+|---|---|
+| Cultural grounding | Accurate use of Mandinka concepts, respect language, and oral-tradition framing |
+| Research discipline | Clear notes, consent records, triangulation, and metadata |
+| Writing quality | Strong sequencing, coherent explanation, age-appropriate wording where needed |
+| Publishing readiness | Title, page plan, attribution, archive notes, and presentation clarity |
+| Teamwork and stewardship | Shared labor, visible roles, and responsible handling of knowledge |
 
 #### Copy-to-Platform Checklist (Commercializable Assets)
 
@@ -161,6 +549,7 @@ Complete final **Knowledge Exchange** and confirm consent, attribution, and publ
 - [ ] 1 original story or poem linked to proverb meaning
 - [ ] 3 edited and attributed dialogue scenes
 - [ ] 10+ lexical entries from discovery matrix
+- [ ] 1 children's book concept with page plan and illustration notes
 - [ ] 1 complete rights-and-attribution page
 
 #### Royalties & Rights Statement
