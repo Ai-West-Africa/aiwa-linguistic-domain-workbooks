@@ -129,7 +129,7 @@ This week expands your bird domain beyond everyday familiarity so you can write 
 
 [The Danoo (The Traditional Hunter)	41](#the-danoo-\(the-traditional-hunter\))
 
-[The Senelaa (The Traditional Farmer)	41](#the-senelaa-\(the-traditional-farmer\))
+[The Sene-laa (The Traditional Farmer)	41](#the-senelaa-\(the-traditional-farmer\))
 
 [The Jali (The Griot)	41](#the-jali-\(the-griot\))
 
@@ -236,7 +236,7 @@ Mandinka society sustains itself through a **vibrant oral tradition**. Knowledge
 
 Birds appear in Mandinka culture in varied roles – sometimes as omens, sometimes as metaphors, occasionally as sources of wonder or utility. The **Mandinka beliefs** about birds are rooted in a mix of Islamic influence (as most Mandinka are Muslim) and older animist folklore. Below are some notable traditional views of birds and how they compare to scientific understanding:
 
-* **Owls – Harbingers of Evil vs. Nocturnal Hunters:** In Mandinka (and wider West African) folklore, owls are often feared as omens of death or agents of witchcraft. A common saying is that *if an owl perches atop a house and calls, a sick occupant will soon die*. Many Mandinka even call the owl by names like *kekeyong*, meaning “devil spirit,” or *kikeyango*, “witch bird”. Scientifically, the **Western Barn Owl** and various eagle-owls found in Senegambia are simply nocturnal predators with eerie calls – their screeches or hoots signal territorial presence, not a supernatural curse. In fact, owls provide pest control by hunting rodents. The belief and fear, however, have real consequences: because of the association with evil, owls are often killed on sight or used in witchcraft “medicine,” contributing to their decline. Indeed, researchers note that across Africa this owl-human conflict is so severe that nearly *40% of the world’s most threatened owl species are imperiled partly due to being widely killed or collected for witchcraft and traditional medicine*. In this case, Mandinka cultural knowledge clashes with science and conservation – the owl’s scientific value as a beneficial species is overshadowed by its cultural image as a bad omen.  
+* **Owls – Harbingers of Evil vs. Nocturnal Hunters:** In Mandinka (and wider West African) folklore, owls are often feared as omens of death or agents of witchcraft. A common saying is that *if an owl perches atop a house and calls, a sick occupant will soon die*. Many Mandinka even call the owl by names like *kikeyong*, meaning “devil spirit,” or *kikeyango*, “witch bird”. Scientifically, the **Western Barn Owl** and various eagle-owls found in Senegambia are simply nocturnal predators with eerie calls – their screeches or hoots signal territorial presence, not a supernatural curse. In fact, owls provide pest control by hunting rodents. The belief and fear, however, have real consequences: because of the association with evil, owls are often killed on sight or used in witchcraft “medicine,” contributing to their decline. Indeed, researchers note that across Africa this owl-human conflict is so severe that nearly *40% of the world’s most threatened owl species are imperiled partly due to being widely killed or collected for witchcraft and traditional medicine*. In this case, Mandinka cultural knowledge clashes with science and conservation – the owl’s scientific value as a beneficial species is overshadowed by its cultural image as a bad omen.  
 * **Birds and Human Hair – Mystical Harm vs. Nesting Behavior:** Mandinka newborns undergo a hair-shaving ceremony a week after birth, and traditions warn about the disposal of that hair. *“It is believed if the hair is left lying about, a bird may pick it up, and this will give rise to headaches,”* one Gambian ethnography notes. In other words, if a little bird carries off your hair strands to build its nest, folklore says you’ll suffer migraines. The same belief system warns that witches could steal the hair for evil spells. Scientifically, of course, there is no link between a finch lining its nest with someone’s hair and that person’s health; the only “connection” is the hair itself. Birds do sometimes collect human hair or fibers for nest lining – a mundane natural behavior – but Mandinka interpretation turns it into a sign of sympathetic magic (your hair is part of you, so its misuse can affect you). Here we see a cultural explanation for an observed bird behavior that doesn’t match the scientific explanation. The belief likely serves a practical purpose in the culture – encouraging people to safely dispose of hair (denying witches or animals any personal effect) – but it stands in contrast to modern biology. Notably, this folk idea is not unique to Mandinka; similar beliefs about birds and hair causing headaches exist in other cultures, indicating a common human tendency to ascribe mystical causation to natural animal behaviors.  
 * **The “Lightning Bird” – Taboo that Aids Conservation:** Not all Mandinka (or African) beliefs about birds are negative; some actually protect the birds.  
    *A Hamerkop wading in shallow water.* The **Hamerkop** (a brown stork-like bird with a hammer-shaped head) is often called the “Lightning Bird” in West African lore. Mandinka and other groups traditionally hold that harming a Hamerkop or disturbing its massive nest will bring terrible misfortune – lightning striking your house, or worse. This bird is associated with witchcraft and powerful spirits, so much so that if a Hamerkop lands on a person’s roof it’s considered an omen of bad luck. While scientifically the Hamerkop is not magical (it’s a wetland bird known for building huge nests of sticks), the **taboo** against hurting it has an unintended positive effect: people leave the bird alone. In many tribes, it was strictly forbidden to kill a Hamerkop, and anyone who did would urgently seek a ritual cleansing to avoid the “lightning curse”. Thus, *culturally-imposed protection* aligned with conservation – the species remained common and ecologically functional, in part because tradition shielded it. Science recognizes the Hamerkop for its ecological uniqueness (it has no close relatives and its nests provide shelter for many other creatures), but perhaps unknowingly, Mandinka folklore had long been conserving this bird through fear and respect. This is a case where traditional knowledge, despite being grounded in myth, ends up matching scientific interest in preserving a species.  
@@ -267,7 +267,7 @@ The interplay between Mandinka cultural traditions and the scientific understand
 
 Ultimately, this dual focus – scientific and cultural – enriches the narrative of conservation and heritage. By acknowledging that *“the bird is scientific and culturally not Mandinka,”* we highlight that a given bird species carries significance outside Mandinka culture (in global science or other cultures) and may need protection even if local tradition has no claim on it. At the same time, by exploring Mandinka songs and stories, we affirm that Mandinka culture has its own logic and values that deserve respect in any conservation or knowledge-gathering endeavor. It’s a two-way street of learning. A Mandinka elder might learn from a biologist that the owl he feared is actually helpful in killing rats, while the biologist might learn from the elder a more poetic way to see the owl – as a creature woven into tales of night and morality.
 
-In the end, this is a story of **knowledge acquiring knowledge** – humans learning about birds, birds (in a sense) learning their songs and thereby “knowing” their world, and humans learning from other humans across the cultural-scientific divide. The Mandinka griot and the ornithologist are both, in their own fashion, knowledge-keepers: one keeps the knowledge of the people, the other the knowledge of the birds. When they listen to each other – the griot hearing about migratory routes, the scientist hearing an old folktale – a greater song emerges, one of mutual understanding. Just as a chorus is richer than any single voice, the union of cultural wisdom and scientific insight gives a fuller picture of the birds that soar over Mandinka lands and the people who share those lands with them. Through dialogue in both **language and song** – be it the language of legends or the song of data – the Mandinka and the birds each carry their legacy forward, teaching any who would listen. In the words of a Mandinka saying, *“Nya ya min jea; da sa fo, da ya min fo, tullo sa mirra* – roughly, “what the eye has seen, let the mouth tell; what the mouth has told, let the ear remember.” The birds sing what their eyes see, the people speak what their ears hear, and between them the story of the land is kept alive.
+In the end, this is a story of **knowledge acquiring knowledge** – humans learning about birds, birds (in a sense) learning their songs and thereby “knowing” their world, and humans learning from other humans across the cultural-scientific divide. The Mandinka griot and the ornithologist are both, in their own fashion, knowledge-keepers: one keeps the knowledge of the people, the other the knowledge of the birds. When they listen to each other – the griot hearing about migratory routes, the scientist hearing an old folktale – a greater song emerges, one of mutual understanding. Just as a chorus is richer than any single voice, the union of cultural wisdom and scientific insight gives a fuller picture of the birds that soar over Mandinka lands and the people who share those lands with them. Through dialogue in both **language and song** – be it the language of legends or the song of data – the Mandinka and the birds each carry their legacy forward, teaching any who would listen. In the words of a Mandinka saying, *“Nyaa ya min jea; daa sa fo, daa ya min fo, hakiloo sa mirra* – roughly, “what the eye has seen, let the mouth tell; what the mouth has told, let the mibd think.” The birds sing what their eyes see, the people speak what their ears hear, and between them the story of the land is kept alive.
 
 ## Sources: {#sources:}
 
@@ -298,21 +298,21 @@ In the end, this is a story of **knowledge acquiring knowledge** – humans lear
 [RELOCATED FROM: Prepare to Deep Dive]
 # Prepare to Deep Dive {#prepare-to-deep-dive}
 
-In Mandinka culture, birds are rarely seen as mere animals; they are viewed as **messengers, metaphors for social behavior, and spiritual indicators**. While large mammals like lions and crocodiles are often the primary Tano (totems) for major clans, birds occupy a crucial role in the "linguistic domain" of daily life and oral history.
+In Mandinka culture, birds are rarely seen as mere animals; they are viewed as **messengers, metaphors for social behavior, and spiritual indicators**. While large mammals like lions and crocodiles are often the primary Tanoo (totems) for major clans, birds occupy a crucial role in the "linguistic domain" of daily life and oral history.
 
 ## The Bird as a Messenger of Destiny {#the-bird-as-a-messenger-of-destiny}
 
 In the **Sunjata Epic** (the foundational story of the Mandinka people), birds often act as omens or spiritual guides.
 
 * **The Owl (kekeyong):** In many West African cultures, the owl is a "double-edged" symbol. While it can be associated with night spirits or witchcraft (Subaya), it is also respected for its "vision" in the dark—a metaphor for an elder or a marabout who can see truths that remain hidden to others.  
-* **The Vulture (Duwo):** The vulture is a symbol of patience and inevitable outcome. In Mandinka history, there is a famous praise song called Duwo, which was historically sung only for the most courageous warriors. The logic was that a great warrior provides for the vultures (by defeating enemies in battle), and thus the bird is a witness to his bravery.
+* **The Vulture (Duwoo):** The vulture is a symbol of patience and inevitable outcome. In Mandinka history, there is a famous praise song called Duwoo, which was historically sung only for the most courageous warriors. The logic was that a great warrior provides for the vultures (by defeating enemies in battle), and thus the bird is a witness to his bravery.
 
 ## Birds in Proverb and Social Logic {#birds-in-proverb-and-social-logic}
 
 Mandinka elders use bird behavior to explain complex social tensions between **Ba-dingya** (harmony) and **Fa-dingya** (ambition).
 
 * **The Nesting Principle:** A common proverb states, "When night falls, all the birds return to their nests." This is used to remind young people that no matter how far they travel or how successful they become (ambition), they must eventually return to their roots and fulfill their obligations to the Koridaa (the compound).  
-* **The Rooster (Duntungo):** The rooster is a symbol of "hidden" struggle and perseverance. One proverb says, "The rooster also sweats, but because of its feathers, nobody knows it." This is often told to young men to encourage them to endure hardship with dignity, without complaining.  
+* **The Rooster (Duuntungoh):** The rooster is a symbol of "hidden" struggle and perseverance. One proverb says, "The rooster also sweats, but because of its feathers, nobody knows it." This is often told to young men to encourage them to endure hardship with dignity, without complaining.  
 * ***The Young Bird:** There is a cautionary linguistic metaphor: "If one keeps pressing a young bird in his palms, the bird may one day stool in his hands." This is a warning against over-controlling children or subordinates; if you are too restrictive, they will eventually revolt in an "unclean" or disrespectful way.*
 
 ## Practical and Spiritual Roles {#practical-and-spiritual-roles}
@@ -326,9 +326,9 @@ Beyond symbolism, birds serve as "clocks" and "almanacs" for Mandinka farmers:
 
 If you are Mandinka you might know, or maybe ask the elders these bird-specific questions to unlock "hidden" knowledge:
 
-* **The Bird of the Name:** "Is there a bird that our clan (siyo) is forbidden to harm? If so, what is the story of the bird that saved our first ancestor?"  
+* **The Bird of the Name:** "Is there a bird that our clan (seyoo) is forbidden to harm? If so, what is the story of the bird that saved our first ancestor?"  
 * **The Omen:** "Which bird’s cry in the morning is a 'good' word for the house, and which one tells us to be careful today?"  
-* **The Jali's Song:** "In the old songs of the Jali, why is the vulture (Duwo) called the 'bird of kings'? Is it because he is a king, or because he follows kings?"
+* **The Jali's Song:** "In the old songs of the Jali, why is the vulture (Duwoo) called the 'bird of kings'? Is it because he is a king, or because he follows kings?"
 
   ### **References for Further Reading**
 
@@ -385,7 +385,7 @@ This specialized field sits at the intersection of **Linguistics**, **Ethology**
 | **Primary Unit** | A Culture/Society | A Language/Dialect | A Species/Organism | A Communication Event |
 | **Main Goal** | Social meaning | System structure | Physical survival/evolution | Intent and Information |
 | **Method** | Ethnography | Analytic Syntax | Bioacoustics/Phonology | Pattern Recognition |
-| **Example** | Mandinka vulture myths | Mandinka word for "Vulture" (*Duga*) | The digestive system of *Necrosyrtes monachus* | The specific alarm call a vulture makes when a lion approaches |
+| **Example** | Mandinka vulture myths | Mandinka word for "Vulture" (*Duwoo*) | The digestive system of *Necrosyrtes monachus* | The specific alarm call a vulture makes when a lion approaches |
 
 ## The Integrated Analogy {#the-integrated-analogy}
 
@@ -424,19 +424,19 @@ Here is the structure of Mandinka interaction with birds:
 
 ## Farming and Domestication  {#farming-and-domestication}
 
-Birds are a primary source of protein and liquid capital in the Mandinka *Kabilo* (Community).
+Birds are a primary source of protein and liquid capital in the Mandinka *Kabiloo* (Community).
 
-* **Chickens (*Seesea*):** Almost every Mandinka household keeps free-range chickens. They are rarely "farmed" in the industrial sense; instead, they scavenge the compound.  
-  * **The Social Role:** Chickens are the go-to "social currency." If a guest arrives, a chicken is often slaughtered as a sign of *Heinantaya* (hospitality).  
+* **Chickens (*Seesay*):** Almost every Mandinka household keeps free-range chickens. They are rarely "farmed" in the industrial sense; instead, they scavenge the compound.  
+  * **The Social Role:** Chickens are the go-to "social currency." If a guest arrives, a chicken is often slaughtered as a sign of *Henantaayaa* (hospitality).  
   * **The Spiritual Role:** In traditional practices, chickens are used for "divination" or as offerings. The color of the chicken (white, red, or black) is linguistically linked to the type of blessing or protection being sought.  
-* **Pigeons (*Puralu*):** Often kept as "semi-pets" or for their meat. They are frequently housed in specialized mud or wooden towers within the compound.
+* **Pigeons (*Puralou*):** Often kept as "semi-pets" or for their meat. They are frequently housed in specialized mud or wooden towers within the compound.
 
-## Hunting and Survival (Donsoya/Danoo) nin Baluwoo {#hunting-and-survival-(donsoya/danoo)-nin-baluwoo}
+## Hunting and Survival (Danoo) nin Baluuwoo {#hunting-and-survival-(danoo)-nin-baluuwoo}
 
-The **Donso/Danoo** (Mandinka Hunter) has a deeply complex relationship with wild birds.
+The **Danoo** (Mandinka Hunter) has a deeply complex relationship with wild birds.
 
 * **Game Birds:** Species like the **Stone Partridge**, **Double-spurred Francolin**, and **Guinea Fowl** are hunted for food.  
-  * **Technique:** Young boys often start their "hunting education" using slingshots (*trappo*) to hunt small birds around the farm, while elders use traditional muskets or traps.  
+  * **Technique:** Young boys often start their "hunting education" using slingshots (*traappo*) to hunt small birds around the farm, while elders use traditional muskets or traps.  
 * **The Hunter's "Radio":** Hunters do not just kill birds; they listen to them. Certain birds like the **Honeyguide** are famously known to lead humans to beehives. In Mandinka lore, the hunter must leave a piece of honeycomb for the bird as a "contractual payment" to ensure future help.
 
 ## Birds as "Pets" and Companions {#birds-as-"pets"-and-companions}
@@ -446,19 +446,19 @@ While "pet" is a Western term, the Mandinka have several forms of avian companio
 * **Singing Birds:** It is common to see small cages hanging in workshops or under the *Bantaba* (meeting tree) containing birds like the **Yellow-fronted Canary**. They are kept for their song, which is believed to "cool the heart" during labor-intensive work.  
 * **Decoys:** Some hunters "keep" certain birds to learn their calls, using the live bird to attract others of its kind during hunting season.
 
-## The Taboo and the "Eat-Not" (Tano) {#the-taboo-and-the-"eat-not"-(tano)}
+## The Taboo and the "Eat-Not" (Tanoo) {#the-taboo-and-the-"eat-not"-(tanoo)}
 
 Not all birds are on the menu. Interaction is strictly limited by clan rules:
 
-* **Totemic Birds:** If a bird is your family's *Tano*, you are forbidden to kill, eat, or even touch it. To do so is to "eat your own history."  
-* **Birds of the Night:** Owls (*Kikiyong*) and Nightjars are almost never eaten. Because they are active in the "spirit hours," they are viewed as containing *Kuntofengo* (a spiritual energy) that is too dangerous or "bitter" for human consumption.
+* **Totemic Birds:** If a bird is your family's *Tanoo*, you are forbidden to kill, eat, or even touch it. To do so is to "eat your own history."  
+* **Birds of the Night:** Owls (*Kikiyong*) and Nightjars are almost never eaten. Because they are active in the "spirit hours," they are viewed as containing *Kuntaa-fengho* (a spiritual energy) that is too dangerous or "bitter" for human consumption.
 
 ## Interaction through Medicine and Magic {#interaction-through-medicine-and-magic}
 
-In the linguistic domain of **Morriya** (sacrifice and charms), bird parts are essential:
+In the linguistic domain of **Moriyaa** (sacrifice and charms), bird parts are essential:
 
 * **Feathers:** Used in the construction of **Gris-gris** (protective amulets) or as decorations on a hunter’s tunic to symbolize the "vision" and "speed" of the bird.  
-* **Eggshells:** Often crushed and used in traditional skin remedies or hung in gardens to ward off the "Evil Eye" (*Nya-jowo*).
+* **Eggshells:** Often crushed and used in traditional skin remedies or hung in gardens to ward off the "Evil Eye" (*Nyaa-jawoo*).
 
   ### **Questions for Reflection:**
 
@@ -479,10 +479,10 @@ In Mandinka culture, these metaphors are often used by elders to "speak in riddl
 
 | Bird Name (English) | Mandinka Name | Cultural Metaphor | Social Meaning / Lesson |
 | :---- | :---- | :---- | :---- |
-| **Rooster** | *Duntungo* | "The rooster sweats under his feathers." | **Hidden Struggle:** Everyone carries burdens you cannot see; do not judge based on outward appearance. |
-| **Vulture** | *Duwo* | "The Duwo does not hunt; he waits for the king." | **Patience & Destiny:** Success comes to those who are positioned correctly and wait for the right moment. |
+| **Rooster** | *Duuntungho* | "The rooster sweats under his feathers." | **Hidden Struggle:** Everyone carries burdens you cannot see; do not judge based on outward appearance. |
+| **Vulture** | *Duwoo* | "The Duwoo does not hunt; he waits for the king." | **Patience & Destiny:** Success comes to those who are positioned correctly and wait for the right moment. |
 | **Owl** | *Kikiyong* | "The owl's eyes are wide, but his mouth is shut." | **Wisdom & Secrecy:** True knowledge requires deep observation and the ability to keep secrets (*kuloo*). |
-| **Weaver Bird** | *Kewulo* | "One weaver bird cannot build a village." | **Collectivism:** Individual talent is useless without the support of the *Kabilo* (community). |
+| **Weaver Bird** | *Keewulo* | "One weaver bird cannot build a village." | **Collectivism:** Individual talent is useless without the support of the *Kabiloo* (community). |
 | **Small Bird** | *Kunundingo* | "If you squeeze the small bird too hard, it stools in your hand." | **Limits of Power:** If a leader or parent is too oppressive, they will cause a messy rebellion. |
 | **Cattle Egret** | *Ninsi-malo* | "The white bird follows the cow, but he is not a cow." | **Identity:** You may associate with powerful people, but never forget your own origins and rank. |
 | **Francolin** | *Woloo* | "The Francolin's cry wakes the farmer, not the lazy man." | **Industry:** Opportunities are only useful to those who are already prepared to work. |
@@ -537,10 +537,10 @@ Students underline target words in red. The coordinator uses these red marks to 
 
 | Bird Name (English) | Mandinka Name | Cultural Metaphor | Social Meaning / Lesson |
 | :---- | :---- | :---- | :---- |
-| **Rooster** | *Duntungo* | "The rooster sweats under his feathers." | **Hidden Struggle:** Everyone carries burdens you cannot see; do not judge based on outward appearance. |
-| **Vulture** | *Duwo* | "The Duwo does not hunt; he waits for the king." | **Patience & Destiny:** Success comes to those who are positioned correctly and wait for the right moment. |
-| **Owl** | *Kikiyong* | "The owl's eyes are wide, but his mouth is shut." | **Wisdom & Secrecy:** True knowledge requires deep observation and the ability to keep secrets (*kuloo*). |
-| **Weaver Bird** | *Kewulo* | "One weaver bird cannot build a village." | **Collectivism:** Individual talent is useless without the support of the *Kabilo* (community). |
+| **Rooster** | *Duuntungho* | "The rooster sweats under his feathers." | **Hidden Struggle:** Everyone carries burdens you cannot see; do not judge based on outward appearance. |
+| **Vulture** | *Duwoo* | "The Duwoo does not hunt; he waits for the king." | **Patience & Destiny:** Success comes to those who are positioned correctly and wait for the right moment. |
+| **Owl** | *Kikiyong* | "The owl's eyes are wide, but his mouth is shut." | **Wisdom & Secrecy:** True knowledge requires deep observation and the ability to keep secrets (*kulloo*). |
+| **Weaver Bird** | *Keewulo* | "One weaver bird cannot build a village." | **Collectivism:** Individual talent is useless without the support of the *Kabiloo* (community). |
 | **Small Bird** | *Kunundingo* | "If you squeeze the small bird too hard, it stools in your hand." | **Limits of Power:** If a leader or parent is too oppressive, they will cause a messy rebellion. |
 | **Cattle Egret** | *Ninsi-malo* | "The white bird follows the cow, but he is not a cow." | **Identity:** You may associate with powerful people, but never forget your own origins and rank. |
 | **Francolin** | *Woloo* | "The Francolin's cry wakes the farmer, not the lazy man." | **Industry:** Opportunities are only useful to those who are already prepared to work. |
@@ -555,7 +555,7 @@ When the youth are interviewing elders, they can use these metaphors as "keys" t
 
 #### **2\. Identifying the "Bird of the House"**
 
-* **Ask the Elder:** *"If our Kabilo (Community) was a bird, which bird would it be? Are we like the Weaver Bird (working together) or the Vulture (waiting for our time)?"*
+* **Ask the Elder:** *"If our Kabiloo (Community) was a bird, which bird would it be? Are we like the Weaver Bird (working together) or the Vulture (waiting for our time)?"*
 
 #### **3\. The Linguistic Deep Dive**
 
@@ -650,7 +650,7 @@ Follow these instructions for each grammar part
 
 | Noun (Mother Tongue) | Simple Sentence, Underline the Noun | English Translation |
 | :---- | :---- | :---- |
-| **Kambano** | **Kambano** dou lea nata jang. | **A boy** came here. |
+| **Kambano** | **Kambanoo** dou lea nata jang. | **A boy** came here. |
 
 |  |  |  |
 | :---- | :---- | :---- |
@@ -664,7 +664,7 @@ Follow these instructions for each grammar part
 
 | Target (Pronoun) | Simple Sentence, Underline the Pronoun | English Translation |
 | :---- | :---- | :---- |
-| **Example: My (Possessive)** | **Na** muso yeang kanuu nun bakea. | **My** wife loved me very much. |
+| **Example: My (Possessive)** | **Na** musoo yeang kanuu nun bakea. | **My** wife loved me very much. |
 |  |  |  |
 |  |  |  |
 |  |  |  |
@@ -702,7 +702,7 @@ Follow these instructions for each grammar part
 
 | Target (Adverb) | Simple Sentence, Underline the Adverb | English Translation |
 | :---- | :---- | :---- |
-| **Example: Manner (How)** | Na muso yeang kanuu nun **bakea**. | My wife loved it **very much**. |
+| **Example: Manner (How)** | Na musoo yeang kanuu nun **bakea**. | My wife loved it **very much**. |
 |  |  |  |
 
 |  |  |  |
@@ -716,7 +716,7 @@ Follow these instructions for each grammar part
 
 | Location (Position) | Simple Sentence, Underline the Position Word | English Translation |
 | :---- | :---- | :---- |
-| **Example: Inside** | **Duntungo be koridaa kono.** | **The rooster is inside the compound.** |
+| **Example: Inside** | **Duuntungho be koridaa kono.** | **The rooster is inside the compound.** |
 |  |  |  |
 |  |  |  |
 |  |  |  |
@@ -728,7 +728,7 @@ Follow these instructions for each grammar part
 
 | Target (Joining Word) | Simple Sentence Underline the Joining Word | English Translation |
 | :---- | :---- | :---- |
-| **Example: And** | **Mbaring nata jang ani a dokoma-muso.** | **My uncle came here and his young sister** |
+| **Example: And** | **Mbaring nata jang ani a dokoma-musoo.** | **My uncle came here and his young sister** |
 |  |  |  |
 |  |  |  |
 |  |  |  |
@@ -781,7 +781,7 @@ Follow these instructions for each grammar part
 
 | Target (Family/Respect) | Simple Sentence Underline the Family/Respect Word | English Translation |
 | :---- | :---- | :---- |
-| **Example: Senior Father** | **N’Fa-keba dou lea nata jang.** | **Our senior father came here.** |
+| **Example: Senior Father** | **N’Fa-kebaa dou lea nataa jang.** | **Our senior father came here.** |
 |  |  |  |
 |  |  |  |
 |  |  |  |
@@ -855,9 +855,9 @@ Here is how Griots use literary devices to teach history and culture.
 
 In many Western cultures, a vulture is seen as a scary scavenger. However, in Mandinka culture, the Vulture is a powerful **symbol** of fearlessness and military might.
 
-There is a famous traditional song called **"Duwo"** (The Vulture). It is considered one of the oldest and most respected songs in the Mandinka repertoire.
+There is a famous traditional song called **"Duwoo"** (The Vulture). It is considered one of the oldest and most respected songs in the Mandinka repertoire.
 
-* **The Symbolism:** The vulture is a bird that eats what others fear to touch. Therefore, the song "Duwo" is only played for the bravest warriors or great leaders. It tells the audience: *"This person is as fearless as the vulture."*
+* **The Symbolism:** The vulture is a bird that eats what others fear to touch. Therefore, the song "Duwoo" is only played for the bravest warriors or great leaders. It tells the audience: *"This person is as fearless as the vulture."*
 
   ### **Personification: The Talking Animals**
 
@@ -996,7 +996,7 @@ This **Bio-Cultural Field Guide** is designed to be the ultimate companion for y
 | **Physical Appearance** | **Biological Science** | Identify the **Species**. Note the beak shape (diet), plumage (mating/health), and size. |
 | **Vocalizations** | **Ornithology / Bird Language** | Record the call. Is it a **Song** (territory) or an **Alarm** (predator nearby)? Use bioacoustics to map the pitch. |
 | **The Name** | **Linguistic Science** | What is the **Mandinka name**? Does the name sound like the bird (onomatopoeia), or is it descriptive of its behavior? |
-| **The Story** | **Cultural Anthropology** | Ask the elder for the **Proverb** or **Tano** (taboo). Why does this bird matter to the *Kabilo*? |
+| **The Story** | **Cultural Anthropology** | Ask the elder for the **Proverb** or **Tanoo** (taboo). Why does this bird matter to the *Kabiloo*? |
 
 ---
 
@@ -1013,9 +1013,9 @@ This **Bio-Cultural Field Guide** is designed to be the ultimate companion for y
 
 ### **Linguistic Science & Cultural Anthropology**
 
-* **Mandinka Name:** *Duwo*  
-* **The Metaphor:** "The *Duwo* follows the king."  
-* **Anthropological Context:** The vulture represents the **Jali** (Griot) or the **Warrior**. It is seen as a bird of high status because it only attends "great events." It is often a *Tano* (taboo) for lineages tied to the ancient Mali Empire.
+* **Mandinka Name:** *Duwoo*  
+* **The Metaphor:** "The *Duwoo* follows the king."  
+* **Anthropological Context:** The vulture represents the **Jali** (Griot) or the **Warrior**. It is seen as a bird of high status because it only attends "great events." It is often a *Tanoo* (taboo) for lineages tied to the ancient Mali Empire.
 
 ---
 
@@ -1062,7 +1062,7 @@ Here are the four key figures for your oral history project:
 The hunters are the ultimate masters of Mandinka "Ethno-ornithology."
 
 * **Why them:** They don't just know birds; they know the *behavior* and *language* of birds. They can distinguish between a bird’s "alarm call" (danger is near) and its "feeding call."  
-* **What to ask:** Ask about the birds of the "deep bush" (*Wuloo*)—the ones rarely seen by villagers. Ask about the secret names of birds used only by hunters to protect their "power" (*Sembo*).  
+* **What to ask:** Ask about the birds of the "deep bush" (*Wuuloo*)—the ones rarely seen by villagers. Ask about the secret names of birds used only by hunters to protect their "power" (*Semboo*).  
 * **Linguistic Domain:** Look for terms related to **Danayaa** (the way of the hunter).
 
 ## The *Senelaa* (The Traditional Farmer) {#the-senelaa-(the-traditional-farmer)}
@@ -1070,18 +1070,18 @@ The hunters are the ultimate masters of Mandinka "Ethno-ornithology."
 Farmers view birds through the lens of the agricultural cycle.
 
 * **Why them:** To a farmer, birds are either competitors (eating seeds) or indicators (signaling the rain). They have a "utilitarian" relationship with the sky.  
-* **What to ask:** Ask which birds follow the plow and which birds disappear when the drought begins. Ask about the "scarecrow" songs or chants children use to protect the rice fields from weaver birds (*Kewulo*).  
-* **Linguistic Domain:** Focus on **Seno** (farming) and **Karo** (months/seasons).
+* **What to ask:** Ask which birds follow the plow and which birds disappear when the drought begins. Ask about the "scarecrow" songs or chants children use to protect the rice fields from weaver birds (*Keewulo*).  
+* **Linguistic Domain:** Focus on **Senno** (farming) and **Karo** (months/seasons).
 
 ## The *Jali* (The Griot) {#the-jali-(the-griot)}
 
 While the hunter knows the bird's habits, the Griot knows the bird's *epic history*.
 
 * **Why them:** Griots preserve the "Praise Songs" (*Jamuroo*) of the great clans. Many of these songs use bird metaphors to describe the nobility or ferocity of ancestors.  
-* **What to ask:** "Why is the Vulture (*Duwo*) the bird of the warrior?" or "In the story of Sunjata, which bird acted as a spy or messenger?"  
-* **Linguistic Domain:** Focus on **Jamurango** (praise names) and **Kuma koto** (deep/hidden speech).
+* **What to ask:** "Why is the Vulture (*Duwoo*) the bird of the warrior?" or "In the story of Sunjata, which bird acted as a spy or messenger?"  
+* **Linguistic Domain:** Focus on **Jamurrango** (praise names) and **Kuma koto** (deep/hidden speech).
 
-## The *Kantarala* or kunu *damalaa* (Bird-Catchers and Youth) {#the-kantarala-or-kunu-damalaa-(bird-catchers-and-youth)}
+## The *Kantarrala* or kunu *demalaa* (Bird-Catchers and Youth) {#the-kantarrala-or-kunu-demalaa-(bird-catchers-and-youth)}
 
 Often, the younger boys in the village who spend their days herding cattle or playing in the bush have a very "hands-on" knowledge of small birds.
 
@@ -1121,8 +1121,8 @@ This guide provides a structured "Question Bank" for each of the key figures in 
 
 **Theme:** Survival, Spiritual Power, and the Language of the Bush.
 
-* **Communication:** "When you are deep in the *Wuloo* (bush), which bird is your 'lookout'? How do you interpret its different cries compared to its morning song?"  
-* **The Forbidden:** "Are there birds that carry *kuntofingo* (dangerous spiritual energy)? What happens to a hunter who accidentally harms a bird of the night, like the *Kikiyong* (Owl)?"  
+* **Communication:** "When you are deep in the *Wuuloo* (bush), which bird is your 'lookout'? How do you interpret its different cries compared to its morning song?"  
+* **The Forbidden:** "Are there birds that carry *kunto-fingo* (dangerous spiritual energy)? What happens to a hunter who accidentally harms a bird of the night, like the *Kikiyong* (Owl)?"  
 * **The Secret Names:** "We know the common names for birds, but what are the 'Hunters' Names' for the Great Eagle or the Vulture? Why must those names stay secret from the village?"  
 * **The Contract:** "How do you 'repay' the Honeyguide bird when it leads you to a hive? What does the bird say if you forget to leave its share?"
 
@@ -1130,8 +1130,8 @@ This guide provides a structured "Question Bank" for each of the key figures in 
 
 **Theme:** History, Clan Alliances, and Heroic Metaphor.
 
-* **The Praise-Song:** "In the *Duwo* (Vulture) song, why is the warrior compared to a bird that doesn't hunt? What is the hidden meaning of 'waiting for the king'?"  
-* **The Origin of Names:** "Is there a bird mentioned in the history of our *kontongwo* (Surname)? How did a bird help our first ancestor survive or find his path?"  
+* **The Praise-Song:** "In the *Duwoo* (Vulture) song, why is the warrior compared to a bird that doesn't hunt? What is the hidden meaning of 'waiting for the king'?"  
+* **The Origin of Names:** "Is there a bird mentioned in the history of our *kontongwoh* (Surname)? How did a bird help our first ancestor survive or find his path?"  
 * **The Messenger:** "In the old epics, which bird was used as a spy between kings? How did the bird carry the message without being caught?"  
 * **Linguistic Beauty:** "When you want to describe a person with a 'noble heart' or a 'wicked mind,' which bird metaphors do you use in your poetry?"
 
@@ -1140,7 +1140,7 @@ This guide provides a structured "Question Bank" for each of the key figures in 
 **Theme:** Seasons, Wealth, and Environmental Reading.
 
 * **The Rain-Reader:** "Which bird arrives just before the first rain falls? Does its flight pattern tell you if the harvest will be 'fat' or 'lean'?"  
-* **The Field Battle:** "When the *Kewulo* (Weaver Birds) descend on the rice, what are the specific songs or chants the children use to chase them? Can you recite the words of that 'war' between the child and the bird?"  
+* **The Field Battle:** "When the *Keewulo* (Weaver Birds) descend on the rice, what are the specific songs or chants the children use to chase them? Can you recite the words of that 'war' between the child and the bird?"  
 * **The Work Partner:** "Why do we say the *Ninsi-malo* (Cattle Egret) is the friend of the cow? What does the farmer learn about his cattle by watching where the egrets land?"  
 * **The Soil:** "Are there birds that tell you when a piece of land is 'tired' and needs to rest? How do they give you that signal?"
 
@@ -1148,12 +1148,12 @@ This guide provides a structured "Question Bank" for each of the key figures in 
 
 **Theme:** Domestic Harmony (*Ba-dingya*), Folktales, and Healing.
 
-* **The Moral Tale:** "When you tell stories to the children at night, which bird is always the hero, and which one is the villain? What lesson does the *Suluwo* (Hyena) learn from the bird?"  
-* **The Household Bird:** "Why is the *Seesea* (Chicken) the bird of hospitality? If a woman gives a guest the 'wrong' part of the chicken, what linguistic message is she sending?"  
+* **The Moral Tale:** "When you tell stories to the children at night, which bird is always the hero, and which one is the villain? What lesson does the *Suluwoo* (Hyena) learn from the bird?"  
+* **The Household Bird:** "Why is the *Seysaa* (Chicken) the bird of hospitality? If a woman gives a guest the 'wrong' part of the chicken, what linguistic message is she sending?"  
 * **Healing:** "Are there bird feathers or eggshells used in traditional medicines for children? Which bird helps 'cool' a fever or protect a baby from the 'evil eye'?"  
-* **The Mother’s Voice:** "There is a proverb about a bird not forgetting its nest. How do you use that phrase to keep the youth connected to the *Kabilo*?"
+* **The Mother’s Voice:** "There is a proverb about a bird not forgetting its nest. How do you use that phrase to keep the youth connected to the *Kabiloo*?"
 
-## The Fundinkea/kunu damelaa (The Youth / Bird-Catchers) {#the-fundinkea/kunu-damelaa-(the-youth-/-bird-catchers)}
+## The Fundinkea/kunu damelaa (The Youth / Bird-Catchers) {#the-fundinkeaa/kunu-demelaa-(the-youth-/-bird-catchers)}
 
 **Theme:** Play, Curiosity, and Modern Adaptation.
 
@@ -1202,10 +1202,10 @@ This requires patience and a good ear.
 
 1. **Identify the Target Bird:** Start with easily recognizable birds from the Cheat Sheet (e.g., Rooster, Vulture, Weaver Bird, Francolin).  
 2. **Locate the Bird:**  
-   * **Rooster (*Duntungo*):** Find them in any compound. Their crow is distinctive.  
-   * **Weaver Bird (*Kewulo*):** Look for their intricate hanging nests, often near water or palm trees. Listen for their chattering.  
+   * **Rooster (*Duuntungho*):** Find them in any compound. Their crow is distinctive.  
+   * **Weaver Bird (*Keewulo*):** Look for their intricate hanging nests, often near water or palm trees. Listen for their chattering.  
    * **Francolin (*Woloo*):** Often heard calling in the bush or agricultural fields in the early morning or late afternoon.  
-   * **Vulture (*Duwo*):** Look for them soaring high above or perched on tall trees near markets or communal areas.  
+   * **Vulture (*Duwoo*):** Look for them soaring high above or perched on tall trees near markets or communal areas.  
 3. **Choose the Right Time:**  
    * **Early Morning (Dawn):** Best for most songbirds and the rooster's crow.  
    * **Late Afternoon (Dusk):** Good for evening calls.  
@@ -1324,7 +1324,7 @@ Every time you hit **"This is my bird\!"** in the app, you’re helping scientis
 [RELOCATED FROM: New, Next, Now - What Do You Carry Forward?]
 # New, Next, Now \- What Do You Carry Forward? {#new,-next,-now---what-do-you-carry-forward?}
 
-Asking the younger generation—the ones who actually sat at the feet of the elders to record these stories—is where the "living" part of anthropology happens. In Mandinka culture, the youth are often caught between **Maneeya** (modernity/individualism) and **Aado** (tradion/custom).
+Asking the younger generation—the ones who actually sat at the feet of the elders to record these stories—is where the "living" part of anthropology happens. In Mandinka culture, the youth are often caught between **Jamanoo/Fantarrambuloo** (modernity/individualism) and **Aadoo/Chosanoo** (tradion/custom).
 
 To understand their transformation, you should ask questions that focus on their **identity shift**, their **emotional burden**, and their **linguistic discovery**.
 
@@ -1332,7 +1332,7 @@ To understand their transformation, you should ask questions that focus on their
 
 These questions explore how the task changed their sense of self within the clan.
 
-* **The "Name" Weight:** "Before this project, your *kontongo* (surname) was just a word on an ID card. Now that you know its 'praise-song' and history, does the name feel 'heavier' when you say it out loud?"  
+* **The "Name" Weight:** "Before this project, your *kontongho* (surname) was just a word on an ID card. Now that you know its 'praise-song' and history, does the name feel 'heavier' when you say it out loud?"  
 * **The Responsibility Shift:** "After hearing the Patriarch speak about the ancestors' sacrifices, do you feel like you are living only for yourself, or do you feel you are now 'carrying' the ancestors with you?"  
 * **The Mirror Effect:** "Which ancestor that you learned about reminds you most of yourself? Did learning about their flaws make you feel better about your own?"
 
@@ -1341,16 +1341,16 @@ These questions explore how the task changed their sense of self within the clan
 Mandinka is a language of "hidden" meanings. These questions probe what they learned about the power of their own tongue.
 
 * **The "Lost" Words:** "What were the words or proverbs the elders used that you had never heard in the city or at school? Why do you think those words are 'disappearing' from your generation?"  
-* **The Tone of Respect:** "Did you find yourself changing your voice or the way you sat when the elders started talking about the 'sacred' parts of the family history? How did your body 'learn' Mandinka respect (*Londo*) during the interview?"  
+* **The Tone of Respect:** "Did you find yourself changing your voice or the way you sat when the elders started talking about the 'sacred' parts of the family history? How did your body 'learn' Mandinka respect (*Londoo*) during the interview?"  
 * **The Translation Gap:** "Were there things the elders told you in Mandinka that you found impossible to translate into English or French? What 'feeling' was lost in the translation?"
 
 ## Questions About the Emotional Experience {#questions-about-the-emotional-experience}
 
 This targets the **Ba-dingya** (social harmony) and the personal connection.
 
-* **The Surprise Factor:** "What was the one thing a *Muso-keba* (Matriarch) told you that completely changed how you look at your own mother or grandmother?"  
+* **The Surprise Factor:** "What was the one thing a *Musu-keba* (Matriarch) told you that completely changed how you look at your own mother or grandmother?"  
 * **The Moment of Silence:** "Was there a moment during the oral history when the elder stopped talking or became emotional? What was happening in that silence?"  
-* **The Connection:** "Do you feel like the 'gap' between you and the elders has become smaller? If you had to explain the importance of your *Kabilo* to a friend who lives abroad, what is the first story you would tell them?"
+* **The Connection:** "Do you feel like the 'gap' between you and the elders has become smaller? If you had to explain the importance of your *Kabiloo* to a friend who lives abroad, what is the first story you would tell them?"
 
 ## **The "Action" Questions (The Future)** {#the-"action"-questions-(the-future)}
 
@@ -1394,7 +1394,7 @@ This session is designed to help them process the emotional weight of what they�
 
 Ask each participant to bring one physical object or a specific "key word" from their interview that represents the heart of what they learned.
 
-* **The Question:** "If your family history was a single physical object, what would it be? Is it a sturdy iron tool (*Numoo* heritage), a soft piece of ladders and woven cloth (*Farabayaa*), or a seed waiting to be planted?"  
+* **The Question:** "If your family history was a single physical object, what would it be? Is it a sturdy iron tool (*Numoo* heritage), a soft piece of ladders and woven cloth (*Farrabayaa*), or a seed waiting to be planted?"  
 * **The Goal:** To move from abstract history to concrete, personal symbolism.
 
 ## Mapping the "Emotional Geography" {#mapping-the-"emotional-geography"}
@@ -1402,14 +1402,14 @@ Ask each participant to bring one physical object or a specific "key word" from 
 Use a large shared map or a whiteboard to draw the family connections they discovered.
 
 * **The Question:** "Look at the paths your ancestors traveled. Where did they suffer, and where did they find peace? How does seeing your family’s 'map' change how you feel when you walk through your neighborhood today?"  
-* **The Goal:** To visualize the **Kabilo** not just as community but as a journey across time and space.
+* **The Goal:** To visualize the **Kabiloo** not just as community but as a journey across time and space.
 
 ## The "Translation Challenge" (Linguistic Domain) {#the-"translation-challenge"-(linguistic-domain)}
 
 Have the youth work in pairs to try and translate a specific proverb or "praise-word" they recorded into a modern context (like a social media post or a song).
 
 * **The Question:** "The elders used the word \[X\] to describe honor. If you had to explain that same feeling to someone your age using modern language, how would you do it without losing the 'soul' of the word?"  
-* **The Goal:** To bridge the gap between **Aado** (tradition) and the digital age.
+* **The Goal:** To bridge the gap between **Aadoo** (tradition) and the digital age.
 
 ## The "Oath of the New Griot" {#the-"oath-of-the-new-griot"}
 
@@ -1424,9 +1424,9 @@ Concluding the workshop with a forward-looking commitment.
 
 By the end of this process, the you should be able to articulate three things:
 
-1. **Your Roots:** The specific logic of their *kontongo* (Surname) and *siyo* (Clan).  
+1. **Your Roots:** The specific logic of their *kontongho* (Surname) and *seyoo* (Clan).  
 2. **Your Language:** The "deep" meanings of kinship terms that go beyond daily greetings.  
-3. **Your Role:** How to balance their modern individual identity with the collective weight of the *Kabilo*.
+3. **Your Role:** How to balance their modern individual identity with the collective weight of the *Kabiloo*.
 
 **Reflection Note:** In cultural anthropology, we say the "fieldworker is the instrument." By doing this task, the youth didn't just study a culture; they *became* the primary evidence of that culture’s survival and adaptation.
 
