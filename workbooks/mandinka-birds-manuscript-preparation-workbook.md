@@ -812,7 +812,7 @@ Use one "Strange Word" (like a specific term for a group or a rare sound) in a f
 
 ---
 
-### **Coordinator’s "Session 2" Guidance from Mr. Dibbasey**
+### **Your "Session 2" Focus from Mr. Dibbasey**
 
 * **Volume Over Perfection:** Do your best at spelling. However, do not worry too much about perfect spelling; we need the volume of sentences to train the system.  
 * **Grammar Capture:** Ensure to use all three tenses (past, present and future), as this is how the AI learns the language structure.  
