@@ -821,7 +821,7 @@ Use one "Strange Word" (like a specific term for a group or a rare sound) in a f
 ## Chapter 4 — Creative Writing and The Book
 
 **NOTE**
-The book mockup must be made before writing begins. Do not skip this step. If you are holding a book with your name on the cover you are already an author; the question now is what goes on each page.
+The book mockup must be made before writing begins. Do not skip this step. If you are holding a book with your name on the cover, you are already an author; the question now is what goes on each page.
 
 **STUDENT BRIEF**
 This week gives you a full creative toolkit and a real physical book mockup so your writing decisions become concrete and publishable.
