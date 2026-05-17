@@ -2,76 +2,74 @@
 
 # AIWA Digital Griot Workbook: Kinship Domain
 
-This workbook is for Senior Secondary and Upper Basic students in The Gambia who are lifelong fluent Mandinka speakers learning to write and publish Mandinka content as commissioned authors. AIWA is a media and publishing company, and students are authors, producers, and knowledge holders.
+## Inside Front Page
 
-Production format requirements: A4 output, mirror margins for binding, Noto Sans throughout, distinct visual table formatting, and headers/footers that include document title, chapter name, and page number.
-
-Export and typesetting note: each chapter begins on a new page; Mandinka terms are bold on first use with English in parentheses.
-
-# Gambian Mandinka Clan and Kinship Traditions: Past and Present
-
-
-Ancestral Intelligence World Archive
-
-\newpage
-
-## Chapter 1 — The Domain
-
-**COORDINATOR NOTE**
-This chapter is reading, discussion, and discovery — not production. Let it breathe across the full session. Watch for students who light up at specific sections — the Kankurang, the joking cousins, and the generational naming. Those are the students whose proverbs will be richest in Chapter 4. Note which students have griot lineage connections — they are primary assets for Chapter 5.
-
-**STUDENT BRIEF**
-This week expands what you already know about Mandinka kinship by giving you stronger English vocabulary, academic framing, and historical depth so you can later write sharper Mandinka proverbs as an author.
+Written by Max Barrett. Published by AI West Africa in partnership with MaximillianGroup. Program Director: Muhammed Dibbasey, Managing Director, AI West Africa. Copyright AI West Africa and MaximillianGroup. All rights reserved. Student work produced within this program is attributed to the student author. AI West Africa retains publishing, distribution, and licensing rights to all compiled works. This workbook is the property of the student whose name appears on the cover.
 
 ## Table of Contents
 
-- [Chapter 1 — The Domain](#chapter-1--the-domain)
-- [Chapter 2 — Words and Spelling](#chapter-2--words-and-spelling)
-- [Chapter 3 — Grammar](#chapter-3--grammar)
-- [Chapter 4 — Creative Writing and The Book](#chapter-4--creative-writing-and-the-book)
-- [Chapter 5, Part 1 — Preparing for the Field](#chapter-5-part-1--preparing-for-the-field)
-- [Chapter 5, Part 2 — The Field](#chapter-5-part-2--the-field)
-- [Chapter 6 — The Debrief](#chapter-6--the-debrief)
-- [Chapter 7 — Production](#chapter-7--production)
+1. Chapter 1 — The Domain
+2. Chapter 2 — Words and Spelling
+3. Chapter 3 — Grammar
+4. Chapter 4 — Creative Writing and the Book
+5. Chapter 5, Part 1 — Preparing for the Field
+6. Chapter 5, Part 2 — The Field
+7. Chapter 6 — The Debrief
+8. Chapter 7 — Production
 
-# Introduction {#introduction}
+---
+
+# Chapter 1 — The Domain
+
+**AIWA CHAPTER OPENER**  
+Domain expansion for kinship writing with historical, linguistic, social-science, and ancestral framing.
+
+**AIWA Coordinator Note**  
+This chapter is reading and discussion — not production. Let it breathe across the full session. Watch for students who respond strongly to the Kankurang, joking cousins, or generational naming sections. Note which students have griot lineage connections — they are primary assets for Chapter 5. The English content is a scaffold. Their kinship knowledge is the subject.
+
+**AIWA Student Brief**  
+Here is what the world has written about Mandinka kinship. Some of it you already knew. Some of it will surprise you. Some of it is incomplete — missing the most important parts that only you can supply. The gap between what is written here and what you know is where your writing begins.
+
+## Introduction
 
 Mandinka family and kinship are not only defined by patrilineal descent and age‑graded authority; they are also sustained by a rich body of oral literature, music and ritual. These expressive traditions strengthen bonds within and between lineages, transmit genealogies and moral codes, and mark key points in the life cycle.
 
-## Oral tradition and griots (jali) {#oral-tradition-and-griots-(jali)}
+### Oral tradition and griots (jali)
 
 Mandinka kin groups have hereditary praise‑singers known as **griots** (also called jali). Griots belong to a specialist lineage within the caste system and act as the collective memory of families and clans. They recite genealogies, family histories and praise poems; their storytelling is ritualised and often accompanied by a harp‑like instrument called the **kora**. Through epics such as the *Sundiata* story and praise poems for ancestors, griots teach clan members about heroic deeds, obligations and the origin of joking relationships. The oral repertoire includes historical narratives, proverbs, riddles and praise songs that reinforce lineage identity and social norms. In Mandinka communities, learning is traditionally transmitted through such stories, proverbs and songs, and griots “represent the collective memory of the tribe”.
 
-## Songs, poetry and instruments {#songs,-poetry-and-instruments}
+### Songs, poetry and instruments
 
 Music is integral to Mandinka social life. Griots sing **praise songs** for patrons and recite rhymed praise phrases with drum accompaniment. The **kora** (21‑stringed harp) and **balaphon** (wooden xylophone) accompany these performances. Mandinka oral literature is not limited to epic tales; it includes poetic stories such as *Lansinet* and *Soumba*, which reveal emotional depth. During agricultural work, families sing communal work songs; children play singing games, and warriors learn songs to gain courage during circumcision rituals. Songs are also used to bring rain or healing, and proverbs or veiled songs serve as indirect communication when avoiding confrontation.
 
-## Ceremonies and rites of passage {#ceremonies-and-rites-of-passage}
+### Ceremonies and rites of passage
 
 Mandinka kinship is celebrated through ceremonies that mark the life cycle:
 
-* **Naming ceremonies (baptism)** – A child remains indoors for seven days after birth; then the head is shaved and the baby is named. A bird or sheep may be sacrificed, and communal songs accompany the event.  
-* **Circumcision and puberty initiations** – Boys and girls undergo circumcision between ages 4–14. Initiates spend weeks in a “bush camp” where they learn secret songs, adult responsibilities and appropriate relations between the sexes. On their return, the village honours them with dancing and new respect. The **Kankurang** masked figure plays a protective role during these rites. Clad in red bark or leaves, the Kankurang carries a machete and guards initiates from evil spirits; he also appears at naming ceremonies, weddings and even Christmas festivities. Different masks (Ifangbondi, Jamba Wulengo kankurang) teach discipline, social rules, brotherhood and herbal knowledge.  
-* **Marriage rites** – Weddings often involve the exchange of bridewealth and are accompanied by griot songs and drumming. The Kankurang may escort the bride and enforce propriety. Women form singing circles that use praise songs and jokes to support the couple.  
-* **Funerals and ancestor veneration** – Funerals mobilise extended kin. Griots recite the deceased’s lineage and ancestors while drummers play mournful rhythms. Ritual charity is made on the third and fortieth days after death to mark the final separation of the deceased.
+- **Naming ceremonies (baptism)** – A child remains indoors for seven days after birth; then the head is shaved and the baby is named. A bird or sheep may be sacrificed, and communal songs accompany the event.
+- **Circumcision and puberty initiations** – Boys and girls undergo circumcision between ages 4–14. Initiates spend weeks in a “bush camp” where they learn secret songs, adult responsibilities and appropriate relations between the sexes. On their return, the village honours them with dancing and new respect. The **Kankurang** masked figure plays a protective role during these rites. Clad in red bark or leaves, the Kankurang carries a machete and guards initiates from evil spirits; he also appears at naming ceremonies, weddings and even Christmas festivities. Different masks (Ifangbondi, Jamba Wulengo kankurang) teach discipline, social rules, brotherhood and herbal knowledge.
+- **Marriage rites** – Weddings often involve the exchange of bridewealth and are accompanied by griot songs and drumming. The Kankurang may escort the bride and enforce propriety. Women form singing circles that use praise songs and jokes to support the couple.
+- **Funerals and ancestor veneration** – Funerals mobilise extended kin. Griots recite the deceased’s lineage and ancestors while drummers play mournful rhythms. Ritual charity is made on the third and fortieth days after death to mark the final separation of the deceased.
 
-## Joking kinship and Sanankouya/Sanowaya {#joking-kinship-and-sanankouya/sanowaya}
+### Joking kinship and Sanankouya/Sanowaya
 
 Beyond biological kin, Mandinka clans participate in **joking relationships**. Under the ethic of **sanankouya/sanowaya** (joking cousinhood), certain clans are obligated to tease and make humorous insults toward each other while also offering mutual support. This “joking cousinhood” was established under Sundiata Keïta and is designed to ease inter‑clan tensions and reinforce bonds among Mandinka, Wolof and Fulani. Anthropologists note that in the Mandinka trade language, joking ties are called **sanaweyaa/sanowaya** or **dankutoo**, and these ties carry mutual obligations and behavioural taboos. Individuals who share these ties are allowed freedom of speech and must not become angry at teasing; harming a joking partner is strongly prohibited. Mediators use joking kinship to persuade disputants to reconcile, and Mandinka say “joking relations are essential to peacemaking”.
 
-## Role of women in music and dance {#role-of-women-in-music-and-dance}
+### Role of women in music and dance
 
 While griots are typically male, women play crucial roles in musical life. Ceremonial music and dance are often led by women. Mandinka women participate in harvest celebrations, headman recognition, and fishing‑success ceremonies, using elaborate arm and leg movements and drumming. During initiation, a “circumcision queen” acts as the senior female religious leader and teaches girls child‑rearing and medicine.
 
-## Social teaching and moral codes {#social-teaching-and-moral-codes}
+### Social teaching and moral codes
 
 Stories and poems communicate moral lessons—respect for elders, bravery, generosity and caution toward supernatural forces. The Mandinka avoid direct confrontation; instead they rely on proverbs and songs to deliver criticism or advice. Children learn verses from the Qur’an, Islamic teachings and Mandinka lore. Joking kinship and praise songs remind individuals that their actions reflect on their lineage and that social harmony depends on humour and mutual support.
 
-## Strategic significance {#strategic-significance}
+### Strategic significance
 
 These stories, songs and rituals are not merely cultural curiosities; they are central to Mandinka kinship. Oral epics preserve the memory of ancestors and reinforce patrilineal descent. Praise songs at weddings and funerals publicly affirm lineage alliances. Initiation rites and the Kankurang ensure that youth internalise community values and solidarity. Joking relationships provide a grassroots mechanism for conflict resolution and inter‑clan cooperation. For anyone seeking to engage Mandinka communities—whether in development, education or cultural promotion—respecting and supporting these oral traditions and ceremonies is essential to building trust and harnessing kinship networks for positive change.
 
-# Mandinka Family, Clan, and Kinship Traditions {#mandinka-family,-clan,-and-kinship-traditions}
+## Mandinka Family, Clan, and Kinship Traditions
+
+ {#mandinka-family,-clan,-and-kinship-traditions}
 
 Imagine life in a Mandinka village in West Africa, where family ties run deep and history is kept alive through stories and songs. The Mandinka people (a branch of the Mandé cultural group) live across countries like **Mali**, **Senegal**, **Gambia**, and **Guinea**, often in small rural villages. Most Mandinkas traditionally live with their **extended families** in mud-brick compounds, forming close-knit communities. These traditions stretch back hundreds of years to the days of the Mali Empire founded by the legendary Sundiata Keita. In this article, we’ll explore how Mandinka families are organized, how they celebrate life’s milestones, and how their oral storytelling connects each generation to a proud heritage. Along the way, we’ll see how some customs have changed over time while others remain much as they were in the time of Sundiata.
 
@@ -117,9 +115,9 @@ Through all these ceremonies – birth, initiation, marriage, and funeral rites 
 
 ## Stories, Griots, and the Oral Tradition {#stories,-griots,-and-the-oral-tradition}
 
-When the day’s work is done and the moon rises over a Mandinka village, you might hear the gentle sound of a **kora** stringed harp and the voice of a **griot** carrying a story into the night. The Mandinka are famed for their rich **oral tradition**, which means they pass down history, moral lessons, and cultural identity through spoken words – stories, songs, poems – rather than written text. **Griots** (called *jali* or *jali* in Mandinka) are the skilled storytellers and musicians who serve as living libraries of the people. For centuries, griot families have memorized long historical epics, genealogies (family trees), and proverbs and teachings, sharing them at important events or informal gatherings. They are often compared to bards or troubadours. A griot might sing the praises of a family at a wedding, recount the deeds of ancestors at a naming ceremony, or simply entertain with an animal fable that carries a lesson. These performances are usually accompanied by traditional instruments – especially the **kora**, a unique 21-string harp-lute that is the hallmark of Mandinka music.
+When the day’s work is done and the moon rises over a Mandinka village, you might hear the gentle sound of a **kora** stringed harp and the voice of a **griot** carrying a story into the night. The Mandinka are famed for their rich **oral tradition**, which means they pass down history, moral lessons, and cultural identity through spoken words – stories, songs, poems – rather than written text. **Griots** (called *jali* or *jali* in Mandinka) are the skilled storytellers and musicians who serve as living libraries of the people. For centuries, griot families have memorized long historical epics, genealogies (family trees), and folktales, sharing them at important events or informal gatherings. They are often compared to bards or troubadours. A griot might sing the praises of a family at a wedding, recount the deeds of ancestors at a naming ceremony, or simply entertain with an animal fable that carries a lesson. These performances are usually accompanied by traditional instruments – especially the **kora**, a unique 21-string harp-lute that is the hallmark of Mandinka music.
 
-*A Mandinka **griot** performs on the **kora**, a 21-string West African harp made from a calabash gourd. Griots are tradition keepers who preserve memories through song, keeping alive epics like that of Sundiata Keita through generations.* The kora has a beautiful, melodic sound somewhat like a blend between a harp and a guitar. It’s made from a **calabash gourd** cut in half and covered with cow skin to form a resonator, with a long wooden neck and twenty-one strings made of fishing line or nylon (traditionally, strings were from twisted animal hide). Griots pluck its strings rapidly with their fingers, producing cascading notes that can be both lively and soothing. Along with the kora, griots may also play the **balafon** (a wooden xylophone) and the **djembe** drum, or collaborate with other musicians. However, the true power of the griot lies in his or her voice and memory. Griots often begin a tale with a catchy call like “*Listen, all listeners\!*” and then weave in song verses, narration, and dialogue, holding the audience in rapt attention. Through these oral arts, the **history and values** of the Mandinka are taught in an engaging way.
+*A Mandinka **griot** performs on the **kora**, a 21-string West African harp made from a calabash gourd. Griots are oral historians who sing stories of the past, keeping alive epics like that of Sundiata Keita through generations.* The kora has a beautiful, melodic sound somewhat like a blend between a harp and a guitar. It’s made from a **calabash gourd** cut in half and covered with cow skin to form a resonator, with a long wooden neck and twenty-one strings made of fishing line or nylon (traditionally, strings were from twisted animal hide). Griots pluck its strings rapidly with their fingers, producing cascading notes that can be both lively and soothing. Along with the kora, griots may also play the **balafon** (a wooden xylophone) and the **djembe** drum, or collaborate with other musicians. However, the true power of the griot lies in his or her voice and memory. Griots often begin a tale with a catchy call like “*Listen, all listeners\!*” and then weave in song verses, narration, and dialogue, holding the audience in rapt attention. Through these oral arts, the **history and values** of the Mandinka are taught in an engaging way.
 
 One of the most famous stories that Mandinka griots have preserved is the **Epic of Sundiata**. This is the legend of **Sundiata Keita**, the 13th-century prince who overcame great odds to become the founder of the Mali Empire, uniting the Mandinka people. For over 700 years – long before books or television – Mandinka griots have recounted Sundiata’s tale from memory, passing it down from teacher to apprentice in an unbroken chain. Even today, **griots still tell the story of Sundiata, who united the Mandinka people**. They tell of how young Sundiata was once a sickly, crippled boy whom everyone underestimated, and how he miraculously learned to walk and grew strong. They sing of his exile with his mother, his gathering of allies, and his triumphant return to defeat the cruel sorcerer-king Sumanguru Kanté at the Battle of Kirina (around 1235 CE). With vivid imagery and passionate music, the griot brings to life themes of destiny, courage, and unity – teaching listeners that through perseverance and virtue, even the lowliest person can rise to greatness. The epic of Sundiata is **foundational to Mandinka (Mandé) culture**, containing origin stories of clans and the very **laws and social principles** (like the joking relationships we discussed) that Sundiata supposedly established. Because of griots, this epic remained alive in people’s minds for centuries before it was ever written down. In fact, the first written version of the Sundiata story was not compiled until the 20th century, when a griot named Mamadou Kouyaté narrated it to researchers, who then published it as a book. But long before that, *every Mandinka child knew of brave Sundiata*, thanks to the griots’ performances around the fire.
 
@@ -127,11 +125,11 @@ Besides Sundiata, there are many other tales and songs in the griot repertoire �
 
 Importantly, griots traditionally come from griot families – it’s often a **hereditary profession**. A griot’s son or daughter (yes, there are female griots too, often called *griottes*) will start learning the craft as a child by listening to the elders. They learn genealogies (which can be incredibly long chains of names) by heart, practice instruments, and master the art of eloquence. By the time they are adults, they carry in their minds a library of songs and stories. Certain surnames, like **Kouyaté, Diabaté, Koné, or Kanté**, are recognized as griot lineages across the Mandinka world. These families were attached to noble families historically; for example, the Kouyaté were said to be the personal griots of Sundiata himself. There’s a Mandinka proverb: *“**Until the lion learns to speak, the tale of the hunt will glorify the hunter.**”* Griots, in a way, give a voice to the “lion” – they ensure that the perspectives and wisdom of the Mandinka people themselves are heard, not just written by outsiders.
 
-In contemporary times, the role of the griot has evolved but not disappeared. Many Mandinka children now attend modern schools and read books, but they still grow up hearing proverbs and teachings from parents and grandparents at home. Griots continue to perform at weddings, naming ceremonies, and national cultural festivals. In some places, famous griots have recorded albums or tour internationally as musicians, bringing the kora’s music to global audiences. For instance, **Jaliba Kuyateh** of Gambia and **Sona Jobarteh** (one of the first female kora virtuosos from a griot family) have become international stars, blending traditional Mandinka songs with modern styles. Their success shows how Mandinka oral tradition can find new life on the world stage. At the same time, there are initiatives to document and teach these traditions formally – you might find a Mandinka oral tradition record being taught in a university, or written compilations of proverbs and teachings being used in Gambian schools, ensuring that literacy complements rather than replaces the oral heritage. Technology, too, has made an impact: some griots now share their performances on radio, TV, or YouTube, reaching younger Mandinka who live in cities or abroad. Rather than gathering under the village bantaba (tree meeting place), a family might gather around a TV to watch a griot competition or listen to an audio recording of the Sundiata epic. Thus, the *form* of transmission adapts, but the *essence* remains – **Mandinka identity continues to be sung and spoken** from one generation to the next. As one modern griot noted in an interview, “Our stories are like the rope that ties us to our ancestors. We may add new strands to the rope, but we don’t let it break.” In short, the Mandinka oral tradition is a living, breathing legacy, ensuring that even as times change, the **voice of the ancestors** still echoes in the ears of the youth.
+In contemporary times, the role of the griot has evolved but not disappeared. Many Mandinka children now attend modern schools and read books, but they still grow up hearing proverbs and folktales from parents and grandparents at home. Griots continue to perform at weddings, naming ceremonies, and national cultural festivals. In some places, famous griots have recorded albums or tour internationally as musicians, bringing the kora’s music to global audiences. For instance, **Jaliba Kuyateh** of Gambia and **Sona Jobarteh** (one of the first female kora virtuosos from a griot family) have become international stars, blending traditional Mandinka songs with modern styles. Their success shows how Mandinka oral tradition can find new life on the world stage. At the same time, there are initiatives to document and teach these traditions formally – you might find a Mandinka oral history being taught in a university, or written compilations of folktales being used in Gambian schools, ensuring that literacy complements rather than replaces the oral heritage. Technology, too, has made an impact: some griots now share their performances on radio, TV, or YouTube, reaching younger Mandinka who live in cities or abroad. Rather than gathering under the village bantaba (tree meeting place), a family might gather around a TV to watch a griot competition or listen to an audio recording of the Sundiata epic. Thus, the *form* of transmission adapts, but the *essence* remains – **Mandinka identity continues to be sung and spoken** from one generation to the next. As one modern griot noted in an interview, “Our stories are like the rope that ties us to our ancestors. We may add new strands to the rope, but we don’t let it break.” In short, the Mandinka oral tradition is a living, breathing legacy, ensuring that even as times change, the **voice of the ancestors** still echoes in the ears of the youth.
 
 ## Connecting Past and Present {#connecting-past-and-present}
 
-The Mandinka people have a saying: *“ning e mai bodula long, e ta taa dula longna”* It means, “If you don’t know where you’re coming from, you won’t know where to go.” This reflects how deeply the Mandinka value their past and use it as a guide for the future. In the 21st century, Mandinka society looks different in some ways – modern houses have replaced some mud huts, many children go to school and read books, and technology and urbanization have made daily life faster. Yet, as a knowledgeable guide to Mandinka country will tell you, **the old traditions are still very much alive** amid all the change. You can visit a Mandinka home today and likely see three generations sitting together for a meal, the elders sharing proverbs and teachings as the youngest play at their feet. Families still give babies the names of revered ancestors, linking the newborn to the family’s history in an unbroken chain. Joking cousins still swap playful insults at social gatherings, provoking laughter and strengthening bonds, just as they did in Sundiata’s era. When important moments arrive – a child’s birth, a boy or girl coming of age, a marriage, a funeral – the community still gathers, maybe with a mix of modern convenience and traditional ritual, to mark the occasion in a Mandinka way.
+The Mandinka people have a saying: *“ning e mai bodula long, e ta taa dula longna”* It means, “If you don’t know where you’re coming from, you won’t know where to go.” This reflects how deeply the Mandinka value their past and use it as a guide for the future. In the 21st century, Mandinka society looks different in some ways – modern houses have replaced some mud huts, many children go to school and read books, and technology and urbanization have made daily life faster. Yet, as a knowledgeable guide to Mandinka country will tell you, **the old traditions are still very much alive** amid all the change. You can visit a Mandinka home today and likely see three generations sitting together for a meal, the elders sharing folktales as the youngest play at their feet. Families still give babies the names of revered ancestors, linking the newborn to the family’s history in an unbroken chain. Joking cousins still swap playful insults at social gatherings, provoking laughter and strengthening bonds, just as they did in Sundiata’s era. When important moments arrive – a child’s birth, a boy or girl coming of age, a marriage, a funeral – the community still gathers, maybe with a mix of modern convenience and traditional ritual, to mark the occasion in a Mandinka way.
 
 Some traditions have adapted to modern realities. For example, the **initiation rite** for boys is often shorter now (weeks rather than a year in seclusion) and may involve health professionals for the circumcision to ensure it’s safe, blending the old ritual with modern medicine. The **Kankurang mask**, once seen only in the secrecy of village rites, is now also showcased at cultural festivals – every year in places like Janjanbureh (in Gambia), there’s a Kankurang Festival where tourists and urban youths can witness this masquerade in a more public celebration. While this shift has made the practice less secretive, it also has helped to **preserve it** by sparking wider interest and pride. On the other hand, rapid urban growth has taken its toll: sacred forests where initiations were held have been cut down for farms and buildings, leading to concerns that some spiritual aspects of the traditions are fading. Elders sometimes lament that the authority of figures like the Kankurang or the strict adherence to initiation codes isn’t as strong as it once was, as modern youth are more exposed to outside ideas. Nonetheless, the essence of the tradition – teaching young people the **Mandinka code of conduct** – continues in new forms, whether through formal workshops or abbreviated retreats.
 
@@ -143,195 +141,54 @@ In conclusion, the Mandinka are **custodians of a profound legacy**, carrying fo
 
 **Sources:** The information in this article comes from a variety of references on Mandinka society, including ethnographic accounts and historical records of Mandinka culture, which document the enduring nature of Mandinka family structures, clan relationships, ceremonial practices, and oral traditions.
 
-# Academic Study {#academic-study}
+**Prepare to Deep Dive**
 
-To define **Cultural Anthropology** and **Linguistic Science** (usually referred to as **Linguistics**), it helps to see them as two different ways of studying what makes us human. While Cultural Anthropology looks at the "big picture" of how we live, Linguistics zooms in on the specific "operating system" we use to communicate.
+To explore the Mandinka social structure, we must move beyond Western definitions of "family" (the nuclear unit) and look toward **kabilo** (lineage/compound) and **siyo** (surname/clan). The Mandinka people of West Africa have a highly structured social hierarchy, and their kinship terms are often "performative"—meaning the words they use for relatives carry specific social obligations.
 
-## Cultural Anthropology: The Study of Human Ways of Life {#cultural-anthropology:-the-study-of-human-ways-of-life}
+The following questions are designed to move from the visible structure to the deep "linguistic domain" of Mandinka kinship.
 
-Cultural Anthropology is the study of how human societies are organized, how they create meaning, and how they adapt to their environments. Its primary goal is to understand **culture**—the shared knowledge, beliefs, behaviors, and institutions that characterize a group.
+## 1\. The Structural Layer: Beyond the Household {#1.-the-structural-layer:-beyond-the-household}
 
-* **Core Question:** "Why do people do what they do, and how does it make sense to them?"  
-* **Key Method:** **Ethnography**, which involves "Participant Observation" (living with a group to learn their way of life firsthand).  
-* **Focus Areas:** Kinship, religion, economics, politics, gender roles, and social hierarchy.
+These questions identify how Mandinka people categorize their social world.
 
-## Linguistic Science (Linguistics): The Science of Language {#linguistic-science-(linguistics):-the-science-of-language}
+* **The *Kabilo* vs. the *Suo*:** "In your daily life, where does the authority of the *Suo* (the immediate household) end and the authority of the *Kabilo* (the ancestral community) begin?"  
+* **The *Jamu* (Surname) Logic:** "When you meet a stranger with the same *jamuroo* (surname) as yours, what immediate linguistic 'short-cuts' or jokes (*sanawaya*) are used to establish a relationship before you even know their name?"  
+* **Patrilineal Weight:** "How does the phrase *'Fa-bulo'* (the father's side) dictate where a child belongs legally and spiritually, compared to the emotional role of the *'Ba-bulo'* (the mother's side)?"
 
-Linguistics is the systematic and scientific study of the nature, structure, and variation of human language. It treats language as a complex mental system and a biological capacity.
+## 2\. The Linguistic Heart: Relationships as Actions {#2.-the-linguistic-heart:-relationships-as-actions}
 
-* **Core Question:** "How is language structured, how is it acquired, and how does it change?  
-* **The "Structural" Layers:**  
-  * **Phonology:** The study of speech sounds and patterns  
-  * **Morphology:** How words are built from smaller units of meaning.  
-  * **Syntax:** The rules for how words form sentences.  
-  * **Semantics:** The study of literal meaning in language.  
-* **Focus Areas:** The mechanics of speech, the evolution of language families, and how the brain processes communication.
+In Mandinka, kinship terms aren't just labels; they are instructions for how to behave. These questions target the "unknowns" of interpersonal dynamics.
 
-## Where They Meet: Linguistic Anthropology {#where-they-meet:-linguistic-anthropology}
+* **The "Mother-Father" Spectrum:** "You call your father's brothers *'Fa-nding'* (junior father) or *'Fa-keba'* (senior father). How does your behavior change when speaking to a *Fa-nding* versus your biological father?"  
+* **Sanawaya (Joking Relationships):** "Between specific clans (like the Keita and the Traore), there is a 'joking relationship.' What are the linguistic 'rules' of this play, and how does this verbal sparring prevent actual social conflict?"  
+* **The Power of the *Bari-muso*:** "The mother’s brother (maternal uncle) holds a unique position. Why is his blessing considered more 'binding' than a father's in certain life transitions, and what specific terms of respect are reserved only for him?"
 
-There is a bridge between these two called **Linguistic Anthropology**. This field doesn't just study how language is *built* (like a linguist), but how language is *used* to create social life.
+## 3\. The "Deep" Domain: Caste and Social Memory {#3.-the-"deep"-domain:-caste-and-social-memory}
 
-| Feature | Cultural Anthropology | Linguistic Science (Linguistics) |
-| :---- | :---- | :---- |
-| **Primary Unit** | A Culture or Society | A Language or Dialect |
-| **Main Goal** | Understand social behavior | Understand language systems |
-| **Approach** | Holistic (interconnected parts) | Analytic (breaks language into parts) |
-| **Example** | Studying the rituals of a Mandinka wedding. | Analyzing the grammar and sounds of the Mandinka language. |
+Mandinka culture is traditionally stratified into *Nyamboo* (nobles/freemen) and *Nyamakala* (specialized craftspeople/griots). These questions explore how kinship intersects with class.
 
-**Analogy:** If human society were a computer, **Linguistics** would be the study of code and software architecture, while **Cultural Anthropology** would be the study of how people **use the computer** to build communities, trade goods, and tell stories.
+* **The *Jali* (Griot) Connection:** "If a family is of *Jali* lineage, how does their 'kinship' extend to the noble families they serve? Do they consider themselves 'relatives' through history even if not through blood?"  
+* **Marriage Alliances:** "When negotiating a marriage, how is the 'purity' of the *siyo* (clan) discussed in private? Are there archaic Mandinka words used to describe 'good' or 'bad' blood that are not used in common conversation?"  
+* **Ancestral Presence:** "How does the naming ceremony (*Kulio*) function as a linguistic bridge to bring a deceased ancestor back into the active kinship circle?"
 
-## References {#references}
+## 4\. The Unknowns: Modernity and Shift {#4.-the-unknowns:-modernity-and-shift}
 
-To provide verifiable and accessible academic pathways for these topics, I have organized the references into **General Foundations** and **Specific Mandinka Ethnography** with URLs where the digital versions, abstracts, or stable library records can be accessed.
+These questions target the areas where traditional Mandinka kinship is currently rubbing against the 21st century.
 
-### 1\. Cultural Anthropology & Linguistic Foundations {#1.-cultural-anthropology-&-linguistic-foundations}
+* **Urban Kinship:** "In cities like Banjul or Bamako, how is the term *kabilo* being redefined when 'neighbors' begin to take on the linguistic roles of 'uncles' or 'aunts' out of necessity?"  
+* **Remittance and Authority:** "If a younger son is in Europe sending money back to the compound, how do the linguistic markers of respect shift? Does he retain his 'junior' status in speech, or does his economic power grant him 'senior' linguistic markers?"
 
-These sources define the structure of the disciplines and the methodologies used in the earlier responses.
+## A Note on the "Griot" Perspective {#a-note-on-the-"griot"-perspective}
 
-* **Kottak, C. P. (2022). *Anthropology: Appreciating Human Diversity*.**  
-  * *Focus:* The standard structural framework of the four fields of anthropology.  
-  * [View on McGraw Hill Education](https://www.mheducation.com/highered/product/anthropology-appreciating-human-diversity-kottak/M9781260259292.html)  
-* **Geertz, C. (1973). *The Interpretation of Cultures*.**  
-  * *Focus:* "Thick Description" and how to interpret cultural symbols.  
-  * [Read at Monoskop.org (PDF)](https://www.google.com/search?q=https://monoskop.org/images/5/54/Geertz_Clifford_The_Interpretation_of_Cultures_1973.pdf)  
-* **Duranti, A. (1997). *Linguistic Anthropology*.**  
-  * *Focus:* How language acts as a cultural resource and social practice.  
-  * [View at Cambridge University Press](https://www.google.com/search?q=https://www.cambridge.org/core/books/linguistic-anthropology/6B436531F0A8C90C8A793A6054D6D672)
+To truly reach the heart of this domain, one would need to interview a **Jali (Griot)**. They are the "living archives" of these kinship ties. A guiding question for them would be:
 
-### 2\. Mandinka Kinship & Oral History {#2.-mandinka-kinship-&-oral-history}
+*"When you recite a family's genealogy, what are the 'linking words' you use to show that two clans are actually one 'body'?"*
 
-These sources specifically address the Mandinka social concepts (*Kabilo*, *Jamu*, and the *Jali* tradition) we explored.
-
-* **Schaffer, M., & Cooper, C. (1987). *Mandinko: The Ethnography of a West African Holy Land*.**  
-  * *Focus:* Deep ethnographic study of Mandinka kinship, *Ba-dingya* (mother-childness), and *Fa-dingya* (father-childness).  
-  * [View at Waveland Press](https://www.waveland.com/browse.php?t=667)  
-* **Innes, G. (1974). *Sunjata: Three Mandinka Versions*.**  
-  * *Focus:* The linguistic structure of Mandinka oral epics and the role of the *Jali* (Griot).  
-  * [Stable Record at SOAS Research Online](https://www.google.com/search?q=https://eprints.soas.ac.uk/29462/)  
-* **Jansen, J. (2000). *The Eloquence of Sky: The Mande Oral Tradition*.**  
-  * *Focus:* A contemporary look at how Mandinka (Mande) oral tradition records are preserved and the social status of lineages.  
-  * \[suspicious link removed\]
-
-### 3\. Comparative Research & Case Studies {#3.-comparative-research-&-case-studies}
-
-* **Wright, B. L. (1989). "The Power of Prints: The Use of Color in the Marketing of West African Fabrics."**  
-  * *Focus:* While focused on textiles, this provides insight into Mandinka social stratification and caste.  
-  * \[suspicious link removed\]  
-* **The Mande Studies Association (MANSA).**  
-  * *Focus:* A scholarly community dedicated to the Mande-speaking world (including Mandinka).  
-  * [MANSA Official Website](https://mandestudies.org/)
-
-  ---
-
-### A Note on Access {#a-note-on-access}
-
-Many of these texts are "seminal," meaning they are the foundational bricks of the discipline. If you are unable to access the full texts via the publishers, searching for these titles on **Google Scholar** or **ResearchGate** often yields open-access drafts or "Pre-print" versions uploaded by the authors.
-
-Ancestral Intelligence 
-
-The fact that the Mandinka language has unique, specific words for ancestors going back five generations (rather than just adding "great" over and over again like in English) is a huge clue about what their culture values.
-
-Language is like a fossil record; if a culture invents a specific word for something, it means that thing is important to their daily life.
-
-Here is how those unique generational names connect to Mandinka history and culture, explained for your unit.
-
-## The Past is "Alive," Not Dead {#the-past-is-"alive,"-not-dead}
-
-In English, when we say "Great-great-great-grandfather," the repetition of the word "great" makes the person sound far away and dusty. It pushes them into the distance.
-
-In Mandinka, having a specific name (like a title) for a 4th or 5th generation grandparent implies that they are still distinct, important members of the family.
-
-* **The Cultural Connection:** This reflects **Ancestral Veneration**. In Mandinka belief, ancestors are not gone; they are spirits that watch over the living. You need a specific name to call on them, just as you need a specific name to call your brother or sister.
-
-## Identity is a Chain, Not an Island {#identity-is-a-chain,-not-an-island}
-
-In modern Western culture, we often ask, "Who are *you*?" (meaning: what is your job, what are your hobbies?). In Mandinka culture, the question is, "Who are your people?"
-
-* **The Cultural Connection:** A person is viewed as the sum of the ancestors who came before them. If you know the specific names of your ancestors going back five generations, you know exactly what "ingredients" made you.  
-* **Literary Connection:** This is why **Griots** always start a story by reciting the hero's genealogy. They aren't just listing names; they are listing the hero's "credentials."
-
-## The "GPS" of Social Survival {#the-"gps"-of-social-survival}
-
-In a village setting, everyone is related if you go back far enough. Having specific words for distant generations helps people understand their exact social obligations.
-
-* **The Cultural Connection:** It acts as a social map. If you know exactly how you are related to someone (e.g., "We share the same 4th-generation grandfather"), it determines:  
-  * Who you can marry.  
-  * Who owns which piece of farming land?  
-  * Who you must defend in a fight.  
-  * Who you must share food with during a famine.
-
-## Preventing "Generational Amnesia" {#preventing-"generational-amnesia"}
-
-Sociologists talk about "The Three-Generation Rule" in the West: usually, by the time you get to the third generation (grandkids), the history of the first generation is forgotten.
-
-Mandinka language fights this. By having unique words for the 4th and 5th generations, the language itself forces the speaker to remember them.
-
-* **The Cultural Connection:** This supports the **Oral Tradition**. If the language didn't have these words, it would be harder for Griots to memorize centuries of history. The language was built to help the Griots do their job.
-
-## Analogy: "The Blur vs. The Portrait" {#analogy:-"the-blur-vs.-the-portrait"}
-
-To explain this to 8th graders, you can use this analogy:
-
-* **English approach:** Imagine looking at a photo of your great-great-great grandfather. It is blurry and faded. You just call him "Ancestor."  
-* **Mandinka approach:** Imagine that same photo is high-definition, bright, and colorful. You don't call him "Ancestor"; you have a specific title for him that describes exactly where he stands in your line.
-
-The existence of these words proves that in Mandinka culture, **you are never alone.** You are standing at the front of a line of people stretching back hundreds of years, and each of those people has a name and a place in your life.
-
-\newpage
-
-## Chapter 2 — Words and Spelling
-
-**COORDINATOR NOTE**
-The kinship domain produces vocabulary that can be sensitive — caste terms, marriage negotiation language, and words used only by specific lineages. Do not push students to produce words they are not comfortable writing publicly. If a student says, “that word belongs to our family,” accept it and move on. The corpus does not need every word. It needs what students freely offer.
-
-**STUDENT BRIEF**
-This week is about collecting words. Every Mandinka kinship word you write is a publishable data point, and your target is strong consistency (about 85% spelling accuracy), not perfection.
-
-Purpose: Collect Mandinka kinship vocabulary with volume and consistency. Untranslatable terms are high-value corpus entries.
-
-[CHARTS TO BE INSERTED]
-Chart 1 — The Consonant Grid
-Insert the AIWA consonant grid from the official AIWA chart pack used in coordinator print materials. Do not approximate or recreate it.
-
-Chart 2 — Vowel Length
-Insert the AIWA vowel length chart from the official AIWA chart pack used in coordinator print materials. Do not approximate or recreate it.
-
-Word Collection Table
-
-| Mandinka word (phonetic spelling attempt) | English meaning or closest equivalent | Part of speech | Source (elder/home/school/this workbook) | Notes (untranslatable concepts, regional variation, alternate form heard) |
-|---|---|---|---|---|
-|  |  |  |  |  |
-|  |  |  |  |  |
-|  |  |  |  |  |
-|  |  |  |  |  |
-|  |  |  |  |  |
-|  |  |  |  |  |
-|  |  |  |  |  |
-|  |  |  |  |  |
-|  |  |  |  |  |
-|  |  |  |  |  |
-|  |  |  |  |  |
-|  |  |  |  |  |
-
-Flag untranslatable terms separately. These are the highest-value items in the corpus. If a student writes a word with no clean English equivalent, they must write their best explanation in English (description, not translation).
-
-Priority untranslatable terms for this chapter: **kabilo** (lineage compound), **siyo** (surname/clan identity), **jamu** (surname lineage marker), **sanankouya** (governed joking obligation for peace), **Fa-keba**, **Fa-nding**, **Ba-bulo**, **Nyamboo**, **Nyamakala**, **kuyangwoo**, **musolula Barawuloo**, **Ba-dingya**, **Fa-dingya**.
-
-The Red Pen Protocol: once a word is written, underline it in red to mark it as a target word for Chapter 3 grammar and downstream AIWA tagging tools.
-
-\newpage
-
-## Chapter 3 — Grammar
-
-**COORDINATOR NOTE**
-The kinship domain is especially strong for the Family and Respect Words section (Part 11). Push for all three tenses. A student who writes “My grandfather was a jali” (past), “My uncle is the head of our kabilo” (present), and “My son will carry our jamu” (future) has produced three grammatically structured, culturally specific, machine-readable sentences about identity, authority, and lineage continuity. Tell them this is significant.
-
-**STUDENT BRIEF**
-You already know this grammar in speech. This week gives your spoken knowledge a written form using words you collected in Chapter 2.
+# 
 
 # Mandinka Grammar and Sentence Writing Pilot Worksheet
 
-These linguistic worksheets from Masroor Senior Secondary School document the Mandinka language through structured grammar exercises focused on kinship and family themes. Each source provides a detailed breakdown of parts of speech, including nouns, verbs, adjectives, and adverbs, paired with their English translations to demonstrate proper syntax. Students utilized these forms to practice building various sentence types, ranging from simple statements and questions to complex commands and emotional expressions. The documents also explore cultural concepts by featuring specialized vocabulary for communal leadership, family respect, and unique local idioms.
+These linguistic worksheets from Masroor Senior Secondary School document the Mandinka language through structured grammar exercises focused on the themes of birds and family. Each source provides a detailed breakdown of parts of speech, including nouns, verbs, adjectives, and adverbs, paired with their English translations to demonstrate proper syntax. Students utilized these forms to practice building various sentence types, ranging from simple statements and questions to complex commands and emotional expressions. The documents also explore cultural concepts by featuring specialized vocabulary for communal leadership, family respect, and unique local idioms.
 
 # 
 
@@ -532,15 +389,69 @@ Grammar and Sentence Writing
 
 #   {#the-"bantaba"-method:-imagine-you-are-standing-at-the-bantaba-(village-square).-if-you-had-to-say-one-important-thing-to-the-whole-village,-what-would-it-be?}
 
-\newpage
+# **The Mandinka Poetry Blueprint** {#the-"bantaba"-method:-imagine-you-are-standing-at-the-bantaba-(village-square).-if-you-had-to-say-one-important-thing-to-the-whole-village,-what-would-it-be?}
 
-## Chapter 4 — Creative Writing and The Book
+# The 4-step tool to turn the domain knowledge (Family or Birds) into a poem. {#the-"bantaba"-method:-imagine-you-are-standing-at-the-bantaba-(village-square).-if-you-had-to-say-one-important-thing-to-the-whole-village,-what-would-it-be?}
 
-**COORDINATOR NOTE**
-The proverb form protects students and the work. It does not require them to reveal family stories, private clan history, or sensitive knowledge. A proverb is community knowledge. Any student uncomfortable with direct kinship content can write from nature or everyday observation while still meeting the form.
+# Step 1: Choose Your "Root" (The Subject) {#the-"bantaba"-method:-imagine-you-are-standing-at-the-bantaba-(village-square).-if-you-had-to-say-one-important-thing-to-the-whole-village,-what-would-it-be?}
 
-**STUDENT BRIEF**
-This week you are not writing a story. You are writing a proverb: one or two sharp lines, with a clear lesson, in language that can be published.
+# **Pick one main Noun from your domain.** {#the-"bantaba"-method:-imagine-you-are-standing-at-the-bantaba-(village-square).-if-you-had-to-say-one-important-thing-to-the-whole-village,-what-would-it-be?}
+
+# Family: Badingya (Family relation), Muso-keba (Elder woman), Alkali (Chief) {#the-"bantaba"-method:-imagine-you-are-standing-at-the-bantaba-(village-square).-if-you-had-to-say-one-important-thing-to-the-whole-village,-what-would-it-be?}
+
+# Birds: Duga (Vulture), Kikiyo (Owl), Dontoolo (Rooster) {#the-"bantaba"-method:-imagine-you-are-standing-at-the-bantaba-(village-square).-if-you-had-to-say-one-important-thing-to-the-whole-village,-what-would-it-be?}
+
+# Step 2: Add the "Atmosphere" (Adjectives & Adverbs) {#the-"bantaba"-method:-imagine-you-are-standing-at-the-bantaba-(village-square).-if-you-had-to-say-one-important-thing-to-the-whole-village,-what-would-it-be?}
+
+# **How does it feel? Where is it happening?** {#the-"bantaba"-method:-imagine-you-are-standing-at-the-bantaba-(village-square).-if-you-had-to-say-one-important-thing-to-the-whole-village,-what-would-it-be?}
+
+# Family Example: Use words like Kairo (Peace) or Tenkungo (Tranquility). {#the-"bantaba"-method:-imagine-you-are-standing-at-the-bantaba-(village-square).-if-you-had-to-say-one-important-thing-to-the-whole-village,-what-would-it-be?}
+
+#   {#the-"bantaba"-method:-imagine-you-are-standing-at-the-bantaba-(village-square).-if-you-had-to-say-one-important-thing-to-the-whole-village,-what-would-it-be?}
+
+# Bird Example: Use words like Sanfeyan (Above) or Kataba (Quickly). {#the-"bantaba"-method:-imagine-you-are-standing-at-the-bantaba-(village-square).-if-you-had-to-say-one-important-thing-to-the-whole-village,-what-would-it-be?}
+
+# Step 3: State the "Problem" or "Truth" (The Lesson) {#the-"bantaba"-method:-imagine-you-are-standing-at-the-bantaba-(village-square).-if-you-had-to-say-one-important-thing-to-the-whole-village,-what-would-it-be?}
+
+# **A poem needs a message. Use Negation or Joining Words to show a contrast.** {#the-"bantaba"-method:-imagine-you-are-standing-at-the-bantaba-(village-square).-if-you-had-to-say-one-important-thing-to-the-whole-village,-what-would-it-be?}
+
+# Sample Logic: "The compound is big but the people are scattered". {#the-"bantaba"-method:-imagine-you-are-standing-at-the-bantaba-(village-square).-if-you-had-to-say-one-important-thing-to-the-whole-village,-what-would-it-be?}
+
+# Sample Logic: "The kids did not respect our culture". {#the-"bantaba"-method:-imagine-you-are-standing-at-the-bantaba-(village-square).-if-you-had-to-say-one-important-thing-to-the-whole-village,-what-would-it-be?}
+
+# Step 4: The "Final Word" (Labang) {#the-"bantaba"-method:-imagine-you-are-standing-at-the-bantaba-(village-square).-if-you-had-to-say-one-important-thing-to-the-whole-village,-what-would-it-be?}
+
+# **End your poem with a strong statement of identity or a wish for the future.** {#the-"bantaba"-method:-imagine-you-are-standing-at-the-bantaba-(village-square).-if-you-had-to-say-one-important-thing-to-the-whole-village,-what-would-it-be?}
+
+# Example: "We are all one" (Mba killing). {#the-"bantaba"-method:-imagine-you-are-standing-at-the-bantaba-(village-square).-if-you-had-to-say-one-important-thing-to-the-whole-village,-what-would-it-be?}
+
+# Student Easy-Fill Worksheet {#the-"bantaba"-method:-imagine-you-are-standing-at-the-bantaba-(village-square).-if-you-had-to-say-one-important-thing-to-the-whole-village,-what-would-it-be?}
+
+# **Fill in the blanks to create their first draft:** {#the-"bantaba"-method:-imagine-you-are-standing-at-the-bantaba-(village-square).-if-you-had-to-say-one-important-thing-to-the-whole-village,-what-would-it-be?}
+
+# Line 1 (The Greeting/Subject): \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ {#the-"bantaba"-method:-imagine-you-are-standing-at-the-bantaba-(village-square).-if-you-had-to-say-one-important-thing-to-the-whole-village,-what-would-it-be?}
+
+# (Example: A news arrived... ) {#the-"bantaba"-method:-imagine-you-are-standing-at-the-bantaba-(village-square).-if-you-had-to-say-one-important-thing-to-the-whole-village,-what-would-it-be?}
+
+# Line 2 (The Description): \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ {#the-"bantaba"-method:-imagine-you-are-standing-at-the-bantaba-(village-square).-if-you-had-to-say-one-important-thing-to-the-whole-village,-what-would-it-be?}
+
+# **(Example: The peace that is in our five communities...** ) {#the-"bantaba"-method:-imagine-you-are-standing-at-the-bantaba-(village-square).-if-you-had-to-say-one-important-thing-to-the-whole-village,-what-would-it-be?}
+
+# Line 3 (The Action or Truth): \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ {#the-"bantaba"-method:-imagine-you-are-standing-at-the-bantaba-(village-square).-if-you-had-to-say-one-important-thing-to-the-whole-village,-what-would-it-be?}
+
+# **(Example: They refused to farm, the ways of old have ended. )** {#the-"bantaba"-method:-imagine-you-are-standing-at-the-bantaba-(village-square).-if-you-had-to-say-one-important-thing-to-the-whole-village,-what-would-it-be?}
+
+# Line 4 (The Ending): Labang. {#the-"bantaba"-method:-imagine-you-are-standing-at-the-bantaba-(village-square).-if-you-had-to-say-one-important-thing-to-the-whole-village,-what-would-it-be?}
+
+# The "Bantaba" Method: Imagine you are standing at the Bantaba (village square). If you had to say one important thing to the whole village, what would it be? {#the-"bantaba"-method:-imagine-you-are-standing-at-the-bantaba-(village-square).-if-you-had-to-say-one-important-thing-to-the-whole-village,-what-would-it-be?}
+
+# Listen to the Sound: Read your lines out loud. Mandinka poetry is about the melody of the voice as much as the words on the paper.
+
+# Unity: Remember, like the poem says, "We are all one". Your poems are helping build the "Digital Kabilo" for the AI. {#unity:-remember,-like-the-poem-says,-"we-are-all-one".-your-poems-are-helping-build-the-"digital-kabilo"-for-the-ai.}
+
+#  
+
+# 
 
 # The Fruit Falls Close To The Tree. {#the-fruit-falls-close-to-the-tree.}
 
@@ -624,7 +535,7 @@ Mandinka proverbs almost always use **nature** to explain **human behavior**. Th
 * **The Baobab Tree:** Represents strength, age, or something unmovable.  
 * **The River:** Represents life, the unknown, or danger.  
 * **The Snake:** Represents hidden danger or silence.  
-* **The Drum:** Represents a social signal, warning, or authority.
+* **The Bird:** Represents news, the soul, or freedom.
 
 ## The Tone: Witty and Concise {#the-tone:-witty-and-concise}
 
@@ -735,11 +646,512 @@ Here are a few real Mandinka/West African proverbs to show the range:
 
 **Activity Idea:** Start with a "boring" piece of advice (e.g., "Study for your test") and  translate it into a Mandinka-style proverb using Nature as Mirror motif (e.g., *"The bird that does not build its nest in summer will sleep in the rain in winter"*).
 
-#
+# 
 
-# **The Mandinka Poetry Blueprint** {#the-"bantaba"-method:-imagine-you-are-standing-at-the-bantaba-(village-square).-if-you-had-to-say-one-important-thing-to-the-whole-village,-what-would-it-be?}
+## Academic Study
 
-# The 4-step tool to turn domain knowledge (Family and Kinship) into a proverb-ready draft. {#the-"bantaba"-method:-imagine-you-are-standing-at-the-bantaba-(village-square).-if-you-had-to-say-one-important-thing-to-the-whole-village,-what-would-it-be?}
+ {#academic-study}
+
+To define **Cultural Anthropology** and **Linguistic Science** (usually referred to as **Linguistics**), it helps to see them as two different ways of studying what makes us human. While Cultural Anthropology looks at the "big picture" of how we live, Linguistics zooms in on the specific "operating system" we use to communicate.
+
+## Cultural Anthropology: The Study of Human Ways of Life {#cultural-anthropology:-the-study-of-human-ways-of-life}
+
+Cultural Anthropology is the study of how human societies are organized, how they create meaning, and how they adapt to their environments. Its primary goal is to understand **culture**—the shared knowledge, beliefs, behaviors, and institutions that characterize a group.
+
+* **Core Question:** "Why do people do what they do, and how does it make sense to them?"  
+* **Key Method:** **Ethnography**, which involves "Participant Observation" (living with a group to learn their way of life firsthand).  
+* **Focus Areas:** Kinship, religion, economics, politics, gender roles, and social hierarchy.
+
+## Linguistic Science (Linguistics): The Science of Language {#linguistic-science-(linguistics):-the-science-of-language}
+
+Linguistics is the systematic and scientific study of the nature, structure, and variation of human language. It treats language as a complex mental system and a biological capacity.
+
+* **Core Question:** "How is language structured, how is it acquired, and how does it change?  
+* **The "Structural" Layers:**  
+  * **Phonology:** The study of speech sounds and patterns  
+  * **Morphology:** How words are built from smaller units of meaning.  
+  * **Syntax:** The rules for how words form sentences.  
+  * **Semantics:** The study of literal meaning in language.  
+* **Focus Areas:** The mechanics of speech, the evolution of language families, and how the brain processes communication.
+
+## Where They Meet: Linguistic Anthropology {#where-they-meet:-linguistic-anthropology}
+
+There is a bridge between these two called **Linguistic Anthropology**. This field doesn't just study how language is *built* (like a linguist), but how language is *used* to create social life.
+
+| Feature | Cultural Anthropology | Linguistic Science (Linguistics) |
+| :---- | :---- | :---- |
+| **Primary Unit** | A Culture or Society | A Language or Dialect |
+| **Main Goal** | Understand social behavior | Understand language systems |
+| **Approach** | Holistic (interconnected parts) | Analytic (breaks language into parts) |
+| **Example** | Studying the rituals of a Mandinka wedding. | Analyzing the grammar and sounds of the Mandinka language. |
+
+**Analogy:** If human society were a computer, **Linguistics** would be the study of code and software architecture, while **Cultural Anthropology** would be the study of how people **use the computer** to build communities, trade goods, and tell stories.
+
+## References {#references}
+
+To provide verifiable and accessible academic pathways for these topics, I have organized the references into **General Foundations** and **Specific Mandinka Ethnography** with URLs where the digital versions, abstracts, or stable library records can be accessed.
+
+### 1\. Cultural Anthropology & Linguistic Foundations {#1.-cultural-anthropology-&-linguistic-foundations}
+
+These sources define the structure of the disciplines and the methodologies used in the earlier responses.
+
+* **Kottak, C. P. (2022). *Anthropology: Appreciating Human Diversity*.**  
+  * *Focus:* The standard structural framework of the four fields of anthropology.  
+  * [View on McGraw Hill Education](https://www.mheducation.com/highered/product/anthropology-appreciating-human-diversity-kottak/M9781260259292.html)  
+* **Geertz, C. (1973). *The Interpretation of Cultures*.**  
+  * *Focus:* "Thick Description" and how to interpret cultural symbols.  
+  * [Read at Monoskop.org (PDF)](https://www.google.com/search?q=https://monoskop.org/images/5/54/Geertz_Clifford_The_Interpretation_of_Cultures_1973.pdf)  
+* **Duranti, A. (1997). *Linguistic Anthropology*.**  
+  * *Focus:* How language acts as a cultural resource and social practice.  
+  * [View at Cambridge University Press](https://www.google.com/search?q=https://www.cambridge.org/core/books/linguistic-anthropology/6B436531F0A8C90C8A793A6054D6D672)
+
+### 2\. Mandinka Kinship & Oral History {#2.-mandinka-kinship-&-oral-history}
+
+These sources specifically address the Mandinka social concepts (*Kabilo*, *Jamu*, and the *Jali* tradition) we explored.
+
+* **Schaffer, M., & Cooper, C. (1987). *Mandinko: The Ethnography of a West African Holy Land*.**  
+  * *Focus:* Deep ethnographic study of Mandinka kinship, *Ba-dingya* (mother-childness), and *Fa-dingya* (father-childness).  
+  * [View at Waveland Press](https://www.waveland.com/browse.php?t=667)  
+* **Innes, G. (1974). *Sunjata: Three Mandinka Versions*.**  
+  * *Focus:* The linguistic structure of Mandinka oral epics and the role of the *Jali* (Griot).  
+  * [Stable Record at SOAS Research Online](https://www.google.com/search?q=https://eprints.soas.ac.uk/29462/)  
+* **Jansen, J. (2000). *The Eloquence of Sky: The Mande Oral Tradition*.**  
+  * *Focus:* A contemporary look at how Mandinka (Mande) oral histories are preserved and the social status of lineages.  
+  * \[suspicious link removed\]
+
+### 3\. Comparative Research & Case Studies {#3.-comparative-research-&-case-studies}
+
+* **Wright, B. L. (1989). "The Power of Prints: The Use of Color in the Marketing of West African Fabrics."**  
+  * *Focus:* While focused on textiles, this provides insight into Mandinka social stratification and caste.  
+  * \[suspicious link removed\]  
+* **The Mande Studies Association (MANSA).**  
+  * *Focus:* A scholarly community dedicated to the Mande-speaking world (including Mandinka).  
+  * [MANSA Official Website](https://mandestudies.org/)
+
+  ---
+
+### A Note on Access {#a-note-on-access}
+
+Many of these texts are "seminal," meaning they are the foundational bricks of the discipline. If you are unable to access the full texts via the publishers, searching for these titles on **Google Scholar** or **ResearchGate** often yields open-access drafts or "Pre-print" versions uploaded by the authors.
+
+## Ancestral Intelligence
+
+Ancestral Intelligence 
+
+The fact that the Mandinka language has unique, specific words for ancestors going back five generations (rather than just adding "great" over and over again like in English) is a huge clue about what their culture values.
+
+Language is like a fossil record; if a culture invents a specific word for something, it means that thing is important to their daily life.
+
+Here is how those unique generational names connect to Mandinka history and culture, explained for your unit.
+
+## The Past is "Alive," Not Dead {#the-past-is-"alive,"-not-dead}
+
+In English, when we say "Great-great-great-grandfather," the repetition of the word "great" makes the person sound far away and dusty. It pushes them into the distance.
+
+In Mandinka, having a specific name (like a title) for a 4th or 5th generation grandparent implies that they are still distinct, important members of the family.
+
+* **The Cultural Connection:** This reflects **Ancestral Veneration**. In Mandinka belief, ancestors are not gone; they are spirits that watch over the living. You need a specific name to call on them, just as you need a specific name to call your brother or sister.
+
+## Identity is a Chain, Not an Island {#identity-is-a-chain,-not-an-island}
+
+In modern Western culture, we often ask, "Who are *you*?" (meaning: what is your job, what are your hobbies?). In Mandinka culture, the question is, "Who are your people?"
+
+* **The Cultural Connection:** A person is viewed as the sum of the ancestors who came before them. If you know the specific names of your ancestors going back five generations, you know exactly what "ingredients" made you.  
+* **Literary Connection:** This is why **Griots** always start a story by reciting the hero's genealogy. They aren't just listing names; they are listing the hero's "credentials."
+
+## The "GPS" of Social Survival {#the-"gps"-of-social-survival}
+
+In a village setting, everyone is related if you go back far enough. Having specific words for distant generations helps people understand their exact social obligations.
+
+* **The Cultural Connection:** It acts as a social map. If you know exactly how you are related to someone (e.g., "We share the same 4th-generation grandfather"), it determines:  
+  * Who you can marry.  
+  * Who owns which piece of farming land?  
+  * Who you must defend in a fight.  
+  * Who you must share food with during a famine.
+
+## Preventing "Generational Amnesia" {#preventing-"generational-amnesia"}
+
+Sociologists talk about "The Three-Generation Rule" in the West: usually, by the time you get to the third generation (grandkids), the history of the first generation is forgotten.
+
+Mandinka language fights this. By having unique words for the 4th and 5th generations, the language itself forces the speaker to remember them.
+
+* **The Cultural Connection:** This supports the **Oral Tradition**. If the language didn't have these words, it would be harder for Griots to memorize centuries of history. The language was built to help the Griots do their job.
+
+## Analogy: "The Blur vs. The Portrait" {#analogy:-"the-blur-vs.-the-portrait"}
+
+To explain this to 8th graders, you can use this analogy:
+
+* **English approach:** Imagine looking at a photo of your great-great-great grandfather. It is blurry and faded. You just call him "Ancestor."  
+* **Mandinka approach:** Imagine that same photo is high-definition, bright, and colorful. You don't call him "Ancestor"; you have a specific title for him that describes exactly where he stands in your line.
+
+The existence of these words proves that in Mandinka culture, **you are never alone.** You are standing at the front of a line of people stretching back hundreds of years, and each of those people has a name and a place in your life.
+
+## MY WORK THIS WEEK
+
+- Reading completed:
+- New terms identified:
+- Questions to carry into Chapter 2:
+
+## NOTES
+
+---
+
+# Chapter 2 — Words and Spelling
+
+**AIWA CHAPTER OPENER**
+
+**AIWA Coordinator Note**  
+The kinship domain produces vocabulary that can be sensitive — caste terms, marriage negotiation language, words used only by specific lineages. Do not push students to produce words they are not comfortable writing publicly. If a student says that word belongs to our family, accept it and move on. The corpus does not need every word. It needs what students freely offer. Volume over perfection. The rarest words — regional variations, terms heard from one elder — are the most valuable items in the corpus. Flag them. Do not let them get lost in a general correction pass.
+
+**AIWA Student Brief**  
+You have spoken Mandinka your whole life. This week you start writing it. Use the two charts to spell every kinship word you know. You do not need to be perfect. You need to try. Every attempt is data. Every word you write existed only in spoken form until today.
+
+The target is 85% spelling accuracy. Not perfection. The tools downstream — the WordPad, the AI correction loop, the community validation pipeline — will close the remaining gap. The student's job is a solid, consistent attempt. Volume over perfection.
+
+[CHARTS TO BE INSERTED]
+Chart 1 — The Consonant Grid
+Insert the AIWA consonant grid here exactly as designed. Do not approximate or recreate it.
+Chart 2 — Vowel Length
+Insert the AIWA vowel length chart here exactly as designed. Do not approximate or recreate it.
+
+| Mandinka word (phonetic spelling attempt) | English meaning or closest equivalent | Part of speech | Source (elder, home, school, this workbook) | Notes (untranslatable concepts, regional variation, alternate form heard) |
+| :---- | :---- | :---- | :---- | :---- |
+|  |  |  |  |  |
+|  |  |  |  |  |
+|  |  |  |  |  |
+|  |  |  |  |  |
+|  |  |  |  |  |
+|  |  |  |  |  |
+|  |  |  |  |  |
+|  |  |  |  |  |
+|  |  |  |  |  |
+|  |  |  |  |  |
+|  |  |  |  |  |
+|  |  |  |  |  |
+|  |  |  |  |  |
+|  |  |  |  |  |
+|  |  |  |  |  |
+
+Flag untranslatable terms separately. These are the highest-value items in the corpus. If a student writes a word with no clean English equivalent, they must write their best explanation in English — not a translation but a description. The following are priority untranslatable terms for this domain: kabilo (lineage compound), siyo (surname/clan identity), jamu (surname lineage marker), sanankouya (governed joking obligation for peace), Fa-keba, Fa-nding, Ba-bulo, Nyamboo, Nyamakala, kuyangwoo, musolula Barawuloo, Ba-dingya, Fa-dingya.
+
+**The Red Pen Protocol:** Once a word is written, underline it in red. This marks it as a target word for Chapter 3 and for AIWA's downstream language tools.
+
+## MY WORK THIS WEEK
+
+- Total words collected:
+- Untranslatable terms flagged:
+- Red-pen target words:
+
+## NOTES
+
+---
+
+# Chapter 3 — Grammar
+
+**AIWA CHAPTER OPENER**
+
+**AIWA Coordinator Note**  
+Students already speak the grammar. This chapter gives it a written form for the first time. Push for all three tenses. A student who writes “My grandfather was a jali” (past), “My uncle is the head of our kabilo” (present), and “My son will carry our jamu” (future) has produced three grammatically structured, culturally specific, machine-readable sentences about identity, authority, and lineage continuity. That is significant. Tell them so.
+
+**AIWA Student Brief**  
+You already know this grammar. You speak it every day. This week you write it down for the first time using the words you collected in Chapter 2.
+
+These linguistic worksheets from Masroor Senior Secondary School document the Mandinka language through structured grammar exercises focused on the themes of birds and family. Each source provides a detailed breakdown of parts of speech, including nouns, verbs, adjectives, and adverbs, paired with their English translations to demonstrate proper syntax. Students utilized these forms to practice building various sentence types, ranging from simple statements and questions to complex commands and emotional expressions. The documents also explore cultural concepts by featuring specialized vocabulary for communal leadership, family respect, and unique local idioms.
+
+## Part 1: Nouns
+| Noun (Mother Tongue) | Simple Sentence, Underline the Noun | English Translation |
+| :---- | :---- | :---- |
+| **Kambano** | **Kambano** dou lea nata jang. | **A boy** came here. |
+|  |  |  |
+
+## Part 2: Pronouns
+| Target (Pronoun) | Simple Sentence, Underline the Pronoun | English Translation |
+| :---- | :---- | :---- |
+| **Example: My (Possessive)** | **Na** muso yeang kanuu nun bakea. | **My** wife loved me very much. |
+|  |  |  |
+
+## Part 3: Verbs
+| Action (Root Verb) | Simple Sentence, Underline the Verb | English Translation |
+| :---- | :---- | :---- |
+| **Example: Boroo (Run)** | Moluu be **borri** kan. | People are **running**. |
+|  |  |  |
+
+## Part 4: Adjectives
+| Quality (Adjective) | Simple Sentence Underline the Adjective | English Translation |
+| :---- | :---- | :---- |
+| Example: Color | Sagee koyii saba la be na koridaa kono. | There are three white sheeps in our compound. |
+|  |  |  |
+
+## Part 5: Adverbs
+| Target (Adverb) | Simple Sentence, Underline the Adverb | English Translation |
+| :---- | :---- | :---- |
+| **Example: Manner (How)** | Na muso yeang kanuu nun **bakea**. | My wife loved it **very much**. |
+|  |  |  |
+
+## Part 6: Position Words
+| Location (Position) | Simple Sentence, Underline the Position Word | English Translation |
+| :---- | :---- | :---- |
+| **Example: Inside** | Duntungo be koridaa **kono.** | The rooster is **inside** the compound. |
+|  |  |  |
+
+## Part 7: Joining Words
+| Target (Joining Word) | Simple Sentence Underline the Joining Word | English Translation |
+| :---- | :---- | :---- |
+| **Example: And** | Mbaring nata jang **ani** a dokoma-muso. | My uncle came here **and** his young sister |
+|  |  |  |
+
+## Part 8: Feeling Words
+| Emotion (Feeling) | Simple Sentence Underline the Feeling Word | English Translation |
+| :---- | :---- | :---- |
+| Example: Happiness | N'saywoo ta bee | I am happy today. |
+|  |  |  |
+
+## Part 9: Time Words
+| Target (Time) | Simple Sentence, Underline the Time Word | English Translation |
+| :---- | :---- | :---- |
+| **Example: Today** | **Bi** mu Araba lungo le ti. | **Today** is Wednesday. |
+|  |  |  |
+
+## Part 10: Negation Words
+| Target (Negation) | Simple Sentence Underline the Negation Word | English Translation |
+| :---- | :---- | :---- |
+| **Example: Did Not** | Kambano **mang** na jang. | A boy **did not** come here. |
+|  |  |  |
+
+## Part 11: Family and Respect Words
+| Target (Family/Respect) | Simple Sentence Underline the Family/Respect Word | English Translation |
+| :---- | :---- | :---- |
+| **Example: Senior Father** | N**’Fa-keba** dou lea nata jang. | Our **senior father** came here. |
+|  |  |  |
+
+## Part 12: Sentence Type
+| Sentence (Mother Tongue) | English Translation | Sentence Type (Label) |
+| :---- | :---- | :---- |
+| **Example 1:** Molu karanta kunung. | People learned yesterday. | **Statement** |
+|  |  |  |
+
+## The Strange Word Challenge
+
+- Strange Word:
+- Full Sentence:
+- English Meaning:
+
+## The Bantaba Method and Listen to the Sound
+
+The "Bantaba" Method: Imagine you are standing at the Bantaba (village square). If you had to say one important thing to the whole village, what would it be?
+
+Listen to the Sound: Read your lines out loud. Mandinka poetry is about the melody of the voice as much as the words on the paper.
+
+## MY WORK THIS WEEK
+
+- Grammar parts completed:
+- Best sentence:
+- Revision targets:
+
+## NOTES
+
+---
+
+# Chapter 4 — Creative Writing and the Book
+
+**AIWA CHAPTER OPENER**
+
+**AIWA Coordinator Note**  
+The proverb form protects students and the work. It does not require them to reveal family stories, private clan history, or sensitive knowledge. A proverb is community knowledge. Any student uncomfortable with direct kinship content can write from nature or everyday observation while still meeting the form. By the end of this chapter every student must hold the physical book object with their name on the cover. This step is non-negotiable.
+
+**AIWA Student Brief**  
+This week you are not writing a story. You are writing a proverb — one or two sharp lines, with a clear lesson, in language that can be published. By the end of today you will hold a book with your name on the cover.
+
+## The Fruit Falls Close To The Tree
+
+In Mandinka and wider West African culture, proverbs act as the "social glue" that holds families together. Since traditional history was oral (spoken) rather than written, there was no rulebook on the shelf titled *How to Be a Good Family Member*.
+
+Instead, **proverbs serve as the rulebook**. They are used to teach children their place in the family, resolve fights between siblings, and remind everyone that the family is more important than the individual.
+
+Here is how proverbs specifically relate to family and kinship, broken down by the lesson they teach.
+
+## Respect for Elders (The Roots) {#respect-for-elders-(the-roots)}
+
+The most important rule in Mandinka kinship is respect for age. Elders are seen as having a connection to the ancestors and possessing wisdom that youth cannot yet understand. Proverbs are often used to check a young person’s ego.
+
+* **The Proverb:** *"What an elder sees sitting down, a child cannot see even if they climb the tallest tree."*  
+* **The Meaning:** You might have energy and physical strength (climbing the tree), but you lack the experience (sight) that your grandparents have.  
+* **Family Application:** If a teenager argues with a grandparent, a parent might simply say this proverb to end the argument. It reminds the child to trust the elder's perspective.
+
+## Unity and Collectivism (The Bundle) {#unity-and-collectivism-(the-bundle)}
+
+West African culture is "collectivist," meaning the group is more important than the individual. Proverbs constantly remind family members that they are weak alone but strong together.
+
+* **The Proverb:** *"If you take a bundle of sticks, you cannot break them. But if you take them one by one, they snap easily."*  
+* **The Meaning:** A single family member is vulnerable. A united family is unbreakable.  
+* **Family Application:** This is often used during family meetings when siblings are fighting or refusing to help one another. It teaches that internal fighting weakens the whole "bundle."
+
+## Lineage and Identity (The Tree) {#lineage-and-identity-(the-tree)}
+
+In Mandinka culture, you are not just yourself; you are a continuation of your ancestors. Your behavior reflects on everyone who came before you. The **Baobab tree** is a common symbol here because it has deep roots and lives for thousands of years.
+
+* **The Proverb:** *"A log may float in the river for ten years, but it will never become a crocodile."*  
+* **The Meaning:** You can move to a new place or change your clothes, but you cannot change your deep nature or your origins.  
+* **Family Application:** This relates to **kinship identity**. It reminds family members to be proud of who they are and not to try to be something they are not. It emphasizes that your "family nature" is permanent.
+
+## Parenting and Guidance (The Nest) {#parenting-and-guidance-(the-nest)}
+
+Parents use proverbs to discipline children without always having to yell or use harsh words. The metaphor does the teaching for them.
+
+* **The Proverb:** *"The mother hen does not step on her chicks to kill them, but to guide them."*  
+* **The Meaning:** Discipline might feel heavy or painful (like being stepped on), but it is done out of love to keep you on the right path.  
+* **Family Application:** A parent might say this to a child who is sulking after being punished. It reassures the child that the discipline is a form of protection, not hate.
+
+## Summary Table: Kinship Proverbs {#summary-table:-kinship-proverbs}
+
+| Kinship Value | Proverb Example | Lesson for the Student |
+| :---- | :---- | :---- |
+| **Respect** | "The young bird does not crow until it hears the old bird." | Listen to your elders before you speak. |
+| **Unity** | "One finger cannot lift a pebble." | You need your siblings/cousins to succeed. |
+| **Inheritance** | "The fruit falls close to the tree." | You will naturally act like your parents/ancestors. |
+| **Responsibility** | "When you carry your own water, you do not spill it." | You take better care of things that belong to your family. |
+
+When writing Mandinka-style proverbs—or trying to understand them—it is important to know that they are not just "random advice." They follow a specific logic and structure. In Mandinka culture, proverbs are the "palm oil with which words are eaten" (meaning they make conversation smoother and tastier).
+
+If you want your students to write their own Mandinka-style proverbs, here is what they need to know about the **structure**, **themes**, and **tone**.
+
+## The Structure: "Observation \+ Conclusion" {#the-structure:-"observation-+-conclusion"}
+
+Most Mandinka proverbs are not abstract; they are grounded in something you can *see* (Observation) followed by a lesson (Conclusion), though sometimes the lesson is implied.
+
+* **Type A: The Direct Observation (The Lesson is Implied)**  
+  * *Example:* "The stranger has big eyes, but sees nothing."  
+  * *Formula:* \[Subject\] \+ \[Action/Trait\] \+ \[But/And\] \+ \[Result\].  
+  * *Writing Tip:* Start with a person or animal, give them an attribute, and show why that attribute doesn't matter or creates a specific result.  
+* **Type B: Cause and Effect (If... Then)**  
+  * *Example:* "If you are in the river, do not insult the crocodile."  
+  * *Formula:* If \[Situation/Location\], do not \[Action\].  
+  * *Writing Tip:* Pick a dangerous or delicate situation and give advice on how to survive it.
+
+## The Imagery: Nature as a Mirror {#the-imagery:-nature-as-a-mirror}
+
+Mandinka proverbs almost always use **nature** to explain **human behavior**. They rarely use abstract words like "love," "hate," or "bravery." Instead, they use animals or objects that *represent* those things.
+
+* **Don't say:** "Be patient."  
+* **Do say:** "The hornbill waits for the egg to hatch." (Nature imagery)  
+* **Don't say:** "Don't be arrogant."  
+* **Do say:** "The butterfly that flies too high burns its wings in the sun."
+
+**Common Mandinka Imagery:**
+
+* **The Baobab Tree:** Represents strength, age, or something unmovable.  
+* **The River:** Represents life, the unknown, or danger.  
+* **The Snake:** Represents hidden danger or silence.  
+* **The Bird:** Represents news, the soul, or freedom.
+
+## The Tone: Witty and Concise {#the-tone:-witty-and-concise}
+
+A good proverb is short. It should be easy to memorize. It often has a bit of "wit" or dry humor—it's not always serious\!
+
+* *Funny/True Example:* "You cannot shave a man's head in his absence."  
+  * *Translation:* You can't solve a problem for someone if they aren't there to help.
+
+# 
+
+To write a proverb that sounds authentic—whether it’s a Mandinka saying or a general wise saying—you need more than just good advice. You need specific literary tools to make that advice "sticky" so people remember it.
+
+Here are the most common literary devices used to build proverbs, along with examples using the nature/bird themes we have been studying.
+
+## Metaphor (The Direct Comparison) {#metaphor-(the-direct-comparison)}
+
+This is the most important tool in proverb writing. A metaphor states that one thing *is* another. It takes a complex human problem and turns it into a simple object.
+
+* **How it works:** Instead of saying "Your reputation is fragile," you treat the reputation as if it were an egg.  
+* **Example:** *"Words are arrows; once released, you cannot call them back."*
+
+## Juxtaposition (The Contrast) {#juxtaposition-(the-contrast)}
+
+Juxtaposition places two opposite things side-by-side to highlight the difference between them. This is very common in West African proverbs to show the difference between wisdom and foolishness, or size and strength.
+
+* **How it works:** You pair a "big" thing with a "small" thing, or a "loud" thing with a "quiet" thing.  
+* **Example:** *"The huge elephant does not notice the tiny ant, but the ant knows where to bite."* (Contrasting size vs. strategy).
+
+## Personification (The Human Animal) {#personification-(the-human-animal)}
+
+Proverbs often give human emotions, intentions, or speech to animals or objects. This allows the storyteller to criticize human behavior without naming specific people.
+
+* **How it works:** If you want to talk about a greedy person, you talk about a Hyena. If you want to talk about a nosy person, you talk about a Guinea Fowl.  
+* **Example:** *"The pot told the kettle, 'You are black and dirty.'"* (We know pots can't talk, but we understand this is about hypocrisy).
+
+## Parallelism (The Balance) {#parallelism-(the-balance)}
+
+We discussed this earlier—this is when the first half of the sentence matches the rhythm and structure of the second half. It makes the proverb feel balanced and rhythmic, like a song.
+
+* **How it works:** \[Noun\] \+ \[Verb\] \+ \[Result\] **//** \[Noun\] \+ \[Verb\] \+ \[Result\].  
+* **Example:** *"Where the water flows, the grass grows; where the gossip flows, the trouble grows."*
+
+## Hyperbole (The Exaggeration) {#hyperbole-(the-exaggeration)}
+
+Sometimes to make a point, you have to exaggerate wildly. Hyperbole makes the lesson impossible to ignore because the image is so extreme.
+
+* **How it works:** Take a consequence and make it 10 times worse.  
+* **Example:** *"If you wait for the perfect moment, you will wait until your teeth fall out."* (You won't literally wait that long, but the image makes the point that you are wasting time).
+
+## Alliteration (The Sound) {#alliteration-(the-sound)}
+
+While this is harder to hear in translated proverbs, in their original language (like Mandinka or English), proverbs often use words that start with the same letter to make them catchy.
+
+* **How it works:** Repeating the starting sounds of words.  
+* **Example:** *"Fortune favors the fearless."* (The repeated "F" sound makes it memorable).
+
+---
+
+## 
+
+## 
+
+## 
+
+## 
+
+## 
+
+## Quick Reference Table for Students {#quick-reference-table-for-students}
+
+| Device | Purpose | Example |
+| :---- | :---- | :---- |
+| **Metaphor** | To visualize an abstract idea. | *"A family is a bundle of sticks."* |
+| **Juxtaposition** | To compare opposites. | *"Small axe, big tree."* |
+| **Personification** | To teach a lesson through animals. | *"The turtle insulted the hare."* |
+| **Parallelism** | To create rhythm and balance. | *"United we stand, divided we fall."* |
+| **Hyperbole** | To shock the listener. | *"I am so hungry I could eat a horse."* |
+
+# 
+
+If you want your 8th graders to write their own, give them this simple 3-step formula:
+
+**Step 1: Choose a Lesson (The Abstract)**
+
+* *Idea:* "Be careful who you trust."
+
+**Step 2: Choose an Animal or Object (The Concrete)**
+
+* *Idea:* A goat and a leopard.
+
+**Step 3: Combine them into a statement (The Proverb)**
+
+* *Draft:* "A goat should not go to dinner at the leopard's house."  
+* *Polished:* "The goat who visits the leopard does not return for breakfast."
+
+## Examples to Inspire Writing {#examples-to-inspire-writing}
+
+Here are a few real Mandinka/West African proverbs to show the range:
+
+* **On Patience:** *"Slowly, slowly, the monkey builds its house."*  
+* **On Community:** *"One finger cannot lift a pebble."*  
+* **On Experience:** *"The old man sitting down sees what the young boy standing up cannot see."*  
+* **On Consequences:** *"He who throws a stone in the market may hit his own brother."*
+
+**Activity Idea:** Start with a "boring" piece of advice (e.g., "Study for your test") and  translate it into a Mandinka-style proverb using Nature as Mirror motif (e.g., *"The bird that does not build its nest in summer will sleep in the rain in winter"*).
+
+# 
+
+# The 4-step tool to turn the domain knowledge (Family or Birds) into a poem. {#the-"bantaba"-method:-imagine-you-are-standing-at-the-bantaba-(village-square).-if-you-had-to-say-one-important-thing-to-the-whole-village,-what-would-it-be?}
 
 # Step 1: Choose Your "Root" (The Subject) {#the-"bantaba"-method:-imagine-you-are-standing-at-the-bantaba-(village-square).-if-you-had-to-say-one-important-thing-to-the-whole-village,-what-would-it-be?}
 
@@ -747,7 +1159,7 @@ Here are a few real Mandinka/West African proverbs to show the range:
 
 # Family: Badingya (Family relation), Muso-keba (Elder woman), Alkali (Chief) {#the-"bantaba"-method:-imagine-you-are-standing-at-the-bantaba-(village-square).-if-you-had-to-say-one-important-thing-to-the-whole-village,-what-would-it-be?}
 
-# Kinship: Kabilo (lineage compound), Siyo (clan), Jamu (surname) {#the-"bantaba"-method:-imagine-you-are-standing-at-the-bantaba-(village-square).-if-you-had-to-say-one-important-thing-to-the-whole-village,-what-would-it-be?}
+# Birds: Duga (Vulture), Kikiyo (Owl), Dontoolo (Rooster) {#the-"bantaba"-method:-imagine-you-are-standing-at-the-bantaba-(village-square).-if-you-had-to-say-one-important-thing-to-the-whole-village,-what-would-it-be?}
 
 # Step 2: Add the "Atmosphere" (Adjectives & Adverbs) {#the-"bantaba"-method:-imagine-you-are-standing-at-the-bantaba-(village-square).-if-you-had-to-say-one-important-thing-to-the-whole-village,-what-would-it-be?}
 
@@ -757,7 +1169,7 @@ Here are a few real Mandinka/West African proverbs to show the range:
 
 #   {#the-"bantaba"-method:-imagine-you-are-standing-at-the-bantaba-(village-square).-if-you-had-to-say-one-important-thing-to-the-whole-village,-what-would-it-be?}
 
-# Kinship Example: Use words like Kairo (Peace) or Miriya (Patience). {#the-"bantaba"-method:-imagine-you-are-standing-at-the-bantaba-(village-square).-if-you-had-to-say-one-important-thing-to-the-whole-village,-what-would-it-be?}
+# Bird Example: Use words like Sanfeyan (Above) or Kataba (Quickly). {#the-"bantaba"-method:-imagine-you-are-standing-at-the-bantaba-(village-square).-if-you-had-to-say-one-important-thing-to-the-whole-village,-what-would-it-be?}
 
 # Step 3: State the "Problem" or "Truth" (The Lesson) {#the-"bantaba"-method:-imagine-you-are-standing-at-the-bantaba-(village-square).-if-you-had-to-say-one-important-thing-to-the-whole-village,-what-would-it-be?}
 
@@ -797,25 +1209,52 @@ Here are a few real Mandinka/West African proverbs to show the range:
 
 # Unity: Remember, like the poem says, "We are all one". Your poems are helping build the "Digital Kabilo" for the AI. {#unity:-remember,-like-the-poem-says,-"we-are-all-one".-your-poems-are-helping-build-the-"digital-kabilo"-for-the-ai.}
 
-The Proverb Structure Workshop
-Before writing begins, reverse-engineer three source proverbs with the Observation + Conclusion formula. Then use the 3-step formula: choose a lesson, choose an animal or object image, combine into one statement. Each student produces one draft proverb (English draft is acceptable in this step).
+#  
 
-THE BOOK OBJECT EXERCISE
-Each group takes 15 sheets of A6 paper, staples along the center fold, and folds in half to produce a booklet with 28 usable content pages. On the cover they write in pencil: working title, intended reader age, all student names, school name, and AI West Africa. Groups decide reader level (Grade 2, Grade 4, Grade 6, or general community use).
+## Proverb Structure Workshop
 
-The group lists life-problem chapter headings before final writing: anger, patience, unity, respect, responsibility, loss, ambition, loyalty. Each proverb is filed under one heading so the table of contents is visible before finalization.
+Reverse-engineer three source proverbs as a group using Observation + Conclusion, then draft one proverb per student using the 3-step formula.
 
-\newpage
+## Book Object Exercise
 
-## Chapter 5, Part 1 — Preparing for the Field
+Each group takes 15 sheets of A6 paper, staples along the center fold, and folds in half to produce a booklet with 28 usable content pages. On the cover they write in pencil: working title, intended reader age, all student names, school name, and AI West Africa. Groups decide together whether the book is for Grade 2, Grade 4, Grade 6, or general community use.
 
-**COORDINATOR NOTE**
-If a student has griot lineage connections, engage them here. A jali response to linking-words and clan-unity questions is irreplaceable primary content. Handle this with care and recognition. AIWA attribution means named contribution in publication.
+## Life Problem Chapter Planning
 
-**STUDENT BRIEF**
-This week you choose who to interview and what to ask based on the life-problem chapters your group is already building.
+Suggested headings: anger, patience, unity, respect, responsibility, loss, ambition, loyalty.
 
-**Prepare to Deep Dive**
+## Proverb Collection Table
+
+| Proverb draft | Life problem chapter | Mandinka version | English translation | Meaning (one to three sentences) |
+| :---- | :---- | :---- | :---- | :---- |
+|  |  |  |  |  |
+|  |  |  |  |  |
+|  |  |  |  |  |
+|  |  |  |  |  |
+|  |  |  |  |  |
+|  |  |  |  |  |
+
+## MY WORK THIS WEEK
+
+- Draft proverbs completed:
+- Life problem chapters planned:
+- Book object completed:
+
+## NOTES
+
+---
+
+# Chapter 5, Part 1 — Preparing for the Field
+
+**AIWA CHAPTER OPENER**
+
+**AIWA Coordinator Note**  
+If a student has griot lineage connections, this is the moment to engage them.
+
+**AIWA Student Brief**  
+This week you decide who to interview based on the book you are making and the life problem chapters that are still thin.
+
+## Prepare to Deep Dive
 
 To explore the Mandinka social structure, we must move beyond Western definitions of "family" (the nuclear unit) and look toward **kabilo** (lineage/compound) and **siyo** (surname/clan). The Mandinka people of West Africa have a highly structured social hierarchy, and their kinship terms are often "performative"—meaning the words they use for relatives carry specific social obligations.
 
@@ -858,10 +1297,12 @@ To truly reach the heart of this domain, one would need to interview a **Jali (G
 
 *"When you recite a family's genealogy, what are the 'linking words' you use to show that two clans are actually one 'body'?"*
 
-Field target mapping table
+# 
 
-| Life problem chapter | Questions selected from Deep Dive bank | Interview subject persona (Jali / Muso-keba / Elder / youth-age-set peer) | What the group hopes to bring back |
-|---|---|---|---|
+## Field Target Mapping Table
+
+| Life problem chapter | Questions selected from Deep Dive bank | Interview subject persona | What the group hopes to bring back |
+| :---- | :---- | :---- | :---- |
 |  |  |  |  |
 |  |  |  |  |
 |  |  |  |  |
@@ -871,23 +1312,25 @@ Field target mapping table
 |  |  |  |  |
 |  |  |  |  |
 
-\newpage
+**Field Rule:** The interview uses one primary structure: "Here is a proverb I wrote. What do you think?" Students revise their own writing from the response. They do not collect elder proverbs for publication, oral histories, or genealogies.
 
-## Chapter 5, Part 2 — The Field
-
-**COORDINATOR NOTE**
-The field is not a school trip. Students are authors on assignment with a specific brief: proverbs for specific life-problem chapters. They should leave knowing which chapters are thin and which questions remain unanswered.
-
-**STUDENT BRIEF**
-Go to elders and return with proverbs and meanings you did not have before, then decide what truly belongs in your book chapters.
-
-# Project Title: The Book of Living Wisdom {#project-title:-the-book-of-living-wisdom}
-
-**The Goal:** Students will act as **collectors of wisdom**, not historians. Their goal is to compile a "User’s Manual for Life" based on the proverbs of their community, with a short story that proves *why* the proverb is true.
+## FIELD PREPARATION NOTES
 
 ---
 
-## Phase 1: The Wisdom Hunt (The Interview) {#phase-1:-the-wisdom-hunt-(the-interview)}
+# Chapter 5, Part 2 — The Field
+
+**AIWA CHAPTER OPENER**
+
+**AIWA Coordinator Note**  
+The field is not a school trip. Students are authors on assignment.
+
+**AIWA Student Brief**  
+You are an author on assignment. You know what you are looking for.
+
+## Book of Living Wisdom — Phase 1: The Wisdom Hunt
+
+ {#phase-1:-the-wisdom-hunt-(the-interview)}
 
 Instead of asking "Who are your ancestors?", students ask their elders (parents, neighbors, teachers) to teach them a specific lesson.
 
@@ -902,11 +1345,13 @@ Instead of asking "Who are your ancestors?", students ask their elders (parents,
 * *"Is there a proverb about friendship that you think is true?"*  
 * *"Can you tell me a short story—either about yourself or a made-up folk tale—that shows why this proverb is important?"*
 
-**Teacher Note:** By asking for a story *about* the proverb, the student gets a "Parable" (e.g., "One time I tried to carry two buckets of water and spilled both") rather than a sensitive oral tradition record.
+**Teacher Note:** By asking for a story *about* the proverb, the student gets a "Parable" (e.g., "One time I tried to carry two buckets of water and spilled both") rather than a sensitive oral history.
 
 ---
 
-# Mandinka in The Mirror {#mandinka-in-the-mirror}
+## Mandinka in The Mirror
+
+ {#mandinka-in-the-mirror}
 
 To wrap this project into a meaningful conclusion for the participants, a **Moment of Reflection** to allow yourself to move from being "data collectors" to "knowledge keepers."
 
@@ -935,19 +1380,25 @@ Concluding, consider your future and ask yourself these questions with a forward
 * **The Question:** "Now that you possess this knowledge that your peers do not, what is your responsibility? Who is the first person you will tell these stories to?"  
 * **The Goal:** To transform into active protectors of Mandinka culture.
 
-Field collection rule: students collect proverb + meaning for publication. If an elder shares additional narrative context, students can keep it in field notes for understanding, but publication output remains proverb and meaning only.
+**Field Collection Rule:** Students collect the proverb and its meaning. Narrative context may be noted privately for understanding, but publication output remains proverb plus meaning only.
 
-\newpage
+## FIELD NOTES
 
-## Chapter 6 — The Debrief
+---
 
-**COORDINATOR NOTE**
-The audit is an editorial meeting. The coordinator facilitates, and the group decides. When proverbs are moved between chapters or revised, students practice both authorship and editorial decision-making.
+# Chapter 6 — The Debrief
 
-**STUDENT BRIEF**
-This week you audit all collected work, decide what stays, what is revised, and how the final proverb order should read by life problem.
+**AIWA CHAPTER OPENER**
 
-## Phase 3: The Class Compilation (The "Global Value") {#phase-3:-the-class-compilation-(the-"global-value")}
+**AIWA Coordinator Note**  
+The audit is an editorial meeting, not a marking session.
+
+**AIWA Student Brief**  
+You went into the field with drafts. You came back with responses. This week you audit everything.
+
+## Book of Living Wisdom — Phase 3: Class Compilation
+
+ {#phase-3:-the-class-compilation-(the-"global-value")}
 
 The final book is organized not by family names, but by **Life Problems**. This makes it a globally useful tool. If someone in another country picks up this book, they can look up their problem and find a Gambian solution.
 
@@ -965,7 +1416,11 @@ The final book is organized not by family names, but by **Life Problems**. This 
 
 ---
 
-# What We Have Learned {#what-we-have-learned}
+# 
+
+## What We Have Learned
+
+ {#what-we-have-learned}
 
 By the end of this process, the you should be able to articulate three things:
 
@@ -977,10 +1432,10 @@ By the end of this process, the you should be able to articulate three things:
 
 **Congratulations Cultural Steward\! Good work.**
 
-Production audit table
+## Production Audit Table
 
-| Proverb (draft) | Life problem chapter it belongs to | Mandinka version (attempt) | English translation | Meaning (1-3 sentences) | Source (student-written / elder-collected / field-recorded) | Status (keep / revise Mandinka spelling / revise meaning / cut) |
-|---|---|---|---|---|---|---|
+| Proverb draft | Life problem chapter | Mandinka version attempt | English translation | Meaning (one to three sentences) | Source | Status |
+| :---- | :---- | :---- | :---- | :---- | :---- | :---- |
 |  |  |  |  |  |  |  |
 |  |  |  |  |  |  |  |
 |  |  |  |  |  |  |  |
@@ -994,29 +1449,58 @@ Production audit table
 |  |  |  |  |  |  |  |
 |  |  |  |  |  |  |  |
 
-\newpage
+## MY WORK THIS WEEK
 
-## Chapter 7 — Production
+- Proverbs audited:
+- Revisions completed:
+- Final sequence locked:
 
-**COORDINATOR NOTE**
-Every student whose name is on the cover is a published author. AIWA retains rights to publish, distribute, and license commercially; students retain permanent attribution. This is not a school project. It is a first edition of primary-source Mandinka language content authored by the community.
+## DEBRIEF NOTES
 
-**STUDENT BRIEF**
-This week you finalize and sequence your proverb book for real readers and real publication, using the format exactly.
+---
 
-This chapter is fully new and defines final production.
+# Chapter 7 — Production
 
-The book structure:
-- Cover: working title, reader age, all student names, school name, AI West Africa
-- Inside front: AIWA publishing info, school, two-sentence program description, attribution statement for all contributors
-- Table of contents: life-problem chapters listed in sequence
-- Content pages: each chapter starts with the life-problem heading, then proverb entries in this format: **Mandinka proverb**, *English translation*, meaning (1-3 sentences, no narrative)
-- Layout density: one proverb per page or half-page depending on count and reader age; younger readers get larger text and more white space; older readers can have two per page
-- Illustration brief: one illustration per chapter heading (student drawing, field photo, or AI-generated image) representing the life-problem theme, not a specific proverb narrative
-- Back cover: one selected signature proverb, student names, AIWA logo placement
+**AIWA CHAPTER OPENER**
 
-Typesetting guidance: Noto Sans throughout; 14pt minimum for younger readers, 12pt minimum for older readers; Mandinka terms bold on first appearance; English translations italic; meanings regular weight; each life-problem chapter begins on a new page.
+**AIWA Coordinator Note**  
+Every student whose name is on the cover is a published author. AIWA retains rights to publish, distribute, and license the work commercially. Students retain permanent attribution. This is not a school project. It is a first edition of primary-source Mandinka language content authored by this community.
 
-Print and bind: A6, center-staple, fold. Use the same object built in Chapter 4 and finalize it for circulation.
+**AIWA Student Brief**  
+This week you finalize, sequence, and complete the book for real readers and real publication.
 
-Distribution: one copy to the school library, one to AIWA, and one to the Gambian Ministry of Education.
+## Book Structure
+
+- Cover — working title, reader age, all student names, school name, AI West Africa.
+- Inside front — publishing info and attribution statement.
+- Table of contents — life problem chapters in group sequence.
+- Content pages — proverb entry format only: Mandinka proverb, English translation, meaning (1–3 sentences), no story.
+- Illustration brief — one illustration per life problem chapter.
+- Back cover — signature proverb, all student names, AI West Africa.
+
+## Typesetting Guidance
+
+Noto Sans throughout. Minimum 14pt for younger readers, 12pt for older readers. Mandinka terms bold on first appearance. English translations italic. Meaning text regular weight. Each life problem chapter begins on a new page.
+
+## Print and Bind
+
+A6, center-staple, fold. The same physical object made in Chapter 4, now complete.
+
+## Distribution
+
+One copy to the school library, one to AIWA, one to the Gambian Ministry of Education.
+
+## NOTES
+
+---
+
+## Production Formatting Requirements (Export)
+
+- A4 production-ready export
+- Mirror margins for binding
+- Noto Sans throughout
+- Coordinator Note style, Student Brief style, AIWA Body style
+- AIWA table styles with dark headers
+- Each chapter starts on a new page
+- Headers: document title + chapter name
+- Footers: copyright line + page number
