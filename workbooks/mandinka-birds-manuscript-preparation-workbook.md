@@ -812,21 +812,20 @@ Use one "Strange Word" (like a specific term for a group or a rare sound) in a f
 
 ---
 
-### **Coordinator’s "Session 2" Guidance for Mr. Dibbasey**
+### **Your "Session 2" Focus from Mr. Dibbasey**
 
-* **Volume Over Perfection:** Do your best at spelling. However, do not stop to correct spelling; we need the volume of sentences to train the system.  
+* **Volume Over Perfection:** Do your best at spelling. However, do not worry too much about perfect spelling; we need the volume of sentences to train the system.  
 * **Grammar Capture:** Ensure to use all three tenses (past, present and future), as this is how the AI learns the language structure.  
 * **Language Communities:** Compare your work with that of the group.  What did you notice and capture?  What did they capture?
 
 ## Chapter 4 — Creative Writing and The Book
 
-**COORDINATOR NOTE**
-The book object must be made before writing begins. Do not skip this step. A student holding a book with their name on the cover is already an author; the question is what goes on each page.
+**NOTE**
+The book mockup must be made before writing begins. Do not skip this step. If you are holding a book with your name on the cover, you are already an author; the question now is what goes on each page.
 
 **STUDENT BRIEF**
-This week gives you a full creative toolkit and a real physical book object so your writing decisions become concrete and publishable.
+This week gives you a full creative toolkit and a real physical book mockup so your writing decisions become concrete and publishable.
 
-[RELOCATED FROM: The "Singing Birds" of History]
 # The "Singing Birds" of History {#the-"singing-birds"-of-history}
 
 In the Mandinka culture of West Africa, there is a saying: *"When a Griot dies, it is as if a library has burned down."* But there is another way Griots are described that is just as powerful: they are called the **"Birds of the Word."**
