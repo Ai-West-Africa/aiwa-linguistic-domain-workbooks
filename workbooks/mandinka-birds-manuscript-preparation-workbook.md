@@ -826,7 +826,6 @@ The book mockup must be made before writing begins. Do not skip this step. If yo
 **STUDENT BRIEF**
 This week gives you a full creative toolkit and a real physical book mockup so your writing decisions become concrete and publishable.
 
-[RELOCATED FROM: The "Singing Birds" of History]
 # The "Singing Birds" of History {#the-"singing-birds"-of-history}
 
 In the Mandinka culture of West Africa, there is a saying: *"When a Griot dies, it is as if a library has burned down."* But there is another way Griots are described that is just as powerful: they are called the **"Birds of the Word."**
