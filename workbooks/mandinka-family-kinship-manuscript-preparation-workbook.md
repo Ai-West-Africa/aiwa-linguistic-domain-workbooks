@@ -2,18 +2,14 @@
 
 # AIWA Digital Griot Workbook: Kinship Domain
 
-[NEW] This workbook is for Senior Secondary and Upper Basic students in The Gambia who are lifelong fluent Mandinka speakers learning to write Mandinka as commissioned authors. AIWA is a media and publishing company, and students are authors, producers, and knowledge holders.
+This workbook is for Senior Secondary and Upper Basic students in The Gambia who are lifelong fluent Mandinka speakers learning to write Mandinka as commissioned authors. AIWA is a media and publishing company, and students are authors, producers, and knowledge holders.
 
-[NEW] Production format requirements: A4 output, mirror margins for binding, Noto Sans throughout, distinct visual table formatting, and headers/footers that include document title, chapter name, and page number.
+Production format requirements: A4 output, mirror margins for binding, Noto Sans throughout, distinct visual table formatting, and headers/footers that include document title, chapter name, and page number.
 
-[NEW] Export and typesetting note: each chapter begins on a new page; Mandinka terms are bold on first use with English in parentheses.
+Export and typesetting note: each chapter begins on a new page; Mandinka terms are bold on first use with English in parentheses.
 
-[RELOCATED FROM: Draft cover block]
 # Gambian Mandinka Clan and Kinship Traditions: Past and Present
 
-![][image1]
-
-**![][image2]**
 
 Ancestral Intelligence World Archive
 
@@ -27,425 +23,17 @@ This chapter is reading, discussion, and discovery — not production. Let it br
 **STUDENT BRIEF**
 This week expands what you already know about Mandinka kinship by giving you stronger English vocabulary, academic framing, and historical depth so you can later write sharper Mandinka proverbs as an author.
 
-[RELOCATED FROM: Table of Contents]
-# Table of Contents {#table-of-contents}
+## Table of Contents
+
+- [Chapter 1 — The Domain](#chapter-1--the-domain)
+- [Chapter 2 — Words and Spelling](#chapter-2--words-and-spelling)
+- [Chapter 3 — Grammar](#chapter-3--grammar)
+- [Chapter 4 — Creative Writing and The Book](#chapter-4--creative-writing-and-the-book)
+- [Chapter 5, Part 1 — Preparing for the Field](#chapter-5-part-1--preparing-for-the-field)
+- [Chapter 5, Part 2 — The Field](#chapter-5-part-2--the-field)
+- [Chapter 6 — The Debrief](#chapter-6--the-debrief)
+- [Chapter 7 — Production](#chapter-7--production)
 
-[**Table of Contents	1**](#table-of-contents)
-
-[**Introduction	8**](#introduction)
-
-[Oral tradition and griots (jali)	8](#oral-tradition-and-griots-\(jali\))
-
-[Songs, poetry and instruments	8](#songs,-poetry-and-instruments)
-
-[Ceremonies and rites of passage	8](#ceremonies-and-rites-of-passage)
-
-[Joking kinship and Sanankouya/Sanowaya	9](#joking-kinship-and-sanankouya/sanowaya)
-
-[Role of women in music and dance	9](#role-of-women-in-music-and-dance)
-
-[Social teaching and moral codes	10](#social-teaching-and-moral-codes)
-
-[Strategic significance	10](#strategic-significance)
-
-[**Grammar and Kinship	11**](#grammar)
-
-[**Coordinator Guide: Use this table to capture the "Who" or "What" of the sentence. Instruct students to write a sentence where a person, place, animal, or thing is the main subject. They must underline the specific noun.	12**](#the-"bantaba"-method:-imagine-you-are-standing-at-the-bantaba-\(village-square\).-if-you-had-to-say-one-important-thing-to-the-whole-village,-what-would-it-be?)
-
-[**Noun (Mother Tongue)	12**](#the-"bantaba"-method:-imagine-you-are-standing-at-the-bantaba-\(village-square\).-if-you-had-to-say-one-important-thing-to-the-whole-village,-what-would-it-be?)
-
-[**Simple Sentence, Underline the Noun	12**](#the-"bantaba"-method:-imagine-you-are-standing-at-the-bantaba-\(village-square\).-if-you-had-to-say-one-important-thing-to-the-whole-village,-what-would-it-be?)
-
-[**English Translation	12**](#the-"bantaba"-method:-imagine-you-are-standing-at-the-bantaba-\(village-square\).-if-you-had-to-say-one-important-thing-to-the-whole-village,-what-would-it-be?)
-
-[**Kambano	12**](#the-"bantaba"-method:-imagine-you-are-standing-at-the-bantaba-\(village-square\).-if-you-had-to-say-one-important-thing-to-the-whole-village,-what-would-it-be?)
-
-[**Kambano dou lea nata jang.	12**](#the-"bantaba"-method:-imagine-you-are-standing-at-the-bantaba-\(village-square\).-if-you-had-to-say-one-important-thing-to-the-whole-village,-what-would-it-be?)
-
-[**A boy came here.	12**](#the-"bantaba"-method:-imagine-you-are-standing-at-the-bantaba-\(village-square\).-if-you-had-to-say-one-important-thing-to-the-whole-village,-what-would-it-be?)
-
-[**Part 2: Pronouns (Who or Whose)	13**](#the-"bantaba"-method:-imagine-you-are-standing-at-the-bantaba-\(village-square\).-if-you-had-to-say-one-important-thing-to-the-whole-village,-what-would-it-be?)
-
-[**Coordinator Guide: Use this table to capture the "Person" acting or the "Owner" of an object. Instruct students to write a sentence where a pronoun is used to replace a name or show possession. They must underline the pronoun.	13**](#the-"bantaba"-method:-imagine-you-are-standing-at-the-bantaba-\(village-square\).-if-you-had-to-say-one-important-thing-to-the-whole-village,-what-would-it-be?)
-
-[**Target (Pronoun)	13**](#the-"bantaba"-method:-imagine-you-are-standing-at-the-bantaba-\(village-square\).-if-you-had-to-say-one-important-thing-to-the-whole-village,-what-would-it-be?)
-
-[**Simple Sentence, Underline the Pronoun	13**](#the-"bantaba"-method:-imagine-you-are-standing-at-the-bantaba-\(village-square\).-if-you-had-to-say-one-important-thing-to-the-whole-village,-what-would-it-be?)
-
-[**English Translation	13**](#the-"bantaba"-method:-imagine-you-are-standing-at-the-bantaba-\(village-square\).-if-you-had-to-say-one-important-thing-to-the-whole-village,-what-would-it-be?)
-
-[**Example: My (Possessive)	13**](#the-"bantaba"-method:-imagine-you-are-standing-at-the-bantaba-\(village-square\).-if-you-had-to-say-one-important-thing-to-the-whole-village,-what-would-it-be?)
-
-[**Na muso yeang kanuu nun bakea.	13**](#the-"bantaba"-method:-imagine-you-are-standing-at-the-bantaba-\(village-square\).-if-you-had-to-say-one-important-thing-to-the-whole-village,-what-would-it-be?)
-
-[**My wife loved me very much.	13**](#the-"bantaba"-method:-imagine-you-are-standing-at-the-bantaba-\(village-square\).-if-you-had-to-say-one-important-thing-to-the-whole-village,-what-would-it-be?)
-
-[**Part 3: Verbs (Action or State of the Sentence)	14**](#the-"bantaba"-method:-imagine-you-are-standing-at-the-bantaba-\(village-square\).-if-you-had-to-say-one-important-thing-to-the-whole-village,-what-would-it-be?)
-
-[**Coordinator Guide: Use this table to capture the "Doing" words. Instruct students to write a sentence that shows a clear action or a state of being. They must underline the word that represents the action.	14**](#the-"bantaba"-method:-imagine-you-are-standing-at-the-bantaba-\(village-square\).-if-you-had-to-say-one-important-thing-to-the-whole-village,-what-would-it-be?)
-
-[**Action (Root Verb)	14**](#the-"bantaba"-method:-imagine-you-are-standing-at-the-bantaba-\(village-square\).-if-you-had-to-say-one-important-thing-to-the-whole-village,-what-would-it-be?)
-
-[**Simple Sentence, Underline the Verb	14**](#the-"bantaba"-method:-imagine-you-are-standing-at-the-bantaba-\(village-square\).-if-you-had-to-say-one-important-thing-to-the-whole-village,-what-would-it-be?)
-
-[**English Translation	14**](#the-"bantaba"-method:-imagine-you-are-standing-at-the-bantaba-\(village-square\).-if-you-had-to-say-one-important-thing-to-the-whole-village,-what-would-it-be?)
-
-[**Example: Boroo (Run)	14**](#the-"bantaba"-method:-imagine-you-are-standing-at-the-bantaba-\(village-square\).-if-you-had-to-say-one-important-thing-to-the-whole-village,-what-would-it-be?)
-
-[**Moluu be borri kan.	14**](#the-"bantaba"-method:-imagine-you-are-standing-at-the-bantaba-\(village-square\).-if-you-had-to-say-one-important-thing-to-the-whole-village,-what-would-it-be?)
-
-[**People are running.	14**](#the-"bantaba"-method:-imagine-you-are-standing-at-the-bantaba-\(village-square\).-if-you-had-to-say-one-important-thing-to-the-whole-village,-what-would-it-be?)
-
-[**Part 4: Adjectives (Describing Words)	15**](#the-"bantaba"-method:-imagine-you-are-standing-at-the-bantaba-\(village-square\).-if-you-had-to-say-one-important-thing-to-the-whole-village,-what-would-it-be?)
-
-[**Coordinator Guide: Use this table to capture the "Traits" or "Qualities." Instruct students to write a sentence that describes a person, animal, or object from their domain. They must underline the word that provides the description.	15**](#the-"bantaba"-method:-imagine-you-are-standing-at-the-bantaba-\(village-square\).-if-you-had-to-say-one-important-thing-to-the-whole-village,-what-would-it-be?)
-
-[**Quality (Adjective)	15**](#the-"bantaba"-method:-imagine-you-are-standing-at-the-bantaba-\(village-square\).-if-you-had-to-say-one-important-thing-to-the-whole-village,-what-would-it-be?)
-
-[**Simple Sentence Underline the Adjective.	15**](#the-"bantaba"-method:-imagine-you-are-standing-at-the-bantaba-\(village-square\).-if-you-had-to-say-one-important-thing-to-the-whole-village,-what-would-it-be?)
-
-[**English Translation	15**](#the-"bantaba"-method:-imagine-you-are-standing-at-the-bantaba-\(village-square\).-if-you-had-to-say-one-important-thing-to-the-whole-village,-what-would-it-be?)
-
-[**Example: Color	15**](#the-"bantaba"-method:-imagine-you-are-standing-at-the-bantaba-\(village-square\).-if-you-had-to-say-one-important-thing-to-the-whole-village,-what-would-it-be?)
-
-[**Sagee koyii saba la be na koridaa kono.	15**](#the-"bantaba"-method:-imagine-you-are-standing-at-the-bantaba-\(village-square\).-if-you-had-to-say-one-important-thing-to-the-whole-village,-what-would-it-be?)
-
-[**There are three white sheeps in our compound.	15**](#the-"bantaba"-method:-imagine-you-are-standing-at-the-bantaba-\(village-square\).-if-you-had-to-say-one-important-thing-to-the-whole-village,-what-would-it-be?)
-
-[**Part 5: Adverbs (How or When Actions Happen)	16**](#the-"bantaba"-method:-imagine-you-are-standing-at-the-bantaba-\(village-square\).-if-you-had-to-say-one-important-thing-to-the-whole-village,-what-would-it-be?)
-
-[**Coordinator Guide: Use this table to capture words that modify the action. Instruct students to write a sentence that tells us how (manner) or when (time) something is done. They must underline the adverb.	16**](#the-"bantaba"-method:-imagine-you-are-standing-at-the-bantaba-\(village-square\).-if-you-had-to-say-one-important-thing-to-the-whole-village,-what-would-it-be?)
-
-[**Target (Adverb)	16**](#the-"bantaba"-method:-imagine-you-are-standing-at-the-bantaba-\(village-square\).-if-you-had-to-say-one-important-thing-to-the-whole-village,-what-would-it-be?)
-
-[**Simple Sentence, Underline the Adverb	16**](#the-"bantaba"-method:-imagine-you-are-standing-at-the-bantaba-\(village-square\).-if-you-had-to-say-one-important-thing-to-the-whole-village,-what-would-it-be?)
-
-[**English Translation	16**](#the-"bantaba"-method:-imagine-you-are-standing-at-the-bantaba-\(village-square\).-if-you-had-to-say-one-important-thing-to-the-whole-village,-what-would-it-be?)
-
-[**Example: Manner (How)	16**](#the-"bantaba"-method:-imagine-you-are-standing-at-the-bantaba-\(village-square\).-if-you-had-to-say-one-important-thing-to-the-whole-village,-what-would-it-be?)
-
-[**Na muso yeang kanuu nun bakea.	16**](#the-"bantaba"-method:-imagine-you-are-standing-at-the-bantaba-\(village-square\).-if-you-had-to-say-one-important-thing-to-the-whole-village,-what-would-it-be?)
-
-[**My wife loved it very much.	16**](#the-"bantaba"-method:-imagine-you-are-standing-at-the-bantaba-\(village-square\).-if-you-had-to-say-one-important-thing-to-the-whole-village,-what-would-it-be?)
-
-[**Part 6: Position Words (Where Things Are)	17**](#the-"bantaba"-method:-imagine-you-are-standing-at-the-bantaba-\(village-square\).-if-you-had-to-say-one-important-thing-to-the-whole-village,-what-would-it-be?)
-
-[**Coordinator Guide: Use this table to capture location and direction. Instruct students to write a sentence showing where a person, bird, or object is located. They must underline the word indicating the position.	17**](#the-"bantaba"-method:-imagine-you-are-standing-at-the-bantaba-\(village-square\).-if-you-had-to-say-one-important-thing-to-the-whole-village,-what-would-it-be?)
-
-[**Location (Position)	17**](#the-"bantaba"-method:-imagine-you-are-standing-at-the-bantaba-\(village-square\).-if-you-had-to-say-one-important-thing-to-the-whole-village,-what-would-it-be?)
-
-[**Simple Sentence, Underline the Position Word	17**](#the-"bantaba"-method:-imagine-you-are-standing-at-the-bantaba-\(village-square\).-if-you-had-to-say-one-important-thing-to-the-whole-village,-what-would-it-be?)
-
-[**English Translation	17**](#the-"bantaba"-method:-imagine-you-are-standing-at-the-bantaba-\(village-square\).-if-you-had-to-say-one-important-thing-to-the-whole-village,-what-would-it-be?)
-
-[**Example: Inside	17**](#the-"bantaba"-method:-imagine-you-are-standing-at-the-bantaba-\(village-square\).-if-you-had-to-say-one-important-thing-to-the-whole-village,-what-would-it-be?)
-
-[**Duntungo be koridaa kono.	17**](#the-"bantaba"-method:-imagine-you-are-standing-at-the-bantaba-\(village-square\).-if-you-had-to-say-one-important-thing-to-the-whole-village,-what-would-it-be?)
-
-[**The rooster is inside the compound.	17**](#the-"bantaba"-method:-imagine-you-are-standing-at-the-bantaba-\(village-square\).-if-you-had-to-say-one-important-thing-to-the-whole-village,-what-would-it-be?)
-
-[**Part 7: Joining Words (Connecting Ideas)	18**](#the-"bantaba"-method:-imagine-you-are-standing-at-the-bantaba-\(village-square\).-if-you-had-to-say-one-important-thing-to-the-whole-village,-what-would-it-be?)
-
-[**Coordinator Guide: Use this table to capture how sentences are linked. Instruct students to write a sentence that combines two actions or two facts. They must underline the word that joins them.	18**](#the-"bantaba"-method:-imagine-you-are-standing-at-the-bantaba-\(village-square\).-if-you-had-to-say-one-important-thing-to-the-whole-village,-what-would-it-be?)
-
-[**Target (Joining Word)	18**](#the-"bantaba"-method:-imagine-you-are-standing-at-the-bantaba-\(village-square\).-if-you-had-to-say-one-important-thing-to-the-whole-village,-what-would-it-be?)
-
-[**Simple Sentence Underline the Joining Word	18**](#the-"bantaba"-method:-imagine-you-are-standing-at-the-bantaba-\(village-square\).-if-you-had-to-say-one-important-thing-to-the-whole-village,-what-would-it-be?)
-
-[**English Translation	18**](#the-"bantaba"-method:-imagine-you-are-standing-at-the-bantaba-\(village-square\).-if-you-had-to-say-one-important-thing-to-the-whole-village,-what-would-it-be?)
-
-[**Example: And	18**](#the-"bantaba"-method:-imagine-you-are-standing-at-the-bantaba-\(village-square\).-if-you-had-to-say-one-important-thing-to-the-whole-village,-what-would-it-be?)
-
-[**Mbaring nata jang ani a dokoma-muso.	18**](#the-"bantaba"-method:-imagine-you-are-standing-at-the-bantaba-\(village-square\).-if-you-had-to-say-one-important-thing-to-the-whole-village,-what-would-it-be?)
-
-[**My uncle came here and his young sister	18**](#the-"bantaba"-method:-imagine-you-are-standing-at-the-bantaba-\(village-square\).-if-you-had-to-say-one-important-thing-to-the-whole-village,-what-would-it-be?)
-
-[**Part 8: Feeling Words (Emotion Words)	19**](#the-"bantaba"-method:-imagine-you-are-standing-at-the-bantaba-\(village-square\).-if-you-had-to-say-one-important-thing-to-the-whole-village,-what-would-it-be?)
-
-[**Coordinator Guide: Use this table to capture "Inner States." Instruct students to write a sentence that shows how someone feels (happy, sad, tired, or peaceful). They must underline the word that shows the feeling.	19**](#the-"bantaba"-method:-imagine-you-are-standing-at-the-bantaba-\(village-square\).-if-you-had-to-say-one-important-thing-to-the-whole-village,-what-would-it-be?)
-
-[**Emotion (Feeling)	19**](#the-"bantaba"-method:-imagine-you-are-standing-at-the-bantaba-\(village-square\).-if-you-had-to-say-one-important-thing-to-the-whole-village,-what-would-it-be?)
-
-[**Simple Sentence Underline the Feeling Word	19**](#the-"bantaba"-method:-imagine-you-are-standing-at-the-bantaba-\(village-square\).-if-you-had-to-say-one-important-thing-to-the-whole-village,-what-would-it-be?)
-
-[**English Translation	19**](#the-"bantaba"-method:-imagine-you-are-standing-at-the-bantaba-\(village-square\).-if-you-had-to-say-one-important-thing-to-the-whole-village,-what-would-it-be?)
-
-[**Example: Happiness	19**](#the-"bantaba"-method:-imagine-you-are-standing-at-the-bantaba-\(village-square\).-if-you-had-to-say-one-important-thing-to-the-whole-village,-what-would-it-be?)
-
-[**N'saywoo ta bee	19**](#the-"bantaba"-method:-imagine-you-are-standing-at-the-bantaba-\(village-square\).-if-you-had-to-say-one-important-thing-to-the-whole-village,-what-would-it-be?)
-
-[**I am happy today.	19**](#the-"bantaba"-method:-imagine-you-are-standing-at-the-bantaba-\(village-square\).-if-you-had-to-say-one-important-thing-to-the-whole-village,-what-would-it-be?)
-
-[**Part 9: Time Words (When Things Happen)	20**](#the-"bantaba"-method:-imagine-you-are-standing-at-the-bantaba-\(village-square\).-if-you-had-to-say-one-important-thing-to-the-whole-village,-what-would-it-be?)
-
-[**Coordinator Guide: Use this table to capture the "Timeline" of the sentence. Instruct students to write a sentence that uses a specific word to show when an action takes place. They must underline the time word.	20**](#the-"bantaba"-method:-imagine-you-are-standing-at-the-bantaba-\(village-square\).-if-you-had-to-say-one-important-thing-to-the-whole-village,-what-would-it-be?)
-
-[**Target (Time)	20**](#the-"bantaba"-method:-imagine-you-are-standing-at-the-bantaba-\(village-square\).-if-you-had-to-say-one-important-thing-to-the-whole-village,-what-would-it-be?)
-
-[**Simple Sentence, Underline the Time Word	20**](#the-"bantaba"-method:-imagine-you-are-standing-at-the-bantaba-\(village-square\).-if-you-had-to-say-one-important-thing-to-the-whole-village,-what-would-it-be?)
-
-[**English Translation	20**](#the-"bantaba"-method:-imagine-you-are-standing-at-the-bantaba-\(village-square\).-if-you-had-to-say-one-important-thing-to-the-whole-village,-what-would-it-be?)
-
-[**Example: Today	21**](#the-"bantaba"-method:-imagine-you-are-standing-at-the-bantaba-\(village-square\).-if-you-had-to-say-one-important-thing-to-the-whole-village,-what-would-it-be?)
-
-[**Bi mu Araba lungo le ti.	21**](#the-"bantaba"-method:-imagine-you-are-standing-at-the-bantaba-\(village-square\).-if-you-had-to-say-one-important-thing-to-the-whole-village,-what-would-it-be?)
-
-[**Today is Wednesday.	21**](#the-"bantaba"-method:-imagine-you-are-standing-at-the-bantaba-\(village-square\).-if-you-had-to-say-one-important-thing-to-the-whole-village,-what-would-it-be?)
-
-[**Part 11: Negation Words (Making Sentences Negative)	22**](#the-"bantaba"-method:-imagine-you-are-standing-at-the-bantaba-\(village-square\).-if-you-had-to-say-one-important-thing-to-the-whole-village,-what-would-it-be?)
-
-[**Coordinator Guide: Use this table to capture the "No" markers. Instruct students to write a sentence that denies an action or states that something is false. They must underline the word that creates the negative meaning.	22**](#the-"bantaba"-method:-imagine-you-are-standing-at-the-bantaba-\(village-square\).-if-you-had-to-say-one-important-thing-to-the-whole-village,-what-would-it-be?)
-
-[**Target (Negation)	22**](#the-"bantaba"-method:-imagine-you-are-standing-at-the-bantaba-\(village-square\).-if-you-had-to-say-one-important-thing-to-the-whole-village,-what-would-it-be?)
-
-[**Simple Sentence Underline the Negation Word	22**](#the-"bantaba"-method:-imagine-you-are-standing-at-the-bantaba-\(village-square\).-if-you-had-to-say-one-important-thing-to-the-whole-village,-what-would-it-be?)
-
-[**English Translation	22**](#the-"bantaba"-method:-imagine-you-are-standing-at-the-bantaba-\(village-square\).-if-you-had-to-say-one-important-thing-to-the-whole-village,-what-would-it-be?)
-
-[**Example: Did Not	22**](#the-"bantaba"-method:-imagine-you-are-standing-at-the-bantaba-\(village-square\).-if-you-had-to-say-one-important-thing-to-the-whole-village,-what-would-it-be?)
-
-[**Kambano mang na jang.	22**](#the-"bantaba"-method:-imagine-you-are-standing-at-the-bantaba-\(village-square\).-if-you-had-to-say-one-important-thing-to-the-whole-village,-what-would-it-be?)
-
-[**A boy did not come here.	22**](#the-"bantaba"-method:-imagine-you-are-standing-at-the-bantaba-\(village-square\).-if-you-had-to-say-one-important-thing-to-the-whole-village,-what-would-it-be?)
-
-[**Part 11: Family and Respect Words	23**](#the-"bantaba"-method:-imagine-you-are-standing-at-the-bantaba-\(village-square\).-if-you-had-to-say-one-important-thing-to-the-whole-village,-what-would-it-be?)
-
-[**Coordinator Guide: Use this table to capture kinship and titles. Instruct students to write a sentence naming a family member or using a title of honor. They must underline the word that shows the family relation or the level of respect.	23**](#the-"bantaba"-method:-imagine-you-are-standing-at-the-bantaba-\(village-square\).-if-you-had-to-say-one-important-thing-to-the-whole-village,-what-would-it-be?)
-
-[**Target (Family/Respect)	23**](#the-"bantaba"-method:-imagine-you-are-standing-at-the-bantaba-\(village-square\).-if-you-had-to-say-one-important-thing-to-the-whole-village,-what-would-it-be?)
-
-[**Simple Sentence Underline the Family/Respect Word	23**](#the-"bantaba"-method:-imagine-you-are-standing-at-the-bantaba-\(village-square\).-if-you-had-to-say-one-important-thing-to-the-whole-village,-what-would-it-be?)
-
-[**English Translation	23**](#the-"bantaba"-method:-imagine-you-are-standing-at-the-bantaba-\(village-square\).-if-you-had-to-say-one-important-thing-to-the-whole-village,-what-would-it-be?)
-
-[**Example: Senior Father	23**](#the-"bantaba"-method:-imagine-you-are-standing-at-the-bantaba-\(village-square\).-if-you-had-to-say-one-important-thing-to-the-whole-village,-what-would-it-be?)
-
-[**N’Fa-keba dou lea nata jang.	23**](#the-"bantaba"-method:-imagine-you-are-standing-at-the-bantaba-\(village-square\).-if-you-had-to-say-one-important-thing-to-the-whole-village,-what-would-it-be?)
-
-[**Our senior father came here.	23**](#the-"bantaba"-method:-imagine-you-are-standing-at-the-bantaba-\(village-square\).-if-you-had-to-say-one-important-thing-to-the-whole-village,-what-would-it-be?)
-
-[**Part 12: Sentence Type (How the Sentence Speaks)	24**](#the-"bantaba"-method:-imagine-you-are-standing-at-the-bantaba-\(village-square\).-if-you-had-to-say-one-important-thing-to-the-whole-village,-what-would-it-be?)
-
-[**Coordinator Guide: Instruct students to write one sentence from their domain. They should not underline anything. Instead, they must identify the "mood" of the sentence by labeling it.	24**](#the-"bantaba"-method:-imagine-you-are-standing-at-the-bantaba-\(village-square\).-if-you-had-to-say-one-important-thing-to-the-whole-village,-what-would-it-be?)
-
-[**Sentence (Mother Tongue)	24**](#the-"bantaba"-method:-imagine-you-are-standing-at-the-bantaba-\(village-square\).-if-you-had-to-say-one-important-thing-to-the-whole-village,-what-would-it-be?)
-
-[**English Translation	24**](#the-"bantaba"-method:-imagine-you-are-standing-at-the-bantaba-\(village-square\).-if-you-had-to-say-one-important-thing-to-the-whole-village,-what-would-it-be?)
-
-[**Sentence Type (Label)	24**](#the-"bantaba"-method:-imagine-you-are-standing-at-the-bantaba-\(village-square\).-if-you-had-to-say-one-important-thing-to-the-whole-village,-what-would-it-be?)
-
-[**Example 1: Molu karanta kunung.	24**](#the-"bantaba"-method:-imagine-you-are-standing-at-the-bantaba-\(village-square\).-if-you-had-to-say-one-important-thing-to-the-whole-village,-what-would-it-be?)
-
-[**People learned yesterday.	24**](#the-"bantaba"-method:-imagine-you-are-standing-at-the-bantaba-\(village-square\).-if-you-had-to-say-one-important-thing-to-the-whole-village,-what-would-it-be?)
-
-[**Statement	24**](#the-"bantaba"-method:-imagine-you-are-standing-at-the-bantaba-\(village-square\).-if-you-had-to-say-one-important-thing-to-the-whole-village,-what-would-it-be?)
-
-[**The "Strange Word" Challenge	25**](#the-"bantaba"-method:-imagine-you-are-standing-at-the-bantaba-\(village-square\).-if-you-had-to-say-one-important-thing-to-the-whole-village,-what-would-it-be?)
-
-[**Use one "Strange Word" (like a specific term for a group or a rare sound) in a full sentence.	25**](#the-"bantaba"-method:-imagine-you-are-standing-at-the-bantaba-\(village-square\).-if-you-had-to-say-one-important-thing-to-the-whole-village,-what-would-it-be?)
-
-[**Strange Word: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_	25**](#the-"bantaba"-method:-imagine-you-are-standing-at-the-bantaba-\(village-square\).-if-you-had-to-say-one-important-thing-to-the-whole-village,-what-would-it-be?)
-
-[**Full Sentence: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_	25**](#the-"bantaba"-method:-imagine-you-are-standing-at-the-bantaba-\(village-square\).-if-you-had-to-say-one-important-thing-to-the-whole-village,-what-would-it-be?)
-
-[**English Meaning: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_	25**](#the-"bantaba"-method:-imagine-you-are-standing-at-the-bantaba-\(village-square\).-if-you-had-to-say-one-important-thing-to-the-whole-village,-what-would-it-be?)
-
-[**The Mandinka Poetry Blueprint	25**](#the-"bantaba"-method:-imagine-you-are-standing-at-the-bantaba-\(village-square\).-if-you-had-to-say-one-important-thing-to-the-whole-village,-what-would-it-be?)
-
-[**The 4-step tool to turn domain knowledge (Family and Kinship) into a proverb-ready draft.	25**](#the-"bantaba"-method:-imagine-you-are-standing-at-the-bantaba-\(village-square\).-if-you-had-to-say-one-important-thing-to-the-whole-village,-what-would-it-be?)
-
-[**Step 1: Choose Your "Root" (The Subject)	25**](#the-"bantaba"-method:-imagine-you-are-standing-at-the-bantaba-\(village-square\).-if-you-had-to-say-one-important-thing-to-the-whole-village,-what-would-it-be?)
-
-[**Pick one main Noun from your domain.	25**](#the-"bantaba"-method:-imagine-you-are-standing-at-the-bantaba-\(village-square\).-if-you-had-to-say-one-important-thing-to-the-whole-village,-what-would-it-be?)
-
-[**Family: Badingya (Family relation), Muso-keba (Elder woman), Alkali (Chief)	25**](#the-"bantaba"-method:-imagine-you-are-standing-at-the-bantaba-\(village-square\).-if-you-had-to-say-one-important-thing-to-the-whole-village,-what-would-it-be?)
-
-[**Kinship: Kabilo (lineage compound), Siyo (clan), Jamu (surname)	25**](#the-"bantaba"-method:-imagine-you-are-standing-at-the-bantaba-\(village-square\).-if-you-had-to-say-one-important-thing-to-the-whole-village,-what-would-it-be?)
-
-[**Step 2: Add the "Atmosphere" (Adjectives & Adverbs)	25**](#the-"bantaba"-method:-imagine-you-are-standing-at-the-bantaba-\(village-square\).-if-you-had-to-say-one-important-thing-to-the-whole-village,-what-would-it-be?)
-
-[**How does it feel? Where is it happening?	25**](#the-"bantaba"-method:-imagine-you-are-standing-at-the-bantaba-\(village-square\).-if-you-had-to-say-one-important-thing-to-the-whole-village,-what-would-it-be?)
-
-[**Family Example: Use words like Kairo (Peace) or Tenkungo (Tranquility).	25**](#the-"bantaba"-method:-imagine-you-are-standing-at-the-bantaba-\(village-square\).-if-you-had-to-say-one-important-thing-to-the-whole-village,-what-would-it-be?)
-
-[**Kinship Example: Use words like Kairo (Peace) or Miriya (Patience).	26**](#the-"bantaba"-method:-imagine-you-are-standing-at-the-bantaba-\(village-square\).-if-you-had-to-say-one-important-thing-to-the-whole-village,-what-would-it-be?)
-
-[**Step 3: State the "Problem" or "Truth" (The Lesson)	26**](#the-"bantaba"-method:-imagine-you-are-standing-at-the-bantaba-\(village-square\).-if-you-had-to-say-one-important-thing-to-the-whole-village,-what-would-it-be?)
-
-[**A poem needs a message. Use Negation or Joining Words to show a contrast.	26**](#the-"bantaba"-method:-imagine-you-are-standing-at-the-bantaba-\(village-square\).-if-you-had-to-say-one-important-thing-to-the-whole-village,-what-would-it-be?)
-
-[**Sample Logic: "The compound is big but the people are scattered".	26**](#the-"bantaba"-method:-imagine-you-are-standing-at-the-bantaba-\(village-square\).-if-you-had-to-say-one-important-thing-to-the-whole-village,-what-would-it-be?)
-
-[**Sample Logic: "The kids did not respect our culture".	26**](#the-"bantaba"-method:-imagine-you-are-standing-at-the-bantaba-\(village-square\).-if-you-had-to-say-one-important-thing-to-the-whole-village,-what-would-it-be?)
-
-[**Step 4: The "Final Word" (Labang)	26**](#the-"bantaba"-method:-imagine-you-are-standing-at-the-bantaba-\(village-square\).-if-you-had-to-say-one-important-thing-to-the-whole-village,-what-would-it-be?)
-
-[**End your poem with a strong statement of identity or a wish for the future.	26**](#the-"bantaba"-method:-imagine-you-are-standing-at-the-bantaba-\(village-square\).-if-you-had-to-say-one-important-thing-to-the-whole-village,-what-would-it-be?)
-
-[**Example: "We are all one" (Mba killing).	26**](#the-"bantaba"-method:-imagine-you-are-standing-at-the-bantaba-\(village-square\).-if-you-had-to-say-one-important-thing-to-the-whole-village,-what-would-it-be?)
-
-[**Student Easy-Fill Worksheet	26**](#the-"bantaba"-method:-imagine-you-are-standing-at-the-bantaba-\(village-square\).-if-you-had-to-say-one-important-thing-to-the-whole-village,-what-would-it-be?)
-
-[**Fill in the blanks to create their first draft:	26**](#the-"bantaba"-method:-imagine-you-are-standing-at-the-bantaba-\(village-square\).-if-you-had-to-say-one-important-thing-to-the-whole-village,-what-would-it-be?)
-
-[**Line 1 (The Greeting/Subject): \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_	26**](#the-"bantaba"-method:-imagine-you-are-standing-at-the-bantaba-\(village-square\).-if-you-had-to-say-one-important-thing-to-the-whole-village,-what-would-it-be?)
-
-[**(Example: A news arrived... )	26**](#the-"bantaba"-method:-imagine-you-are-standing-at-the-bantaba-\(village-square\).-if-you-had-to-say-one-important-thing-to-the-whole-village,-what-would-it-be?)
-
-[**Line 2 (The Description): \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_	26**](#the-"bantaba"-method:-imagine-you-are-standing-at-the-bantaba-\(village-square\).-if-you-had-to-say-one-important-thing-to-the-whole-village,-what-would-it-be?)
-
-[**(Example: The peace that is in our five communities... )	26**](#the-"bantaba"-method:-imagine-you-are-standing-at-the-bantaba-\(village-square\).-if-you-had-to-say-one-important-thing-to-the-whole-village,-what-would-it-be?)
-
-[**Line 3 (The Action or Truth): \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_	26**](#the-"bantaba"-method:-imagine-you-are-standing-at-the-bantaba-\(village-square\).-if-you-had-to-say-one-important-thing-to-the-whole-village,-what-would-it-be?)
-
-[**(Example: They refused to farm, the ways of old have ended. )	26**](#the-"bantaba"-method:-imagine-you-are-standing-at-the-bantaba-\(village-square\).-if-you-had-to-say-one-important-thing-to-the-whole-village,-what-would-it-be?)
-
-[**Line 4 (The Ending): Labang.	26**](#the-"bantaba"-method:-imagine-you-are-standing-at-the-bantaba-\(village-square\).-if-you-had-to-say-one-important-thing-to-the-whole-village,-what-would-it-be?)
-
-[**The "Bantaba" Method: Imagine you are standing at the Bantaba (village square). If you had to say one important thing to the whole village, what would it be?	26**](#the-"bantaba"-method:-imagine-you-are-standing-at-the-bantaba-\(village-square\).-if-you-had-to-say-one-important-thing-to-the-whole-village,-what-would-it-be?)
-
-[**Listen to the Sound: Read your lines out loud. Mandinka poetry is about the melody of the voice as much as the words on the paper.	26**](#the-"bantaba"-method:-imagine-you-are-standing-at-the-bantaba-\(village-square\).-if-you-had-to-say-one-important-thing-to-the-whole-village,-what-would-it-be?)
-
-[**Unity: Remember, like the poem says, "We are all one". Your poems are helping build the "Digital Kabilo" for the AI.	26**](#unity:-remember,-like-the-poem-says,-"we-are-all-one".-your-poems-are-helping-build-the-"digital-kabilo"-for-the-ai.)
-
-[**Mandinka Family, Clan, and Kinship Traditions	27**](#mandinka-family,-clan,-and-kinship-traditions)
-
-[Family Life: Home and Marriage Traditions	27](#family-life:-home-and-marriage-traditions)
-
-[Clans and Joking Cousins	29](#clans-and-joking-cousins)
-
-[Ceremonies and Rites of Passage	30](#ceremonies-and-rites-of-passage-1)
-
-[Stories, Griots, and the Oral Tradition	34](#stories,-griots,-and-the-oral-tradition)
-
-[Connecting Past and Present	37](#connecting-past-and-present)
-
-[1\. The Structural Layer: Beyond the Household	39](#1.-the-structural-layer:-beyond-the-household)
-
-[2\. The Linguistic Heart: Relationships as Actions	39](#2.-the-linguistic-heart:-relationships-as-actions)
-
-[3\. The "Deep" Domain: Caste and Social Memory	40](#3.-the-"deep"-domain:-caste-and-social-memory)
-
-[4\. The Unknowns: Modernity and Shift	40](#4.-the-unknowns:-modernity-and-shift)
-
-[A Note on the "Griot" Perspective	40](#a-note-on-the-"griot"-perspective)
-
-[**The Fruit Falls Close To The Tree.	41**](#the-fruit-falls-close-to-the-tree.)
-
-[Respect for Elders (The Roots)	41](#respect-for-elders-\(the-roots\))
-
-[Unity and Collectivism (The Bundle)	41](#unity-and-collectivism-\(the-bundle\))
-
-[Lineage and Identity (The Tree)	41](#lineage-and-identity-\(the-tree\))
-
-[Parenting and Guidance (The Nest)	42](#parenting-and-guidance-\(the-nest\))
-
-[Summary Table: Kinship Proverbs	42](#summary-table:-kinship-proverbs)
-
-[**Writing Proverbs	43**](#writing-proverbs)
-
-[The Structure: "Observation \+ Conclusion"	43](#the-structure:-"observation-+-conclusion")
-
-[The Imagery: Nature as a Mirror	43](#the-imagery:-nature-as-a-mirror)
-
-[The Tone: Witty and Concise	44](#the-tone:-witty-and-concise)
-
-[**Proverb Literary Devices	44**](#proverb-literary-devices)
-
-[Metaphor (The Direct Comparison)	44](#metaphor-\(the-direct-comparison\))
-
-[Juxtaposition (The Contrast)	44](#juxtaposition-\(the-contrast\))
-
-[Personification (The Human Animal)	45](#personification-\(the-human-animal\))
-
-[Parallelism (The Balance)	45](#parallelism-\(the-balance\))
-
-[Hyperbole (The Exaggeration)	45](#hyperbole-\(the-exaggeration\))
-
-[Alliteration (The Sound)	45](#alliteration-\(the-sound\))
-
-[Quick Reference Table for Students	45](#quick-reference-table-for-students)
-
-[**"How-To" Guide for Proverb Writing	46**](#"how-to"-guide-for-proverb-writing)
-
-[Examples to Inspire Writing	46](#examples-to-inspire-writing)
-
-[**Academic Study	47**](#academic-study)
-
-[Cultural Anthropology: The Study of Human Ways of Life	47](#cultural-anthropology:-the-study-of-human-ways-of-life)
-
-[Linguistic Science (Linguistics): The Science of Language	47](#linguistic-science-\(linguistics\):-the-science-of-language)
-
-[Where They Meet: Linguistic Anthropology	48](#where-they-meet:-linguistic-anthropology)
-
-[References	48](#references)
-
-[1\. Cultural Anthropology & Linguistic Foundations	48](#1.-cultural-anthropology-&-linguistic-foundations)
-
-[2\. Mandinka Kinship & Oral History	49](#2.-mandinka-kinship-&-oral-history)
-
-[3\. Comparative Research & Case Studies	49](#3.-comparative-research-&-case-studies)
-
-[A Note on Access	49](#a-note-on-access)
-
-[The Past is "Alive," Not Dead	50](#the-past-is-"alive,"-not-dead)
-
-[Identity is a Chain, Not an Island	50](#identity-is-a-chain,-not-an-island)
-
-[The "GPS" of Social Survival	50](#the-"gps"-of-social-survival)
-
-[Preventing "Generational Amnesia"	51](#preventing-"generational-amnesia")
-
-[Analogy: "The Blur vs. The Portrait"	51](#analogy:-"the-blur-vs.-the-portrait")
-
-[**Project Title: The Book of Living Wisdom	52**](#project-title:-the-book-of-living-wisdom)
-
-[Phase 1: The Wisdom Hunt (The Interview)	52](#phase-1:-the-wisdom-hunt-\(the-interview\))
-
-
-
-[Phase 3: The Class Compilation (The "Global Value")	53](#phase-3:-the-class-compilation-\(the-"global-value"\))
-
-[**Mandinka in The Mirror	54**](#mandinka-in-the-mirror)
-
-[The "Mirror and Bridge"	54](#the-"mirror-and-bridge")
-
-[The "Object of Memory"	54](#the-"object-of-memory")
-
-[The "Translation Challenge" (Linguistic Domain)	55](#the-"translation-challenge"-\(linguistic-domain\))
-
-["Oath of the New Griot"	55](#"oath-of-the-new-griot")
-
-[**What We Have Learned	56**](#what-we-have-learned)
-
-
-[**What needs refinement for a language-capture domain guide	57**](#heading=h.ijdtk46o6k73)
-
-[Layer 1 — Key Vocabulary Targets	57](#heading=h.8rxbfje09orv)
-
-[Layer 2 — Sentence Pattern Targets	57](#heading=h.ayzbg9p3atb5)
-
-[Layer 3 — Oral History Prompts	58](#heading=h.ykola0i3kpxj)
-
-[Without these three layers,	58](#heading=h.huqfvak5rzjo)
-
-[**3\) How this fits Muhammed’s learning path	59**](#heading=h.li6h3zyqn717)
-
-[A. Building conceptual confidence	59](#heading=h.2qozjbc3vcpk)
-
-[B. Providing reference scaffolding	59](#heading=h.1ld6llanifsk)
-
-[C. Revealing translation challenges naturally	59](#heading=h.vptv15av007s)
-
-[**4\) Recommended next iteration	60**](#heading=h.vvlcjmao9pw)
-
-[Keep your current article as:	60](#heading=h.11kjskw48puq)
-
-[**5\) Why this matters for AiWA architecture	60**](#heading=h.77qon5syiizi)
-
-[**Final verdict	61**](#heading=h.wtfnh985ds4f)
-
-[RELOCATED FROM: Introduction]
 # Introduction {#introduction}
 
 Mandinka family and kinship are not only defined by patrilineal descent and age‑graded authority; they are also sustained by a rich body of oral literature, music and ritual. These expressive traditions strengthen bonds within and between lineages, transmit genealogies and moral codes, and mark key points in the life cycle.
@@ -555,51 +143,6 @@ In conclusion, the Mandinka are **custodians of a profound legacy**, carrying fo
 
 **Sources:** The information in this article comes from a variety of references on Mandinka society, including ethnographic accounts and historical records of Mandinka culture, which document the enduring nature of Mandinka family structures, clan relationships, ceremonial practices, and oral traditions.
 
-[RELOCATED FROM: Prepare to Deep Dive]
-**Prepare to Deep Dive**
-
-To explore the Mandinka social structure, we must move beyond Western definitions of "family" (the nuclear unit) and look toward **kabilo** (lineage/compound) and **siyo** (surname/clan). The Mandinka people of West Africa have a highly structured social hierarchy, and their kinship terms are often "performative"—meaning the words they use for relatives carry specific social obligations.
-
-The following questions are designed to move from the visible structure to the deep "linguistic domain" of Mandinka kinship.
-
-## 1\. The Structural Layer: Beyond the Household {#1.-the-structural-layer:-beyond-the-household}
-
-These questions identify how Mandinka people categorize their social world.
-
-* **The *Kabilo* vs. the *Suo*:** "In your daily life, where does the authority of the *Suo* (the immediate household) end and the authority of the *Kabilo* (the ancestral community) begin?"  
-* **The *Jamu* (Surname) Logic:** "When you meet a stranger with the same *jamuroo* (surname) as yours, what immediate linguistic 'short-cuts' or jokes (*sanawaya*) are used to establish a relationship before you even know their name?"  
-* **Patrilineal Weight:** "How does the phrase *'Fa-bulo'* (the father's side) dictate where a child belongs legally and spiritually, compared to the emotional role of the *'Ba-bulo'* (the mother's side)?"
-
-## 2\. The Linguistic Heart: Relationships as Actions {#2.-the-linguistic-heart:-relationships-as-actions}
-
-In Mandinka, kinship terms aren't just labels; they are instructions for how to behave. These questions target the "unknowns" of interpersonal dynamics.
-
-* **The "Mother-Father" Spectrum:** "You call your father's brothers *'Fa-nding'* (junior father) or *'Fa-keba'* (senior father). How does your behavior change when speaking to a *Fa-nding* versus your biological father?"  
-* **Sanawaya (Joking Relationships):** "Between specific clans (like the Keita and the Traore), there is a 'joking relationship.' What are the linguistic 'rules' of this play, and how does this verbal sparring prevent actual social conflict?"  
-* **The Power of the *Bari-muso*:** "The mother’s brother (maternal uncle) holds a unique position. Why is his blessing considered more 'binding' than a father's in certain life transitions, and what specific terms of respect are reserved only for him?"
-
-## 3\. The "Deep" Domain: Caste and Social Memory {#3.-the-"deep"-domain:-caste-and-social-memory}
-
-Mandinka culture is traditionally stratified into *Nyamboo* (nobles/freemen) and *Nyamakala* (specialized craftspeople/griots). These questions explore how kinship intersects with class.
-
-* **The *Jali* (Griot) Connection:** "If a family is of *Jali* lineage, how does their 'kinship' extend to the noble families they serve? Do they consider themselves 'relatives' through history even if not through blood?"  
-* **Marriage Alliances:** "When negotiating a marriage, how is the 'purity' of the *siyo* (clan) discussed in private? Are there archaic Mandinka words used to describe 'good' or 'bad' blood that are not used in common conversation?"  
-* **Ancestral Presence:** "How does the naming ceremony (*Kulio*) function as a linguistic bridge to bring a deceased ancestor back into the active kinship circle?"
-
-## 4\. The Unknowns: Modernity and Shift {#4.-the-unknowns:-modernity-and-shift}
-
-These questions target the areas where traditional Mandinka kinship is currently rubbing against the 21st century.
-
-* **Urban Kinship:** "In cities like Banjul or Bamako, how is the term *kabilo* being redefined when 'neighbors' begin to take on the linguistic roles of 'uncles' or 'aunts' out of necessity?"  
-* **Remittance and Authority:** "If a younger son is in Europe sending money back to the compound, how do the linguistic markers of respect shift? Does he retain his 'junior' status in speech, or does his economic power grant him 'senior' linguistic markers?"
-
-## A Note on the "Griot" Perspective {#a-note-on-the-"griot"-perspective}
-
-To truly reach the heart of this domain, one would need to interview a **Jali (Griot)**. They are the "living archives" of these kinship ties. A guiding question for them would be:
-
-*"When you recite a family's genealogy, what are the 'linking words' you use to show that two clans are actually one 'body'?"*
-
-[RELOCATED FROM: Academic Study]
 # Academic Study {#academic-study}
 
 To define **Cultural Anthropology** and **Linguistic Science** (usually referred to as **Linguistics**), it helps to see them as two different ways of studying what makes us human. While Cultural Anthropology looks at the "big picture" of how we live, Linguistics zooms in on the specific "operating system" we use to communicate.
@@ -684,7 +227,6 @@ These sources specifically address the Mandinka social concepts (*Kabilo*, *Jamu
 
 Many of these texts are "seminal," meaning they are the foundational bricks of the discipline. If you are unable to access the full texts via the publishers, searching for these titles on **Google Scholar** or **ResearchGate** often yields open-access drafts or "Pre-print" versions uploaded by the authors.
 
-[RELOCATED FROM: Ancestral Intelligence section]
 Ancestral Intelligence 
 
 The fact that the Mandinka language has unique, specific words for ancestors going back five generations (rather than just adding "great" over and over again like in English) is a huge clue about what their culture values.
@@ -745,16 +287,16 @@ The kinship domain produces vocabulary that can be sensitive — caste terms, ma
 **STUDENT BRIEF**
 This week is about collecting words. Every Mandinka kinship word you write is a publishable data point, and your target is strong consistency (about 85% spelling accuracy), not perfection.
 
-[NEW] Purpose: Collect Mandinka kinship vocabulary with volume and consistency. Untranslatable terms are high-value corpus entries.
+Purpose: Collect Mandinka kinship vocabulary with volume and consistency. Untranslatable terms are high-value corpus entries.
 
-[NEW] [CHARTS TO BE INSERTED]
-[NEW] Chart 1 — The Consonant Grid
-[NEW] Insert the AIWA consonant grid here exactly as designed. Do not approximate or recreate it.
+[CHARTS TO BE INSERTED]
+Chart 1 — The Consonant Grid
+Insert the AIWA consonant grid here exactly as designed. Do not approximate or recreate it.
 
-[NEW] Chart 2 — Vowel Length
-[NEW] Insert the AIWA vowel length chart here exactly as designed. Do not approximate or recreate it.
+Chart 2 — Vowel Length
+Insert the AIWA vowel length chart here exactly as designed. Do not approximate or recreate it.
 
-[NEW] Word Collection Table
+Word Collection Table
 
 | Mandinka word (phonetic spelling attempt) | English meaning or closest equivalent | Part of speech | Source (elder/home/school/this workbook) | Notes (untranslatable concepts, regional variation, alternate form heard) |
 |---|---|---|---|---|
@@ -771,11 +313,11 @@ This week is about collecting words. Every Mandinka kinship word you write is a 
 |  |  |  |  |  |
 |  |  |  |  |  |
 
-[NEW] Flag untranslatable terms separately. These are the highest-value items in the corpus. If a student writes a word with no clean English equivalent, they must write their best explanation in English (description, not translation).
+Flag untranslatable terms separately. These are the highest-value items in the corpus. If a student writes a word with no clean English equivalent, they must write their best explanation in English (description, not translation).
 
-[NEW] Priority untranslatable terms for this chapter: **kabilo** (lineage compound), **siyo** (surname/clan identity), **jamu** (surname lineage marker), **sanankouya** (governed joking obligation for peace), **Fa-keba**, **Fa-nding**, **Ba-bulo**, **Nyamboo**, **Nyamakala**, **kuyangwoo**, **musolula Barawuloo**, **Ba-dingya**, **Fa-dingya**.
+Priority untranslatable terms for this chapter: **kabilo** (lineage compound), **siyo** (surname/clan identity), **jamu** (surname lineage marker), **sanankouya** (governed joking obligation for peace), **Fa-keba**, **Fa-nding**, **Ba-bulo**, **Nyamboo**, **Nyamakala**, **kuyangwoo**, **musolula Barawuloo**, **Ba-dingya**, **Fa-dingya**.
 
-[NEW] The Red Pen Protocol: once a word is written, underline it in red to mark it as a target word for Chapter 3 grammar and downstream AIWA tagging tools.
+The Red Pen Protocol: once a word is written, underline it in red to mark it as a target word for Chapter 3 grammar and downstream AIWA tagging tools.
 
 \newpage
 
@@ -787,7 +329,6 @@ The kinship domain is especially strong for the Family and Respect Words section
 **STUDENT BRIEF**
 You already know this grammar in speech. This week gives your spoken knowledge a written form using words you collected in Chapter 2.
 
-[RELOCATED FROM: Mandinka Grammar and Sentence Writing Pilot Worksheet / Grammar]
 # Mandinka Grammar and Sentence Writing Pilot Worksheet
 
 These linguistic worksheets from Masroor Senior Secondary School document the Mandinka language through structured grammar exercises focused on kinship and family themes. Each source provides a detailed breakdown of parts of speech, including nouns, verbs, adjectives, and adverbs, paired with their English translations to demonstrate proper syntax. Students utilized these forms to practice building various sentence types, ranging from simple statements and questions to complex commands and emotional expressions. The documents also explore cultural concepts by featuring specialized vocabulary for communal leadership, family respect, and unique local idioms.
@@ -1001,7 +542,6 @@ The proverb form protects students and the work. It does not require them to rev
 **STUDENT BRIEF**
 This week you are not writing a story. You are writing a proverb: one or two sharp lines, with a clear lesson, in language that can be published.
 
-[RELOCATED FROM: The Fruit Falls Close To The Tree / Writing Proverbs / Proverb Literary Devices / Quick Reference Table / How-To Guide]
 # The Fruit Falls Close To The Tree. {#the-fruit-falls-close-to-the-tree.}
 
 In Mandinka and wider West African culture, proverbs act as the "social glue" that holds families together. Since traditional history was oral (spoken) rather than written, there was no rulebook on the shelf titled *How to Be a Good Family Member*.
@@ -1197,7 +737,6 @@ Here are a few real Mandinka/West African proverbs to show the range:
 
 #
 
-[RELOCATED FROM: The Mandinka Poetry Blueprint]
 # **The Mandinka Poetry Blueprint** {#the-"bantaba"-method:-imagine-you-are-standing-at-the-bantaba-(village-square).-if-you-had-to-say-one-important-thing-to-the-whole-village,-what-would-it-be?}
 
 # The 4-step tool to turn domain knowledge (Family and Kinship) into a proverb-ready draft. {#the-"bantaba"-method:-imagine-you-are-standing-at-the-bantaba-(village-square).-if-you-had-to-say-one-important-thing-to-the-whole-village,-what-would-it-be?}
@@ -1258,13 +797,13 @@ Here are a few real Mandinka/West African proverbs to show the range:
 
 # Unity: Remember, like the poem says, "We are all one". Your poems are helping build the "Digital Kabilo" for the AI. {#unity:-remember,-like-the-poem-says,-"we-are-all-one".-your-poems-are-helping-build-the-"digital-kabilo"-for-the-ai.}
 
-[NEW] The Proverb Structure Workshop
-[NEW] Before writing begins, reverse-engineer three source proverbs with the Observation + Conclusion formula. Then use the 3-step formula: choose a lesson, choose an animal or object image, combine into one statement. Each student produces one draft proverb (English draft is acceptable in this step).
+The Proverb Structure Workshop
+Before writing begins, reverse-engineer three source proverbs with the Observation + Conclusion formula. Then use the 3-step formula: choose a lesson, choose an animal or object image, combine into one statement. Each student produces one draft proverb (English draft is acceptable in this step).
 
-[NEW] THE BOOK OBJECT EXERCISE
-[NEW] Each group takes 15 sheets of A6 paper, staples along the center fold, and folds in half to produce a booklet with 28 usable content pages. On the cover they write in pencil: working title, intended reader age, all student names, school name, and AI West Africa. Groups decide reader level (Grade 2, Grade 4, Grade 6, or general community use).
+THE BOOK OBJECT EXERCISE
+Each group takes 15 sheets of A6 paper, staples along the center fold, and folds in half to produce a booklet with 28 usable content pages. On the cover they write in pencil: working title, intended reader age, all student names, school name, and AI West Africa. Groups decide reader level (Grade 2, Grade 4, Grade 6, or general community use).
 
-[NEW] The group lists life-problem chapter headings before final writing: anger, patience, unity, respect, responsibility, loss, ambition, loyalty. Each proverb is filed under one heading so the table of contents is visible before finalization.
+The group lists life-problem chapter headings before final writing: anger, patience, unity, respect, responsibility, loss, ambition, loyalty. Each proverb is filed under one heading so the table of contents is visible before finalization.
 
 \newpage
 
@@ -1276,7 +815,6 @@ If a student has griot lineage connections, engage them here. A jali response to
 **STUDENT BRIEF**
 This week you choose who to interview and what to ask based on the life-problem chapters your group is already building.
 
-[RELOCATED FROM: Prepare to Deep Dive]
 **Prepare to Deep Dive**
 
 To explore the Mandinka social structure, we must move beyond Western definitions of "family" (the nuclear unit) and look toward **kabilo** (lineage/compound) and **siyo** (surname/clan). The Mandinka people of West Africa have a highly structured social hierarchy, and their kinship terms are often "performative"—meaning the words they use for relatives carry specific social obligations.
@@ -1320,7 +858,7 @@ To truly reach the heart of this domain, one would need to interview a **Jali (G
 
 *"When you recite a family's genealogy, what are the 'linking words' you use to show that two clans are actually one 'body'?"*
 
-[NEW] Field target mapping table
+Field target mapping table
 
 | Life problem chapter | Questions selected from Deep Dive bank | Interview subject persona (Jali / Muso-keba / Elder / youth-age-set peer) | What the group hopes to bring back |
 |---|---|---|---|
@@ -1343,7 +881,6 @@ The field is not a school trip. Students are authors on assignment with a specif
 **STUDENT BRIEF**
 Go to elders and return with proverbs and meanings you did not have before, then decide what truly belongs in your book chapters.
 
-[RELOCATED FROM: Project Title: The Book of Living Wisdom / Phase 1: The Wisdom Hunt (The Interview)]
 # Project Title: The Book of Living Wisdom {#project-title:-the-book-of-living-wisdom}
 
 **The Goal:** Students will act as **collectors of wisdom**, not historians. Their goal is to compile a "User’s Manual for Life" based on the proverbs of their community, with a short story that proves *why* the proverb is true.
@@ -1369,7 +906,6 @@ Instead of asking "Who are your ancestors?", students ask their elders (parents,
 
 ---
 
-[RELOCATED FROM: Mandinka in The Mirror]
 # Mandinka in The Mirror {#mandinka-in-the-mirror}
 
 To wrap this project into a meaningful conclusion for the participants, a **Moment of Reflection** to allow yourself to move from being "data collectors" to "knowledge keepers."
@@ -1399,7 +935,7 @@ Concluding, consider your future and ask yourself these questions with a forward
 * **The Question:** "Now that you possess this knowledge that your peers do not, what is your responsibility? Who is the first person you will tell these stories to?"  
 * **The Goal:** To transform into active protectors of Mandinka culture.
 
-[NEW] Field collection rule: students collect proverb + meaning for publication. If an elder shares additional narrative context, students can keep it in field notes for understanding, but publication output remains proverb and meaning only.
+Field collection rule: students collect proverb + meaning for publication. If an elder shares additional narrative context, students can keep it in field notes for understanding, but publication output remains proverb and meaning only.
 
 \newpage
 
@@ -1411,7 +947,6 @@ The audit is an editorial meeting. The coordinator facilitates, and the group de
 **STUDENT BRIEF**
 This week you audit all collected work, decide what stays, what is revised, and how the final proverb order should read by life problem.
 
-[RELOCATED FROM: Phase 3: The Class Compilation (The "Global Value")]
 ## Phase 3: The Class Compilation (The "Global Value") {#phase-3:-the-class-compilation-(the-"global-value")}
 
 The final book is organized not by family names, but by **Life Problems**. This makes it a globally useful tool. If someone in another country picks up this book, they can look up their problem and find a Gambian solution.
@@ -1430,7 +965,6 @@ The final book is organized not by family names, but by **Life Problems**. This 
 
 ---
 
-[RELOCATED FROM: What We Have Learned]
 # What We Have Learned {#what-we-have-learned}
 
 By the end of this process, the you should be able to articulate three things:
@@ -1443,7 +977,7 @@ By the end of this process, the you should be able to articulate three things:
 
 **Congratulations Cultural Steward\! Good work.**
 
-[NEW] Production audit table
+Production audit table
 
 | Proverb (draft) | Life problem chapter it belongs to | Mandinka version (attempt) | English translation | Meaning (1-3 sentences) | Source (student-written / elder-collected / field-recorded) | Status (keep / revise Mandinka spelling / revise meaning / cut) |
 |---|---|---|---|---|---|---|
@@ -1470,24 +1004,19 @@ Every student whose name is on the cover is a published author. AIWA retains rig
 **STUDENT BRIEF**
 This week you finalize and sequence your proverb book for real readers and real publication, using the format exactly.
 
-[NEW] This chapter is fully new and defines final production.
+This chapter is fully new and defines final production.
 
-[NEW] The book structure:
-- [NEW] Cover: working title, reader age, all student names, school name, AI West Africa
-- [NEW] Inside front: AIWA publishing info, school, two-sentence program description, attribution statement for all contributors
-- [NEW] Table of contents: life-problem chapters listed in sequence
-- [NEW] Content pages: each chapter starts with the life-problem heading, then proverb entries in this format: **Mandinka proverb**, *English translation*, meaning (1-3 sentences, no narrative)
-- [NEW] Layout density: one proverb per page or half-page depending on count and reader age; younger readers get larger text and more white space; older readers can have two per page
-- [NEW] Illustration brief: one illustration per chapter heading (student drawing, field photo, or AI-generated image) representing the life-problem theme, not a specific proverb narrative
-- [NEW] Back cover: one selected signature proverb, student names, AIWA logo placement
+The book structure:
+- Cover: working title, reader age, all student names, school name, AI West Africa
+- Inside front: AIWA publishing info, school, two-sentence program description, attribution statement for all contributors
+- Table of contents: life-problem chapters listed in sequence
+- Content pages: each chapter starts with the life-problem heading, then proverb entries in this format: **Mandinka proverb**, *English translation*, meaning (1-3 sentences, no narrative)
+- Layout density: one proverb per page or half-page depending on count and reader age; younger readers get larger text and more white space; older readers can have two per page
+- Illustration brief: one illustration per chapter heading (student drawing, field photo, or AI-generated image) representing the life-problem theme, not a specific proverb narrative
+- Back cover: one selected signature proverb, student names, AIWA logo placement
 
-[NEW] Typesetting guidance: Noto Sans throughout; 14pt minimum for younger readers, 12pt minimum for older readers; Mandinka terms bold on first appearance; English translations italic; meanings regular weight; each life-problem chapter begins on a new page.
+Typesetting guidance: Noto Sans throughout; 14pt minimum for younger readers, 12pt minimum for older readers; Mandinka terms bold on first appearance; English translations italic; meanings regular weight; each life-problem chapter begins on a new page.
 
-[NEW] Print and bind: A6, center-staple, fold. Use the same object built in Chapter 4 and finalize it for circulation.
+Print and bind: A6, center-staple, fold. Use the same object built in Chapter 4 and finalize it for circulation.
 
-[NEW] Distribution: one copy to the school library, one to AIWA, and one to the Gambian Ministry of Education.
-
-[RELOCATED FROM: image references at end of draft]
-[image1]: <data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAC8AAAAGCAYAAABThMdSAAAAHklEQVR4XmOQW/Xx/1DFDOgCQwmPOn6g8KjjBwoDAOS8/s9EC0PsAAAAAElFTkSuQmCC>
-
-[image2]: <data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAQcAAAAcCAIAAADjr+0cAAADg0lEQVR4Xu2a0XXrQAhE1YlLSSkpxaW4lJSSUvR0wnkEDSw7rOSvcL8smBmUtdaSfbLtTdOc2bDQNH+e3hVNg/SuaBqkd0XTIL0rmgZhd8Xj8dh+OF5gzyHKA2wM0HBsnCFjQaaHJDbq6+sL2zPUiw2O7+/v3/FLHAkSVXqnSNZcr9crHGqL1aW23pDSOgDzdKF0QrxSEX3+B2hsngwaY6LwOSUu2q/vCpv2fD6xfcaKGdZcgh+qleqW2NILQLDi6ToA8/Q9WgVUnCFllqlFBbnM33amlhHLxpw3xQoaTk4hZUDJ5cVM5SIauJY8V2vu4wdmDKPx5C7tCnBTVqRr7zlq+RVxLBtz3hS7u2cGZhCj8ZRcXsxUrrCwDsBcCqHMDEbjSVx6h91TWdgKiwzLxpw3xe4uWQ8/Pj5OOgNYSEouL2YqV4A0PUzWAZicBwxIipapYIS4jj0Q1iVQPwn8w6KV5UWGZWPOm2KPt1xi7V10OmsqCCm5vJipLLO2DkCmO3IlCzaZPkf5y1eonoQSGo+rH4qhzN5PLComUaOuL48ZO6QkJhm9U/tsXN4doa4S3p5U1tB18FGjekgmSoKS1j7rJvgNsEdperswqkAGdRLrtatMYu0hvJInyUxae3Fx1lyCmRmckq+skeRoa/RRbgn8QjJASARJa4r3yiH8ZAkyvXw/Pz+tbHfKN3HMlSn+uQ64/Xz01p3/AhFO1BaDd5mkEyoIf2j2dl9Z4Mo6AEPFNCIRJK0pen3Lof+lNazLay/LW/ciU+zPXyG3n880UHds9flqBONKNL7lKwtMQ5J1AOKI6QBhJBvVSaxdXoSXmrTks9m+BqS1rZ4MDzmIlJGQaSPZqJ7DuFTD3L19pQqZwMqwYJzhtWhR5XYeExZ5TGqWo9+GR/cTIQ+5EXIQKWPQr2HTd0q/icHcsDiFdI1kvu4rJa6vA4A90qaE4rBYQhO29H5nZdtgXN69C1235GyFu85n+Z2yl04pQSFd+mmVfycMKyVKdn2OSrYQBpUGCN7iK1U0IQ9hZFbDsGwUzOQYXpmjOaMvlx4/2lcYeFeo9MUrP4Jr5co6APHpJtvIo67t/xg4XMD+uxj2zkxlKiBZNm7RM7RHxdioYJ8esTfGryockvAuVdqVCe1aJBHXXesAxNWm+cv0rmgapHdF0yC9K5oG6V3RNEjviqZBelc0DfIPBhFMHu+uatcAAAAASUVORK5CYII=>
+Distribution: one copy to the school library, one to AIWA, and one to the Gambian Ministry of Education.
