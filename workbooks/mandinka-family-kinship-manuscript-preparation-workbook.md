@@ -2,7 +2,7 @@
 
 # AIWA Digital Griot Workbook: Kinship Domain
 
-This workbook is for Senior Secondary and Upper Basic students in The Gambia who are lifelong fluent Mandinka speakers learning to write Mandinka and publish as commissioned authors. AIWA is a media and publishing company, and students are authors, producers, and knowledge holders.
+This workbook is for Senior Secondary and Upper Basic students in The Gambia who are lifelong fluent Mandinka speakers learning to write and publish Mandinka content as commissioned authors. AIWA is a media and publishing company, and students are authors, producers, and knowledge holders.
 
 Production format requirements: A4 output, mirror margins for binding, Noto Sans throughout, distinct visual table formatting, and headers/footers that include document title, chapter name, and page number.
 
