@@ -2,7 +2,7 @@
 
 # AIWA Digital Griot Workbook: Kinship Domain
 
-This workbook is for Senior Secondary and Upper Basic students in The Gambia who are lifelong fluent Mandinka speakers learning to write Mandinka as commissioned authors. AIWA is a media and publishing company, and students are authors, producers, and knowledge holders.
+This workbook is for Senior Secondary and Upper Basic students in The Gambia who are lifelong fluent Mandinka speakers learning to write Mandinka and publish as commissioned authors. AIWA is a media and publishing company, and students are authors, producers, and knowledge holders.
 
 Production format requirements: A4 output, mirror margins for binding, Noto Sans throughout, distinct visual table formatting, and headers/footers that include document title, chapter name, and page number.
 
@@ -291,10 +291,10 @@ Purpose: Collect Mandinka kinship vocabulary with volume and consistency. Untran
 
 [CHARTS TO BE INSERTED]
 Chart 1 — The Consonant Grid
-Insert the AIWA consonant grid here exactly as designed. Do not approximate or recreate it.
+Insert the AIWA consonant grid from the official AIWA chart pack used in coordinator print materials. Do not approximate or recreate it.
 
 Chart 2 — Vowel Length
-Insert the AIWA vowel length chart here exactly as designed. Do not approximate or recreate it.
+Insert the AIWA vowel length chart from the official AIWA chart pack used in coordinator print materials. Do not approximate or recreate it.
 
 Word Collection Table
 
