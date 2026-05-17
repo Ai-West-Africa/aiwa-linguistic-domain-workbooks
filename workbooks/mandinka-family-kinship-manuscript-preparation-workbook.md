@@ -51,9 +51,9 @@ Mandinka kinship is celebrated through ceremonies that mark the life cycle:
 - **Marriage rites** – Weddings often involve the exchange of bridewealth and are accompanied by griot songs and drumming. The Kankurang may escort the bride and enforce propriety. Women form singing circles that use praise songs and jokes to support the couple.
 - **Funerals and ancestor veneration** – Funerals mobilise extended kin. Griots recite the deceased’s lineage and ancestors while drummers play mournful rhythms. Ritual charity is made on the third and fortieth days after death to mark the final separation of the deceased.
 
-### Joking kinship and Sanankouya/Sanowaya
+### Joking kinship and Sannowayaa
 
-Beyond biological kin, Mandinka clans participate in **joking relationships**. Under the ethic of **sanankouya/sanowaya** (joking cousinhood), certain clans are obligated to tease and make humorous insults toward each other while also offering mutual support. This “joking cousinhood” was established under Sundiata Keïta and is designed to ease inter‑clan tensions and reinforce bonds among Mandinka, Wolof and Fulani. Anthropologists note that in the Mandinka trade language, joking ties are called **sanaweyaa/sanowaya** or **dankutoo**, and these ties carry mutual obligations and behavioural taboos. Individuals who share these ties are allowed freedom of speech and must not become angry at teasing; harming a joking partner is strongly prohibited. Mediators use joking kinship to persuade disputants to reconcile, and Mandinka say “joking relations are essential to peacemaking”.
+Beyond biological kin, Mandinka clans participate in **joking relationships**. Under the ethic of **sannowayaa** (joking cousinhood), certain clans are obligated to tease and make humorous insults toward each other while also offering mutual support. This “joking cousinhood” was established under Sundiata Keïta and is designed to ease inter‑clan tensions and reinforce bonds among Mandinka, Wolof and Fulani. Anthropologists note that in the Mandinka trade language, joking ties are called **sannowayaa** or **dankutoo**, and these ties carry mutual obligations and behavioural taboos. Individuals who share these ties are allowed freedom of speech and must not become angry at teasing; harming a joking partner is strongly prohibited. Mediators use joking kinship to persuade disputants to reconcile, and Mandinka say “joking relations are essential to peacemaking”.
 
 ### Role of women in music and dance
 
@@ -89,9 +89,9 @@ Beyond the immediate family, every Mandinka person belongs to a **clan**, which 
 
 Clans are so significant that many have their own **symbolic emblems**, often animals or plants, that serve as totems or badges. One clan might be represented by a lion, another by a baobab tree, for instance. These symbols often come from old stories about the clan’s founder or some legendary event. They reinforce a sense of pride and belonging: a person might refrain from harming their clan’s sacred animal, or invoke it in songs and greetings. Through such symbols and shared names, Mandinka clans preserve connections that cut across different villages and even country borders.
 
-One especially delightful Mandinka tradition is something called **sanankouya/sanawaya**, often translated as “joking relationship” or **“joking cousins”**. This is a custom where certain clans have a special friendship that allows – even obligates – them to playfully tease and mock each other without anyone taking offense. The practice dates back to the days of Sundiata Keita, the 13th-century ruler. According to legend, when Sundiata drew up the **Kurukan Fuga** (an oral charter or code of the Mali Empire), he included a rule that clans should engage in friendly joking with one another as a civic duty. The idea was to ease tensions and prevent conflict among the diverse peoples he united. If you’re in a Mandinka community, you might hear two people with certain surnames hurling humorous insults or outrageous claims at each other, to the amusement of everyone around. For example, the Traoré/Touray and Koné clans traditionally have a joking cousinhood – a Traoré/Touray might teasingly accuse a Koné of “loving to eat beans more than anyone,” while the Koné fires back another silly insult. These exchanges are **good-natured** and actually signal closeness and mutual respect. Because they can joke about each other, those clans are considered like family. If a serious need arises – say one person needs help or mediation – the joking cousin is expected to be the first to assist and defuse the situation. In this way, humor becomes a glue that holds different groups together.
+One especially delightful Mandinka tradition is something called **sannawayaa**, often translated as “joking relationship” or **“joking cousins”**. This is a custom where certain clans have a special friendship that allows – even obligates – them to playfully tease and mock each other without anyone taking offense. The practice dates back to the days of Sundiata Keita, the 13th-century ruler. According to legend, when Sundiata drew up the **Kurukan Fuga** (an oral charter or code of the Mali Empire), he included a rule that clans should engage in friendly joking with one another as a civic duty. The idea was to ease tensions and prevent conflict among the diverse peoples he united. If you’re in a Mandinka community, you might hear two people with certain surnames hurling humorous insults or outrageous claims at each other, to the amusement of everyone around. For example, the Traoré/Touray and Koné clans traditionally have a joking cousinhood – a Traoré/Touray might teasingly accuse a Koné of “loving to eat beans more than anyone,” while the Koné fires back another silly insult. These exchanges are **good-natured** and actually signal closeness and mutual respect. Because they can joke about each other, those clans are considered like family. If a serious need arises – say one person needs help or mediation – the joking cousin is expected to be the first to assist and defuse the situation. In this way, humor becomes a glue that holds different groups together.
 
-Sanankouya/Sanawaya isn’t only between Mandinka clans; it often extends to other ethnic groups too. The Mandinka have joking relationships with some of their neighbors, like the **Fulani** and **Wolof** people, as a way to maintain harmony across ethnic lines. This centuries-old tradition of **“joking kinship”** has even been noted by scholars as a unique form of African conflict resolution – laughter replaces anger, and long memories of friendship replace feuds. Some experts think that traces of this custom survived the Atlantic slave trade and can be seen in African diaspora communities – for example, the playful trading of insults in African American culture (“playing the dozens”) might be a distant echo of sanankouya’s spirit of friendly teasing.
+Sannawayaa isn’t only between Mandinka clans; it often extends to other ethnic groups too. The Mandinka have joking relationships with some of their neighbors, like the **Fulani** and **Wolof** people, as a way to maintain harmony across ethnic lines. This centuries-old tradition of **“joking kinship”** has even been noted by scholars as a unique form of African conflict resolution – laughter replaces anger, and long memories of friendship replace feuds. Some experts think that traces of this custom survived the Atlantic slave trade and can be seen in African diaspora communities – for example, the playful trading of insults in African American culture (“playing the dozens”) might be a distant echo of sanankouya’s spirit of friendly teasing.
 
 In modern Mandinka life, clan ties and joking cousin relationships still thrive, though urban life has changed their expression a bit. In cities, people meet many others outside their traditional circle, yet a Mandinka taxi driver in Banjul or Dakar might give a free ride to a passenger who shares his last name, upholding the old hospitality code. Young Mandinkas on social media might exchange humorous memes about each other’s clans, continuing the joking traditions in new ways. These practices, old or new, all serve the same purpose: they create a vast feeling of **kinship**. Whether through sharing a surname or sharing a laugh, Mandinka people stay connected as one big family across time and distance, reinforcing the idea that **“I am because we are”** – a person is strong because of their community.
 
@@ -101,9 +101,9 @@ Major life events in Mandinka culture are marked by elaborate **ceremonies** tha
 
 As Mandinka children grow, they reach a point usually in late childhood when they undergo **rites of passage** to be recognized as young adults. This transition is taken very seriously and is marked by initiation ceremonies that have traditionally involved **circumcision** (for boys and, in the past, for girls as well) and a period of training in the bush. The Mandinka call the boys’ coming-of-age ritual *kuyangwoo*. Historically, every few years a group of boys aged roughly 6 to 13 would be gathered for initiation together. Early one morning, the boys – who are called *novices* during this time – are led out to a **circumcision lodge** built from grass and millet stalks, usually deep in the forest away from the village. There, an elder or specialist performs the circumcision for each boy, one after the other. In older times, these boys would then remain in a **secluded bush camp** for as long as several months up to a year, away from their families, to heal and to learn the traditions of manhood. Elders and guardians stay with them, teaching the boys important lessons – how to be courageous, how to respect elders, how to live as **disciplined, cooperative men** in their community. The training can include learning about herbal medicines, survival skills, and the moral code of the society. It’s not all stern lecturing; there are also secret songs, dances, and even scary stories told to test the boys’ bravery. For instance, elders might swing a bull-roarer (a whirring noise-maker) out in the dark forest, telling the youths it’s the sound of **spirits**, to instill both fear and respect. The entire process is like a special school for the initiates, turning carefree boys into responsible young men.
 
-A central figure in the boys’ initiation is the **Kankurang**, a masked guardian of Mandinka tradition. *A Mandinka Kankurang masquerader in the Gambia. The Kankurang spirit, clad in a costume of red tree bark fibres and leaves, appears during boys’ initiation rites to protect the newly circumcised and enforce discipline.* The Kankurang is an **initiated man** who dons a fierce costume made of the bark and red fibers of the **fara** tree and layered leaves, completely disguising his human identity. Wielding two cutlasses (machetes) and emitting high-pitched shrieks, the Kankurang dances through the village with an entourage of former initiates, creating both fear and fascination. According to Mandinka belief, the Kankurang **spirit** serves as a guardian of order and justice – during the initiation period, he scares away any evil spirits that might harm the boys, and he also makes sure curious villagers (or disobedient children) keep away from the secret rites. He might chase onlookers or misbehaving kids with those machetes (never truly harming anyone, but certainly scaring them into listening to the rules\!). In essence, the Kankurang enforces the authority of the elders: what the community’s adult leaders have decided, the Kankurang will impose with his fearsome presence. At night, villagers can hear the Kankurang’s haunting cry and the steady beat of drums accompanying his dance. While frightening, he is also revered – children are taught that the **Kankurang** protects the community by “eating” or driving out any wicked forces. Through this vivid masquerade, the initiates learn the value of law, tradition, and the idea that the **elders’ voice is law** (since the Kankurang is said to embody the voice of the ancestors). After several weeks in the forest (these days often about 3–4 weeks, whereas in the past it could be many months), the boys return to their village as **new men**. The whole community welcomes them with singing, drumming, and a big feast celebrating their graduation into adulthood. It’s a proud moment – parents see their sons walking taller and behaving more responsibly. Notably, all the boys who were initiated together form a special lifelong brotherhood, called an **age-set**. They even receive a group name for their cohort, and they will remain close friends and support each other throughout life. This age-set system creates another layer of kinship among Mandinka men, beyond family and clan – your initiation mates are like your second family, bound by the shared experience of kuyangwoo.
+A central figure in the boys’ initiation is the **Kankurang**, a masked guardian of Mandinka tradition. *A Mandinka Kankurang masquerader in the Gambia. The Kankurang spirit, clad in a costume of red tree bark fibres and leaves, appears during boys’ initiation rites to protect the newly circumcised and enforce discipline.* The Kankurang is an **initiated man** who dons a fierce costume made of the bark and red fibers of the **farra** tree and layered leaves, completely disguising his human identity. Wielding two cutlasses (machetes) and emitting high-pitched shrieks, the Kankurang dances through the village with an entourage of former initiates, creating both fear and fascination. According to Mandinka belief, the Kankurang **spirit** serves as a guardian of order and justice – during the initiation period, he scares away any evil spirits that might harm the boys, and he also makes sure curious villagers (or disobedient children) keep away from the secret rites. He might chase onlookers or misbehaving kids with those machetes (never truly harming anyone, but certainly scaring them into listening to the rules\!). In essence, the Kankurang enforces the authority of the elders: what the community’s adult leaders have decided, the Kankurang will impose with his fearsome presence. At night, villagers can hear the Kankurang’s haunting cry and the steady beat of drums accompanying his dance. While frightening, he is also revered – children are taught that the **Kankurang** protects the community by “eating” or driving out any wicked forces. Through this vivid masquerade, the initiates learn the value of law, tradition, and the idea that the **elders’ voice is law** (since the Kankurang is said to embody the voice of the ancestors). After several weeks in the forest (these days often about 3–4 weeks, whereas in the past it could be many months), the boys return to their village as **new men**. The whole community welcomes them with singing, drumming, and a big feast celebrating their graduation into adulthood. It’s a proud moment – parents see their sons walking taller and behaving more responsibly. Notably, all the boys who were initiated together form a special lifelong brotherhood, called an **age-set**. They even receive a group name for their cohort, and they will remain close friends and support each other throughout life. This age-set system creates another layer of kinship among Mandinka men, beyond family and clan – your initiation mates are like your second family, bound by the shared experience of kuyangwoo.
 
-Girls traditionally have their own rites of passage as well, usually led by elder women of the village. In the past, Mandinka girls around age 10-15 underwent a ritual sometimes called **musolula Barawuloo\`** (among other local names), which included a form of genital cutting (often referred to as female circumcision) and a period of seclusion similar to the boys’. An elderly woman, sometimes nicknamed the “circumcision queen,” would guide the girls, teaching them womanly duties, household skills, and values like modesty, unity, and care for family. The girls would stay together for a week or two, away from men, helping each other heal and learning to support one another as **sisters**. As with the boys, this practice created strong bonds among the girls and signaled their eligibility for marriage afterward. However, in modern times this practice has become highly controversial due to health and human rights concerns. Many Mandinka communities have been abandoning female circumcision under increasing pressure from national laws, education campaigns, and medical advice. In some areas, the **initiation for girls** has been reformed to keep the cultural education part – teaching girls about womanhood and community responsibilities – but to exclude the harmful cutting. For instance, community workshops or alternative rites (without surgery) are sometimes held so girls can still have a coming-of-age celebration in a safer way. Change has been slow and generational; while **older Mandinka women** often resist letting go of what they see as an important tradition, younger families are gradually shifting toward safer practices. This is a good example of how Mandinka society is balancing respect for tradition with the well-being of the youth.
+Girls traditionally have their own rites of passage as well, usually led by elder women of the village. In the past, Mandinka girls around age 10-15 underwent a ritual sometimes called **musolu la Barawuloo\`** (among other local names), which included a form of genital cutting (often referred to as female circumcision) and a period of seclusion similar to the boys’. An elderly woman, sometimes nicknamed the “circumcision queen,” would guide the girls, teaching them womanly duties, household skills, and values like modesty, unity, and care for family. The girls would stay together for a week or two, away from men, helping each other heal and learning to support one another as **sisters**. As with the boys, this practice created strong bonds among the girls and signaled their eligibility for marriage afterward. However, in modern times this practice has become highly controversial due to health and human rights concerns. Many Mandinka communities have been abandoning female circumcision under increasing pressure from national laws, education campaigns, and medical advice. In some areas, the **initiation for girls** has been reformed to keep the cultural education part – teaching girls about womanhood and community responsibilities – but to exclude the harmful cutting. For instance, community workshops or alternative rites (without surgery) are sometimes held so girls can still have a coming-of-age celebration in a safer way. Change has been slow and generational; while **older Mandinka women** often resist letting go of what they see as an important tradition, younger families are gradually shifting toward safer practices. This is a good example of how Mandinka society is balancing respect for tradition with the well-being of the youth.
 
 Aside from initiation rites, Mandinka people have many other **ceremonies and celebrations** that mark life’s chapters. **Weddings** are particularly grand events – often lasting several days with music, drumming, dancing and a convergence of two entire families (and villages\!). A Mandinka wedding, called a “bride transfer,” traditionally takes place on a Thursday or Friday, considered holy days. The bride might be adorned in indigo blue cloth with a shawl veiling her face, and accompanied by female relatives who sing and sometimes **“weep” theatrically**, as if sad to see her leave home (even though it’s a joyful occasion). There are customs like the bride being carried or led in a procession, and a period of seclusion for the newlyweds after the ceremony to ward off any evil spirits in those first days of marriage. In modern times, while some of these older wedding customs are still practiced in villages, many urban Mandinka couples opt for a simpler civil marriage or nikkah (Islamic marriage contract) followed by a big reception that combines traditional food and dance with modern elements (like a DJ or a cake). Still, whether traditional or modern, weddings remain a time when **clans unite** – gifts are exchanged between families, new alliances are formed, and everyone from great-grandmothers to toddlers joins in the celebration.
 
@@ -129,7 +129,7 @@ In contemporary times, the role of the griot has evolved but not disappeared. Ma
 
 ## Connecting Past and Present {#connecting-past-and-present}
 
-The Mandinka people have a saying: *“ning e mai bodula long, e ta taa dula longna”* It means, “If you don’t know where you’re coming from, you won’t know where to go.” This reflects how deeply the Mandinka value their past and use it as a guide for the future. In the 21st century, Mandinka society looks different in some ways – modern houses have replaced some mud huts, many children go to school and read books, and technology and urbanization have made daily life faster. Yet, as a knowledgeable guide to Mandinka country will tell you, **the old traditions are still very much alive** amid all the change. You can visit a Mandinka home today and likely see three generations sitting together for a meal, the elders sharing folktales as the youngest play at their feet. Families still give babies the names of revered ancestors, linking the newborn to the family’s history in an unbroken chain. Joking cousins still swap playful insults at social gatherings, provoking laughter and strengthening bonds, just as they did in Sundiata’s era. When important moments arrive – a child’s birth, a boy or girl coming of age, a marriage, a funeral – the community still gathers, maybe with a mix of modern convenience and traditional ritual, to mark the occasion in a Mandinka way.
+The Mandinka people have a saying: *“ning e mai bodula long, e ta taa dula longnaa”* It means, “If you don’t know where you’re coming from, you won’t know where to go.” This reflects how deeply the Mandinka value their past and use it as a guide for the future. In the 21st century, Mandinka society looks different in some ways – modern houses have replaced some mud huts, many children go to school and read books, and technology and urbanization have made daily life faster. Yet, as a knowledgeable guide to Mandinka country will tell you, **the old traditions are still very much alive** amid all the change. You can visit a Mandinka home today and likely see three generations sitting together for a meal, the elders sharing folktales as the youngest play at their feet. Families still give babies the names of revered ancestors, linking the newborn to the family’s history in an unbroken chain. Joking cousins still swap playful insults at social gatherings, provoking laughter and strengthening bonds, just as they did in Sundiata’s era. When important moments arrive – a child’s birth, a boy or girl coming of age, a marriage, a funeral – the community still gathers, maybe with a mix of modern convenience and traditional ritual, to mark the occasion in a Mandinka way.
 
 Some traditions have adapted to modern realities. For example, the **initiation rite** for boys is often shorter now (weeks rather than a year in seclusion) and may involve health professionals for the circumcision to ensure it’s safe, blending the old ritual with modern medicine. The **Kankurang mask**, once seen only in the secrecy of village rites, is now also showcased at cultural festivals – every year in places like Janjanbureh (in Gambia), there’s a Kankurang Festival where tourists and urban youths can witness this masquerade in a more public celebration. While this shift has made the practice less secretive, it also has helped to **preserve it** by sparking wider interest and pride. On the other hand, rapid urban growth has taken its toll: sacred forests where initiations were held have been cut down for farms and buildings, leading to concerns that some spiritual aspects of the traditions are fading. Elders sometimes lament that the authority of figures like the Kankurang or the strict adherence to initiation codes isn’t as strong as it once was, as modern youth are more exposed to outside ideas. Nonetheless, the essence of the tradition – teaching young people the **Mandinka code of conduct** – continues in new forms, whether through formal workshops or abbreviated retreats.
 
@@ -143,7 +143,7 @@ In conclusion, the Mandinka are **custodians of a profound legacy**, carrying fo
 
 **Prepare to Deep Dive**
 
-To explore the Mandinka social structure, we must move beyond Western definitions of "family" (the nuclear unit) and look toward **kabilo** (lineage/compound) and **siyo** (surname/clan). The Mandinka people of West Africa have a highly structured social hierarchy, and their kinship terms are often "performative"—meaning the words they use for relatives carry specific social obligations.
+To explore the Mandinka social structure, we must move beyond Western definitions of "family" (the nuclear unit) and look toward **kabiloo** (lineage/compound) and **seyoo** (surname/clan). The Mandinka people of West Africa have a highly structured social hierarchy, and their kinship terms are often "performative"—meaning the words they use for relatives carry specific social obligations.
 
 The following questions are designed to move from the visible structure to the deep "linguistic domain" of Mandinka kinship.
 
@@ -151,31 +151,31 @@ The following questions are designed to move from the visible structure to the d
 
 These questions identify how Mandinka people categorize their social world.
 
-* **The *Kabilo* vs. the *Suo*:** "In your daily life, where does the authority of the *Suo* (the immediate household) end and the authority of the *Kabilo* (the ancestral community) begin?"  
-* **The *Jamu* (Surname) Logic:** "When you meet a stranger with the same *jamuroo* (surname) as yours, what immediate linguistic 'short-cuts' or jokes (*sanawaya*) are used to establish a relationship before you even know their name?"  
-* **Patrilineal Weight:** "How does the phrase *'Fa-bulo'* (the father's side) dictate where a child belongs legally and spiritually, compared to the emotional role of the *'Ba-bulo'* (the mother's side)?"
+* **The *Kabiloo* vs. the *Suho*:** "In your daily life, where does the authority of the *Suho* (the immediate household) end and the authority of the *Kabiloo* (the ancestral community) begin?"  
+* **The *kontongho* (Surname) Logic:** "When you meet a stranger with the same *kontongho* (surname) as yours, what immediate linguistic 'short-cuts' or jokes (*sannawayaa*) are used to establish a relationship before you even know their name?"  
+* **Patrilineal Weight:** "How does the phrase *'Fala-bulo'* (the father's side) dictate where a child belongs legally and spiritually, compared to the emotional role of the *'Bala-bulo'* (the mother's side)?"
 
 ## 2\. The Linguistic Heart: Relationships as Actions {#2.-the-linguistic-heart:-relationships-as-actions}
 
 In Mandinka, kinship terms aren't just labels; they are instructions for how to behave. These questions target the "unknowns" of interpersonal dynamics.
 
-* **The "Mother-Father" Spectrum:** "You call your father's brothers *'Fa-nding'* (junior father) or *'Fa-keba'* (senior father). How does your behavior change when speaking to a *Fa-nding* versus your biological father?"  
-* **Sanawaya (Joking Relationships):** "Between specific clans (like the Keita and the Traore), there is a 'joking relationship.' What are the linguistic 'rules' of this play, and how does this verbal sparring prevent actual social conflict?"  
-* **The Power of the *Bari-muso*:** "The mother’s brother (maternal uncle) holds a unique position. Why is his blessing considered more 'binding' than a father's in certain life transitions, and what specific terms of respect are reserved only for him?"
+* **The "Mother-Father" Spectrum:** "You call your father's brothers *'Fa-nding'* (junior father) or *'Fa-kebaa'* (senior father). How does your behavior change when speaking to a *Fa-nding* versus your biological father?"  
+* **Sannawayaa (Joking Relationships):** "Between specific clans (like the Keita and the Traore), there is a 'joking relationship.' What are the linguistic 'rules' of this play, and how does this verbal sparring prevent actual social conflict?"  
+* **The Power of the *Bari-musoo*:** "The mother’s brother (maternal uncle) holds a unique position. Why is his blessing considered more 'binding' than a father's in certain life transitions, and what specific terms of respect are reserved only for him?"
 
 ## 3\. The "Deep" Domain: Caste and Social Memory {#3.-the-"deep"-domain:-caste-and-social-memory}
 
 Mandinka culture is traditionally stratified into *Nyamboo* (nobles/freemen) and *Nyamakala* (specialized craftspeople/griots). These questions explore how kinship intersects with class.
 
 * **The *Jali* (Griot) Connection:** "If a family is of *Jali* lineage, how does their 'kinship' extend to the noble families they serve? Do they consider themselves 'relatives' through history even if not through blood?"  
-* **Marriage Alliances:** "When negotiating a marriage, how is the 'purity' of the *siyo* (clan) discussed in private? Are there archaic Mandinka words used to describe 'good' or 'bad' blood that are not used in common conversation?"  
-* **Ancestral Presence:** "How does the naming ceremony (*Kulio*) function as a linguistic bridge to bring a deceased ancestor back into the active kinship circle?"
+* **Marriage Alliances:** "When negotiating a marriage, how is the 'purity' of the *seyoo* (clan) discussed in private? Are there archaic Mandinka words used to describe 'good' or 'bad' blood that are not used in common conversation?"  
+* **Ancestral Presence:** "How does the naming ceremony (*Kullio*) function as a linguistic bridge to bring a deceased ancestor back into the active kinship circle?"
 
 ## 4\. The Unknowns: Modernity and Shift {#4.-the-unknowns:-modernity-and-shift}
 
 These questions target the areas where traditional Mandinka kinship is currently rubbing against the 21st century.
 
-* **Urban Kinship:** "In cities like Banjul or Bamako, how is the term *kabilo* being redefined when 'neighbors' begin to take on the linguistic roles of 'uncles' or 'aunts' out of necessity?"  
+* **Urban Kinship:** "In cities like Banjul or Bamako, how is the term *kabiloo* being redefined when 'neighbors' begin to take on the linguistic roles of 'uncles' or 'aunts' out of necessity?"  
 * **Remittance and Authority:** "If a younger son is in Europe sending money back to the compound, how do the linguistic markers of respect shift? Does he retain his 'junior' status in speech, or does his economic power grant him 'senior' linguistic markers?"
 
 ## A Note on the "Griot" Perspective {#a-note-on-the-"griot"-perspective}
@@ -226,7 +226,7 @@ Grammar and Sentence Writing
 
 | Target (Pronoun) | Simple Sentence, Underline the Pronoun | English Translation |
 | :---- | :---- | :---- |
-| **Example: My (Possessive)** | **Na** muso yeang kanuu nun bakea. | **My** wife loved me very much. |
+| **Example: My (Possessive)** | **Na** musoo yeang kanuu nun bakea. | **My** wife loved me very much. |
 |  |  |  |
 |  |  |  |
 |  |  |  |
@@ -268,7 +268,7 @@ Grammar and Sentence Writing
 
 | Target (Adverb) | Simple Sentence, Underline the Adverb | English Translation |
 | :---- | :---- | :---- |
-| **Example: Manner (How)** | Na muso yeang kanuu nun **bakea**. | My wife loved it **very much**. |
+| **Example: Manner (How)** | Na musoo yeang kanuu nun **bakea**. | My wife loved it **very much**. |
 |  |  |  |
 
 #  {#the-"bantaba"-method:-imagine-you-are-standing-at-the-bantaba-(village-square).-if-you-had-to-say-one-important-thing-to-the-whole-village,-what-would-it-be?}
@@ -284,7 +284,7 @@ Grammar and Sentence Writing
 
 | Location (Position) | Simple Sentence, Underline the Position Word | English Translation |
 | :---- | :---- | :---- |
-| **Example: Inside** | Duntungo be koridaa **kono.** | The rooster is **inside** the compound. |
+| **Example: Inside** | Duuntungho be koridaa **kono.** | The rooster is **inside** the compound. |
 |  |  |  |
 |  |  |  |
 |  |  |  |
@@ -296,7 +296,7 @@ Grammar and Sentence Writing
 
 | Target (Joining Word) | Simple Sentence Underline the Joining Word | English Translation |
 | :---- | :---- | :---- |
-| **Example: And** | Mbaring nata jang **ani** a dokoma-muso. | My uncle came here **and** his young sister |
+| **Example: And** | Mbaring nata jang **ani** a dokoma-musoo. | My uncle came here **and** his young sister |
 |  |  |  |
 |  |  |  |
 |  |  |  |
@@ -707,7 +707,7 @@ These sources define the structure of the disciplines and the methodologies used
 
 ### 2\. Mandinka Kinship & Oral History {#2.-mandinka-kinship-&-oral-history}
 
-These sources specifically address the Mandinka social concepts (*Kabilo*, *Jamu*, and the *Jali* tradition) we explored.
+These sources specifically address the Mandinka social concepts (*Kabiloo*, *kontongho*, and the *Jali* tradition) we explored.
 
 * **Schaffer, M., & Cooper, C. (1987). *Mandinko: The Ethnography of a West African Holy Land*.**  
   * *Focus:* Deep ethnographic study of Mandinka kinship, *Ba-dingya* (mother-childness), and *Fa-dingya* (father-childness).  
@@ -832,7 +832,7 @@ Insert the AIWA vowel length chart here exactly as designed. Do not approximate 
 |  |  |  |  |  |
 |  |  |  |  |  |
 
-Flag untranslatable terms separately. These are the highest-value items in the corpus. If a student writes a word with no clean English equivalent, they must write their best explanation in English — not a translation but a description. The following are priority untranslatable terms for this domain: kabilo (lineage compound), siyo (surname/clan identity), jamu (surname lineage marker), sanankouya (governed joking obligation for peace), Fa-keba, Fa-nding, Ba-bulo, Nyamboo, Nyamakala, kuyangwoo, musolula Barawuloo, Ba-dingya, Fa-dingya.
+Flag untranslatable terms separately. These are the highest-value items in the corpus. If a student writes a word with no clean English equivalent, they must write their best explanation in English — not a translation but a description. The following are priority untranslatable terms for this domain: kabiloo (lineage compound), seyoo (surname/clan identity), kontongho (surname lineage marker), sannawyaa (governed joking obligation for peace), Fa-keba, Fa-nding, Ba la-bulo, Nyamboo, Nyamakala, kuyangoo, musolu la Barawuloo, Ba-dingya, Fa-dingya.
 
 **The Red Pen Protocol:** Once a word is written, underline it in red. This marks it as a target word for Chapter 3 and for AIWA's downstream language tools.
 
@@ -851,12 +851,12 @@ Flag untranslatable terms separately. These are the highest-value items in the c
 **AIWA CHAPTER OPENER**
 
 **AIWA Coordinator Note**  
-Students already speak the grammar. This chapter gives it a written form for the first time. Push for all three tenses. A student who writes “My grandfather was a jali” (past), “My uncle is the head of our kabilo” (present), and “My son will carry our jamu” (future) has produced three grammatically structured, culturally specific, machine-readable sentences about identity, authority, and lineage continuity. That is significant. Tell them so.
+Students already speak the grammar. This chapter gives it a written form for the first time. Push for all three tenses. A student who writes “My grandfather was a jali” (past), “My uncle is the head of our kabiloo” (present), and “My son will carry our kontongho” (future) has produced three grammatically structured, culturally specific, machine-readable sentences about identity, authority, and lineage continuity. That is significant. Tell them so.
 
 **AIWA Student Brief**  
 You already know this grammar. You speak it every day. This week you write it down for the first time using the words you collected in Chapter 2.
 
-These linguistic worksheets from Masroor Senior Secondary School document the Mandinka language through structured grammar exercises focused on the themes of birds and family. Each source provides a detailed breakdown of parts of speech, including nouns, verbs, adjectives, and adverbs, paired with their English translations to demonstrate proper syntax. Students utilized these forms to practice building various sentence types, ranging from simple statements and questions to complex commands and emotional expressions. The documents also explore cultural concepts by featuring specialized vocabulary for communal leadership, family respect, and unique local idioms.
+These linguistic worksheets from Senior Secondary Schools document the Mandinka language through structured grammar exercises focused on the themes of birds and family. Each source provides a detailed breakdown of parts of speech, including nouns, verbs, adjectives, and adverbs, paired with their English translations to demonstrate proper syntax. Students utilized these forms to practice building various sentence types, ranging from simple statements and questions to complex commands and emotional expressions. The documents also explore cultural concepts by featuring specialized vocabulary for communal leadership, family respect, and unique local idioms.
 
 ## Part 1: Nouns
 | Noun (Mother Tongue) | Simple Sentence, Underline the Noun | English Translation |
@@ -867,7 +867,7 @@ These linguistic worksheets from Masroor Senior Secondary School document the Ma
 ## Part 2: Pronouns
 | Target (Pronoun) | Simple Sentence, Underline the Pronoun | English Translation |
 | :---- | :---- | :---- |
-| **Example: My (Possessive)** | **Na** muso yeang kanuu nun bakea. | **My** wife loved me very much. |
+| **Example: My (Possessive)** | **Na** musoo yeang kanuu nun bakea. | **My** wife loved me very much. |
 |  |  |  |
 
 ## Part 3: Verbs
@@ -885,19 +885,19 @@ These linguistic worksheets from Masroor Senior Secondary School document the Ma
 ## Part 5: Adverbs
 | Target (Adverb) | Simple Sentence, Underline the Adverb | English Translation |
 | :---- | :---- | :---- |
-| **Example: Manner (How)** | Na muso yeang kanuu nun **bakea**. | My wife loved it **very much**. |
+| **Example: Manner (How)** | Na musoo yeang kanuu nun **bakea**. | My wife loved it **very much**. |
 |  |  |  |
 
 ## Part 6: Position Words
 | Location (Position) | Simple Sentence, Underline the Position Word | English Translation |
 | :---- | :---- | :---- |
-| **Example: Inside** | Duntungo be koridaa **kono.** | The rooster is **inside** the compound. |
+| **Example: Inside** | Duuntungho be koridaa **kono.** | The rooster is **inside** the compound. |
 |  |  |  |
 
 ## Part 7: Joining Words
 | Target (Joining Word) | Simple Sentence Underline the Joining Word | English Translation |
 | :---- | :---- | :---- |
-| **Example: And** | Mbaring nata jang **ani** a dokoma-muso. | My uncle came here **and** his young sister |
+| **Example: And** | Mbaring nata jang **ani** a dokoma-musoo. | My uncle came here **and** his young sister |
 |  |  |  |
 
 ## Part 8: Feeling Words
@@ -1157,9 +1157,9 @@ Here are a few real Mandinka/West African proverbs to show the range:
 
 # **Pick one main Noun from your domain.** {#the-"bantaba"-method:-imagine-you-are-standing-at-the-bantaba-(village-square).-if-you-had-to-say-one-important-thing-to-the-whole-village,-what-would-it-be?}
 
-# Family: Badingya (Family relation), Muso-keba (Elder woman), Alkali (Chief) {#the-"bantaba"-method:-imagine-you-are-standing-at-the-bantaba-(village-square).-if-you-had-to-say-one-important-thing-to-the-whole-village,-what-would-it-be?}
+# Family: Badingya (Family relation), Musu-keba (Elder woman), Alkalo (Chief) {#the-"bantaba"-method:-imagine-you-are-standing-at-the-bantaba-(village-square).-if-you-had-to-say-one-important-thing-to-the-whole-village,-what-would-it-be?}
 
-# Birds: Duga (Vulture), Kikiyo (Owl), Dontoolo (Rooster) {#the-"bantaba"-method:-imagine-you-are-standing-at-the-bantaba-(village-square).-if-you-had-to-say-one-important-thing-to-the-whole-village,-what-would-it-be?}
+# Birds: Duwoo (Vulture), Kikiyong (Owl), Duuntungho (Rooster) {#the-"bantaba"-method:-imagine-you-are-standing-at-the-bantaba-(village-square).-if-you-had-to-say-one-important-thing-to-the-whole-village,-what-would-it-be?}
 
 # Step 2: Add the "Atmosphere" (Adjectives & Adverbs) {#the-"bantaba"-method:-imagine-you-are-standing-at-the-bantaba-(village-square).-if-you-had-to-say-one-important-thing-to-the-whole-village,-what-would-it-be?}
 
@@ -1169,7 +1169,7 @@ Here are a few real Mandinka/West African proverbs to show the range:
 
 #   {#the-"bantaba"-method:-imagine-you-are-standing-at-the-bantaba-(village-square).-if-you-had-to-say-one-important-thing-to-the-whole-village,-what-would-it-be?}
 
-# Bird Example: Use words like Sanfeyan (Above) or Kataba (Quickly). {#the-"bantaba"-method:-imagine-you-are-standing-at-the-bantaba-(village-square).-if-you-had-to-say-one-important-thing-to-the-whole-village,-what-would-it-be?}
+# Bird Example: Use words like Santoo (Above) or Katabaka (Quickly). {#the-"bantaba"-method:-imagine-you-are-standing-at-the-bantaba-(village-square).-if-you-had-to-say-one-important-thing-to-the-whole-village,-what-would-it-be?}
 
 # Step 3: State the "Problem" or "Truth" (The Lesson) {#the-"bantaba"-method:-imagine-you-are-standing-at-the-bantaba-(village-square).-if-you-had-to-say-one-important-thing-to-the-whole-village,-what-would-it-be?}
 
@@ -1183,7 +1183,7 @@ Here are a few real Mandinka/West African proverbs to show the range:
 
 # **End your poem with a strong statement of identity or a wish for the future.** {#the-"bantaba"-method:-imagine-you-are-standing-at-the-bantaba-(village-square).-if-you-had-to-say-one-important-thing-to-the-whole-village,-what-would-it-be?}
 
-# Example: "We are all one" (Mba killing). {#the-"bantaba"-method:-imagine-you-are-standing-at-the-bantaba-(village-square).-if-you-had-to-say-one-important-thing-to-the-whole-village,-what-would-it-be?}
+# Example: "We are all one" (Mbea killing). {#the-"bantaba"-method:-imagine-you-are-standing-at-the-bantaba-(village-square).-if-you-had-to-say-one-important-thing-to-the-whole-village,-what-would-it-be?}
 
 # Student Easy-Fill Worksheet {#the-"bantaba"-method:-imagine-you-are-standing-at-the-bantaba-(village-square).-if-you-had-to-say-one-important-thing-to-the-whole-village,-what-would-it-be?}
 
@@ -1207,7 +1207,7 @@ Here are a few real Mandinka/West African proverbs to show the range:
 
 # Listen to the Sound: Read your lines out loud. Mandinka poetry is about the melody of the voice as much as the words on the paper.
 
-# Unity: Remember, like the poem says, "We are all one". Your poems are helping build the "Digital Kabilo" for the AI. {#unity:-remember,-like-the-poem-says,-"we-are-all-one".-your-poems-are-helping-build-the-"digital-kabilo"-for-the-ai.}
+# Unity: Remember, like the poem says, "We are all one". Your poems are helping build the "Digital Kabiloo" for the AI. {#unity:-remember,-like-the-poem-says,-"we-are-all-one".-your-poems-are-helping-build-the-"digital-kabilo"-for-the-ai.}
 
 #  
 
@@ -1256,7 +1256,7 @@ This week you decide who to interview based on the book you are making and the l
 
 ## Prepare to Deep Dive
 
-To explore the Mandinka social structure, we must move beyond Western definitions of "family" (the nuclear unit) and look toward **kabilo** (lineage/compound) and **siyo** (surname/clan). The Mandinka people of West Africa have a highly structured social hierarchy, and their kinship terms are often "performative"—meaning the words they use for relatives carry specific social obligations.
+To explore the Mandinka social structure, we must move beyond Western definitions of "family" (the nuclear unit) and look toward **kabiloo** (lineage/compound) and **seyoo** (surname/clan). The Mandinka people of West Africa have a highly structured social hierarchy, and their kinship terms are often "performative"—meaning the words they use for relatives carry specific social obligations.
 
 The following questions are designed to move from the visible structure to the deep "linguistic domain" of Mandinka kinship.
 
@@ -1264,31 +1264,31 @@ The following questions are designed to move from the visible structure to the d
 
 These questions identify how Mandinka people categorize their social world.
 
-* **The *Kabilo* vs. the *Suo*:** "In your daily life, where does the authority of the *Suo* (the immediate household) end and the authority of the *Kabilo* (the ancestral community) begin?"  
-* **The *Jamu* (Surname) Logic:** "When you meet a stranger with the same *jamuroo* (surname) as yours, what immediate linguistic 'short-cuts' or jokes (*sanawaya*) are used to establish a relationship before you even know their name?"  
-* **Patrilineal Weight:** "How does the phrase *'Fa-bulo'* (the father's side) dictate where a child belongs legally and spiritually, compared to the emotional role of the *'Ba-bulo'* (the mother's side)?"
+* **The *Kabiloo* vs. the *Suho*:** "In your daily life, where does the authority of the *Suho* (the immediate household) end and the authority of the *Kabilo* (the ancestral community) begin?"  
+* **The *Kontongho* (Surname) Logic:** "When you meet a stranger with the same *kontongho* (surname) as yours, what immediate linguistic 'short-cuts' or jokes (*sannawayaa*) are used to establish a relationship before you even know their name?"  
+* **Patrilineal Weight:** "How does the phrase *'Fa la-bulo'* (the father's side) dictate where a child belongs legally and spiritually, compared to the emotional role of the *'Ba la-bulo'* (the mother's side)?"
 
 ## 2\. The Linguistic Heart: Relationships as Actions {#2.-the-linguistic-heart:-relationships-as-actions}
 
 In Mandinka, kinship terms aren't just labels; they are instructions for how to behave. These questions target the "unknowns" of interpersonal dynamics.
 
 * **The "Mother-Father" Spectrum:** "You call your father's brothers *'Fa-nding'* (junior father) or *'Fa-keba'* (senior father). How does your behavior change when speaking to a *Fa-nding* versus your biological father?"  
-* **Sanawaya (Joking Relationships):** "Between specific clans (like the Keita and the Traore), there is a 'joking relationship.' What are the linguistic 'rules' of this play, and how does this verbal sparring prevent actual social conflict?"  
-* **The Power of the *Bari-muso*:** "The mother’s brother (maternal uncle) holds a unique position. Why is his blessing considered more 'binding' than a father's in certain life transitions, and what specific terms of respect are reserved only for him?"
+* **Sannawayaa (Joking Relationships):** "Between specific clans (like the Keita and the Traore), there is a 'joking relationship.' What are the linguistic 'rules' of this play, and how does this verbal sparring prevent actual social conflict?"  
+* **The Power of the *Barig-musoo*:** "The mother’s brother (maternal uncle) holds a unique position. Why is his blessing considered more 'binding' than a father's in certain life transitions, and what specific terms of respect are reserved only for him?"
 
 ## 3\. The "Deep" Domain: Caste and Social Memory {#3.-the-"deep"-domain:-caste-and-social-memory}
 
 Mandinka culture is traditionally stratified into *Nyamboo* (nobles/freemen) and *Nyamakala* (specialized craftspeople/griots). These questions explore how kinship intersects with class.
 
 * **The *Jali* (Griot) Connection:** "If a family is of *Jali* lineage, how does their 'kinship' extend to the noble families they serve? Do they consider themselves 'relatives' through history even if not through blood?"  
-* **Marriage Alliances:** "When negotiating a marriage, how is the 'purity' of the *siyo* (clan) discussed in private? Are there archaic Mandinka words used to describe 'good' or 'bad' blood that are not used in common conversation?"  
-* **Ancestral Presence:** "How does the naming ceremony (*Kulio*) function as a linguistic bridge to bring a deceased ancestor back into the active kinship circle?"
+* **Marriage Alliances:** "When negotiating a marriage, how is the 'purity' of the *seyoo* (clan) discussed in private? Are there archaic Mandinka words used to describe 'good' or 'bad' blood that are not used in common conversation?"  
+* **Ancestral Presence:** "How does the naming ceremony (*Kulioo*) function as a linguistic bridge to bring a deceased ancestor back into the active kinship circle?"
 
 ## 4\. The Unknowns: Modernity and Shift {#4.-the-unknowns:-modernity-and-shift}
 
 These questions target the areas where traditional Mandinka kinship is currently rubbing against the 21st century.
 
-* **Urban Kinship:** "In cities like Banjul or Bamako, how is the term *kabilo* being redefined when 'neighbors' begin to take on the linguistic roles of 'uncles' or 'aunts' out of necessity?"  
+* **Urban Kinship:** "In cities like Banjul or Bamako, how is the term *kabiloo* being redefined when 'neighbors' begin to take on the linguistic roles of 'uncles' or 'aunts' out of necessity?"  
 * **Remittance and Authority:** "If a younger son is in Europe sending money back to the compound, how do the linguistic markers of respect shift? Does he retain his 'junior' status in speech, or does his economic power grant him 'senior' linguistic markers?"
 
 ## A Note on the "Griot" Perspective {#a-note-on-the-"griot"-perspective}
@@ -1371,7 +1371,7 @@ Ask each participant to bring one physical object or a specific "key word" from 
 Work in pairs to try and translate a specific proverb or "praise-word" they recorded into a modern context (like a social media post or an amapiano song).
 
 * **The Question:** "The elders used the word \[X\] to describe honor. If you had to explain that same feeling to someone your age using modern language, how would you do it without losing the 'soul' of the word?"  
-* **The Goal:** To bridge the gap between **Aada** (tradition) and the digital age.
+* **The Goal:** To bridge the gap between **Aadoo** (tradition) and the digital age.
 
 ### "Oath of the New Griot" {#"oath-of-the-new-griot"}
 
@@ -1424,9 +1424,9 @@ The final book is organized not by family names, but by **Life Problems**. This 
 
 By the end of this process, the you should be able to articulate three things:
 
-1. **Your Roots:** The specific logic of their *Jamu* (Surname) and *Siya* (Clan).  
+1. **Your Roots:** The specific logic of their *kontongho* (Surname) and *Seyoo* (Clan).  
 2. **Your Language:** The "deep" meanings of kinship terms that go beyond daily greetings.  
-3. **Your Role:** How to balance their modern individual identity with the collective weight of the *Kabilo*.
+3. **Your Role:** How to balance their modern individual identity with the collective weight of the *Kabiloo*.
 
 **Reflection Note:** In cultural anthropology, we say the "fieldworker is the instrument." By doing this task, the youth didn't just study a culture; they *became* the primary evidence of that culture’s survival and adaptation.
 
