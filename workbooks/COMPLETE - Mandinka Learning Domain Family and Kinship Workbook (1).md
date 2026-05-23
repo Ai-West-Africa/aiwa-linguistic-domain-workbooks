@@ -22,7 +22,7 @@ AI West Africa
 
 The Ancestral Intelligence (AI) Junior Publishing Fellowship, overseen by AI West Africa (AIWA), is a professional media initiative designed to transform Gambian classrooms into high-tech publishing studios. AI West Africa is a Busumbala born, Gambian-grown, African owned media and publishing company, ensuring that the documentation of our heritage is guided by local cultural protocols and international ethical standards.
 
-This program represents a fundamental shift in how we view our languages. While the world discusses "Artificial Intelligence," we focus on Ancestral Intelligence. We recognize that our proverbs, laws, and linguistic nuances are the most sophisticated technology we own. Our mission is to bridge the "Griot Gap"—the divide between our ancient oral traditions and the modern digital shelf—by training students as stewards of Ancestral Intelligence who author their own stories, poems, and works in Mandinka for publication in a machine-readable format. Those works will for the backbone of educational resources and digital tools in the Mandinka language for generations to come. 
+This program represents a fundamental shift in how we view our languages. While the world discusses "Artificial Intelligence," we focus on Ancestral Intelligence. We recognize that our proverbs, laws, and linguistic nuances are the most sophisticated technology we own. Our mission is to bridge the "Griot Gap"—the divide between our ancient oral traditions and the modern digital shelf—by training students as stewards of Ancestral Intelligence who author their own stories, poems, and works in Mandinka for publication in a machine-readable format. Those works will form the backbone of educational resources and digital tools in the Mandinka language for generations to come. 
 
 # **A NOTE TO THE STUDENT**
 
@@ -44,7 +44,7 @@ What you write becomes the new record. It belongs to you. It will be published. 
 
 ## **What is AI West Africa?**
 
-AI West Africa is an African-owned, The Gambian grown media and publishing company building a sustainable creative economy for West African language materials, educational publishing, and cultural media. Contributors retain ownership of their original works while participating in a professionally managed publishing and licensing ecosystem where contributors retain ownership of their work.
+AI West Africa is an African-owned, The Gambian grown media and publishing company building a sustainable creative economy for West African language materials, educational publishing, and cultural media. Contributors retain ownership of their original works while participating in a professionally managed publishing and licensing ecosystem.
 
 ## **How does language preservation differ from publishing?**
 
@@ -176,7 +176,7 @@ The challenge is not the language. The challenge is the translation from sound t
 
 **The Sound to Symbol Chart**
 
-You have one amazing tool to help you feel and see how to spell. Use them every time you are unsure.
+You have one amazing tool to help you feel and see how to spell. Use it every time you are unsure.
 
 This chart shows where Mandinka sounds are made in your mouth. When you say a word, your lips, tongue, teeth, roof of the mouth, and throat all work together. The chart helps you slow the word down and see what your mouth is doing.
 
@@ -541,7 +541,7 @@ The story must address at least one life problem — a human situation that the 
 
 **Life problem examples:** patience, courage, family care, community belonging, handling loss, reading the land, knowing your place, facing danger, learning. Remember just learning the names of things was once a life problem.
 
-**Action:** List the life problems you wish to talk about in the order your group agreed. Write a brief description, the bird and the page number.
+**Action:** List the life problems you wish to talk about in the order your group agreed. Write a brief description, the proverb and the page number.
 
 |                        Life Problem |  | Page |
 | ----- | ----- | ----- |
@@ -695,7 +695,7 @@ You are not the illustrator. But you are responsible for telling the illustrator
 
 **Illustration Brief Template:**
 
-**Chapter:** \[Number and title\] **Proverb:** \[Mandinka text\] **Scene:** \[One clear paragraph. Include: location, time of day, what the bird is doing, what the human figure (if any) is doing, and what feeling the image should carry.\] **Do not include:** \[List anything that must NOT appear — sacred symbols, restricted knowledge, anything the community said should not be reproduced visually.\] **Color or mood:** \[One sentence — warm morning light, dry season dust, cool riverbank, etc.\]
+**Chapter:** \[Number and title\] **Proverb:** \[Mandinka text\] **Scene:** \[One clear paragraph. Include: location, time of day, what the scene depicts, what the human figure (if any) is doing, and what feeling the image should carry.\] **Do not include:** \[List anything that must NOT appear — sacred symbols, restricted knowledge, anything the community said should not be reproduced visually.\] **Color or mood:** \[One sentence — warm morning light, dry season dust, cool riverbank, etc.\]
 
 ### **6\. Back Cover**
 
@@ -749,7 +749,7 @@ Before the book is submitted, your group presents the work aloud. Your audience 
 
 **Structure (10–15 minutes):**
 
-1. **What we studied** — name the domain, the bird knowledge you focused on, and why it matters.  
+1. **What we studied** — name the domain, the kinship knowledge you focused on, and why it matters.  
 2. **How we gathered it** — name the knowledge-holders who contributed and explain the consent process.  
 3. **What we found** — read two or three proverb entries aloud. Mandinka first, then English, then meaning.  
 4. **What was difficult** — name one word, one translation, or one moment that challenged the group and how you resolved it.  
