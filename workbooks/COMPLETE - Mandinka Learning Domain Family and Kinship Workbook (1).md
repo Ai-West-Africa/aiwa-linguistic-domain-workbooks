@@ -20,9 +20,17 @@ AI West Africa
 
 **ABOUT THIS COURSE**
 
-The Ancestral Intelligence (AI) Junior Publishing Fellowship, overseen by AI West Africa (AIWA), is a professional media initiative designed to transform Gambian classrooms into high-tech publishing studios. AI West Africa is a Busumbala born, Gambian-grown, African owned media and publishing company, ensuring that the documentation of our heritage is guided by local cultural protocols and international ethical standards.
+The Ancestral Intelligence (AI) Junior Publishing Fellowship, overseen by AI West Africa (AIWA), is a professional media initiative that transforms Gambian classrooms into primary-source publishing studios.
 
-This program represents a fundamental shift in how we view our languages. While the world discusses "Artificial Intelligence," we focus on Ancestral Intelligence. We recognize that our proverbs, laws, and linguistic nuances are the most sophisticated technology we own. Our mission is to bridge the "Griot Gap"—the divide between our ancient oral traditions and the modern digital shelf—by training students as stewards of Ancestral Intelligence who author their own stories, poems, and works in Mandinka for publication in a machine-readable format. Those works will form the backbone of educational resources and digital tools in the Mandinka language for generations to come. 
+AI West Africa is a Busumbala born, Gambian-grown, African owned media and publishing company. What we build is guided by the communities who hold the knowledge, protected by the legal and ethical frameworks those communities deserve, and designed to generate economic value that flows back to the people who created it.
+
+The language these students speak every day is not a broken version of something else. It is a living language — shaped by Mandinka, Wolof, Fula, Arabic, Portuguese, and English across centuries of coexistence. It is the language in which these students reason, dream, and create. And research in cognitive neuroscience confirms that learning to write in the language already in your head builds the same neural reading architecture that accelerates literacy in English, French, and Arabic as well.
+
+While the world debates Artificial Intelligence, we build Ancestral Intelligence. Our mission is to close the Griot Gap — the divide between oral traditions that have carried this knowledge for centuries and the digital infrastructure that will carry it for centuries more. Students who complete this program build the first machine-readable, community-owned corpus of the living Mandinka language — educational materials, speech recognition training data, and reading tools that serve Mandinka speakers in The Gambia, in Dakar, and in Los Angeles.
+
+According to World Bank human capital data, every additional year of functional literacy gained in The Gambia increases lifelong hourly earnings by 9 percent. That return follows these students for the rest of their working lives.
+
+The language in your head is worth more than you have ever been told. We have the science, the data, and the tools to prove it.
 
 # **A NOTE TO THE STUDENT**
 
