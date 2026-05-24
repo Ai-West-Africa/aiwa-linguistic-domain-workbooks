@@ -1188,7 +1188,7 @@ The story must address at least one life problem — a human situation that the 
 **Life problem examples:** patience, courage, family care, community belonging, handling loss, reading the land, knowing your place, facing danger, learning. Remember just learning the names of things was once a life problem.
 
 <table border="1" style="border-collapse: collapse; width: 100%;">
-<tr><th style="padding: 8px; background-color: #f2f2f2; text-align: left;">Step Up Birds as Symbols and Storytellers</th></tr>
+<tr><th style="padding: 8px; background-color: #f2f2f2; text-align: left;">Step Up: Birds as Symbols and Storytellers</th></tr>
 <tr><td style="padding: 12px;">
 
 <p>You have already learned that birds are a vocabulary. Now we go deeper — into what that vocabulary has been used to say, across centuries of story, song, and spoken law. The birds of the Senegambia do not simply appear in Mandinka culture. They are woven into its foundation. They mark the arrival of the rains. They warn hunters of lions. They carry the authority of kings and the whispers of ancestors. They appear in the founding epic of the Mandinka people, in the praise songs of the greatest warriors, in the daily proverbs that tell a young person how to live. To understand Mandinka birds is not a nature study. It is a study of how a people has always made sense of the world. And it is a study that begins with you — because you are the first generation with both the cultural access and the tools to write it down.</p>
