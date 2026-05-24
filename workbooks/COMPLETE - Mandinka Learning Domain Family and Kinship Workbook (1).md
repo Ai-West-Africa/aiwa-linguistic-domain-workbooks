@@ -771,20 +771,27 @@ Your voice and your words help the AI learn. Remember AI is a tool. The AI is no
 
 <p>This distinction is not a minor grammatical detail. In the kinship domain it is everything. <em>A be koridaa la</em> — she is in the compound. She happens to be there right now. <em>Kotoomaa le mu</em> — she is an elder sibling. That is what she is, permanently, regardless of where she stands. Mandinka insists you never confuse a person's position in the compound with their role in the family. The grammar enforces the distinction the culture already knows.</p>
 
-<h4>Truth 2: Mandinka Has No Word for "And"</h4>
+<h4>Truth 2: Mandinka Has Two Different Answers to "And"</h4>
 
-<p>In English, "and" connects thoughts. Mandinka uses a narrative style instead — events placed in rhythmic sequence, one implying the next, without a connective bridge.</p>
+<p>You have a word you use for "and" every day. It feels completely natural. It is natural — because it has been part of your language your whole life. But it traveled in from outside. That is how living languages work. They borrow. That is not corruption. That is contact.</p>
 
-<p>From Gamble's <em>Elementary Mandinka</em>:</p>
+<p>Here is what Mandinka does natively.</p>
+
+<p>When you connect two things — bread and water, you and me, this bird and that one — Mandinka uses <em>aning</em> or <em>ning</em>. That is Mandinka. Use it when you are joining nouns, joining objects, joining people.</p>
 
 <ul>
-<li><em>a ma'a noo</em> (he was not able)</li>
-<li><em>a y'aa suki</em> (he blockaded it)</li>
-<li><em>Soninkeelu bee benta</em> (the Soninkes all met)</li>
-<li><em>ì y'aa bung</em> (they shot at him)</li>
+<li><em>doomaa aning koto</em> — younger sibling and elder sibling</li>
+<li><em>fa-o aning baa</em> — father and mother</li>
 </ul>
 
-<p>There is no "and." There does not need to be. The sequence carries the logic. In the kinship domain, this narrative style is the natural form of a proverb. One truth implies the next. The elder speaks. The compound listens. The child remembers. You do not need "and" between these events — you need only the right order.</p>
+<p>When you connect two events — he arrived, he spoke, he left — Mandinka does not use a word at all. It sequences. Watch what that looks like in a full sentence:</p>
+
+<p><em>A naa koridaa la, a ye fa-o soto, a taa.</em><br>
+He came to the compound, he found his father, he left.</p>
+
+<p>No "and" anywhere. Three events. One sequence. You can feel exactly where you would have reached for the borrowed word. Mandinka does not reach for it. The order carries the meaning.</p>
+
+<p>This is the rule: <em>aning</em> or <em>ning</em> for things. Sequence for events. When you write sentences in Mandinka do not reach for the borrowed word. Let one event follow another and trust the order to do the work.</p>
 
 <h4>Truth 3: "Old" and "Tired" Are Verbs, Not Adjectives</h4>
 
