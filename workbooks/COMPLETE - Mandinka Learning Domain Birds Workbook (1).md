@@ -902,12 +902,6 @@ Every children’s book has two audiences. The child experiences the story. The 
 
 **The Power of "Uniquely You"** Diversity of voice and perspective is what prevents the market from becoming a monolithic block of sameness. There is no singular "correct" formula for art; the most successful stories are those where the architect is unafraid to let their own unique style define the building's facade. Tell **your** story with your unique voice, for that is the only way to build a narrative that lives forever in a child's memory.
 
-**Your Task**
-
-Write something about a subject from our domain. Use at least two literary devices and at least two poetic devices deliberately. Try writing in Mandinka first. Then translate to English. For some, saying out loud first and even recording it helps them to write it down. Get the words, poem, story, out of your head by saying it out loud.
-
-**Beneath each line, name the device you used. That naming is the skill. That is what makes the difference between a student who wrote something and an author who made a choice.**
-
 <table border="1" style="border-collapse: collapse; width: 100%;">
 <tr><th style="padding: 8px; background-color: #f2f2f2; text-align: left;">Step Up: The Five Pillars of Mandinka Artistry</th></tr>
 <tr><td style="padding: 12px;">
@@ -1108,6 +1102,12 @@ Write something about a subject from our domain. Use at least two literary devic
 
 </td></tr>
 </table>
+**Your Task**
+
+Write something about a subject from our domain. Use at least two literary devices and at least two poetic devices deliberately. Try writing in Mandinka first. Then translate to English. For some, saying out loud first and even recording it helps them to write it down. Get the words, poem, story, out of your head by saying it out loud.
+
+**Beneath each line, name the device you used. That naming is the skill. That is what makes the difference between a student who wrote something and an author who made a choice.**
+
 
 **5 — OUR ORAL TRADITIONS**
 
@@ -1344,35 +1344,6 @@ To receive deeper wisdom, you must approach elders the right way. Come with resp
 
 Before you ask an elder for knowledge, first share what you have already written. This shows respect. It lets the elder see that you have already tried, that you are not coming empty-handed, and that you are asking for guidance, not asking them to do the work for you.
 
-## **Your Task**
-
-Interview one subject matter expert about this domain. Document the interview. Write one piece of new knowledge you received that does not appear anywhere else in this workbook.
-
-And again there are rules to follow:
-
-* **The Elder must give consent —** Just as you consented, the Elder must consent to talking to you, being recorded and having that recording transcribed, translated and broken up into words and the implied meaning captured. You are not submitting the entire conversation, Just the best 20 sec to 1 minute.  
-* **The conversation must be in Mandinka —** The whole interview happens in your Mandinka and it must be recorded. Listen for one moment — ten to twenty seconds, two or three sentences — that feels true and important. Write it down using your two spelling charts. Translate it for meaning. That recording and that written text go to Yahura. That is where the voice becomes the record.  
-* **Who you are meeting —** A subject matter expert is anyone who holds knowledge you do not yet have. In this domain that might be someone who has watched the land for thirty years, someone who knows which signs signal the seasons, an elder who remembers the proverb and the story behind it, or someone who knows both the local name and the science in between.  
-* **What you bring —** You are not arriving empty-handed. You are arriving as an author with work to share. Show them what you have written. Read what you created. Say the words you collected. Ask them if you got it right. Ask them what you missed. Ask them what they would add. This is not an interview where you take and they give. It is a conversation between people who both know something. You know how to write it down. They know what is true.  
-* **What you are really doing —** Every skill you have built in this workbook — spelling, grammar, creative writing, oral tradition — you are using right now in the real world. With real people. For a real purpose. This is what those skills are for. Not the exam. This.  
-* **How to approach an elder —** Respect is not just politeness. It is the method. An elder who feels respected will give you more than you asked for. An elder who feels rushed or dismissed will give you nothing. Greet properly. Explain what you are doing and why. Ask if they are willing. Accept their answer — yes or no — with the same respect. If they say yes, listen more than you speak. Do not interrupt. Do not correct. Your opinion about their knowledge is not relevant. Your job is to receive it.  
-* **How to ask good questions —** Bad questions close conversations. Good questions open them. Do not ask a question that can be answered in one word. Ask instead what people say about the subject, what it means, what it signals, what it warns, what it celebrates. Ask what your elder remembers hearing about it when they were young.  
-* **How to record and cite —** Record and write down exactly what they say as closely as you can. Use your two spelling charts. Record audio only if they give permission. When you write it in your book, write their name, their role in the community, and where and when you spoke with them. They are an author too. Their contribution belongs to them.
-
-**The people you meet today may one day be cited in the book you publish. Their knowledge, acknowledged by name, entering the permanent record. That is what it means to be taken seriously as an author.**
-
-**After the Interview — Mandinka in the Mirror**
-
-The interview is not over when the recording stops. What you carry back matters as much as what you captured. Use these questions to process what happened.
-
-**On identity —** Before this project, your name was just a word. Now that you know something of the history and meaning behind what you carry — does it feel different when you say it out loud? After sitting with someone who holds deep knowledge, do you feel you are living only for yourself — or are you now carrying something with you?
-
-**On language —** What words or expressions did you encounter in this domain that you had never heard before? Why do you think those words are disappearing from your generation? Were there things you heard that were impossible to translate without losing something? What feeling was lost?
-
-**On the experience —** What was the one thing you heard that completely changed how you see something familiar? Was there a moment of silence during the interview? What was happening in that silence? Do you feel closer to the knowledge of your community than before you began?
-
-**On the future —** Now that you have these recordings, how will you make sure they survive? The next time there is a disagreement or difficulty in your community, will what you learned change how you approach it?
-
 <table border="1" style="border-collapse: collapse; width: 100%;">
 <tr><th style="padding: 8px; background-color: #f2f2f2; text-align: left;">Step Up: Talking with Elders and Birdwatchers</th></tr>
 <tr><td style="padding: 12px;">
@@ -1517,6 +1488,35 @@ The interview is not over when the recording stops. What you carry back matters 
 </td></tr>
 </table>
 
+## **Your Task**
+
+Interview one subject matter expert about this domain. Document the interview. Write one piece of new knowledge you received that does not appear anywhere else in this workbook.
+
+And again there are rules to follow:
+
+* **The Elder must give consent —** Just as you consented, the Elder must consent to talking to you, being recorded and having that recording transcribed, translated and broken up into words and the implied meaning captured. You are not submitting the entire conversation, Just the best 20 sec to 1 minute.  
+* **The conversation must be in Mandinka —** The whole interview happens in your Mandinka and it must be recorded. Listen for one moment — ten to twenty seconds, two or three sentences — that feels true and important. Write it down using your two spelling charts. Translate it for meaning. That recording and that written text go to Yahura. That is where the voice becomes the record.  
+* **Who you are meeting —** A subject matter expert is anyone who holds knowledge you do not yet have. In this domain that might be someone who has watched the land for thirty years, someone who knows which signs signal the seasons, an elder who remembers the proverb and the story behind it, or someone who knows both the local name and the science in between.  
+* **What you bring —** You are not arriving empty-handed. You are arriving as an author with work to share. Show them what you have written. Read what you created. Say the words you collected. Ask them if you got it right. Ask them what you missed. Ask them what they would add. This is not an interview where you take and they give. It is a conversation between people who both know something. You know how to write it down. They know what is true.  
+* **What you are really doing —** Every skill you have built in this workbook — spelling, grammar, creative writing, oral tradition — you are using right now in the real world. With real people. For a real purpose. This is what those skills are for. Not the exam. This.  
+* **How to approach an elder —** Respect is not just politeness. It is the method. An elder who feels respected will give you more than you asked for. An elder who feels rushed or dismissed will give you nothing. Greet properly. Explain what you are doing and why. Ask if they are willing. Accept their answer — yes or no — with the same respect. If they say yes, listen more than you speak. Do not interrupt. Do not correct. Your opinion about their knowledge is not relevant. Your job is to receive it.  
+* **How to ask good questions —** Bad questions close conversations. Good questions open them. Do not ask a question that can be answered in one word. Ask instead what people say about the subject, what it means, what it signals, what it warns, what it celebrates. Ask what your elder remembers hearing about it when they were young.  
+* **How to record and cite —** Record and write down exactly what they say as closely as you can. Use your two spelling charts. Record audio only if they give permission. When you write it in your book, write their name, their role in the community, and where and when you spoke with them. They are an author too. Their contribution belongs to them.
+
+**The people you meet today may one day be cited in the book you publish. Their knowledge, acknowledged by name, entering the permanent record. That is what it means to be taken seriously as an author.**
+
+**After the Interview — Mandinka in the Mirror**
+
+The interview is not over when the recording stops. What you carry back matters as much as what you captured. Use these questions to process what happened.
+
+**On identity —** Before this project, your name was just a word. Now that you know something of the history and meaning behind what you carry — does it feel different when you say it out loud? After sitting with someone who holds deep knowledge, do you feel you are living only for yourself — or are you now carrying something with you?
+
+**On language —** What words or expressions did you encounter in this domain that you had never heard before? Why do you think those words are disappearing from your generation? Were there things you heard that were impossible to translate without losing something? What feeling was lost?
+
+**On the experience —** What was the one thing you heard that completely changed how you see something familiar? Was there a moment of silence during the interview? What was happening in that silence? Do you feel closer to the knowledge of your community than before you began?
+
+**On the future —** Now that you have these recordings, how will you make sure they survive? The next time there is a disagreement or difficulty in your community, will what you learned change how you approach it?
+
 **7 — PUBLISHING**
 
 You are about to publish a book.
@@ -1650,25 +1650,6 @@ Before the book is submitted, your group presents the work aloud. Your audience 
 4. **What was difficult** — name one word, one translation, or one moment that challenged the group and how you resolved it.  
 5. **What this book does** — explain who will read it and why it belongs in a Gambian school library.
 
-## **Submission Checklist**
-
-Before you submit to AIWA, confirm every item is complete.
-
-* Cover: title, age band, all author names, school, AI West Africa  
-* Inside front attribution page: complete and accurate  
-* Table of contents: all chapters in final sequence  
-* All proverb entries: Mandinka / translation / meaning — no stories, no extra paragraphs  
-* Mandinka spelling verified (Pass 1 complete)  
-* English translations reviewed (Pass 2 complete)  
-* Meaning statements reviewed for cultural accuracy (Pass 3 complete)  
-* Illustration briefs written — one per chapter  
-* Back cover: signature proverb spelled, all names listed  
-* All student names confirmed on cover and inside front  
-* All contributing knowledge-holder names confirmed on inside front  
-* Consent records attached to archive copy  
-* Archive sheet completed and deposited in school library  
-* Oral presentation delivered
-
 <table border="1" style="border-collapse: collapse; width: 100%;">
 <tr><th style="padding: 8px; background-color: #f2f2f2; text-align: left;">Step Up: You Did Something That Has Never Been Done Before</th></tr>
 <tr><td style="padding: 12px;">
@@ -1693,6 +1674,25 @@ Before you submit to AIWA, confirm every item is complete.
 
 </td></tr>
 </table>
+
+## **Submission Checklist**
+
+Before you submit to AIWA, confirm every item is complete.
+
+* Cover: title, age band, all author names, school, AI West Africa  
+* Inside front attribution page: complete and accurate  
+* Table of contents: all chapters in final sequence  
+* All proverb entries: Mandinka / translation / meaning — no stories, no extra paragraphs  
+* Mandinka spelling verified (Pass 1 complete)  
+* English translations reviewed (Pass 2 complete)  
+* Meaning statements reviewed for cultural accuracy (Pass 3 complete)  
+* Illustration briefs written — one per chapter  
+* Back cover: signature proverb spelled, all names listed  
+* All student names confirmed on cover and inside front  
+* All contributing knowledge-holder names confirmed on inside front  
+* Consent records attached to archive copy  
+* Archive sheet completed and deposited in school library  
+* Oral presentation delivered
 
 <h2>A Closing Word</h2>
 

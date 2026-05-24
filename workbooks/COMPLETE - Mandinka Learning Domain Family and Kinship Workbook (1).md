@@ -1638,25 +1638,6 @@ Before the book is submitted, your group presents the work aloud. Your audience 
 4. **What was difficult** — name one word, one translation, or one moment that challenged the group and how you resolved it.  
 5. **What this book does** — explain who will read it and why it belongs in a Gambian school library.
 
-## **Submission Checklist**
-
-Before you submit to AIWA, confirm every item is complete.
-
-* Cover: title, age band, all author names, school, AI West Africa  
-* Inside front attribution page: complete and accurate  
-* Table of contents: all chapters in final sequence  
-* All proverb entries: Mandinka / translation / meaning — no stories, no extra paragraphs  
-* Mandinka spelling verified (Pass 1 complete)  
-* English translations reviewed (Pass 2 complete)  
-* Meaning statements reviewed for cultural accuracy (Pass 3 complete)  
-* Illustration briefs written — one per chapter  
-* Back cover: signature proverb spelled, all names listed  
-* All student names confirmed on cover and inside front  
-* All contributing knowledge-holder names confirmed on inside front  
-* Consent records attached to archive copy  
-* Archive sheet completed and deposited in school library  
-* Oral presentation delivered
-
 <table border="1" style="border-collapse: collapse; width: 100%;">
 <tr><th style="padding: 8px; background-color: #f2f2f2; text-align: left;">Step Up: You Did Something That Has Never Been Done Before</th></tr>
 <tr><td style="padding: 12px;">
@@ -1681,6 +1662,25 @@ Before you submit to AIWA, confirm every item is complete.
 
 </td></tr>
 </table>
+
+## **Submission Checklist**
+
+Before you submit to AIWA, confirm every item is complete.
+
+* Cover: title, age band, all author names, school, AI West Africa  
+* Inside front attribution page: complete and accurate  
+* Table of contents: all chapters in final sequence  
+* All proverb entries: Mandinka / translation / meaning — no stories, no extra paragraphs  
+* Mandinka spelling verified (Pass 1 complete)  
+* English translations reviewed (Pass 2 complete)  
+* Meaning statements reviewed for cultural accuracy (Pass 3 complete)  
+* Illustration briefs written — one per chapter  
+* Back cover: signature proverb spelled, all names listed  
+* All student names confirmed on cover and inside front  
+* All contributing knowledge-holder names confirmed on inside front  
+* Consent records attached to archive copy  
+* Archive sheet completed and deposited in school library  
+* Oral presentation delivered
 
 <h2>A Closing Word</h2>
 
