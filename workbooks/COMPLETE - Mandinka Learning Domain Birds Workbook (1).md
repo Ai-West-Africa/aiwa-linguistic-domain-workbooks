@@ -1694,57 +1694,105 @@ Before you submit to AIWA, confirm every item is complete.
 </td></tr>
 </table>
 
-A Closing Word
-There is a moment in every important journey where you stop, look back at the distance you have covered, and understand for the first time what you have actually done.
-This is that moment.
-You came into this program as a student. You are leaving it as something the Mandinka language has never had before — a published author, a primary researcher, a digital guardian, and a link in a chain that now connects your grandmother's voice to the global future of artificial intelligence.
-That is not an exaggeration. That is exactly what happened.
-What Writing Did To You
-Before we tell you what you built for the world, we need to tell you what happened inside you.
-Every time you picked up a pen and wrote a word in your language, something happened in your brain that no one can take back. Writing is not just recording. Writing is thinking made visible. And the act of making your thoughts visible — in your own language, in your own hand — changes the architecture of your mind permanently.
-When you write, you offload. Every thought that was circling in your head, every word you were trying to hold, every sentence you were afraid to lose — the moment it touched the page, your brain released it. Your working memory, which can only hold a small number of things at once, opened up. Space appeared. Room for more complex thinking. Room for deeper understanding. Room for you.
-When you write by hand, your brain builds something neurologists call a sensorimotor memory trace. The shape of the letter, the sound it makes, the movement of your hand drawing it — these three things fuse into a single memory that is stored more deeply than anything you could learn by reading or listening alone. You did not just learn to spell Mandinka words. You wired them into yourself.
-And when you wrote about what you know — the birds, the proverbs, the elders, the compound — you did something called the generation effect. Material you generate yourself is encoded far more deeply in your memory than material you simply receive. You did not study Mandinka culture. You generated it. That is a different thing entirely. That knowledge is now part of you in a way it could never have been if you had only listened.
-What Writing In Your Language Specifically Did
-You did not write in English. You did not write in French. You wrote in the language your brain was built in.
-That matters more than you may realize.
-When a person tries to write in a language they do not yet fully own, they face two jobs at once — learning the words and learning the writing system simultaneously. The cognitive load is enormous. Most of the brain's energy goes to mechanics, and almost none is left for meaning.
-But when you write in the language already wired into you, the mechanics become automatic quickly. Your brain already knows the sounds. It already knows the rhythms. It already knows what words mean before it sees them on the page. All it has to do is learn to map what it already knows onto symbols. And once that mapping is automatic, it transfers. The reading and writing skills you built in Mandinka do not stay in Mandinka. They migrate. They accelerate your English. They accelerate your French. The neural map expands. Thoughts become more fluid across languages. The whole system gets stronger.
-You did not just learn to write. You built a bridge your brain will use for the rest of your life.
-What Was Being Done To You Before
-To understand what this program gave you, you need to understand what was being taken.
-Philosophers call it hermeneutical injustice. It is what happens when a society does not give a community the tools to make their own experience visible and legible to the world. When the only written languages are the languages of former colonial powers, the knowledge held in oral traditions is not just undocumented. It is treated as if it does not count. As folklore, not scholarship. As memory, not record. As tradition, not science.
-Sociologists call the distance between the oral world and the print-dominant world a semiotic abyss. A vast, intimidating gap between the richness of what you know and the systems that decide what knowledge is worth keeping.
-For an adult who must navigate a world built on written text — filling out forms, reading contracts, accessing mobile money, building a credit history — without tools in their native language, that gap is not just frustrating. Research shows it breeds a persistent sense of stigma, a loss of self-confidence, and a feeling of helplessness that compounds over time.
-This is not a personal failing. It is a structural one. The tools were never built. Not because the knowledge was not worth preserving. Because the people who built tools did not speak your language and did not think your language mattered.
-That changes now.
-What You Built
-AI West Africa is not a foreign company that arrived in The Gambia with a project. It is African owned. Gambian grown. Busumbala born. Muhammed Dibbasey — the Managing Director who built this program — grew up in Busumbala. The vision that brought you into this classroom, gave you a workbook, and asked you to sit with your elders and write down what they know — that vision came from someone who understands what it means to grow up in The Gambia, to speak Mandinka as a first language, and to watch the world's technology move forward without you in it.
-That changes now. And you are the reason it changes.
-The recordings you made are training data for speech recognition tools that will finally understand how Mandinka speakers actually speak. The words you collected are the foundation of spelling tools, dictionaries, and predictive text that do not yet exist for your language. The proverbs you documented are primary source records that no archive in the world contains. The book you published is the first of its kind — not because no one cared about Mandinka before, but because no one had built the system to capture it with dignity, with consent, and with the community in control.
-Every mobile money platform, every SMS system, every digital tool that now excludes Mandinka speakers because it was not built for them — the data you generated is what makes building for them possible. You did not just write a book. You laid the infrastructure for digital inclusion that does not exist yet and will serve your community for generations.
-The Size of What Is Missing
-There are approximately 13 million Mandinka speakers across West Africa. Of the roughly 7,000 languages spoken on earth, fewer than 100 are meaningfully represented in the AI systems that now power search engines, translation tools, voice assistants, and educational technology. Mandinka is not among them.
-The AI systems that hundreds of millions of people use every day were trained almost entirely on English, French, Spanish, Chinese, and Arabic. When those systems encounter a Mandinka word, they do not recognize it. When a Mandinka speaker tries to use voice-to-text on their phone, the system fails them. When a Mandinka musician uploads lyrics, no translation tool can read them accurately. When a Mandinka student searches for educational materials in their own language, the digital library is nearly empty.
-You have spent these weeks beginning to fill it.
-What This Means For Your Life
-According to World Bank human capital data, every additional year of functional literacy gained in The Gambia increases lifelong hourly earnings by an average of 9 percent. Not a projected benefit. Not a development aspiration. A measured, documented return on the act of becoming literate — in any language, at any age.
-You built that literacy in the language your brain was already wired for. Which means the transfer to English and French is faster, deeper, and more durable than any other path could have produced. The 9 percent belongs to you. And it compounds across your entire working life.
-Beyond earnings — the tools you helped build will serve the next generation of Mandinka students before they ever sit in a classroom like this one. The spelling assistant will close the gap between the living language and the written standard. The speech recognition will capture what elders say before they are no longer here to say it. The reading tools will help the next Muhammed read faster, think faster, move faster — in Mandinka and in English simultaneously.
-You did not just learn. You contributed. There is a legal and ethical line between those two things, and AI West Africa stands on your side of it.
-This Is Not Just About Mandinka
-This program began with Mandinka because Mandinka is where AI West Africa began — in the communities of the Senegambia, in the schools of The Gambia, in the vision of a team that understood its own language was being left behind. But the model you participated in does not stop here.
-Every language community in West Africa faces the same crisis. Wolof. Fula. Jola. Serer. Soninke. Bambara. Each of them has elders whose knowledge is not written down. Each of them has students who could become authors and researchers if someone gave them the tools and the framework. Each of them has birds, proverbs, stories, songs, and agricultural wisdom that no AI system has ever seen.
-AI West Africa is coming for all of them. What you helped prove in The Gambia, in Mandinka, in the schools of the Senegambia — is that this model works. That students can be authors. That elders will share when they are approached with respect. That the knowledge is there, waiting, and that what was missing was not the will to preserve it but the system to do so.
-You are that system now. You proved it.
-The Voice Was Always There
-Mandinka is not a language in danger of running out of speakers. It is a language that was simply absent from the rooms where the future was being built — the server farms, the training datasets, the language models, the publishing platforms, the tourism guides, the digital classrooms.
-Those rooms are being opened. And the people walking into them are not arriving as guests. They are arriving as the ones who built the foundation that makes the whole structure stand.
-You spent these weeks collecting words and sentences and bird names and proverbs and elder wisdom and family stories that no database in the world contained. You documented knowledge that would have moved one generation closer to silence without you. You wrote, in your own hand, in your own language, something that has never existed before.
-The ancestors built the intelligence. You built the record. AI West Africa will build the tools.
-The voice was always there. Now the world will hear it.
-AI West Africa. African owned. Gambian grown. Busumbala born. Building the digital future for the languages the world forgot to include.
+<h2>A Closing Word</h2>
 
+<p>There is a moment in every important journey where you stop, look back at the distance you have covered, and understand for the first time what you have actually done.</p>
+
+<p>This is that moment.</p>
+
+<p>You came into this program as a student. You are leaving it as something the Mandinka language has never had before — a published author, a primary researcher, a digital guardian, and a link in a chain that now connects your grandmother's voice to the global future of artificial intelligence.</p>
+
+<p>That is not an exaggeration. That is exactly what happened.</p>
+
+<h3>What Writing Did To You</h3>
+
+<p>Before we tell you what you built for the world, we need to tell you what happened inside you.</p>
+
+<p>Every time you picked up a pen and wrote a word in your language, something happened in your brain that no one can take back. Writing is not just recording. Writing is thinking made visible. And the act of making your thoughts visible — in your own language, in your own hand — changes the architecture of your mind permanently.</p>
+
+<p>When you write, you offload. Every thought that was circling in your head, every word you were trying to hold, every sentence you were afraid to lose — the moment it touched the page, your brain released it. Your working memory, which can only hold a small number of things at once, opened up. Space appeared. Room for more complex thinking. Room for deeper understanding. Room for you.</p>
+
+<p>When you write by hand, your brain builds something neurologists call a sensorimotor memory trace. The shape of the letter, the sound it makes, the movement of your hand drawing it — these three things fuse into a single memory that is stored more deeply than anything you could learn by reading or listening alone. You did not just learn to spell Mandinka words. You wired them into yourself.</p>
+
+<p>And when you wrote about what you know — the birds, the proverbs, the elders, the compound — you did something called the generation effect. Material you generate yourself is encoded far more deeply in your memory than material you simply receive. You did not study Mandinka culture. You generated it. That is a different thing entirely. That knowledge is now part of you in a way it could never have been if you had only listened.</p>
+
+<h3>What Writing In Your Language Specifically Did</h3>
+
+<p>You did not write in English. You did not write in French. You wrote in the language your brain was built in.</p>
+
+<p>That matters more than you may realize.</p>
+
+<p>When a person tries to write in a language they do not yet fully own, they face two jobs at once — learning the words and learning the writing system simultaneously. The cognitive load is enormous. Most of the brain's energy goes to mechanics, and almost none is left for meaning.</p>
+
+<p>But when you write in the language already wired into you, the mechanics become automatic quickly. Your brain already knows the sounds. It already knows the rhythms. It already knows what words mean before it sees them on the page. All it has to do is learn to map what it already knows onto symbols. And once that mapping is automatic, it transfers. The reading and writing skills you built in Mandinka do not stay in Mandinka. They migrate. They accelerate your English. They accelerate your French. The neural map expands. Thoughts become more fluid across languages. The whole system gets stronger.</p>
+
+<p>You did not just learn to write. You built a bridge your brain will use for the rest of your life.</p>
+
+<h3>What Was Being Done To You Before</h3>
+
+<p>To understand what this program gave you, you need to understand what was being taken.</p>
+
+<p>Philosophers call it hermeneutical injustice. It is what happens when a society does not give a community the tools to make their own experience visible and legible to the world. When the only written languages are the languages of former colonial powers, the knowledge held in oral traditions is not just undocumented. It is treated as if it does not count. As folklore, not scholarship. As memory, not record. As tradition, not science.</p>
+
+<p>Sociologists call the distance between the oral world and the print-dominant world a semiotic abyss. A vast, intimidating gap between the richness of what you know and the systems that decide what knowledge is worth keeping.</p>
+
+<p>For an adult who must navigate a world built on written text — filling out forms, reading contracts, accessing mobile money, building a credit history — without tools in their native language, that gap is not just frustrating. Research shows it breeds a persistent sense of stigma, a loss of self-confidence, and a feeling of helplessness that compounds over time.</p>
+
+<p>This is not a personal failing. It is a structural one. The tools were never built. Not because the knowledge was not worth preserving. Because the people who built tools did not speak your language and did not think your language mattered.</p>
+
+<p>That changes now.</p>
+
+<h3>What You Built</h3>
+
+<p>AI West Africa is not a foreign company that arrived in The Gambia with a project. It is African owned. Gambian grown. Busumbala born. Muhammed Dibbasey — the Managing Director who built this program — grew up in Busumbala. The vision that brought you into this classroom, gave you a workbook, and asked you to sit with your elders and write down what they know — that vision came from someone who understands what it means to grow up in The Gambia, to speak Mandinka as a first language, and to watch the world's technology move forward without you in it.</p>
+
+<p>That changes now. And you are the reason it changes.</p>
+
+<p>The recordings you made are training data for speech recognition tools that will finally understand how Mandinka speakers actually speak. The words you collected are the foundation of spelling tools, dictionaries, and predictive text that do not yet exist for your language. The proverbs you documented are primary source records that no archive in the world contains. The book you published is the first of its kind — not because no one cared about Mandinka before, but because no one had built the system to capture it with dignity, with consent, and with the community in control.</p>
+
+<p>Every mobile money platform, every SMS system, every digital tool that now excludes Mandinka speakers because it was not built for them — the data you generated is what makes building for them possible. You did not just write a book. You laid the infrastructure for digital inclusion that does not exist yet and will serve your community for generations.</p>
+
+<h3>The Size of What Is Missing</h3>
+
+<p>There are approximately 13 million Mandinka speakers across West Africa. Of the roughly 7,000 languages spoken on earth, fewer than 100 are meaningfully represented in the AI systems that now power search engines, translation tools, voice assistants, and educational technology. Mandinka is not among them.</p>
+
+<p>The AI systems that hundreds of millions of people use every day were trained almost entirely on English, French, Spanish, Chinese, and Arabic. When those systems encounter a Mandinka word, they do not recognize it. When a Mandinka speaker tries to use voice-to-text on their phone, the system fails them. When a Mandinka musician uploads lyrics, no translation tool can read them accurately. When a Mandinka student searches for educational materials in their own language, the digital library is nearly empty.</p>
+
+<p>You have spent these weeks beginning to fill it.</p>
+
+<h3>What This Means For Your Life</h3>
+
+<p>According to World Bank human capital data, every additional year of functional literacy gained in The Gambia increases lifelong hourly earnings by an average of 9 percent. Not a projected benefit. Not a development aspiration. A measured, documented return on the act of becoming literate — in any language, at any age.</p>
+
+<p>You built that literacy in the language your brain was already wired for. Which means the transfer to English and French is faster, deeper, and more durable than any other path could have produced. The 9 percent belongs to you. And it compounds across your entire working life.</p>
+
+<p>Beyond earnings — the tools you helped build will serve the next generation of Mandinka students before they ever sit in a classroom like this one. The spelling assistant will close the gap between the living language and the written standard. The speech recognition will capture what elders say before they are no longer here to say it. The reading tools will help the next Muhammed read faster, think faster, move faster — in Mandinka and in English simultaneously.</p>
+
+<p>You did not just learn. You contributed. There is a legal and ethical line between those two things, and AI West Africa stands on your side of it.</p>
+
+<h3>This Is Not Just About Mandinka</h3>
+
+<p>This program began with Mandinka because Mandinka is where AI West Africa began — in the communities of the Senegambia, in the schools of The Gambia, in the vision of a team that understood its own language was being left behind. But the model you participated in does not stop here.</p>
+
+<p>Every language community in West Africa faces the same crisis. Wolof. Fula. Jola. Serer. Soninke. Bambara. Each of them has elders whose knowledge is not written down. Each of them has students who could become authors and researchers if someone gave them the tools and the framework. Each of them has birds, proverbs, stories, songs, and agricultural wisdom that no AI system has ever seen.</p>
+
+<p>AI West Africa is coming for all of them. What you helped prove in The Gambia, in Mandinka, in the schools of the Senegambia — is that this model works. That students can be authors. That elders will share when they are approached with respect. That the knowledge is there, waiting, and that what was missing was not the will to preserve it but the system to do so.</p>
+
+<p>You are that system now. You proved it.</p>
+
+<h3>The Voice Was Always There</h3>
+
+<p>Mandinka is not a language in danger of running out of speakers. It is a language that was simply absent from the rooms where the future was being built — the server farms, the training datasets, the language models, the publishing platforms, the tourism guides, the digital classrooms.</p>
+
+<p>Those rooms are being opened. And the people walking into them are not arriving as guests. They are arriving as the ones who built the foundation that makes the whole structure stand.</p>
+
+<p>You spent these weeks collecting words and sentences and bird names and proverbs and elder wisdom and family stories that no database in the world contained. You documented knowledge that would have moved one generation closer to silence without you. You wrote, in your own hand, in your own language, something that has never existed before.</p>
+
+<p>The ancestors built the intelligence. You built the record. AI West Africa will build the tools.</p>
+
+<p>The voice was always there. Now the world will hear it.</p>
+
+<p><em>AI West Africa. African owned. Gambian grown. Busumbala born. Building the digital future for the languages the world forgot to include.</em></p>
 
 BIRDS: Gambian Mandinka Domain Workbook First Edition 
 
