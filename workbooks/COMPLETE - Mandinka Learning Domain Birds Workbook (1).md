@@ -22,7 +22,9 @@
 
 *Together, this is what we built. Nothing taught in love is ever lost. It comes back in a different song.* 
 
-*We are proof.***ANCESTRAL INTELLIGENCE**  
+*We are proof.*
+
+**ANCESTRAL INTELLIGENCE**  
 Mansa Musa crossed continents carrying gold the world could see, yet our people have always carried another kind of gold inside them — language, stories, rhythm, proverb, memory, and ancestral intelligence. Kingdoms can lose mines, governments can lose borders, and wealth can be stolen, but the knowledge held in the words of a people cannot be taken unless it is forgotten. That is why this work matters. Our language matters. We are teaching our children that the greatest gold of West Africa is not buried in the ground — it lives in our languages, our culture, and our ability to carry them into the future.  
 
 Muhammed Dibbasey,   
