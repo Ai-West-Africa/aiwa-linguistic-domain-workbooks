@@ -20,9 +20,17 @@ AI West Africa
 
 **ABOUT THIS COURSE**
 
-The Ancestral Intelligence (AI) Junior Publishing Fellowship, overseen by AI West Africa (AIWA), is a professional media initiative designed to transform Gambian classrooms into high-tech publishing studios. AI West Africa is a Busumbala born, Gambian-grown, African owned media and publishing company, ensuring that the documentation of our heritage is guided by local cultural protocols and international ethical standards.
+The Ancestral Intelligence (AI) Junior Publishing Fellowship, overseen by AI West Africa (AIWA), is a professional media initiative that transforms Gambian classrooms into primary-source publishing studios.
 
-This program represents a fundamental shift in how we view our languages. While the world discusses "Artificial Intelligence," we focus on Ancestral Intelligence. We recognize that our proverbs, laws, and linguistic nuances are the most sophisticated technology we own. Our mission is to bridge the "Griot Gap"—the divide between our ancient oral traditions and the modern digital shelf—by training students as stewards of Ancestral Intelligence who author their own stories, poems, and works in Mandinka for publication in a machine-readable format. Those works will for the backbone of educational resources and digital tools in the Mandinka language for generations to come. 
+AI West Africa is a Busumbala born, Gambian-grown, African owned media and publishing company. What we build is guided by the communities who hold the knowledge, protected by the legal and ethical frameworks those communities deserve, and designed to generate economic value that flows back to the people who created it.
+
+The language these students speak every day is not a broken version of something else. It is a living language — shaped by Mandinka, Wolof, Fula, Arabic, Portuguese, and English across centuries of coexistence. It is the language in which these students reason, dream, and create. And research in cognitive neuroscience confirms that learning to write in the language already in your head builds the same neural reading architecture that accelerates literacy in English, French, and Arabic as well.
+
+While the world debates Artificial Intelligence, we build Ancestral Intelligence. Our mission is to close the Griot Gap — the divide between oral traditions that have carried this knowledge for centuries and the digital infrastructure that will carry it for centuries more. Students who complete this program build the first machine-readable, community-owned corpus of the living Mandinka language — educational materials, speech recognition training data, and reading tools that serve Mandinka speakers in The Gambia, in Dakar, and in Los Angeles.
+
+According to World Bank human capital data, every additional year of functional literacy gained in The Gambia increases lifelong hourly earnings by 9 percent. That return follows these students for the rest of their working lives.
+
+The language in your head is worth more than you have ever been told. We have the science, the data, and the tools to prove it.
 
 # **A NOTE TO THE STUDENT**
 
@@ -44,7 +52,7 @@ What you write becomes the new record. It belongs to you. It will be published. 
 
 ## **What is AI West Africa?**
 
-AI West Africa is an African-owned, The Gambian grown media and publishing company building a sustainable creative economy for West African language materials, educational publishing, and cultural media. Contributors retain ownership of their original works while participating in a professionally managed publishing and licensing ecosystem where contributors retain ownership of their work.
+AI West Africa is an African-owned, The Gambian grown media and publishing company building a sustainable creative economy for West African language materials, educational publishing, and cultural media. Contributors retain ownership of their original works while participating in a professionally managed publishing and licensing ecosystem.
 
 ## **How does language preservation differ from publishing?**
 
@@ -147,8 +155,109 @@ Today your consent is for participation. At the end of seven weeks, when you hav
 
 **You should always ask questions if you do not understand. Giving permission should never feel confusing.**
 
-| Step Up: Why This Work Matters Welcome to the Digital Library: The Vision of AI West Africa You have been chosen as a Guardian. You are standing at a crossroads where the ancient wisdom of your ancestors meets the technology of the future. But there is a crisis: in the vast digital landscape of the modern world, the Mandinka voice is missing. Think of a compound — the *Lu* — built relationship by relationship, generation by generation, with precision and purpose. Each obligation matters. Each name carries history. Each proverb holds a law. That is what you are doing. You are weaving the Mandinka voice into the digital world, one carefully chosen word at a time. When people speak of Artificial Intelligence (AI), they often imagine a "robot" from a movie. This is a misunderstanding. To us, AI is a vast vessel of knowledge — but currently, it is a vessel that is broken because it lacks your heritage. Imagine a global Digital Library where the shelves for English and French are overflowing, while the Mandinka section is a cold, empty void. No proverbs. No kinship terms. No record of what a *Siinaa* is owed, or what *Badenya* requires of a child, or how *Sanankouya* has kept the peace between clans for 800 years. The "so what?" is simple and urgent: if you do not act today, Mandinka knowledge faces digital extinction. It will be invisible to the future. The word *Bariŋ* — uncle, mother's brother, the most revered male figure in a child's life — will have no meaning in any database. The Kouroukan Fouga will exist only as a historical footnote, stripped of everything your people know about how it still governs family life today. You are not merely students in a classroom. You are the primary authors invited to fill this void and ensure our culture is never forgotten. 1\. What is Artificial Intelligence (AI)? In our mission, AI is not a robot or a machine. It is a digital library that must be written. Currently, this library is empty of our language. You are the authors charged with the "Publishing Pitch" — filling this vessel with the authentic voice of the Mandinka people. A kinship term exists in many languages. But the knowledge of *how* that term works — what it requires of you, what it grants you, what the elders say when it is invoked in a dispute — that knowledge lives only in the Mandinka world. "Google speaks English" while your grandmother speaks Mandinka. There is a missing link in history. You are the bridge. 2\. From Student to Content Creator: Understanding Your Power To fulfill this duty, you must stop seeing yourself as a passive learner. You are now a Content Creator. This role grants you the authority to decide how your culture is represented to the world. You must adopt a mindset of excellence built on three pillars: Ownership: You must recognize that you own your voice. You hold the fundamental rights to the stories you collect. You are the high authority on your own heritage. When an elder teaches you the difference between *Badenya* — the solidarity between full siblings and their mother — and *Badingya* — the tension between half-siblings competing for a father's attention — that knowledge belongs to your community. Agency: As a Community Researcher, you are the active bridge. You have the power to seek out knowledge that no computer can find on its own. A census can count the members of a compound. It cannot tell you what *Sanankouya* means to the Traoré grandmother who laughs when she insults a Keïta neighbor — and means every word of it, as an act of peace. Research: We demand more than surface-level definitions. You will not simply list a kinship term. You will use your skills to document the *Fa* — father, patriarch, economic and spiritual authority of the *Lu* — capturing the deep, specialized knowledge that only a Mandinka family holds: the obligations of that role, the limits of its authority, the proverbs that describe what happens when it is fulfilled — and what happens when it is not. This power is a privilege, but it requires you to uphold the highest ethical standards as you move Mandinka knowledge from your notebook to the global stage. 3\. The Ethics of Digital Preservation: Consent and Respect In the world of technology, we use the word *Consent*. In our culture, this is the modern heartbeat of *Respect*. When you ask for a signature on a form, you are not just doing paperwork. You are making a Sacred Pact. By modeling the "Guardian's Commitment," you are making a solemn promise to your community: *I will protect these stories. I will never use this knowledge disrespectfully.* The "Fine Print" is the shield that protects our elders and our family from being exploited — including the knowledge of how disputes within the *Lu* are resolved without courts, or which proverbs carry legal weight in a District Tribunal, or what a grandmother's *barka* — her blessing — means to the spiritual standing of a family. Term What it Means for You Consent A sacred agreement that allows your work to move from your notebook to the world. It is the digital form of Respect. Permission The act of seeking authorization — just as you would never involve an elder in a project without first asking for their blessing. Rights Your legal and moral entitlement to your work. It answers the ultimate question: *Who owns your voice?* 4\. Identity in Your Work: Attribution vs. Anonymity As a creator, you face a vital ethical choice regarding your Personal Identifiable Information (PII) — data like your name that connects you to your work. This is not just about a name on a cover. It is about how you choose to represent your family's legacy. Path Description The "So What?": Why it Matters Attribution The Named Creator. Your identity is tied to the work. This builds public pride for your family name and ensures your legacy as a preservationist is recorded. Future generations will know who first wrote down what *Sanankouya* means in the digital world. Anonymity The Secret Helper. Your identity is kept strictly hidden. This protects your privacy and ensures the community's collective knowledge is shared without exposing individuals to data exploitation. 5\. Your Editorial Path: Learning Domain Because the Mandinka language is as vast as the sea, we must focus our efforts. You will choose one "Linguistic Domain" for your editorial assignment. You must move past generalities and seek the specialized expertise of your people. Family and Kinship (Badin): The kinship system of the Mandinka people is among the most sophisticated social architectures ever developed — a living legal, spiritual, and economic framework that has governed community life for centuries. And yet almost none of that sophistication exists in Mandinka in any digital format. This is not a family history project. This is a sovereignty project. The terms, obligations, rights, and cultural meanings of Mandinka kinship are woven through proverbs, customary law, inheritance practices, marriage negotiations, and the daily life of every compound in The Gambia. When that knowledge disappears from living mouths and fails to enter the digital world, it disappears everywhere. Your work in this domain goes far beyond listing who is related to whom. You are documenting a *system of knowledge:* The term — not just the Mandinka word, but what it requires of the person who holds it, what rights it grants, what obligations it creates The proverb — how the kinship principle is compressed into a sentence that can be spoken in a moment of crisis The cultural role — how does this relationship function in a naming ceremony, a marriage negotiation, an inheritance dispute, a moment of conflict? The living practice — how do people actually use this term today, in Banjul apartments and diaspora WhatsApp groups, not just in village compounds? Consider the word *Bariŋ* — the maternal uncle. In a Western glossary it is described as "mother's brother." But a Mandinka family knows it differently — as one of the most sacred and protected relationships in the entire kinship system, a bond that carries specific legal rights and spiritual obligations that no English translation can fully carry. That knowledge is *primary research.* No AI has it. No database contains it. Only you can collect it. *Expert Tip: Seek those who know the "Law of the Compound." Elders who have served in mediation, grandmothers who have held the family together through disputes and marriages and deaths, griots who carry the genealogies and the proverbs — these are your most valuable sources. Ask not just "what does this word mean?" but "what does this relationship require?" and "what do your elders say when this bond is broken?"* 6\. From Notebook to the World: Your Immediate Next Steps Your journey as a Digital Guardian begins with action. Your work here is being held to a global standard of excellence, meeting both The Gambian Ministry of Education (MoBSE) policies and the rigorous California Common Core benchmarks. This is a verifiable metric of your quality as a scholar and a researcher. Student Author Checklist: Secure the Sacred Pact: Take your consent form home. Ensure your parent or guardian understands that their signature is the "Permission" required to share our culture with the world. Select Your Domain: Choose Family (*Badin*) or Birds (*Kannola*) based on where your passion lies. If you choose Family, begin listening. Begin noticing. A proverb will be spoken in your compound tonight that contains a kinship principle no database has ever recorded. Identify Your Experts: List at least two elders or community members who hold the "deep knowledge" you need. For Family, this means grandmothers who have navigated the *Lu*, elders who have served in mediation, and griots who carry the genealogies of the great families. Justify Your Path: Write one sentence explaining your choice — for example: *"I choose Family because the way my grandmother speaks about the obligations of a* Siinaa *has never been written down, and I will not let it disappear with her."* As we build this project together, carry yourself with the pride of a digital pioneer. Every word you document is an act of respect, a shield against silence, and a gift to the generations of Mandinka yet to be born. Like the *Lu* itself — built relationship by relationship, obligation by obligation, generation by generation — you are constructing something that will outlast you. Build it well. |
-| ----- |
+<table border="1" style="border-collapse: collapse; width: 100%;">
+<tr><th style="padding: 8px; background-color: #f2f2f2; text-align: left;">Step Up: Why This Work Matters</th></tr>
+<tr><td style="padding: 12px;">
+
+<h3>Welcome to the Digital Library: The Vision of AI West Africa</h3>
+
+<p>You have been chosen as a Guardian. You are standing at a crossroads where the ancient wisdom of your ancestors meets the technology of the future. But there is a crisis: in the vast digital landscape of the modern world, the Mandinka voice is missing. Think of a compound — the <em>Lu</em> — built relationship by relationship, generation by generation, with precision and purpose. Each obligation matters. Each name carries history. Each proverb holds a law. That is what you are doing. You are weaving the Mandinka voice into the digital world, one carefully chosen word at a time. When people speak of Artificial Intelligence (AI), they often imagine a "robot" from a movie. This is a misunderstanding. To us, AI is a vast vessel of knowledge — but currently, it is a vessel that is broken because it lacks your heritage. Imagine a global Digital Library where the shelves for English and French are overflowing, while the Mandinka section is a cold, empty void. No proverbs. No kinship terms. No record of what a <em>Siinaa</em> is owed, or what <em>Badenya</em> requires of a child, or how <em>Sanankouya</em> has kept the peace between clans for 800 years. The "so what?" is simple and urgent: if you do not act today, Mandinka knowledge faces digital extinction. It will be invisible to the future. The word <em>Bariŋ</em> — uncle, mother's brother, the most revered male figure in a child's life — will have no meaning in any database. The Kouroukan Fouga will exist only as a historical footnote, stripped of everything your people know about how it still governs family life today. You are not merely students in a classroom. You are the primary authors invited to fill this void and ensure our culture is never forgotten.</p>
+
+<h4>1. What is Artificial Intelligence (AI)?</h4>
+
+<p>In our mission, AI is not a robot or a machine. It is a digital library that must be written. Currently, this library is empty of our language. You are the authors charged with the "Publishing Pitch" — filling this vessel with the authentic voice of the Mandinka people. A kinship term exists in many languages. But the knowledge of <em>how</em> that term works — what it requires of you, what it grants you, what the elders say when it is invoked in a dispute — that knowledge lives only in the Mandinka world. "Google speaks English" while your grandmother speaks Mandinka. There is a missing link in history. You are the bridge.</p>
+
+<h4>2. From Student to Content Creator: Understanding Your Power</h4>
+
+<p>To fulfill this duty, you must stop seeing yourself as a passive learner. You are now a Content Creator. This role grants you the authority to decide how your culture is represented to the world. You must adopt a mindset of excellence built on three pillars:</p>
+
+<ul>
+<li><strong>Ownership:</strong> You must recognize that you own your voice. You hold the fundamental rights to the stories you collect. You are the high authority on your own heritage. When an elder teaches you the difference between <em>Badenya</em> — the solidarity between full siblings and their mother — and <em>Badingya</em> — the tension between half-siblings competing for a father's attention — that knowledge belongs to your community.</li>
+<li><strong>Agency:</strong> As a Community Researcher, you are the active bridge. You have the power to seek out knowledge that no computer can find on its own. A census can count the members of a compound. It cannot tell you what <em>Sanankouya</em> means to the Traoré grandmother who laughs when she insults a Keïta neighbor — and means every word of it, as an act of peace.</li>
+<li><strong>Research:</strong> We demand more than surface-level definitions. You will not simply list a kinship term. You will use your skills to document the <em>Fa</em> — father, patriarch, economic and spiritual authority of the <em>Lu</em> — capturing the deep, specialized knowledge that only a Mandinka family holds: the obligations of that role, the limits of its authority, the proverbs that describe what happens when it is fulfilled — and what happens when it is not. This power is a privilege, but it requires you to uphold the highest ethical standards as you move Mandinka knowledge from your notebook to the global stage.</li>
+</ul>
+
+<h4>3. The Ethics of Digital Preservation: Consent and Respect</h4>
+
+<p>In the world of technology, we use the word <em>Consent</em>. In our culture, this is the modern heartbeat of <em>Respect</em>. When you ask for a signature on a form, you are not just doing paperwork. You are making a Sacred Pact. By modeling the "Guardian's Commitment," you are making a solemn promise to your community: <em>I will protect these stories. I will never use this knowledge disrespectfully.</em> The "Fine Print" is the shield that protects our elders and our family from being exploited — including the knowledge of how disputes within the <em>Lu</em> are resolved without courts, or which proverbs carry legal weight in a District Tribunal, or what a grandmother's <em>barka</em> — her blessing — means to the spiritual standing of a family.</p>
+
+<table border="1" style="border-collapse: collapse; width: 100%;">
+<tr>
+<th style="padding: 6px; text-align: left;">Term</th>
+<th style="padding: 6px; text-align: left;">What it Means for You</th>
+</tr>
+<tr>
+<td style="padding: 6px;">Consent</td>
+<td style="padding: 6px;">A sacred agreement that allows your work to move from your notebook to the world. It is the digital form of Respect.</td>
+</tr>
+<tr>
+<td style="padding: 6px;">Permission</td>
+<td style="padding: 6px;">The act of seeking authorization — just as you would never involve an elder in a project without first asking for their blessing.</td>
+</tr>
+<tr>
+<td style="padding: 6px;">Rights</td>
+<td style="padding: 6px;">Your legal and moral entitlement to your work. It answers the ultimate question: <em>Who owns your voice?</em></td>
+</tr>
+</table>
+
+<h4>4. Identity in Your Work: Attribution vs. Anonymity</h4>
+
+<p>As a creator, you face a vital ethical choice regarding your Personal Identifiable Information (PII) — data like your name that connects you to your work. This is not just about a name on a cover. It is about how you choose to represent your family's legacy.</p>
+
+<table border="1" style="border-collapse: collapse; width: 100%;">
+<tr>
+<th style="padding: 6px; text-align: left;">Path</th>
+<th style="padding: 6px; text-align: left;">Description</th>
+<th style="padding: 6px; text-align: left;">The "So What?": Why it Matters</th>
+</tr>
+<tr>
+<td style="padding: 6px;">Attribution</td>
+<td style="padding: 6px;">The Named Creator.</td>
+<td style="padding: 6px;">Your identity is tied to the work. This builds public pride for your family name and ensures your legacy as a preservationist is recorded. Future generations will know who first wrote down what <em>Sanankouya</em> means in the digital world.</td>
+</tr>
+<tr>
+<td style="padding: 6px;">Anonymity</td>
+<td style="padding: 6px;">The Secret Helper.</td>
+<td style="padding: 6px;">Your identity is kept strictly hidden. This protects your privacy and ensures the community's collective knowledge is shared without exposing individuals to data exploitation.</td>
+</tr>
+</table>
+
+<h4>5. Your Editorial Path: Learning Domain</h4>
+
+<p>Because the Mandinka language is as vast as the sea, we must focus our efforts. You will choose one "Linguistic Domain" for your editorial assignment. You must move past generalities and seek the specialized expertise of your people.</p>
+
+<p>Family and Kinship (Badin): The kinship system of the Mandinka people is among the most sophisticated social architectures ever developed — a living legal, spiritual, and economic framework that has governed community life for centuries. And yet almost none of that sophistication exists in Mandinka in any digital format. This is not a family history project. This is a sovereignty project. The terms, obligations, rights, and cultural meanings of Mandinka kinship are woven through proverbs, customary law, inheritance practices, marriage negotiations, and the daily life of every compound in The Gambia. When that knowledge disappears from living mouths and fails to enter the digital world, it disappears everywhere.</p>
+
+<p>Your work in this domain goes far beyond listing who is related to whom. You are documenting a <em>system of knowledge:</em></p>
+
+<ul>
+<li>The term — not just the Mandinka word, but what it requires of the person who holds it, what rights it grants, what obligations it creates</li>
+<li>The proverb — how the kinship principle is compressed into a sentence that can be spoken in a moment of crisis</li>
+<li>The cultural role — how does this relationship function in a naming ceremony, a marriage negotiation, an inheritance dispute, a moment of conflict?</li>
+<li>The living practice — how do people actually use this term today, in Banjul apartments and diaspora WhatsApp groups, not just in village compounds?</li>
+</ul>
+
+<p>Consider the word <em>Bariŋ</em> — the maternal uncle. In a Western glossary it is described as "mother's brother." But a Mandinka family knows it differently — as one of the most sacred and protected relationships in the entire kinship system, a bond that carries specific legal rights and spiritual obligations that no English translation can fully carry. That knowledge is <em>primary research.</em> No AI has it. No database contains it. Only you can collect it.</p>
+
+<p><em>Expert Tip: Seek those who know the "Law of the Compound." Elders who have served in mediation, grandmothers who have held the family together through disputes and marriages and deaths, griots who carry the genealogies and the proverbs — these are your most valuable sources. Ask not just "what does this word mean?" but "what does this relationship require?" and "what do your elders say when this bond is broken?"</em></p>
+
+<h4>6. From Notebook to the World: Your Immediate Next Steps</h4>
+
+<p>Your journey as a Digital Guardian begins with action. Your work here is being held to a global standard of excellence, meeting both The Gambian Ministry of Education (MoBSE) policies and the rigorous California Common Core benchmarks. This is a verifiable metric of your quality as a scholar and a researcher.</p>
+
+<p>Student Author Checklist:</p>
+
+<ol>
+<li><strong>Secure the Sacred Pact:</strong> Take your consent form home. Ensure your parent or guardian understands that their signature is the "Permission" required to share our culture with the world.</li>
+<li><strong>Select Your Domain:</strong> Choose Family (<em>Badin</em>) or Birds (<em>Kannola</em>) based on where your passion lies. If you choose Family, begin listening. Begin noticing. A proverb will be spoken in your compound tonight that contains a kinship principle no database has ever recorded.</li>
+<li><strong>Identify Your Experts:</strong> List at least two elders or community members who hold the "deep knowledge" you need. For Family, this means grandmothers who have navigated the <em>Lu</em>, elders who have served in mediation, and griots who carry the genealogies of the great families.</li>
+<li><strong>Justify Your Path:</strong> Write one sentence explaining your choice — for example: <em>"I choose Family because the way my grandmother speaks about the obligations of a</em> Siinaa <em>has never been written down, and I will not let it disappear with her."</em></li>
+</ol>
+
+<p>As we build this project together, carry yourself with the pride of a digital pioneer. Every word you document is an act of respect, a shield against silence, and a gift to the generations of Mandinka yet to be born. Like the <em>Lu</em> itself — built relationship by relationship, obligation by obligation, generation by generation — you are constructing something that will outlast you. Build it well.</p>
+
+</td></tr>
+</table>
 
 ## **Your Task**
 
@@ -176,7 +285,7 @@ The challenge is not the language. The challenge is the translation from sound t
 
 **The Sound to Symbol Chart**
 
-You have one amazing tool to help you feel and see how to spell. Use them every time you are unsure.
+You have one amazing tool to help you feel and see how to spell. Use it every time you are unsure.
 
 This chart shows where Mandinka sounds are made in your mouth. When you say a word, your lips, tongue, teeth, roof of the mouth, and throat all work together. The chart helps you slow the word down and see what your mouth is doing.
 
@@ -214,8 +323,369 @@ We are training AI to help transcribe Mandinka and translate it into other langu
 
 Have you ever heard song lyrics you did not understand? Have you ever tried to ask for help, but the other person did not speak your language? These tools are being built to help with those real problems.
 
-| Step Up: The Language of the Compound You already know this language. You have spoken it your whole life — in the compound, at the table, calling across the yard to a sibling, greeting an elder the way your mother taught you. The challenge is not the language. The challenge is the translation from sound to symbol. That is a skill. And like every skill, it improves with practice. Difficulty here is not failure. It is a pathway being built for the first time. But here is something the bird students did not have: your domain already lives in your mouth. Every kinship term in this chapter is a word you have used. You know what it means. You know who it refers to. You know the feeling it carries — the weight of *Badenya*, the tension of *Badingya*, the warmth of *Baamaa*, the authority of *Koto*. Your job is not to learn these words. Your job is to write them down correctly — precisely enough that a machine can learn them, a younger student can read them, and a Mandinka family anywhere in the world can find them in a digital library for the first time. That precision begins here. Why Spelling Feels Hard Your brain learned this language through sound, rhythm, and repetition — starting before you could walk. Reading and spelling use a different pathway. That pathway has to be trained. Even fluent English speakers sometimes struggle to spell a word they have said a thousand times. This is not weakness. It is how the human brain works. And Mandinka spelling has one additional layer of complexity: it has changed more than once in the last 100 years. Colonial-era transcription systems fragmented the language across borders. Different researchers spelled the same words differently. The modern standardized system — shaped primarily by the Gamble revisions — resolved most of those inconsistencies, but students may still encounter older spellings in family documents, religious texts, and community records. This is why consistency matters more than perfection. Your job is not to spell every word correctly on the first attempt. Your job is to spell the same word the same way every time — and to record yourself saying it, so the sound and the spelling can be verified and matched. Vowel Length — Where Kinship Meaning Lives In Mandinka, a short vowel and a long vowel are not the same sound. They are not interchangeable. And in kinship terms, this distinction carries real meaning. Short vowels are written as single letters: a, e, i, o, u. Long vowels are written doubled: aa, ee, ii, oo, uu. The simplest way to feel this difference is to clap. Say the word and clap on the vowel. One clap — short. Two claps — long. This matters urgently in the kinship domain. Consider: *Baa* — Mother. One clap. Short and specific. Now consider what happens if the tone marker shifts — *bǎa* means goat. The difference between your mother and a goat is a single tone mark. This is not a minor spelling detail. It is the difference between honoring the most important person in your life and saying something that would make your compound erupt in laughter — or worse. The stakes of tonal accuracy in kinship terms are higher than in almost any other domain. These are the words people use at naming ceremonies, at weddings, at funerals, in mediations, and in court. Get them right. The Orthographic Cheat Sheet Study these not as rules to memorize but as a map — one that shows you the logic underneath the language. Spelling Rule Mandinka Example Linguistic Logic Vowel Length aa vs. a Long vowels are always indicated by doubling the letter. Non-negotiable. Glides vs. Diphthongs ayi vs. ai Diphthongs are eliminated. Glide consonants (y or w) show mouth movement. Digraphs ny and ng *ny* as in "Kenya"; *ng* as in "singer." Each is one nasal sound. Tone Markers high ( ´ ) vs. low ( \` ) Marks distinguish meaning — including the difference between *baa* (mother) and *bǎa* (goat). Nasal Adaptations m before b Nasal consonants shift to match the point of articulation of the consonant that follows. The Power of the Root — Applied to the Family Mandinka is a building-block language. At its core is a root — almost always a verb or a foundational noun. From that single root, by attaching specific suffixes, you can generate an entire family of related words. In the kinship domain this logic is everywhere. The compound itself demonstrates it. Look at how the root word for "small" or "child" — *ding* — travels through the family: *Dingo* — child, offspring *Kambaanoo* — boy, son *Sunkutoo* — girl, daughter *Deenaanoo* — baby, infant *Dindingo* — little child (the diminutive of the diminutive — a very small child indeed) And notice how the language uses *\-ding* to encode relationship — *Fandiŋ* (stepfather, literally "little father") and *Bandiŋ* (stepmother, literally "little mother"). The suffix is not just a grammatical tool. It carries cultural meaning — it tells you exactly how this person relates to the person at the center. Creating the "Doer": The Agent Suffix (-laa / \-naa) An agent is the person who performs an action. In Mandinka you create this word by adding \-laa to a verbal root. In the kinship domain, think about the roles that define the compound: *sene* (to farm) \+ *\-laa* \= senelaa (farmer — the one who feeds the Lu) *kii* (to send) \+ *\-laa* \= kiilaa (messenger — the one who carries between families) *sii* (to sit) \+ *\-laa* \= siilaa (settler — the one who first established the compound) *dong* (to dance) \+ *\-naa* \= donna (dancer — note vowel shortening and nasal assimilation) The settler — the *siilaa* — is a kinship concept as much as a grammatical one. In Mandinka customary law, the family of the *siilaa* holds the foundational claim to the land. That is why the *dugu-tigi*, the village chief, always comes from the lineage of the first family to settle. The suffix encodes the legal principle. Creating the "Tool": The Instrument Suffixes (-rango, \-dango, \-lango) Every action implies a tool. The R-Rule applies here as it did in the bird workbook — if *r* appears in the syllable immediately before the suffix, the suffix shifts to *\-lango*. Action Root Meaning Suffix Used Resulting Tool Note *laa* to lie down *\-rango* laarango bed — the place of rest in the compound *santi* to comb *\-rango* santirango comb — a tool of care between family members *ming* to drink *\-dango* mindango cup — shared in the compound *liiri* to shave *\-lango* liirilango razor — R-Rule applied *kati* to cut *\-lango* katirilango knife — *\-ri-* acts as linking syllable Defining Identity: The Suffix of Origin (-nka / \-nkoo) Where a person comes from is the foundation of their identity in Mandinka society. Your surname tells the story before you speak a word. The origin suffix encodes this directly: *Mandinka* → Mandinkoo (a Mandinka person) *Tilibo* (the east) → Tilibo-nkoo (a person from the east) *Jaali* → Jaali-nkoolu (the people of Jaali) *Bolong-kono* (up-river) → bolong-kono-nkoolu (people from up-river) In the kinship domain this suffix matters enormously. When a family is involved in a land dispute, an inheritance claim, or a marriage negotiation — the first question asked is where the family comes from. The *\-nkoo* suffix is how that answer is encoded in the language itself. A *Keïta-nkoo* carries a different set of obligations and rights than a *Kouyaté-nkoo*. The suffix is not decoration. It is legal identity. Places and Possessors (-duu and \-tiyo) When attaching these suffixes, the common Mandinka noun ending *\-o* is usually dropped or shifted to *\-u*. The word adjusts at the point of connection — because the spoken language is always the reference point. The Land (*\-duu*): *Fula-duu* — Land of the Fula *Sanduu* — The land of San The Possessor (*\-tiyo*): *bankoo* (land) → *banku-tiyo* (landowner) *bungo* (house) → *bun-tiyo* (house owner) *suu* (yard) → *suu-tiyoo* (compound owner) *saateewo* (town) → *saatee-tiyoo* (village head) In the kinship domain the possessor suffix does some of its most important work. The *suu-tiyoo* — the compound owner — is not just a property designation. It is a kinship role with specific legal obligations under customary law. The *saatee-tiyoo* — the village head — holds authority that derives from lineage, not election. These are the titles that appear in inheritance disputes, in marriage negotiations, in mediation proceedings. Knowing how to spell them correctly is knowing how to write the law. The Kinship Vocabulary of the Compound These are the foundational terms of your domain. Study their spelling carefully. Record yourself saying each one. The vowel lengths are not optional — they carry meaning. The Core Collective: Mandinka Word English Meaning Notes on Spelling *Dimbaayaa* Family / dependents under one's care Long *aa* — two claps *Baadino* A relative, kin, blood relation Short *a* in *Baa*, watch the *\-dino* ending *Baadinyaa* Kinship / the state of being related Long *aa* — the abstract noun form *Lu* The extended family compound Short, single syllable — do not lengthen *Koridaa* The physical compound yard Long *aa* at the end — two claps Parents and Ancestors: Mandinka Word English Meaning Notes on Spelling *Fa / Baabaa* Father *Baabaa* — both *aa* are long *Baa* Mother Short — but tone mark is critical. *Bǎa* means goat *Dimbaa* Mother (affectionate) Long *aa* — also means fire, a mark of warmth and power *Bembaa* Ancestor Long *aa* — the one who came before *Mama Kewo* Grandfather *Kewo* \= man *Mama Musoo* Grandmother *Musoo* \= woman, long *oo* Step-Parents and Extended Family: Mandinka Word English Meaning Notes on Spelling *Fandiŋ* Stepfather / father's brother The *ŋ* is the velar nasal — *ng* as in singer *Bandiŋ* Stepmother / mother's co-wife Same nasal ending — *little mother* *Naandiŋ* Aunt (mother's sister) Long *aa* — two claps *Binki* Aunt (father's sister) Short vowels throughout *Bariŋ* Uncle (mother's brother) Highly revered role — spell it with care Siblings and Children: Mandinka Word English Meaning Notes on Spelling *Kotoomaa / Koto* Elder sibling Long *oo* — two claps *Kotoomaa Kewo* Elder brother *Kewo* \= man *Kotoomaa Musoo* Elder sister *Musoo* \= woman *Doomaa / Dokomaa* Younger sibling Long *oo* *Dokomaa Kewo* Younger brother *Dokomaa Musoo* Younger sister *Diŋo* Child / offspring The *ŋ* is nasal — do not write as *Dingo* *Deenaanoo* Baby / infant Long *ee* and long *aa* — feel both stretches Marriage and Spousal Terms: Mandinka Word English Meaning Notes on Spelling *Kewo / Keemaa* Husband *Keemaa* — long *ee* *Musoo / Musu* Wife Long *oo* in *Musoo* *Siinaa* Co-wife Long *ii* and long *aa* — both stretched *Bitan* In-law Short vowels — clean and precise The Deep Philosophical Dimensions: Mandinka Word English Meaning Notes on Spelling *Badenya* Mother-child solidarity / unconditional loyalty The *y* is a glide — *Badenya* not *Bade-ia* *Badingya* Half-sibling rivalry / competitive ambition The *ng* is one sound — velar nasal *Sanankouya* Joking kinship / the sacred inter-clan covenant Four syllables — *Sa-nan-kou-ya* *Luntaŋo* Stranger / guest given family rights The *ŋ* nasal before *o* The AI Spelling Assistant Did you know Mandinka spelling has changed more than once in the last 100 years? The standardized system we use today resolved decades of inconsistency — but students may still encounter older spellings in family documents, religious texts, and community records. An elder may spell a kinship term differently from how it appears in this workbook. That is not an error. It is history. Our AI spelling assistant helps ensure consistency across all submissions. When you record yourself saying a kinship term, the system listens and helps identify the correct vowel length and tone marks. It does not replace your judgment. It supports it. The student's job is consistency. The technology's job is assistance. That distinction matters — especially in a domain where spelling the wrong vowel length could change a legal term into something it was never meant to be. AJAMI Manuscripts  The practice of writing Mandinka and other West African languages using a modified Arabic script. Mandinka scholars have used Ajami for centuries to record family agreements, land ownership, genealogies, proverbs, and collections of local wisdom — long before any European writing system was applied to the language. The word comes from Arabic, meaning "foreign" or "non-Arab" — a name given by Arab scholars to the practice of Africans writing their own languages in Arabic letters. A key Ajami manuscript, the *Kitab Tanbih al-Afkar* — "The Book of Awakening Thoughts" — compiled hundreds of Mandinka proverbs using plants, animals, and daily tasks as metaphors to teach personal responsibility, respect for elders, and social ethics. It was written by the scholar El Hadji Kemo Drame in Casamance, Senegal. When a student in this program documents a proverb in writing for the first time, they are joining a tradition that is older than they know. The writing is new. The act is not. You Are a Linguistic Architect Mastering Mandinka kinship vocabulary is not a matter of memorizing a list of words. It is a matter of understanding the architecture underneath them — the way *\-ding* encodes relationship and smallness simultaneously, the way *\-nkoo* encodes legal identity and origin, the way a long vowel versus a short one can be the difference between a mother and a goat. You have now seen how that works: \-laa gives you the person who acts — the settler, the messenger, the farmer \-nkoo gives you where they come from — and therefore who they are in the eyes of customary law \-tiyo gives you what they hold — the compound, the land, the village \-duu gives you the land itself — and the family whose name it carries \-ding gives you the relational position — the little father, the little mother, the child A family does not memorize its structure. It lives inside it, generation after generation, each person knowing their position by the words used to call them. You now know the principles of how those words are built. The compound will open the same way the forest opened for the bird students — one root at a time, one suffix at a time, one word written carefully and precisely for the first time. That is not memorization. That is architecture. And you are the architect.  |
-| ----- |
+<table border="1" style="border-collapse: collapse; width: 100%;">
+<tr><th style="padding: 8px; background-color: #f2f2f2; text-align: left;">Step Up: The Language of the Compound</th></tr>
+<tr><td style="padding: 12px;">
+
+<p>You already know this language. You have spoken it your whole life — in the compound, at the table, calling across the yard to a sibling, greeting an elder the way your mother taught you. The challenge is not the language. The challenge is the translation from sound to symbol. That is a skill. And like every skill, it improves with practice. Difficulty here is not failure. It is a pathway being built for the first time. But here is something the bird students did not have: your domain already lives in your mouth. Every kinship term in this chapter is a word you have used. You know what it means. You know who it refers to. You know the feeling it carries — the weight of <em>Badenya</em>, the tension of <em>Badingya</em>, the warmth of <em>Baamaa</em>, the authority of <em>Koto</em>. Your job is not to learn these words. Your job is to write them down correctly — precisely enough that a machine can learn them, a younger student can read them, and a Mandinka family anywhere in the world can find them in a digital library for the first time. That precision begins here.</p>
+
+<h3>Why Spelling Feels Hard</h3>
+
+<p>Your brain learned this language through sound, rhythm, and repetition — starting before you could walk. Reading and spelling use a different pathway. That pathway has to be trained. Even fluent English speakers sometimes struggle to spell a word they have said a thousand times. This is not weakness. It is how the human brain works. And Mandinka spelling has one additional layer of complexity: it has changed more than once in the last 100 years. Colonial-era transcription systems fragmented the language across borders. Different researchers spelled the same words differently. The modern standardized system — shaped primarily by the Gamble revisions — resolved most of those inconsistencies, but students may still encounter older spellings in family documents, religious texts, and community records. This is why consistency matters more than perfection. Your job is not to spell every word correctly on the first attempt. Your job is to spell the same word the same way every time — and to record yourself saying it, so the sound and the spelling can be verified and matched.</p>
+
+<h3>Vowel Length — Where Kinship Meaning Lives</h3>
+
+<p>In Mandinka, a short vowel and a long vowel are not the same sound. They are not interchangeable. And in kinship terms, this distinction carries real meaning. Short vowels are written as single letters: a, e, i, o, u. Long vowels are written doubled: aa, ee, ii, oo, uu. The simplest way to feel this difference is to clap. Say the word and clap on the vowel. One clap — short. Two claps — long. This matters urgently in the kinship domain. Consider: <em>Baa</em> — Mother. One clap. Short and specific. Now consider what happens if the tone marker shifts — <em>bǎa</em> means goat. The difference between your mother and a goat is a single tone mark. This is not a minor spelling detail. It is the difference between honoring the most important person in your life and saying something that would make your compound erupt in laughter — or worse. The stakes of tonal accuracy in kinship terms are higher than in almost any other domain. These are the words people use at naming ceremonies, at weddings, at funerals, in mediations, and in court. Get them right.</p>
+
+<h3>The Orthographic Cheat Sheet</h3>
+
+<p>Study these not as rules to memorize but as a map — one that shows you the logic underneath the language.</p>
+
+<table border="1" style="border-collapse: collapse; width: 100%;">
+<tr>
+<th style="padding: 6px; text-align: left;">Spelling Rule</th>
+<th style="padding: 6px; text-align: left;">Mandinka Example</th>
+<th style="padding: 6px; text-align: left;">Linguistic Logic</th>
+</tr>
+<tr>
+<td style="padding: 6px;">Vowel Length</td>
+<td style="padding: 6px;">aa vs. a</td>
+<td style="padding: 6px;">Long vowels are always indicated by doubling the letter. Non-negotiable.</td>
+</tr>
+<tr>
+<td style="padding: 6px;">Glides vs. Diphthongs</td>
+<td style="padding: 6px;">ayi vs. ai</td>
+<td style="padding: 6px;">Diphthongs are eliminated. Glide consonants (y or w) show mouth movement.</td>
+</tr>
+<tr>
+<td style="padding: 6px;">Digraphs</td>
+<td style="padding: 6px;">ny and ng</td>
+<td style="padding: 6px;"><em>ny</em> as in "Kenya"; <em>ng</em> as in "singer." Each is one nasal sound.</td>
+</tr>
+<tr>
+<td style="padding: 6px;">Tone Markers</td>
+<td style="padding: 6px;">high ( ´ ) vs. low ( ` )</td>
+<td style="padding: 6px;">Marks distinguish meaning — including the difference between <em>baa</em> (mother) and <em>bǎa</em> (goat).</td>
+</tr>
+<tr>
+<td style="padding: 6px;">Nasal Adaptations</td>
+<td style="padding: 6px;">m before b</td>
+<td style="padding: 6px;">Nasal consonants shift to match the point of articulation of the consonant that follows.</td>
+</tr>
+</table>
+
+<h3>The Power of the Root — Applied to the Family</h3>
+
+<p>Mandinka is a building-block language. At its core is a root — almost always a verb or a foundational noun. From that single root, by attaching specific suffixes, you can generate an entire family of related words. In the kinship domain this logic is everywhere. The compound itself demonstrates it. Look at how the root word for "small" or "child" — <em>ding</em> — travels through the family: <em>Dingo</em> — child, offspring <em>Kambaanoo</em> — boy, son <em>Sunkutoo</em> — girl, daughter <em>Deenaanoo</em> — baby, infant <em>Dindingo</em> — little child (the diminutive of the diminutive — a very small child indeed) And notice how the language uses <em>-ding</em> to encode relationship — <em>Fandiŋ</em> (stepfather, literally "little father") and <em>Bandiŋ</em> (stepmother, literally "little mother"). The suffix is not just a grammatical tool. It carries cultural meaning — it tells you exactly how this person relates to the person at the center.</p>
+
+<h4>Creating the "Doer": The Agent Suffix (-laa / -naa)</h4>
+
+<p>An agent is the person who performs an action. In Mandinka you create this word by adding -laa to a verbal root. In the kinship domain, think about the roles that define the compound:</p>
+
+<ul>
+<li><em>sene</em> (to farm) + <em>-laa</em> = senelaa (farmer — the one who feeds the Lu)</li>
+<li><em>kii</em> (to send) + <em>-laa</em> = kiilaa (messenger — the one who carries between families)</li>
+<li><em>sii</em> (to sit) + <em>-laa</em> = siilaa (settler — the one who first established the compound)</li>
+<li><em>dong</em> (to dance) + <em>-naa</em> = donna (dancer — note vowel shortening and nasal assimilation)</li>
+</ul>
+
+<p>The settler — the <em>siilaa</em> — is a kinship concept as much as a grammatical one. In Mandinka customary law, the family of the <em>siilaa</em> holds the foundational claim to the land. That is why the <em>dugu-tigi</em>, the village chief, always comes from the lineage of the first family to settle. The suffix encodes the legal principle.</p>
+
+<h4>Creating the "Tool": The Instrument Suffixes (-rango, -dango, -lango)</h4>
+
+<p>Every action implies a tool. The R-Rule applies here as it did in the bird workbook — if <em>r</em> appears in the syllable immediately before the suffix, the suffix shifts to <em>-lango</em>.</p>
+
+<table border="1" style="border-collapse: collapse; width: 100%;">
+<tr>
+<th style="padding: 6px; text-align: left;">Action Root</th>
+<th style="padding: 6px; text-align: left;">Meaning</th>
+<th style="padding: 6px; text-align: left;">Suffix Used</th>
+<th style="padding: 6px; text-align: left;">Resulting Tool</th>
+<th style="padding: 6px; text-align: left;">Note</th>
+</tr>
+<tr>
+<td style="padding: 6px;"><em>laa</em></td>
+<td style="padding: 6px;">to lie down</td>
+<td style="padding: 6px;"><em>-rango</em></td>
+<td style="padding: 6px;">laarango</td>
+<td style="padding: 6px;">bed — the place of rest in the compound</td>
+</tr>
+<tr>
+<td style="padding: 6px;"><em>santi</em></td>
+<td style="padding: 6px;">to comb</td>
+<td style="padding: 6px;"><em>-rango</em></td>
+<td style="padding: 6px;">santirango</td>
+<td style="padding: 6px;">comb — a tool of care between family members</td>
+</tr>
+<tr>
+<td style="padding: 6px;"><em>ming</em></td>
+<td style="padding: 6px;">to drink</td>
+<td style="padding: 6px;"><em>-dango</em></td>
+<td style="padding: 6px;">mindango</td>
+<td style="padding: 6px;">cup — shared in the compound</td>
+</tr>
+<tr>
+<td style="padding: 6px;"><em>liiri</em></td>
+<td style="padding: 6px;">to shave</td>
+<td style="padding: 6px;"><em>-lango</em></td>
+<td style="padding: 6px;">liirilango</td>
+<td style="padding: 6px;">razor — R-Rule applied</td>
+</tr>
+<tr>
+<td style="padding: 6px;"><em>kati</em></td>
+<td style="padding: 6px;">to cut</td>
+<td style="padding: 6px;"><em>-lango</em></td>
+<td style="padding: 6px;">katirilango</td>
+<td style="padding: 6px;">knife — <em>-ri-</em> acts as linking syllable</td>
+</tr>
+</table>
+
+<h4>Defining Identity: The Suffix of Origin (-nka / -nkoo)</h4>
+
+<p>Where a person comes from is the foundation of their identity in Mandinka society. Your surname tells the story before you speak a word. The origin suffix encodes this directly: <em>Mandinka</em> → Mandinkoo (a Mandinka person) <em>Tilibo</em> (the east) → Tilibo-nkoo (a person from the east) <em>Jaali</em> → Jaali-nkoolu (the people of Jaali) <em>Bolong-kono</em> (up-river) → bolong-kono-nkoolu (people from up-river) In the kinship domain this suffix matters enormously. When a family is involved in a land dispute, an inheritance claim, or a marriage negotiation — the first question asked is where the family comes from. The <em>-nkoo</em> suffix is how that answer is encoded in the language itself. A <em>Keïta-nkoo</em> carries a different set of obligations and rights than a <em>Kouyaté-nkoo</em>. The suffix is not decoration. It is legal identity.</p>
+
+<h4>Places and Possessors (-duu and -tiyo)</h4>
+
+<p>When attaching these suffixes, the common Mandinka noun ending <em>-o</em> is usually dropped or shifted to <em>-u</em>. The word adjusts at the point of connection — because the spoken language is always the reference point. The Land (<em>-duu</em>): <em>Fula-duu</em> — Land of the Fula <em>Sanduu</em> — The land of San The Possessor (<em>-tiyo</em>): <em>bankoo</em> (land) → <em>banku-tiyo</em> (landowner) <em>bungo</em> (house) → <em>bun-tiyo</em> (house owner) <em>suu</em> (yard) → <em>suu-tiyoo</em> (compound owner) <em>saateewo</em> (town) → <em>saatee-tiyoo</em> (village head) In the kinship domain the possessor suffix does some of its most important work. The <em>suu-tiyoo</em> — the compound owner — is not just a property designation. It is a kinship role with specific legal obligations under customary law. The <em>saatee-tiyoo</em> — the village head — holds authority that derives from lineage, not election. These are the titles that appear in inheritance disputes, in marriage negotiations, in mediation proceedings. Knowing how to spell them correctly is knowing how to write the law.</p>
+
+<h3>The Kinship Vocabulary of the Compound</h3>
+
+<p>These are the foundational terms of your domain. Study their spelling carefully. Record yourself saying each one. The vowel lengths are not optional — they carry meaning.</p>
+
+<h4>The Core Collective:</h4>
+
+<table border="1" style="border-collapse: collapse; width: 100%;">
+<tr>
+<th style="padding: 6px; text-align: left;">Mandinka Word</th>
+<th style="padding: 6px; text-align: left;">English Meaning</th>
+<th style="padding: 6px; text-align: left;">Notes on Spelling</th>
+</tr>
+<tr>
+<td style="padding: 6px;"><em>Dimbaayaa</em></td>
+<td style="padding: 6px;">Family / dependents under one's care</td>
+<td style="padding: 6px;">Long <em>aa</em> — two claps</td>
+</tr>
+<tr>
+<td style="padding: 6px;"><em>Baadino</em></td>
+<td style="padding: 6px;">A relative, kin, blood relation</td>
+<td style="padding: 6px;">Short <em>a</em> in <em>Baa</em>, watch the <em>-dino</em> ending</td>
+</tr>
+<tr>
+<td style="padding: 6px;"><em>Baadinyaa</em></td>
+<td style="padding: 6px;">Kinship / the state of being related</td>
+<td style="padding: 6px;">Long <em>aa</em> — the abstract noun form</td>
+</tr>
+<tr>
+<td style="padding: 6px;"><em>Lu</em></td>
+<td style="padding: 6px;">The extended family compound</td>
+<td style="padding: 6px;">Short, single syllable — do not lengthen</td>
+</tr>
+<tr>
+<td style="padding: 6px;"><em>Koridaa</em></td>
+<td style="padding: 6px;">The physical compound yard</td>
+<td style="padding: 6px;">Long <em>aa</em> at the end — two claps</td>
+</tr>
+</table>
+
+<h4>Parents and Ancestors:</h4>
+
+<table border="1" style="border-collapse: collapse; width: 100%;">
+<tr>
+<th style="padding: 6px; text-align: left;">Mandinka Word</th>
+<th style="padding: 6px; text-align: left;">English Meaning</th>
+<th style="padding: 6px; text-align: left;">Notes on Spelling</th>
+</tr>
+<tr>
+<td style="padding: 6px;"><em>Fa / Baabaa</em></td>
+<td style="padding: 6px;">Father</td>
+<td style="padding: 6px;"><em>Baabaa</em> — both <em>aa</em> are long</td>
+</tr>
+<tr>
+<td style="padding: 6px;"><em>Baa</em></td>
+<td style="padding: 6px;">Mother</td>
+<td style="padding: 6px;">Short — but tone mark is critical. <em>Bǎa</em> means goat</td>
+</tr>
+<tr>
+<td style="padding: 6px;"><em>Dimbaa</em></td>
+<td style="padding: 6px;">Mother (affectionate)</td>
+<td style="padding: 6px;">Long <em>aa</em> — also means fire, a mark of warmth and power</td>
+</tr>
+<tr>
+<td style="padding: 6px;"><em>Bembaa</em></td>
+<td style="padding: 6px;">Ancestor</td>
+<td style="padding: 6px;">Long <em>aa</em> — the one who came before</td>
+</tr>
+<tr>
+<td style="padding: 6px;"><em>Mama Kewo</em></td>
+<td style="padding: 6px;">Grandfather</td>
+<td style="padding: 6px;"><em>Kewo</em> = man</td>
+</tr>
+<tr>
+<td style="padding: 6px;"><em>Mama Musoo</em></td>
+<td style="padding: 6px;">Grandmother</td>
+<td style="padding: 6px;"><em>Musoo</em> = woman, long <em>oo</em></td>
+</tr>
+</table>
+
+<h4>Step-Parents and Extended Family:</h4>
+
+<table border="1" style="border-collapse: collapse; width: 100%;">
+<tr>
+<th style="padding: 6px; text-align: left;">Mandinka Word</th>
+<th style="padding: 6px; text-align: left;">English Meaning</th>
+<th style="padding: 6px; text-align: left;">Notes on Spelling</th>
+</tr>
+<tr>
+<td style="padding: 6px;"><em>Fandiŋ</em></td>
+<td style="padding: 6px;">Stepfather / father's brother</td>
+<td style="padding: 6px;">The <em>ŋ</em> is the velar nasal — <em>ng</em> as in singer</td>
+</tr>
+<tr>
+<td style="padding: 6px;"><em>Bandiŋ</em></td>
+<td style="padding: 6px;">Stepmother / mother's co-wife</td>
+<td style="padding: 6px;">Same nasal ending — <em>little mother</em></td>
+</tr>
+<tr>
+<td style="padding: 6px;"><em>Naandiŋ</em></td>
+<td style="padding: 6px;">Aunt (mother's sister)</td>
+<td style="padding: 6px;">Long <em>aa</em> — two claps</td>
+</tr>
+<tr>
+<td style="padding: 6px;"><em>Binki</em></td>
+<td style="padding: 6px;">Aunt (father's sister)</td>
+<td style="padding: 6px;">Short vowels throughout</td>
+</tr>
+<tr>
+<td style="padding: 6px;"><em>Bariŋ</em></td>
+<td style="padding: 6px;">Uncle (mother's brother)</td>
+<td style="padding: 6px;">Highly revered role — spell it with care</td>
+</tr>
+</table>
+
+<h4>Siblings and Children:</h4>
+
+<table border="1" style="border-collapse: collapse; width: 100%;">
+<tr>
+<th style="padding: 6px; text-align: left;">Mandinka Word</th>
+<th style="padding: 6px; text-align: left;">English Meaning</th>
+<th style="padding: 6px; text-align: left;">Notes on Spelling</th>
+</tr>
+<tr>
+<td style="padding: 6px;"><em>Kotoomaa / Koto</em></td>
+<td style="padding: 6px;">Elder sibling</td>
+<td style="padding: 6px;">Long <em>oo</em> — two claps</td>
+</tr>
+<tr>
+<td style="padding: 6px;"><em>Kotoomaa Kewo</em></td>
+<td style="padding: 6px;">Elder brother</td>
+<td style="padding: 6px;"><em>Kewo</em> = man</td>
+</tr>
+<tr>
+<td style="padding: 6px;"><em>Kotoomaa Musoo</em></td>
+<td style="padding: 6px;">Elder sister</td>
+<td style="padding: 6px;"><em>Musoo</em> = woman</td>
+</tr>
+<tr>
+<td style="padding: 6px;"><em>Doomaa / Dokomaa</em></td>
+<td style="padding: 6px;">Younger sibling</td>
+<td style="padding: 6px;">Long <em>oo</em></td>
+</tr>
+<tr>
+<td style="padding: 6px;"><em>Dokomaa Kewo</em></td>
+<td style="padding: 6px;">Younger brother</td>
+<td style="padding: 6px;">&nbsp;</td>
+</tr>
+<tr>
+<td style="padding: 6px;"><em>Dokomaa Musoo</em></td>
+<td style="padding: 6px;">Younger sister</td>
+<td style="padding: 6px;">&nbsp;</td>
+</tr>
+<tr>
+<td style="padding: 6px;"><em>Diŋo</em></td>
+<td style="padding: 6px;">Child / offspring</td>
+<td style="padding: 6px;">The <em>ŋ</em> is nasal — do not write as <em>Dingo</em></td>
+</tr>
+<tr>
+<td style="padding: 6px;"><em>Deenaanoo</em></td>
+<td style="padding: 6px;">Baby / infant</td>
+<td style="padding: 6px;">Long <em>ee</em> and long <em>aa</em> — feel both stretches</td>
+</tr>
+</table>
+
+<h4>Marriage and Spousal Terms:</h4>
+
+<table border="1" style="border-collapse: collapse; width: 100%;">
+<tr>
+<th style="padding: 6px; text-align: left;">Mandinka Word</th>
+<th style="padding: 6px; text-align: left;">English Meaning</th>
+<th style="padding: 6px; text-align: left;">Notes on Spelling</th>
+</tr>
+<tr>
+<td style="padding: 6px;"><em>Kewo / Keemaa</em></td>
+<td style="padding: 6px;">Husband</td>
+<td style="padding: 6px;"><em>Keemaa</em> — long <em>ee</em></td>
+</tr>
+<tr>
+<td style="padding: 6px;"><em>Musoo / Musu</em></td>
+<td style="padding: 6px;">Wife</td>
+<td style="padding: 6px;">Long <em>oo</em> in <em>Musoo</em></td>
+</tr>
+<tr>
+<td style="padding: 6px;"><em>Siinaa</em></td>
+<td style="padding: 6px;">Co-wife</td>
+<td style="padding: 6px;">Long <em>ii</em> and long <em>aa</em> — both stretched</td>
+</tr>
+<tr>
+<td style="padding: 6px;"><em>Bitan</em></td>
+<td style="padding: 6px;">In-law</td>
+<td style="padding: 6px;">Short vowels — clean and precise</td>
+</tr>
+</table>
+
+<h4>The Deep Philosophical Dimensions:</h4>
+
+<table border="1" style="border-collapse: collapse; width: 100%;">
+<tr>
+<th style="padding: 6px; text-align: left;">Mandinka Word</th>
+<th style="padding: 6px; text-align: left;">English Meaning</th>
+<th style="padding: 6px; text-align: left;">Notes on Spelling</th>
+</tr>
+<tr>
+<td style="padding: 6px;"><em>Badenya</em></td>
+<td style="padding: 6px;">Mother-child solidarity / unconditional loyalty</td>
+<td style="padding: 6px;">The <em>y</em> is a glide — <em>Badenya</em> not <em>Bade-ia</em></td>
+</tr>
+<tr>
+<td style="padding: 6px;"><em>Badingya</em></td>
+<td style="padding: 6px;">Half-sibling rivalry / competitive ambition</td>
+<td style="padding: 6px;">The <em>ng</em> is one sound — velar nasal</td>
+</tr>
+<tr>
+<td style="padding: 6px;"><em>Sanankouya</em></td>
+<td style="padding: 6px;">Joking kinship / the sacred inter-clan covenant</td>
+<td style="padding: 6px;">Four syllables — <em>Sa-nan-kou-ya</em></td>
+</tr>
+<tr>
+<td style="padding: 6px;"><em>Luntaŋo</em></td>
+<td style="padding: 6px;">Stranger / guest given family rights</td>
+<td style="padding: 6px;">The <em>ŋ</em> nasal before <em>o</em></td>
+</tr>
+</table>
+
+<h3>The AI Spelling Assistant</h3>
+
+<p>Did you know Mandinka spelling has changed more than once in the last 100 years? The standardized system we use today resolved decades of inconsistency — but students may still encounter older spellings in family documents, religious texts, and community records. An elder may spell a kinship term differently from how it appears in this workbook. That is not an error. It is history. Our AI spelling assistant helps ensure consistency across all submissions. When you record yourself saying a kinship term, the system listens and helps identify the correct vowel length and tone marks. It does not replace your judgment. It supports it. The student's job is consistency. The technology's job is assistance. That distinction matters — especially in a domain where spelling the wrong vowel length could change a legal term into something it was never meant to be.</p>
+
+<h3>AJAMI Manuscripts</h3>
+
+<p>The practice of writing Mandinka and other West African languages using a modified Arabic script. Mandinka scholars have used Ajami for centuries to record family agreements, land ownership, genealogies, proverbs, and collections of local wisdom — long before any European writing system was applied to the language. The word comes from Arabic, meaning "foreign" or "non-Arab" — a name given by Arab scholars to the practice of Africans writing their own languages in Arabic letters. A key Ajami manuscript, the <em>Kitab Tanbih al-Afkar</em> — "The Book of Awakening Thoughts" — compiled hundreds of Mandinka proverbs using plants, animals, and daily tasks as metaphors to teach personal responsibility, respect for elders, and social ethics. It was written by the scholar El Hadji Kemo Drame in Casamance, Senegal. When a student in this program documents a proverb in writing for the first time, they are joining a tradition that is older than they know. The writing is new. The act is not.</p>
+
+<h3>You Are a Linguistic Architect</h3>
+
+<p>Mastering Mandinka kinship vocabulary is not a matter of memorizing a list of words. It is a matter of understanding the architecture underneath them — the way <em>-ding</em> encodes relationship and smallness simultaneously, the way <em>-nkoo</em> encodes legal identity and origin, the way a long vowel versus a short one can be the difference between a mother and a goat. You have now seen how that works: -laa gives you the person who acts — the settler, the messenger, the farmer -nkoo gives you where they come from — and therefore who they are in the eyes of customary law -tiyo gives you what they hold — the compound, the land, the village -duu gives you the land itself — and the family whose name it carries -ding gives you the relational position — the little father, the little mother, the child A family does not memorize its structure. It lives inside it, generation after generation, each person knowing their position by the words used to call them. You now know the principles of how those words are built. The compound will open the same way the forest opened for the bird students — one root at a time, one suffix at a time, one word written carefully and precisely for the first time. That is not memorization. That is architecture. And you are the architect.</p>
+
+</td></tr>
+</table>
 
 **Word Collection Table**
 
@@ -267,8 +737,184 @@ This matters for your future because technology is becoming part of education, b
 
 Your voice and your words help the AI learn. Remember AI is a tool. The AI is not and should never be allowed to replace you. It should only be allowed to help you make better decisions. Here, it is learning from the language you already know so future students, families, artists, teachers, writers, travelers, and businesses can use Mandinka more powerfully in the modern world. Even to understand better by translating from French or English into Mandinka.
 
-| Step Up Article: 7 Surprising Truths About the Mandinka Language Before you write your sentences, understand the world they describe. The *Lu* was traditionally a physical compound — a cluster of homes where generations farmed together under the economic and spiritual authority of the *Fa*. Today the *Lu* has expanded far beyond its original walls. In cities like Banjul, families transition to what anthropologists call a "splintered Lu" — a young professional living in a modern apartment whose economic allegiance remains tethered to the ancestral village compound. Wealthy family members who migrate to cities often build large concrete structures with massive communal courtyards, deliberately designed to function as a modern *Lu* — open to any cousin arriving from the village. In the diaspora, the *Lu* is entirely virtual — sustained by remittances sent from London or New York, maintained through WhatsApp groups where an elder falling ill in a Gambian village triggers a real-time negotiation between cousins on three continents. The *Fa*'s authority travels through a phone screen. The *Siinaa*'s obligations do not disappear because she lives in Paris. And *Sanankouya* has not just survived modernization — it has flourished. When a Mandinka migrant arrives in a foreign city and exchanges surnames with a stranger, they are potentially activating an 800-year-old peace treaty. The playful insult traded between two men at an immigration office in New York is the same covenant forged at the Battle of Kirina in 1235\. The sentences you write this week describe a living system — one that operates across compounds, cities, continents, and phone screens simultaneously. Write with that in mind. The Hidden Logic of Language We often move through the world assuming that the basic architecture of human thought is universal. In the English-speaking world, objects are defined by static adjectives, events are linked by "and," and spelling is largely an arbitrary legacy we memorize. We take for granted that these building blocks are the only way to map human experience. The Mandinka language challenges these assumptions at their core. To study Mandinka is to realize that grammar is not merely a set of technical rules. It is a unique way of perceiving the flow of time, the nature of relationships, and the nuances of social position. Like a compound that looks simple from the road but reveals an intricate architecture of obligation, authority, and solidarity the moment you step inside — Mandinka rewards the learner who is willing to look closely. Truth 1: "Is" Is Not One Thing — It Is Two In English, "to be" does everything. It places you in a location, identifies who you are, and describes what you are like. Mandinka does not allow this ambiguity. Sense Positive Marker Negative Marker Locational / Continuous — where someone is, or what they are doing be te Identitive / Descriptive — who or what someone fundamentally is mu nte This distinction is not a minor grammatical detail. In the kinship domain it is everything. *A be koridaa la* — she is in the compound. She happens to be there right now. *Kotoomaa le mu* — she is an elder sibling. That is what she is, permanently, regardless of where she stands. Mandinka insists you never confuse a person's position in the compound with their role in the family. The grammar enforces the distinction the culture already knows. Truth 2: Mandinka Has No Word for "And" In English, "and" connects thoughts. Mandinka uses a narrative style instead — events placed in rhythmic sequence, one implying the next, without a connective bridge. From Gamble's *Elementary Mandinka: a ma'a noo* (he was not able) *a y'aa suki* (he blockaded it) *Soninkeelu bee benta* (the Soninkes all met) *ì y'aa bung* (they shot at him) There is no "and." There does not need to be. The sequence carries the logic. In the kinship domain, this narrative style is the natural form of a proverb. One truth implies the next. The elder speaks. The compound listens. The child remembers. You do not need "and" between these events — you need only the right order. Truth 3: "Old" and "Tired" Are Verbs, Not Adjectives In English, adjectives are static. "Old" is a label fixed to a noun. In Mandinka, most of what English treats as adjectives are *descriptive verbs* — active states of being. *sumayaa* — it is very cold (literally: to be cold) *bataata* — I am tired (literally: to be tired) *diyaata* — it is sweet *warata* — it is big / strong In the kinship domain: *Bembaa-ta* — the ancestor has become ancestral. The elder has not simply grown old — they have entered the state of elderhood. The grandmother is not merely old — she is *doing* the work of being the root of the compound. Mandinka sees these as active, not passive. That is not just linguistic. It is a philosophy of aging and respect. Truth 4: The Great Spelling Revolution — The Diphthong Is Dead Modern Mandinka orthography eliminated diphthongs in favor of glide consonants that show the reader how the mouth actually moves: *ai* becomes ayi *ei* becomes eyi *oi* becomes oyi *ui* becomes uwo Vowel length follows the same logic of precision. *Baa* — mother. *Bǎa* — goat. One tone mark. The entire meaning changes. In a domain where you are writing about the most important people in your life, that precision is not optional. Truth 5: One Suffix Does the Work of "The" Mandinka achieves definiteness with a single suffix — \-o — attached directly to the noun. *bungo* — the house *suu-tiyoo* — the compound owner *saatee-tiyoo* — the village head In the kinship domain the \-o suffix travels through the entire family structure. *Fa-o* — the father, this specific patriarch. *Kotoomaa-o* — the elder sibling, the one we are talking about. The suffix knows where it belongs — the way every person in the compound knows their position — not by accident, but by the logic of how the whole thing holds together. Truth 6: The Word Order Is Inverted — And Tense Lives Outside the Verb English follows Subject → Verb → Object. Mandinka follows Subject → Object → Verb. The verb anchors the end of every sentence — and must stay there. English (SVO) Mandinka Logic (SOV) The mother (S) is (V) old (O) The ancient pillar (S) the compound (O) anchors (V) — *Baama-keba kabilo-o tangta* The elder (S) is (V) wise (O) The elder (S) an ancient well (O) is (V) — *Moo-keeba kotoo ti* And Mandinka verbs do not conjugate. Time lives in the markers around the verb, not inside it. Time / Action Positive Marker Negative Marker Example Continuous / Future be...la te...la *a be dǎahaa la* — he is resting Continuous State be...ring te...ring *a be sii-ring* — she is sitting Habitual / Emphatic ka buka *a ka naa* — he usually comes Past (Intransitive) ...ta mang (+ root) *a bota* — he left Past (Transitive) ye mang *a ye daa soron* — he locked the door Command Root alone kana *taa\!* — go\! / *kana taa\!* — don't go\! The verbs *naa* (come) and *taa* (go) do not take the *la* or *ring* markers. Memorize these early — they are the verbs of arrival and departure, and in the kinship domain, those moments matter enormously. Truth 7: The Language Has a Grammar of Contempt Mandinka has a specific suffix, \-ding, that creates contemptuous forms of words. It is built from the same suffix that means "little" or "child" — *dindingo* (little child). To hold something in contempt is to make it small. The language encodes this as one gesture. *sunkang* (to stink) → sunkanding (stinking person) *kuntango* (headless) → kuntanding (stupid fool) *barakantango* (without blessing) → barakantanding (accursed person) In the kinship domain this suffix carries particular weight. A compound that loses its sense of collective purpose — that forgets its obligations to its elders, its children, its visiting stranger — is doing a kind of *kuntanding*. It has become headless. Mandinka grammar has a word for that. It has always had a word for that. Beyond Translation The Mandinka language reminds us that translation is never a simple exchange of labels. To speak Mandinka is to adopt a different logic — one where relationships are permanent states encoded in *mu*, where elderhood is an active verb, where the compound's authority travels through a suffix, and where contempt and diminution are grammatically identical. Like a compound that reveals its full architecture only to those who live inside it, Mandinka reveals its depth gradually — truth by truth, suffix by suffix, one sentence written carefully and precisely for the first time. How much of your own understanding of family is shaped — or limited — by the grammar you use to describe it? |
-| ----- |
+<table border="1" style="border-collapse: collapse; width: 100%;">
+<tr><th style="padding: 8px; background-color: #f2f2f2; text-align: left;">Step Up Article: 7 Surprising Truths About the Mandinka Language</th></tr>
+<tr><td style="padding: 12px;">
+
+<p>Before you write your sentences, understand the world they describe. The <em>Lu</em> was traditionally a physical compound — a cluster of homes where generations farmed together under the economic and spiritual authority of the <em>Fa</em>. Today the <em>Lu</em> has expanded far beyond its original walls. In cities like Banjul, families transition to what anthropologists call a "splintered Lu" — a young professional living in a modern apartment whose economic allegiance remains tethered to the ancestral village compound. Wealthy family members who migrate to cities often build large concrete structures with massive communal courtyards, deliberately designed to function as a modern <em>Lu</em> — open to any cousin arriving from the village. In the diaspora, the <em>Lu</em> is entirely virtual — sustained by remittances sent from London or New York, maintained through WhatsApp groups where an elder falling ill in a Gambian village triggers a real-time negotiation between cousins on three continents. The <em>Fa</em>'s authority travels through a phone screen. The <em>Siinaa</em>'s obligations do not disappear because she lives in Paris. And <em>Sanankouya</em> has not just survived modernization — it has flourished. When a Mandinka migrant arrives in a foreign city and exchanges surnames with a stranger, they are potentially activating an 800-year-old peace treaty. The playful insult traded between two men at an immigration office in New York is the same covenant forged at the Battle of Kirina in 1235. The sentences you write this week describe a living system — one that operates across compounds, cities, continents, and phone screens simultaneously. Write with that in mind.</p>
+
+<h3>The Hidden Logic of Language</h3>
+
+<p>We often move through the world assuming that the basic architecture of human thought is universal. In the English-speaking world, objects are defined by static adjectives, events are linked by "and," and spelling is largely an arbitrary legacy we memorize. We take for granted that these building blocks are the only way to map human experience. The Mandinka language challenges these assumptions at their core. To study Mandinka is to realize that grammar is not merely a set of technical rules. It is a unique way of perceiving the flow of time, the nature of relationships, and the nuances of social position. Like a compound that looks simple from the road but reveals an intricate architecture of obligation, authority, and solidarity the moment you step inside — Mandinka rewards the learner who is willing to look closely.</p>
+
+<h4>Truth 1: "Is" Is Not One Thing — It Is Two</h4>
+
+<p>In English, "to be" does everything. It places you in a location, identifies who you are, and describes what you are like. Mandinka does not allow this ambiguity.</p>
+
+<table border="1" style="border-collapse: collapse; width: 100%;">
+<tr>
+<th style="padding: 6px; text-align: left;">Sense</th>
+<th style="padding: 6px; text-align: left;">Positive Marker</th>
+<th style="padding: 6px; text-align: left;">Negative Marker</th>
+</tr>
+<tr>
+<td style="padding: 6px;">Locational / Continuous — where someone is, or what they are doing</td>
+<td style="padding: 6px;">be</td>
+<td style="padding: 6px;">te</td>
+</tr>
+<tr>
+<td style="padding: 6px;">Identitive / Descriptive — who or what someone fundamentally is</td>
+<td style="padding: 6px;">mu</td>
+<td style="padding: 6px;">nte</td>
+</tr>
+</table>
+
+<p>This distinction is not a minor grammatical detail. In the kinship domain it is everything. <em>A be koridaa la</em> — she is in the compound. She happens to be there right now. <em>Kotoomaa le mu</em> — she is an elder sibling. That is what she is, permanently, regardless of where she stands. Mandinka insists you never confuse a person's position in the compound with their role in the family. The grammar enforces the distinction the culture already knows.</p>
+
+<h4>Truth 2: Mandinka Has Two Different Answers to "And"</h4>
+
+<p>You have a word you use for "and" every day. It feels completely natural. It is natural — because it has been part of your language your whole life. But it traveled in from outside. That is how living languages work. They borrow. That is not corruption. That is contact.</p>
+
+<p>Here is what Mandinka does natively.</p>
+
+<p>When you connect two things — bread and water, you and me, this bird and that one — Mandinka uses <em>aning</em> or <em>ning</em>. That is Mandinka. Use it when you are joining nouns, joining objects, joining people.</p>
+
+<ul>
+<li><em>doomaa aning koto</em> — younger sibling and elder sibling</li>
+<li><em>fa-o aning baa</em> — father and mother</li>
+</ul>
+
+<p>When you connect two events — he arrived, he spoke, he left — Mandinka does not use a word at all. It sequences. Watch what that looks like in a full sentence:</p>
+
+<p><em>A naa koridaa la, a ye fa-o soto, a taa.</em><br>
+He came to the compound, he found his father, he left.</p>
+
+<p>No "and" anywhere. Three events. One sequence. You can feel exactly where you would have reached for the borrowed word. Mandinka does not reach for it. The order carries the meaning.</p>
+
+<p>This is the rule: <em>aning</em> or <em>ning</em> for things. Sequence for events. When you write sentences in Mandinka do not reach for the borrowed word. Let one event follow another and trust the order to do the work.</p>
+
+<h4>Truth 3: "Old" and "Tired" Are Verbs, Not Adjectives</h4>
+
+<p>In English, adjectives are static. "Old" is a label fixed to a noun. In Mandinka, most of what English treats as adjectives are <em>descriptive verbs</em> — active states of being.</p>
+
+<ul>
+<li><em>sumayaa</em> — it is very cold (literally: to be cold)</li>
+<li><em>bataata</em> — I am tired (literally: to be tired)</li>
+<li><em>diyaata</em> — it is sweet</li>
+<li><em>warata</em> — it is big / strong</li>
+</ul>
+
+<p>In the kinship domain: <em>Bembaa-ta</em> — the ancestor has become ancestral. The elder has not simply grown old — they have entered the state of elderhood. The grandmother is not merely old — she is <em>doing</em> the work of being the root of the compound. Mandinka sees these as active, not passive. That is not just linguistic. It is a philosophy of aging and respect.</p>
+
+<h4>Truth 4: The Great Spelling Revolution — The Diphthong Is Dead</h4>
+
+<p>Modern Mandinka orthography eliminated diphthongs in favor of glide consonants that show the reader how the mouth actually moves:</p>
+
+<ul>
+<li><em>ai</em> becomes ayi</li>
+<li><em>ei</em> becomes eyi</li>
+<li><em>oi</em> becomes oyi</li>
+<li><em>ui</em> becomes uwo</li>
+</ul>
+
+<p>Vowel length follows the same logic of precision. <em>Baa</em> — mother. <em>Bǎa</em> — goat. One tone mark. The entire meaning changes. In a domain where you are writing about the most important people in your life, that precision is not optional.</p>
+
+<h4>Truth 5: One Suffix Does the Work of "The"</h4>
+
+<p>Mandinka achieves definiteness with a single suffix — -o — attached directly to the noun.</p>
+
+<ul>
+<li><em>bungo</em> — the house</li>
+<li><em>suu-tiyoo</em> — the compound owner</li>
+<li><em>saatee-tiyoo</em> — the village head</li>
+</ul>
+
+<p>In the kinship domain the -o suffix travels through the entire family structure. <em>Fa-o</em> — the father, this specific patriarch. <em>Kotoomaa-o</em> — the elder sibling, the one we are talking about. The suffix knows where it belongs — the way every person in the compound knows their position — not by accident, but by the logic of how the whole thing holds together.</p>
+
+<h4>Truth 6: The Word Order Is Inverted — And Tense Lives Outside the Verb</h4>
+
+<p>English follows Subject → Verb → Object. Mandinka follows Subject → Object → Verb. The verb anchors the end of every sentence — and must stay there.</p>
+
+<table border="1" style="border-collapse: collapse; width: 100%;">
+<tr>
+<th style="padding: 6px; text-align: left;">English (SVO)</th>
+<th style="padding: 6px; text-align: left;">Mandinka Logic (SOV)</th>
+</tr>
+<tr>
+<td style="padding: 6px;">The mother (S) is (V) old (O)</td>
+<td style="padding: 6px;">The ancient pillar (S) the compound (O) anchors (V) — <em>Baama-keba kabilo-o tangta</em></td>
+</tr>
+<tr>
+<td style="padding: 6px;">The elder (S) is (V) wise (O)</td>
+<td style="padding: 6px;">The elder (S) an ancient well (O) is (V) — <em>Moo-keeba kotoo ti</em></td>
+</tr>
+</table>
+
+<table border="1" style="border-collapse: collapse; width: 100%;">
+<tr>
+<th style="padding: 6px; text-align: left;">Time / Action</th>
+<th style="padding: 6px; text-align: left;">Positive Marker</th>
+<th style="padding: 6px; text-align: left;">Negative Marker</th>
+<th style="padding: 6px; text-align: left;">Example</th>
+</tr>
+<tr>
+<td style="padding: 6px;">Continuous / Future</td>
+<td style="padding: 6px;">be...la</td>
+<td style="padding: 6px;">te...la</td>
+<td style="padding: 6px;"><em>a be dǎahaa la</em> — he is resting</td>
+</tr>
+<tr>
+<td style="padding: 6px;">Continuous State</td>
+<td style="padding: 6px;">be...ring</td>
+<td style="padding: 6px;">te...ring</td>
+<td style="padding: 6px;"><em>a be sii-ring</em> — she is sitting</td>
+</tr>
+<tr>
+<td style="padding: 6px;">Habitual / Emphatic</td>
+<td style="padding: 6px;">ka</td>
+<td style="padding: 6px;">buka</td>
+<td style="padding: 6px;"><em>a ka naa</em> — he usually comes</td>
+</tr>
+<tr>
+<td style="padding: 6px;">Past (Intransitive)</td>
+<td style="padding: 6px;">...ta</td>
+<td style="padding: 6px;">mang (+ root)</td>
+<td style="padding: 6px;"><em>a bota</em> — he left</td>
+</tr>
+<tr>
+<td style="padding: 6px;">Past (Transitive)</td>
+<td style="padding: 6px;">ye</td>
+<td style="padding: 6px;">mang</td>
+<td style="padding: 6px;"><em>a ye daa soron</em> — he locked the door</td>
+</tr>
+<tr>
+<td style="padding: 6px;">Command</td>
+<td style="padding: 6px;">Root alone</td>
+<td style="padding: 6px;">kana</td>
+<td style="padding: 6px;"><em>taa!</em> — go! / <em>kana taa!</em> — don't go!</td>
+</tr>
+</table>
+
+<p>The verbs <em>naa</em> (come) and <em>taa</em> (go) do not take the <em>la</em> or <em>ring</em> markers. Memorize these early — they are the verbs of arrival and departure, and in the kinship domain, those moments matter enormously.</p>
+
+<h4>Truth 7: The Language Has a Grammar of Contempt</h4>
+
+<p>Mandinka has a specific suffix, -ding, that creates contemptuous forms of words. It is built from the same suffix that means "little" or "child" — <em>dindingo</em> (little child). To hold something in contempt is to make it small. The language encodes this as one gesture.</p>
+
+<ul>
+<li><em>sunkang</em> (to stink) → sunkanding (stinking person)</li>
+<li><em>kuntango</em> (headless) → kuntanding (stupid fool)</li>
+<li><em>barakantango</em> (without blessing) → barakantanding (accursed person)</li>
+</ul>
+
+<p>In the kinship domain this suffix carries particular weight. A compound that loses its sense of collective purpose — that forgets its obligations to its elders, its children, its visiting stranger — is doing a kind of <em>kuntanding</em>. It has become headless. Mandinka grammar has a word for that. It has always had a word for that.</p>
+
+<h3>Beyond Translation</h3>
+
+<p>The Mandinka language reminds us that translation is never a simple exchange of labels. To speak Mandinka is to adopt a different logic — one where relationships are permanent states encoded in <em>mu</em>, where elderhood is an active verb, where the compound's authority travels through a suffix, and where contempt and diminution are grammatically identical. Like a compound that reveals its full architecture only to those who live inside it, Mandinka reveals its depth gradually — truth by truth, suffix by suffix, one sentence written carefully and precisely for the first time. How much of your own understanding of family is shaped — or limited — by the grammar you use to describe it?</p>
+
+</td></tr>
+</table>
 
 ## **Your Task**
 
@@ -442,8 +1088,113 @@ Every children’s book has two audiences. The child experiences the story. The 
 
 **The Power of "Uniquely You"** Diversity of voice and perspective is what prevents the market from becoming a monolithic block of sameness. There is no singular "correct" formula for art; the most successful stories are those where the architect is unafraid to let their own unique style define the building's facade. Tell **your** story with your unique voice, for that is the only way to build a narrative that lives forever in a child's memory.
 
-| The Art of the Proverb In Mandinka, proverbs are called *sandi* (singular) or *sandigolu* (plural). They are the philosophical bedrock of Mandinka oral literature — compressed cultural truths, moral codes, and communal ethics packed into the smallest possible number of words. The *jelis* call a good proverb "shortness, sense, and salt." Shortness — because it must be brief enough to survive in memory. Sense — because it must carry real meaning, not decorative language. Salt — because it must sting slightly, the way truth always does. A *sandi* is not an opinion. It is not a personal observation. It is a piece of collective wisdom that has been compressed so tightly that it can travel across generations without losing its shape. When an elder reaches for a proverb in the middle of a dispute, they are not quoting themselves. They are invoking the accumulated judgment of every person who has ever faced the same situation and survived it. That is what you are building. One sentence at a time. The Three Structural Rules Every *sandi* follows three architectural rules. These are not suggestions. They are the structure that gives a proverb its ancestral authority — the difference between a wise sentence and a true proverb. Rule 1: Dual-Clause Parallelism A Mandinka proverb is almost always built in two balanced parts. The first part sets up a situation — usually drawn from the natural world, from domestic life, from the compound. The second part delivers the consequence, the contrast, or the lesson. *"Getting the hen into the chicken coop is the owner's responsibility, but life in the coop is the hen's responsibility."* Two parts. One sets up the situation. One delivers the truth. Neither works without the other. Rule 2: Absolute Brevity A proverb must use the absolute minimum number of words to produce the maximum weight of meaning. If you can remove a word and the proverb still works — remove it. If you can replace three words with one image — replace them. The compression is the power. *"An adult squatting sees farther than a child on top of a tree."* Not: "An adult who has lived a long life and has much experience will have a deeper understanding of situations than a young person who is physically elevated but lacks wisdom." That is the explanation. The proverb is the distillation. Rule 3: Syntactic Fixity A proverb must follow a recognized, fixed structural pattern. If the structure is altered — if the word order shifts, if the parallel breaks, if the image changes — it loses its ancestral authority. It becomes an observation, not a *sandi*. This is why the SOV rule matters here even more than in the grammar chapter. The verb must anchor the end of every clause. The structure must hold even when the image is reaching. The Three Social Rules Knowing how to build a proverb is only half the work. Knowing when and how to use it is the other half — and in Mandinka culture these rules are just as precise as the structural ones. Rule 1: The Rule of Indirection Direct criticism causes a loss of face — what the Mandinka call a kind of social death. A *sandi* must always address a behavior obliquely. The person being corrected understands the message. The crowd hears a general truth. No one is humiliated. No one loses face. This is captured in the Mandinka saying: *"The old man may not know the dishes intended for him, but he knows the words intended for him."* When you write a proverb, you are not writing about a specific person. You are writing about a situation that any person might recognize in themselves. Rule 2: The Rule of Conversational Economy A proverb loses its power when overused. One well-placed *sandi* in a conversation carries authority. Ten proverbs in a single argument sound like performance, not wisdom. The Mandinka rule is precise: *"It is better to talk about ten topics than to talk about one topic ten times."* Write one proverb that does everything. Not three that each do part of it. Rule 3: The Rule of Generational Authorization In traditional Mandinka culture, the active use of proverbs in dispute resolution is the social privilege of elders and *jalolu* — those who hold ancestral authority to deploy them. Children are taught to decode proverbs as a sign of intelligence. Students learn to build them as a creative and scholarly skill. You are writing proverbs as an author and a scholar. You are not yet deploying them as an elder. That is not a limitation — it is a position in a tradition that you are now part of. The Five Pillars — Applied to the Compound In the bird workbook, the Five Pillars were introduced as tools for lifting a literal observation into griot-quality language. They apply equally here — but in the kinship domain, they work differently. Term (Mandinka) English Equivalent In the Kinship Domain Taamandi Metaphor Carrying a family truth into a natural image — the compound becomes a tree, the elder becomes a well, the child becomes a seed Kono Rhythm The two-clause structure of a *sandi* creates its own pulse — feel where the balance falls Ku-kurun-noo Repetition The repeated structure of parallel clauses — the second clause echoes the first with a turn Jiyaa-baa Imagery Placing the listener inside the compound — the cooking fire, the courtyard, the gate, the harvest Fonoo Meter The compression of a *sandi* — every syllable earns its place The Journey of One Sentence — From Observation to Proverb We will take a single family truth and carry it all the way through — from the literal sentence you might have written in Chapter 3, through each stage of the proverb-making process, to a finished *sandi* with the structural weight and social purpose of the tradition. Follow each step. Then apply the same process to your own truth. Step 1 — The Literal Observation Start with something true and plain. Something you could say to anyone and they would understand it immediately — but would not remember it tomorrow. *"The compound belongs to the whole family."* It is accurate. It is flat. It states a fact without doing anything with it. A *jeli* would never stop here. Neither should you. Step 2 — Apply Taamandi — Find the Image Replace the literal with a picture. The compound is not just a compound — what does it do? What natural thing behaves the same way? What image from the world your elder knows would carry the same truth? The compound holds the family the way a tree holds its branches. Without the roots, the branches scatter. Without the trunk, there is no shade. *"The tree does not choose its branches — but without them it is only wood."* Now the compound has become a tree. The family has become branches. The relationship between them is no longer stated — it is shown. Step 3 — Apply Kono and the Dual-Clause Rule — Find the Balance A *sandi* needs two parts. The first sets up the natural world. The second delivers the human truth. Clap the rhythm of each clause. Feel where the balance falls. *"The tree does not choose its branches — but without them, it is only wood."* First clause: the tree does not choose. Second clause: without the branches, it loses its purpose. The balance holds. The rhythm is clean. Step 4 — Apply Absolute Brevity — Cut What Does Not Carry Weight Read it again. Remove every word that is not doing essential work. *"A tree does not choose its branches — but without them, it is only wood."* One word changed — "The" to "A." Now it is not this specific tree. It is every tree. It has become universal. That is the compression that gives a proverb its authority. Step 5 — Apply SOV Mapping — Hold the Structure In Mandinka, the verb anchors the end of every clause. Check both clauses. `[LITERAL]    →   "The compound belongs to the whole family." [POETIC]     →   "A tree does not choose its branches —                   but without them, it is only wood." [SOV CHECK]  →   Clause 1: [Tree] + [branches] + [chooses not]                   Clause 2: [It] + [wood only] + [becomes]` The verb is at the end of each clause. The structure holds. The image is alive and the architecture is sound. Step 6 — Apply the Rule of Indirection — Who Does This Speak To? A proverb that speaks to everyone speaks to no one in particular — and that is its power. Ask yourself: who in a compound might need to hear this? A child who resents their obligations to the family? A young person who wants to leave and not return? A patriarch who forgets that the compound only holds because everyone holds it together? The proverb does not name them. It does not point. It simply places a truth in the room and lets the person who needs it recognize themselves. That is *sandi*. That is what you are building. The Proverb Table — Decoding Before Building Before you write your own proverb, you must be able to decode the ones that already exist. This is the scholar's first task — understanding the structure before exercising the authority. For each proverb below, identify: the two clauses, the image used, the family or kinship truth it carries, and who in a compound might need to hear it. Proverb Two Clauses The Image The Family Truth Who Needs to Hear It "If a child has nine nannies and all the nannies have flaws, the child will also be flawed." "An adult squatting sees farther than a child on top of a tree." "Getting the hen into the chicken coop is the owner's responsibility, but life in the coop is the hen's responsibility." "If a corpse hides from those washing him, he will take his impurities to Judgment Day." "Regardless of the length of the monkey's tail, when you pinch it, it hurts." "Wash a loincloth in the evening, it will be clean, but it will not dry." "Even if your ripped pants allow you to stand, avoid sitting down with them." "The wild dog knows which plants to wipe its excrements on."  |
-| ----- |
+<table border="1" style="border-collapse: collapse; width: 100%;">
+<tr><th style="padding: 8px; background-color: #f2f2f2; text-align: left;">Step Up: The Art of the Proverb</th></tr>
+<tr><td style="padding: 12px;">
+
+<p>In Mandinka, proverbs are called <em>sandi</em> (singular) or <em>sandigolu</em> (plural). They are the philosophical bedrock of Mandinka oral literature — compressed cultural truths, moral codes, and communal ethics packed into the smallest possible number of words. The <em>jelis</em> call a good proverb "shortness, sense, and salt." Shortness — because it must be brief enough to survive in memory. Sense — because it must carry real meaning, not decorative language. Salt — because it must sting slightly, the way truth always does. A <em>sandi</em> is not an opinion. It is not a personal observation. It is a piece of collective wisdom that has been compressed so tightly that it can travel across generations without losing its shape. When an elder reaches for a proverb in the middle of a dispute, they are not quoting themselves. They are invoking the accumulated judgment of every person who has ever faced the same situation and survived it. That is what you are building. One sentence at a time.</p>
+
+<h3>The Three Structural Rules</h3>
+
+<p>Every <em>sandi</em> follows three architectural rules. These are not suggestions. They are the structure that gives a proverb its ancestral authority — the difference between a wise sentence and a true proverb.</p>
+
+<h4>Rule 1: Dual-Clause Parallelism</h4>
+
+<p>A Mandinka proverb is almost always built in two balanced parts. The first part sets up a situation — usually drawn from the natural world, from domestic life, from the compound. The second part delivers the consequence, the contrast, or the lesson. <em>"Getting the hen into the chicken coop is the owner's responsibility, but life in the coop is the hen's responsibility."</em> Two parts. One sets up the situation. One delivers the truth. Neither works without the other.</p>
+
+<h4>Rule 2: Absolute Brevity</h4>
+
+<p>A proverb must use the absolute minimum number of words to produce the maximum weight of meaning. If you can remove a word and the proverb still works — remove it. If you can replace three words with one image — replace them. The compression is the power. <em>"An adult squatting sees farther than a child on top of a tree."</em> Not: "An adult who has lived a long life and has much experience will have a deeper understanding of situations than a young person who is physically elevated but lacks wisdom." That is the explanation. The proverb is the distillation.</p>
+
+<h4>Rule 3: Syntactic Fixity</h4>
+
+<p>A proverb must follow a recognized, fixed structural pattern. If the structure is altered — if the word order shifts, if the parallel breaks, if the image changes — it loses its ancestral authority. It becomes an observation, not a <em>sandi</em>. This is why the SOV rule matters here even more than in the grammar chapter. The verb must anchor the end of every clause. The structure must hold even when the image is reaching.</p>
+
+<h3>The Three Social Rules</h3>
+
+<p>Knowing how to build a proverb is only half the work. Knowing when and how to use it is the other half — and in Mandinka culture these rules are just as precise as the structural ones.</p>
+
+<h4>Rule 1: The Rule of Indirection</h4>
+
+<p>Direct criticism causes a loss of face — what the Mandinka call a kind of social death. A <em>sandi</em> must always address a behavior obliquely. The person being corrected understands the message. The crowd hears a general truth. No one is humiliated. No one loses face. This is captured in the Mandinka saying: <em>"The old man may not know the dishes intended for him, but he knows the words intended for him."</em> When you write a proverb, you are not writing about a specific person. You are writing about a situation that any person might recognize in themselves.</p>
+
+<h4>Rule 2: The Rule of Conversational Economy</h4>
+
+<p>A proverb loses its power when overused. One well-placed <em>sandi</em> in a conversation carries authority. Ten proverbs in a single argument sound like performance, not wisdom. The Mandinka rule is precise: <em>"It is better to talk about ten topics than to talk about one topic ten times."</em> Write one proverb that does everything. Not three that each do part of it.</p>
+
+<h4>Rule 3: The Rule of Generational Authorization</h4>
+
+<p>In traditional Mandinka culture, the active use of proverbs in dispute resolution is the social privilege of elders and <em>jalolu</em> — those who hold ancestral authority to deploy them. Children are taught to decode proverbs as a sign of intelligence. Students learn to build them as a creative and scholarly skill. You are writing proverbs as an author and a scholar. You are not yet deploying them as an elder. That is not a limitation — it is a position in a tradition that you are now part of.</p>
+
+<h3>The Five Pillars — Applied to the Compound</h3>
+
+<p>In the bird workbook, the Five Pillars were introduced as tools for lifting a literal observation into griot-quality language. They apply equally here — but in the kinship domain, they work differently.</p>
+
+<table border="1" style="border-collapse: collapse; width: 100%;">
+<tr><th style="padding: 6px; text-align: left;">Term (Mandinka)</th><th style="padding: 6px; text-align: left;">English Equivalent</th><th style="padding: 6px; text-align: left;">In the Kinship Domain</th></tr>
+<tr><td style="padding: 6px;">Taamandi</td><td style="padding: 6px;">Metaphor</td><td style="padding: 6px;">Carrying a family truth into a natural image — the compound becomes a tree, the elder becomes a well, the child becomes a seed</td></tr>
+<tr><td style="padding: 6px;">Kono</td><td style="padding: 6px;">Rhythm</td><td style="padding: 6px;">The two-clause structure of a <em>sandi</em> creates its own pulse — feel where the balance falls</td></tr>
+<tr><td style="padding: 6px;">Ku-kurun-noo</td><td style="padding: 6px;">Repetition</td><td style="padding: 6px;">The repeated structure of parallel clauses — the second clause echoes the first with a turn</td></tr>
+<tr><td style="padding: 6px;">Jiyaa-baa</td><td style="padding: 6px;">Imagery</td><td style="padding: 6px;">Placing the listener inside the compound — the cooking fire, the courtyard, the gate, the harvest</td></tr>
+<tr><td style="padding: 6px;">Fonoo</td><td style="padding: 6px;">Meter</td><td style="padding: 6px;">The compression of a <em>sandi</em> — every syllable earns its place</td></tr>
+</table>
+
+<h3>The Journey of One Sentence — From Observation to Proverb</h3>
+
+<p>We will take a single family truth and carry it all the way through — from the literal sentence you might have written in Chapter 3, through each stage of the proverb-making process, to a finished <em>sandi</em> with the structural weight and social purpose of the tradition. Follow each step. Then apply the same process to your own truth.</p>
+
+<h4>Step 1 — The Literal Observation</h4>
+
+<p>Start with something true and plain. Something you could say to anyone and they would understand it immediately — but would not remember it tomorrow. <em>"The compound belongs to the whole family."</em> It is accurate. It is flat. It states a fact without doing anything with it. A <em>jeli</em> would never stop here. Neither should you.</p>
+
+<h4>Step 2 — Apply Taamandi — Find the Image</h4>
+
+<p>Replace the literal with a picture. The compound is not just a compound — what does it do? What natural thing behaves the same way? What image from the world your elder knows would carry the same truth? The compound holds the family the way a tree holds its branches. Without the roots, the branches scatter. Without the trunk, there is no shade. <em>"The tree does not choose its branches — but without them it is only wood."</em> Now the compound has become a tree. The family has become branches. The relationship between them is no longer stated — it is shown.</p>
+
+<h4>Step 3 — Apply Kono and the Dual-Clause Rule — Find the Balance</h4>
+
+<p>A <em>sandi</em> needs two parts. The first sets up the natural world. The second delivers the human truth. Clap the rhythm of each clause. Feel where the balance falls. <em>"The tree does not choose its branches — but without them, it is only wood."</em> First clause: the tree does not choose. Second clause: without the branches, it loses its purpose. The balance holds. The rhythm is clean.</p>
+
+<h4>Step 4 — Apply Absolute Brevity — Cut What Does Not Carry Weight</h4>
+
+<p>Read it again. Remove every word that is not doing essential work. <em>"A tree does not choose its branches — but without them, it is only wood."</em> One word changed — "The" to "A." Now it is not this specific tree. It is every tree. It has become universal. That is the compression that gives a proverb its authority.</p>
+
+<h4>Step 5 — Apply SOV Mapping — Hold the Structure</h4>
+
+<p>In Mandinka, the verb anchors the end of every clause. Check both clauses.</p>
+
+<pre style="white-space: pre-wrap; margin: 0;">[LITERAL]    →   "The compound belongs to the whole family."
+[POETIC]     →   "A tree does not choose its branches —
+                  but without them, it is only wood."
+[SOV CHECK]  →   Clause 1: [Tree] + [branches] + [chooses not]
+                  Clause 2: [It] + [wood only] + [becomes]</pre>
+
+<p>The verb is at the end of each clause. The structure holds. The image is alive and the architecture is sound.</p>
+
+<h4>Step 6 — Apply the Rule of Indirection — Who Does This Speak To?</h4>
+
+<p>A proverb that speaks to everyone speaks to no one in particular — and that is its power. Ask yourself: who in a compound might need to hear this? A child who resents their obligations to the family? A young person who wants to leave and not return? A patriarch who forgets that the compound only holds because everyone holds it together? The proverb does not name them. It does not point. It simply places a truth in the room and lets the person who needs it recognize themselves.</p>
+
+<p>That is <em>sandi</em>. That is what you are building.</p>
+
+<h3>The Proverb Table — Decoding Before Building</h3>
+
+<p>Before you write your own proverb, you must be able to decode the ones that already exist. This is the scholar's first task — understanding the structure before exercising the authority. For each proverb below, identify: the two clauses, the image used, the family or kinship truth it carries, and who in a compound might need to hear it.</p>
+
+<table border="1" style="border-collapse: collapse; width: 100%;">
+<tr><th style="padding: 6px; text-align: left;">Proverb</th><th style="padding: 6px; text-align: left;">Two Clauses</th><th style="padding: 6px; text-align: left;">The Image</th><th style="padding: 6px; text-align: left;">The Family Truth</th><th style="padding: 6px; text-align: left;">Who Needs to Hear It</th></tr>
+<tr><td style="padding: 6px;">"If a child has nine nannies and all the nannies have flaws, the child will also be flawed."</td><td style="padding: 6px;"></td><td style="padding: 6px;"></td><td style="padding: 6px;"></td><td style="padding: 6px;"></td></tr>
+<tr><td style="padding: 6px;">"An adult squatting sees farther than a child on top of a tree."</td><td style="padding: 6px;"></td><td style="padding: 6px;"></td><td style="padding: 6px;"></td><td style="padding: 6px;"></td></tr>
+<tr><td style="padding: 6px;">"Getting the hen into the chicken coop is the owner's responsibility, but life in the coop is the hen's responsibility."</td><td style="padding: 6px;"></td><td style="padding: 6px;"></td><td style="padding: 6px;"></td><td style="padding: 6px;"></td></tr>
+<tr><td style="padding: 6px;">"If a corpse hides from those washing him, he will take his impurities to Judgment Day."</td><td style="padding: 6px;"></td><td style="padding: 6px;"></td><td style="padding: 6px;"></td><td style="padding: 6px;"></td></tr>
+<tr><td style="padding: 6px;">"Regardless of the length of the monkey's tail, when you pinch it, it hurts."</td><td style="padding: 6px;"></td><td style="padding: 6px;"></td><td style="padding: 6px;"></td><td style="padding: 6px;"></td></tr>
+<tr><td style="padding: 6px;">"Wash a loincloth in the evening, it will be clean, but it will not dry."</td><td style="padding: 6px;"></td><td style="padding: 6px;"></td><td style="padding: 6px;"></td><td style="padding: 6px;"></td></tr>
+<tr><td style="padding: 6px;">"Even if your ripped pants allow you to stand, avoid sitting down with them."</td><td style="padding: 6px;"></td><td style="padding: 6px;"></td><td style="padding: 6px;"></td><td style="padding: 6px;"></td></tr>
+<tr><td style="padding: 6px;">"The wild dog knows which plants to wipe its excrements on."</td><td style="padding: 6px;"></td><td style="padding: 6px;"></td><td style="padding: 6px;"></td><td style="padding: 6px;"></td></tr>
+</table>
+
+</td></tr>
+</table>
 
 **Your Task**
 
@@ -499,8 +1250,56 @@ The simplest plot has five moments: Something begins. Something is wanted or nee
 
 Your domain and your culture. The plot of your book lives somewhere in the space between those two things. Where it lands is yours to discover.
 
-| Step Up: The Greatest Family Story Ever Told For nearly 800 years, Mandinka *jelis* have preserved the Epic of Sundiata — passing it down line by line, accompanied by the resonance of the *kora* or the beat of the *balafon*. To the outside world, it reads like a grand military adventure. To the Mandinka people, it is a textbook. Not a textbook about war. A textbook about family. Every major turning point in Sundiata's story is a kinship lesson. The *jelis* did not preserve this epic because it describes a great battle. They preserved it because it describes, with unflinching precision, what happens when family bonds hold — and what happens when they break. The Mother — *Badenya* and the Price of Loyalty When Sundiata is born, the kingdom is disappointed. He is weak, frail, unable to walk. For seven years he crawls through the dirt while his mother, Sogolon, bears the shame of the entire village. The king's first wife, Sassouma Bérété, mocks them both without mercy. Then one day Sassouma insults Sogolon in public — her son cannot even walk to the garden to pick baobab leaves. Sundiata, watching his mother weep, looks up and says simply: *"Mother, today I will walk."* He commands the royal blacksmiths to forge a massive iron rod. He grasps it. The effort is so immense the iron bends into a bow. And then he stands. He walks to a nearby baobab tree, pulls it from the earth by its roots, and lays it at his mother's feet. In Mandinka society, a mother's blessing — her *barka* — is the ultimate spiritual currency. Sundiata's greatness did not come from his father's royal blood alone. It was earned through his fierce, absolute loyalty to his mother and her profound endurance. The *jelis* teach this story to remind every generation: honor your mother. Not because she asks for it. Because your future depends on it. This is *badenya* — the bond between full siblings and between mother and child. It is the deepest kinship tie in the Mandinka world. It is solidarity, affection, and mutual aid that does not break under pressure. The Sister — The Spy Who Freed a Nation When the sorcerer-king Soumaoro Kanté conquers Mali, he takes Sundiata's sister, Nana Triban, as a prize of war — forcing her into his household as a captive. She could have survived by forgetting her brother. Many would have. Instead, she becomes the most important person in the liberation of Mali. Playing the role of the adoring, submissive companion, Nana Triban flatters Soumaoro with such skill and patience that he eventually lets his guard down and reveals his *tana* — his secret weakness. The white rooster spur. The one thing that can break his magic. She then escapes, taking the royal griot with her, and delivers the secret to Sundiata. No battle. No army. Just a sister's unbreakable loyalty to her brother, expressed through intelligence, patience, and courage that never announced itself. The *jelis* celebrate Nana Triban not as a victim who survived but as the brilliant strategist who made victory possible. Her story teaches that a sister's bond to her maternal brother is active, not passive. Even across enemy lines. Even after years of separation. The blood tie does not sleep. The Brothers — *Badingya* and the Danger of Jealousy Not all kinship stories in the epic are celebrations. Some are warnings. Dankaran Touman — Sundiata's half-brother, son of the king's first wife — spends the early part of the epic as an instrument of his mother's ambition. Sassouma Bérété uses the rivalry between the two boys, the tension between *badingya* (half-sibling relationships) and *badenya*, to drive Sundiata into exile and seize the throne for her son. But notice what Sundiata does when he returns victorious. He does not execute his brother. Dankaran Touman flees — and Sundiata lets him go. Because to tear apart the bloodline, even a damaged one, is to ruin the kingdom from the inside. The lesson is not that half-sibling rivalry is wrong. It is human. The lesson is that allowing it to become absolute — allowing jealousy to sever the family permanently — destroys more than it gains. Sundiata holds the line not out of weakness but out of understanding what the family costs to break. The Constitution of the Family — The Kouroukan Fouga After his victory at the Battle of Kirina in 1235, Sundiata did not simply declare himself emperor and rule by force. He gathered the clan leaders, allies, and *jelis* at a place called Kouroukan Fouga and established one of the earliest oral constitutions in human history. And a massive portion of its 44 edicts were about family. Not military strategy. Not taxation. Family. Because in the Mandinka worldview, a healthy empire is simply a collection of healthy families. Fix the family and you fix the kingdom. The *jelis* understood this. Sundiata understood this. The constitution proves it. On women: Edict 14 — *"Never offend women, our mothers."* Offending or dishonoring a woman was treated as a severe infraction against the moral order of the state. Edict 16 mandated that women could not be excluded from governance — they had to be consulted at all levels of social and political administration. In 1235\. On marriage: The bride-price was standardized across the entire empire — three cows, fixed, so that wealthy families could not buy marriages and poor families could not be priced out of building alliances. Marriage was a contract, not a transaction. On divorce: Divorce was legalized and could be initiated by either spouse — but only under specific, verifiable conditions. Impotence. Mental illness. Failure to provide food and shelter. Profound disrespect toward the parents-in-law. And crucially: *"The divorce should occur out of the village"* — keeping the dissolution of a marriage private, preserving the dignity of both lineages. On children: Edict 9 codified what we now call the African proverb *"It takes a village to raise a child."* Any elder in the village had the legal right and moral duty to guide, correct, and protect any child — not just their own. On succession: To prevent the civil wars that destroyed other empires, the law was precise: power moves laterally through brothers before dropping to the next generation. *"Never relinquish power to a son when one of his father's brothers is still alive."* UNESCO has officially inscribed the Kouroukan Fouga on the Representative List of the Intangible Cultural Heritage of Humanity — recognizing that West Africa codified fundamental human rights, gender inclusion, and family law protections nearly half a century before these concepts took firm root in Western constitutional history. Your ancestors wrote a constitution about family. It was recognized by the world as one of humanity's great achievements. That is what you are the inheritor of. From Epic to Proverb — How Big Stories Become Small Ones The Epic of Sundiata is vast. It crosses kingdoms and decades and generations. Most people cannot carry an epic in their daily life. But they can carry a sentence. This is what proverbs do. They compress the wisdom of the epic into something small enough to use in a moment — at a meal, during an argument, when a young person needs guidance and there is no time for a long story. *"The hunter in pursuit of an elephant does not stop to throw stones at birds."* — This is Sundiata's focus during exile, compressed into eleven words. Keep your eyes on the generational goal. Do not be drained by trivial distractions. *"If a child has nine nannies and all the nannies have flaws, the child will also be flawed."* — This is Edict 9 of the Kouroukan Fouga, compressed into a single image. Collective child-rearing requires collective alignment of values. A fractured environment produces a fractured child. *"If you go to a village and find your hosts screaming like hyenas, you must do the same."* — This is the principle of Sanankouya compressed into a lesson about humility. When you enter a new family compound — through marriage, through work, through circumstance — you do not impose your own ego. You observe. You adapt. You honor the local fabric. Every proverb you collect from your elders is the compressed residue of a story like Sundiata's. It may be a smaller story — a family dispute, a harvest crisis, a moment of betrayal or loyalty in your own compound. But it carries the same structure. A lesson learned through experience, distilled into language precise enough to survive for generations. That is what you are doing when you write proverbs. You are not collecting decorative sayings. You are collecting the compressed wisdom of your people's lived experience — the same work the *jelis* have always done, now in your hands, in written form, for the first time. The Modern Life of an Ancient System You might wonder what any of this has to do with your life in 2026\. Everything. The *Lu* still exists — you may live in one. The rules about who speaks first, who makes decisions, who is owed what — those did not come from nowhere. They came from centuries of people working out how to live together without destroying each other. The Sanankouya still functions — when a Traoré and a Keïta meet and trade insults and laugh, they are participating in a diplomatic system older than most countries currently in existence. The Kouroukan Fouga's principles still echo — in how marriages are negotiated, how children are corrected by neighbours, how elders are consulted before decisions are made. And the *jelis* are still performing the Epic of Sundiata — but fewer young people know its kinship lessons in the detail they once did. The story travels. The depth sometimes does not. Until someone writes it down. The diaspora Mandinka family in London, in New York, in Paris — their children are growing up in compounds that look nothing like the one in Busumbala. They hear fragments of the old system but not its logic. They know the rules but not the reasons. A book that explains the kinship architecture of Mandinka life — in Mandinka, written by Mandinka students, from knowledge gathered from Mandinka elders — is something those families cannot find anywhere right now. You are about to make it. |
-| :---- |
+<table border="1" style="border-collapse: collapse; width: 100%;">
+<tr><th style="padding: 8px; background-color: #f2f2f2; text-align: left;">Step Up: The Greatest Family Story Ever Told</th></tr>
+<tr><td style="padding: 12px;">
+
+<p>For nearly 800 years, Mandinka <em>jelis</em> have preserved the Epic of Sundiata — passing it down line by line, accompanied by the resonance of the <em>kora</em> or the beat of the <em>balafon</em>. To the outside world, it reads like a grand military adventure. To the Mandinka people, it is a textbook. Not a textbook about war. A textbook about family. Every major turning point in Sundiata's story is a kinship lesson. The <em>jelis</em> did not preserve this epic because it describes a great battle. They preserved it because it describes, with unflinching precision, what happens when family bonds hold — and what happens when they break.</p>
+
+<h3>The Mother — Badenya and the Price of Loyalty</h3>
+
+<p>When Sundiata is born, the kingdom is disappointed. He is weak, frail, unable to walk. For seven years he crawls through the dirt while his mother, Sogolon, bears the shame of the entire village. The king's first wife, Sassouma Bérété, mocks them both without mercy. Then one day Sassouma insults Sogolon in public — her son cannot even walk to the garden to pick baobab leaves. Sundiata, watching his mother weep, looks up and says simply: <em>"Mother, today I will walk."</em> He commands the royal blacksmiths to forge a massive iron rod. He grasps it. The effort is so immense the iron bends into a bow. And then he stands. He walks to a nearby baobab tree, pulls it from the earth by its roots, and lays it at his mother's feet. In Mandinka society, a mother's blessing — her <em>barka</em> — is the ultimate spiritual currency. Sundiata's greatness did not come from his father's royal blood alone. It was earned through his fierce, absolute loyalty to his mother and her profound endurance. The <em>jelis</em> teach this story to remind every generation: honor your mother. Not because she asks for it. Because your future depends on it. This is <em>badenya</em> — the bond between full siblings and between mother and child. It is the deepest kinship tie in the Mandinka world. It is solidarity, affection, and mutual aid that does not break under pressure.</p>
+
+<h3>The Sister — The Spy Who Freed a Nation</h3>
+
+<p>When the sorcerer-king Soumaoro Kanté conquers Mali, he takes Sundiata's sister, Nana Triban, as a prize of war — forcing her into his household as a captive. She could have survived by forgetting her brother. Many would have. Instead, she becomes the most important person in the liberation of Mali. Playing the role of the adoring, submissive companion, Nana Triban flatters Soumaoro with such skill and patience that he eventually lets his guard down and reveals his <em>tana</em> — his secret weakness. The white rooster spur. The one thing that can break his magic. She then escapes, taking the royal griot with her, and delivers the secret to Sundiata. No battle. No army. Just a sister's unbreakable loyalty to her brother, expressed through intelligence, patience, and courage that never announced itself. The <em>jelis</em> celebrate Nana Triban not as a victim who survived but as the brilliant strategist who made victory possible. Her story teaches that a sister's bond to her maternal brother is active, not passive. Even across enemy lines. Even after years of separation. The blood tie does not sleep.</p>
+
+<h3>The Brothers — Badingya and the Danger of Jealousy</h3>
+
+<p>Not all kinship stories in the epic are celebrations. Some are warnings. Dankaran Touman — Sundiata's half-brother, son of the king's first wife — spends the early part of the epic as an instrument of his mother's ambition. Sassouma Bérété uses the rivalry between the two boys, the tension between <em>badingya</em> (half-sibling relationships) and <em>badenya</em>, to drive Sundiata into exile and seize the throne for her son. But notice what Sundiata does when he returns victorious. He does not execute his brother. Dankaran Touman flees — and Sundiata lets him go. Because to tear apart the bloodline, even a damaged one, is to ruin the kingdom from the inside. The lesson is not that half-sibling rivalry is wrong. It is human. The lesson is that allowing it to become absolute — allowing jealousy to sever the family permanently — destroys more than it gains. Sundiata holds the line not out of weakness but out of understanding what the family costs to break.</p>
+
+<h3>The Constitution of the Family — The Kouroukan Fouga</h3>
+
+<p>After his victory at the Battle of Kirina in 1235, Sundiata did not simply declare himself emperor and rule by force. He gathered the clan leaders, allies, and <em>jelis</em> at a place called Kouroukan Fouga and established one of the earliest oral constitutions in human history. And a massive portion of its 44 edicts were about family. Not military strategy. Not taxation. Family. Because in the Mandinka worldview, a healthy empire is simply a collection of healthy families. Fix the family and you fix the kingdom. The <em>jelis</em> understood this. Sundiata understood this. The constitution proves it.</p>
+
+<ul>
+<li><strong>On women:</strong> Edict 14 — <em>"Never offend women, our mothers."</em> Offending or dishonoring a woman was treated as a severe infraction against the moral order of the state. Edict 16 mandated that women could not be excluded from governance — they had to be consulted at all levels of social and political administration. In 1235.</li>
+<li><strong>On marriage:</strong> The bride-price was standardized across the entire empire — three cows, fixed, so that wealthy families could not buy marriages and poor families could not be priced out of building alliances. Marriage was a contract, not a transaction.</li>
+<li><strong>On divorce:</strong> Divorce was legalized and could be initiated by either spouse — but only under specific, verifiable conditions. Impotence. Mental illness. Failure to provide food and shelter. Profound disrespect toward the parents-in-law. And crucially: <em>"The divorce should occur out of the village"</em> — keeping the dissolution of a marriage private, preserving the dignity of both lineages.</li>
+<li><strong>On children:</strong> Edict 9 codified what we now call the African proverb <em>"It takes a village to raise a child."</em> Any elder in the village had the legal right and moral duty to guide, correct, and protect any child — not just their own.</li>
+<li><strong>On succession:</strong> To prevent the civil wars that destroyed other empires, the law was precise: power moves laterally through brothers before dropping to the next generation. <em>"Never relinquish power to a son when one of his father's brothers is still alive."</em></li>
+</ul>
+
+<p>UNESCO has officially inscribed the Kouroukan Fouga on the Representative List of the Intangible Cultural Heritage of Humanity — recognizing that West Africa codified fundamental human rights, gender inclusion, and family law protections nearly half a century before these concepts took firm root in Western constitutional history. Your ancestors wrote a constitution about family. It was recognized by the world as one of humanity's great achievements. That is what you are the inheritor of.</p>
+
+<h3>From Epic to Proverb — How Big Stories Become Small Ones</h3>
+
+<p>The Epic of Sundiata is vast. It crosses kingdoms and decades and generations. Most people cannot carry an epic in their daily life. But they can carry a sentence. This is what proverbs do. They compress the wisdom of the epic into something small enough to use in a moment — at a meal, during an argument, when a young person needs guidance and there is no time for a long story.</p>
+
+<ul>
+<li><em>"The hunter in pursuit of an elephant does not stop to throw stones at birds."</em> — This is Sundiata's focus during exile, compressed into eleven words. Keep your eyes on the generational goal. Do not be drained by trivial distractions.</li>
+<li><em>"If a child has nine nannies and all the nannies have flaws, the child will also be flawed."</em> — This is Edict 9 of the Kouroukan Fouga, compressed into a single image. Collective child-rearing requires collective alignment of values. A fractured environment produces a fractured child.</li>
+<li><em>"If you go to a village and find your hosts screaming like hyenas, you must do the same."</em> — This is the principle of Sanankouya compressed into a lesson about humility. When you enter a new family compound — through marriage, through work, through circumstance — you do not impose your own ego. You observe. You adapt. You honor the local fabric.</li>
+</ul>
+
+<p>Every proverb you collect from your elders is the compressed residue of a story like Sundiata's. It may be a smaller story — a family dispute, a harvest crisis, a moment of betrayal or loyalty in your own compound. But it carries the same structure. A lesson learned through experience, distilled into language precise enough to survive for generations. That is what you are doing when you write proverbs. You are not collecting decorative sayings. You are collecting the compressed wisdom of your people's lived experience — the same work the <em>jelis</em> have always done, now in your hands, in written form, for the first time.</p>
+
+<h3>The Modern Life of an Ancient System</h3>
+
+<p>You might wonder what any of this has to do with your life in 2026. Everything. The <em>Lu</em> still exists — you may live in one. The rules about who speaks first, who makes decisions, who is owed what — those did not come from nowhere. They came from centuries of people working out how to live together without destroying each other. The Sanankouya still functions — when a Traoré and a Keïta meet and trade insults and laugh, they are participating in a diplomatic system older than most countries currently in existence. The Kouroukan Fouga's principles still echo — in how marriages are negotiated, how children are corrected by neighbours, how elders are consulted before decisions are made. And the <em>jelis</em> are still performing the Epic of Sundiata — but fewer young people know its kinship lessons in the detail they once did. The story travels. The depth sometimes does not. Until someone writes it down. The diaspora Mandinka family in London, in New York, in Paris — their children are growing up in compounds that look nothing like the one in Busumbala. They hear fragments of the old system but not its logic. They know the rules but not the reasons. A book that explains the kinship architecture of Mandinka life — in Mandinka, written by Mandinka students, from knowledge gathered from Mandinka elders — is something those families cannot find anywhere right now. You are about to make it.</p>
+
+</td></tr>
+</table>
 
 **Your Task**
 
@@ -541,7 +1340,7 @@ The story must address at least one life problem — a human situation that the 
 
 **Life problem examples:** patience, courage, family care, community belonging, handling loss, reading the land, knowing your place, facing danger, learning. Remember just learning the names of things was once a life problem.
 
-**Action:** List the life problems you wish to talk about in the order your group agreed. Write a brief description, the bird and the page number.
+**Action:** List the life problems you wish to talk about in the order your group agreed. Write a brief description, the proverb and the page number.
 
 |                        Life Problem |  | Page |
 | ----- | ----- | ----- |
@@ -590,8 +1389,92 @@ Before you ask any of the specific questions above, start here. Ask it of every 
 
 The answer will tell you more about how that person understands the relationship between ancient law and modern life than any structured question could. Follow it wherever it goes.
 
-| Step Up: Elders and The Living Law In Week 1 of this program you signed a consent form. You may have thought of it as paperwork. A formality. Something the program needed before you could begin. Look at it again. That form told you exactly what would happen to your work, who would have access to it, what rights you retained, what permissions you were granting, and what you could withdraw at any time. It told you that your name, your recordings, and your words belonged to you — not to your school, not to AI West Africa, not to anyone else — and that no one could publish, license, or sell your work without a separate written agreement that you had the right to refuse. That is not paperwork. That is a legal instrument. And the principles behind it — informed consent, the right to dignity, the protection of personal property, the legal standing of an agreement made between two parties — those principles were codified in West Africa in 1235\. The Kouroukan Fouga established that a person's labor could be separated from their inherent human dignity. It established that agreements required transparency. It established that no one could acquire another person's goods or work except through buying, donation, exchange, work, or inheritance — anything else was legally treated as fraud. You understood those principles when you signed your form. You may not have known their history. Now you do. And now you are going to meet the people who still carry that history — not in books, but in memory, in practice, and in the way they resolve disputes in compounds across The Gambia every single week. The Architecture of Belonging Mandinka society is built in concentric circles, each one expanding the ring of people who are responsible for you and to whom you are responsible. At the center is the Lu — the compound. The extended family unit living together, led by the *Fa*, the patriarch who manages the physical, spiritual, and economic wellbeing of the collective. The Lu is not just a place to sleep. It is the first government you ever knew. Around the Lu is the Dugu — the village. Multiple Lu grouped together, guided by the *dugu-tigi*, the village chief, traditionally chosen from the lineage of the first family to settle the land. The village is not an accident of geography. It is a kinship decision. Beyond the Dugu are the clan lineages — the surnames that carry history. *Keïta* or *Camara* speaks to political nobility. *Kouyaté* or *Diabaté* places you in the sacred lineage of the *jeli*. A Mandinka surname is not just a name. It is a position in a story that began before you were born and will continue after you are gone. And holding all of it together — preventing the friction that comes from people living in such close, permanent proximity — is one of the most elegant social inventions in human history. Sanankouya — The Joking Covenant Imagine a system where two clans are legally, spiritually, and socially required to tease each other — to trade insults, mock each other's cooking, call each other names in public — but are absolutely forbidden from ever drawing blood against one another. This is Sanankouya. Joking kinship. And it is not a joke. Established during the 13th century Mali Empire under Sundiata Keïta, Sanankouya is a sacred covenant between specific clans that transforms potential conflict into laughter. When a Traoré meets a Keïta, they do not need a mediator or a court. They have something older and more effective — a culturally mandated relationship that defuses tension before it can become violence. The story of how it was forged tells you everything about what it means. During Sundiata's war against Soumaoro Kanté, his army was starving. A Traoré clan leader went out to hunt and brought back meat that fed Sundiata's Keïta soldiers, saving them from collapse. To honor this debt without creating a permanent relationship of master and servant — which would have been its own source of future conflict — they entered a sacred covenant instead. From that day forward, a Traoré and a Keïta could insult each other freely in public. But they were spiritually forbidden from ever becoming enemies. The Mandinka solved the problem of human conflict not by suppressing it but by redirecting it. Laughter instead of blood. Covenant instead of hierarchy. That is not a primitive custom. That is sophisticated statecraft — and it is still alive in the compounds of The Gambia today. The Legal Ecosystem Around You The Gambia operates under three legal systems simultaneously. Depending on who you are, where you live, and what the dispute involves, your family life is governed by entirely different courts, different philosophies, and different people. Statutory Law — inherited from British colonial rule, governing civil and Christian marriages, heard in Magistrate Courts and the High Court. Sharia Law — governing the vast majority of family matters for The Gambia's Muslim population, administered through specialized Cadi Courts where Islamic scholars apply jurisprudence to marriage, divorce, and inheritance. Customary Law — the unwritten law of indigenous ethnic groups including the Mandinka, administered through District Tribunals and village elders, relying on traditional structures like the Lu and mechanisms like community mediation. Three systems. Operating at the same time. On the same families. Sometimes on the same dispute. When a family faces a crisis — a divorce, an inheritance conflict, a child custody question, a land dispute between brothers — they make a choice about which system to approach. That choice is not simple. A woman seeking divorce in a civil court is guaranteed gender equality under statutory law. The same woman in a Cadi Court operates under Islamic jurisprudence. The same woman before a District Tribunal operates under customary Mandinka law. The outcome may be different in each. This is not a problem waiting to be fixed. It is a living system — one that has been negotiating between 13th century ancestral values and 21st century global human rights standards every single day for decades. And it generates work. Constant, necessary, skilled work — for people who understand all three systems and can move between them. The Economic Ecosystem of Family Law When people think about law as a career they think about lawyers — years of university, expensive qualifications, courtrooms. That is one path. But the legal ecosystem is vastly wider than that, and most of the work inside it does not require a law degree. Think about what three simultaneous legal systems actually need to function: In the Cadi Courts — Arabic-Mandinka translators. Court clerks. Document scribes. Case administrators. Interpreters who can explain Islamic inheritance rules to a Mandinka family in terms they recognize from their own customary tradition. In the District Tribunals — Community mediators. Customary law researchers. Genealogy specialists who can establish which family originally settled a piece of land and therefore who holds rightful claim under customary succession rules. Elders who serve on mediation panels. In the statutory courts — Legal aid workers. Paralegals. Family advocates who accompany women and children through processes that are conducted in English, in formal legal language, in institutions that can feel entirely foreign to someone from a rural Mandinka compound. Across all three — Document translators. Legal literacy educators who help families understand which system applies to their situation and what their rights are in each. Community advocates. Family counselors. Notaries. Genealogical researchers who establish lineage for inheritance claims. And underneath all of it — people who understand Mandinka kinship deeply enough to explain the Lu to a statutory court, or explain the Kouroukan Fouga to a young person who thinks their only rights are the ones written in the 1997 Constitution. That knowledge lives in your elders. And right now it is not written down anywhere that a District Tribunal clerk could find it, that a legal aid worker could reference it, or that a young Mandinka woman navigating a Cadi Court could use to understand her own rights. That is what you are building. What Your Elders Still Carry The formal legal systems have courts, clerks, and records. Customary law has elders. And the elders carry something no court document contains — the living memory of how the Kouroukan Fouga actually worked, how Sanankouya prevents disputes from becoming bloodshed, how the mediation protocols of the Lu have resolved family conflicts for centuries without a single lawyer in the room. In Mandinka society knowledge is highly specialized. Different elders hold completely different libraries of information based on their inherited social role. To build a complete picture of Mandinka kinship law you need to speak with people who hold different layers of that knowledge. The Jelilu — The Griots The *jelilu* are the literal custodians of the Epic of Sundiata and the Kouroukan Fouga. They spend their lives memorizing the precise wording of ancient histories, genealogies, and legal codes. Look for elders carrying historic surnames — Kouyaté, Diabaté, Dioubaté, Sissoko. What they hold: The grand legal history. The edicts. The stories behind the principles. The genealogies that establish who is related to whom and therefore what obligations and rights flow between families. What to ask: *"How do the stories of Sundiata's family teach us to handle conflicts between siblings or relatives today?" "Can you tell me the edicts of the Manden Charter regarding the rights of mothers? How are those rights understood in our community now?" "When a jeli sings the praise song of a family, what legal obligations does that family carry? What does the song say they owe to the community?"* The Dugu-Tigi and Council Elders — Village Chiefs and Mediators The *dugu-tigi* knows how the law actually touches the earth on an ordinary morning. They are the supreme mediators of family disputes, land allocations, and local marital negotiations — the people a family approaches before they ever consider a formal court. What they hold: The practical application of customary law. The mediation protocols. The knowledge of which disputes can be resolved within the compound and which require the District Tribunal. The memory of how specific disputes were resolved and what precedents those resolutions set. What to ask: *"When a family compound has a major internal dispute — over land, over inheritance, over a marriage — what is the first step in the mediation process? Who speaks first and why?" "What happens when customary law and Sharia law give different answers to the same family dispute? Who decides which system applies?" "What does a young person need to understand about customary law before they can be useful in a District Tribunal or community mediation?"* The Eldest Women of the Lu — The Matriarchs While men hold the public titles, the senior women of the compound wield immense internal authority over the family fabric. They are the direct guardians of rites of passage, early childhood education, and the hidden emotional framework of *badenya* — the solidarity between mother and child, between full siblings, between the branches of a family that must somehow continue to live together after a conflict. What they hold: The interior law of the compound. The unwritten protocols that govern how co-wives negotiate space and resources. How the *barka* — a mother's blessing — functions as spiritual and social currency. How women have historically exercised authority within systems that did not always formally recognize it. What to ask: *"When there is a conflict between two branches of the family — between co-wives, between half-siblings — how is it resolved before it reaches the elders? What happens first, inside the compound?" "The Kouroukan Fouga said women must be included in all levels of governance. How has that principle survived in the compound, even when the formal systems did not honor it?" "What does a young woman need to know about her rights — in customary law, in Sharia, in statutory law — before she enters a marriage? What do you wish someone had told you?"* The Donsolu — The Hunter Brotherhood Elders Long before the Mali Empire, the Manding world was organized around hunter brotherhoods. These elders possess a deeply philosophical understanding of human character, obligation, and the ethics of protection — the duty of the strong toward the vulnerable, the rules of reciprocal obligation, the boundaries that must never be crossed. What they hold: The pre-Islamic philosophical foundation of Mandinka ethics. The esoteric understanding of *nyama* — the life force — as it applies to human relationships and obligations. The ancient codes of conduct that predate both Sharia and statutory law and still inform how Mandinka people understand duty, loyalty, and protection. What to ask: *"What do the ancient hunting codes teach about a man's obligation to protect his family? How does that obligation change as the family grows larger?" "Are there situations where customary law and the hunter's code give different guidance? Which takes precedence, and how is that decided?" "What is the difference between a man who follows the law because he fears punishment, and a man who follows it because he understands why it exists?"* The knowledge your elders carry about Mandinka kinship law is not just culturally significant. It is professionally valuable — right now, in The Gambia, in the courts and tribunals and mediation rooms that handle family disputes every day. A paralegal who understands the Kouroukan Fouga's inheritance edicts can explain to a family why the customary rule and the Sharia rule give different outcomes — and help them understand which system applies to their situation. A community mediator who knows the Lu's internal protocols can resolve a compound dispute before it reaches a District Tribunal — saving the family money, time, and public exposure. A Cadi court clerk who speaks fluent Mandinka and understands the kinship terminology can serve families who would otherwise navigate that system without comprehension. A legal literacy educator who can explain — in Mandinka, in terms rooted in the Kouroukan Fouga — what the Children's Act of 2005 means for a rural family, what the Women's Act of 2010 changed, what rights a person has in each of the three legal systems — that person is needed in every district of this country. None of those roles require a law degree. All of them require exactly what you are building right now — deep, documented, precise knowledge of Mandinka kinship, its history, its principles, and the language in which it lives. The elder you visit this week holds that knowledge. Your job is to receive it carefully, document it honestly, and add your own voice to it. That is not a school project. That is the beginning of a career. |
-| :---- |
+<table border="1" style="border-collapse: collapse; width: 100%;">
+<tr><th style="padding: 8px; background-color: #f2f2f2; text-align: left;">Step Up: Elders and The Living Law</th></tr>
+<tr><td style="padding: 12px;">
+
+<p>In Week 1 of this program you signed a consent form. You may have thought of it as paperwork. A formality. Something the program needed before you could begin. Look at it again. That form told you exactly what would happen to your work, who would have access to it, what rights you retained, what permissions you were granting, and what you could withdraw at any time. It told you that your name, your recordings, and your words belonged to you — not to your school, not to AI West Africa, not to anyone else — and that no one could publish, license, or sell your work without a separate written agreement that you had the right to refuse. That is not paperwork. That is a legal instrument. And the principles behind it — informed consent, the right to dignity, the protection of personal property, the legal standing of an agreement made between two parties — those principles were codified in West Africa in 1235. The Kouroukan Fouga established that a person's labor could be separated from their inherent human dignity. It established that agreements required transparency. It established that no one could acquire another person's goods or work except through buying, donation, exchange, work, or inheritance — anything else was legally treated as fraud. You understood those principles when you signed your form. You may not have known their history. Now you do. And now you are going to meet the people who still carry that history — not in books, but in memory, in practice, and in the way they resolve disputes in compounds across The Gambia every single week.</p>
+
+<h3>The Architecture of Belonging</h3>
+
+<p>Mandinka society is built in concentric circles, each one expanding the ring of people who are responsible for you and to whom you are responsible. At the center is the Lu — the compound. The extended family unit living together, led by the <em>Fa</em>, the patriarch who manages the physical, spiritual, and economic wellbeing of the collective. The Lu is not just a place to sleep. It is the first government you ever knew. Around the Lu is the Dugu — the village. Multiple Lu grouped together, guided by the <em>dugu-tigi</em>, the village chief, traditionally chosen from the lineage of the first family to settle the land. The village is not an accident of geography. It is a kinship decision. Beyond the Dugu are the clan lineages — the surnames that carry history. <em>Keïta</em> or <em>Camara</em> speaks to political nobility. <em>Kouyaté</em> or <em>Diabaté</em> places you in the sacred lineage of the <em>jeli</em>. A Mandinka surname is not just a name. It is a position in a story that began before you were born and will continue after you are gone. And holding all of it together — preventing the friction that comes from people living in such close, permanent proximity — is one of the most elegant social inventions in human history.</p>
+
+<h3>Sanankouya — The Joking Covenant</h3>
+
+<p>Imagine a system where two clans are legally, spiritually, and socially required to tease each other — to trade insults, mock each other's cooking, call each other names in public — but are absolutely forbidden from ever drawing blood against one another. This is Sanankouya. Joking kinship. And it is not a joke. Established during the 13th century Mali Empire under Sundiata Keïta, Sanankouya is a sacred covenant between specific clans that transforms potential conflict into laughter. When a Traoré meets a Keïta, they do not need a mediator or a court. They have something older and more effective — a culturally mandated relationship that defuses tension before it can become violence. The story of how it was forged tells you everything about what it means. During Sundiata's war against Soumaoro Kanté, his army was starving. A Traoré clan leader went out to hunt and brought back meat that fed Sundiata's Keïta soldiers, saving them from collapse. To honor this debt without creating a permanent relationship of master and servant — which would have been its own source of future conflict — they entered a sacred covenant instead. From that day forward, a Traoré and a Keïta could insult each other freely in public. But they were spiritually forbidden from ever becoming enemies. The Mandinka solved the problem of human conflict not by suppressing it but by redirecting it. Laughter instead of blood. Covenant instead of hierarchy. That is not a primitive custom. That is sophisticated statecraft — and it is still alive in the compounds of The Gambia today.</p>
+
+<h3>The Legal Ecosystem Around You</h3>
+
+<p>The Gambia operates under three legal systems simultaneously. Depending on who you are, where you live, and what the dispute involves, your family life is governed by entirely different courts, different philosophies, and different people.</p>
+
+<ul>
+<li><strong>Statutory Law —</strong> inherited from British colonial rule, governing civil and Christian marriages, heard in Magistrate Courts and the High Court.</li>
+<li><strong>Sharia Law —</strong> governing the vast majority of family matters for The Gambia's Muslim population, administered through specialized Cadi Courts where Islamic scholars apply jurisprudence to marriage, divorce, and inheritance.</li>
+<li><strong>Customary Law —</strong> the unwritten law of indigenous ethnic groups including the Mandinka, administered through District Tribunals and village elders, relying on traditional structures like the Lu and mechanisms like community mediation.</li>
+</ul>
+
+<p>Three systems. Operating at the same time. On the same families. Sometimes on the same dispute. When a family faces a crisis — a divorce, an inheritance conflict, a child custody question, a land dispute between brothers — they make a choice about which system to approach. That choice is not simple. A woman seeking divorce in a civil court is guaranteed gender equality under statutory law. The same woman in a Cadi Court operates under Islamic jurisprudence. The same woman before a District Tribunal operates under customary Mandinka law. The outcome may be different in each. This is not a problem waiting to be fixed. It is a living system — one that has been negotiating between 13th century ancestral values and 21st century global human rights standards every single day for decades. And it generates work. Constant, necessary, skilled work — for people who understand all three systems and can move between them.</p>
+
+<h3>The Economic Ecosystem of Family Law</h3>
+
+<p>When people think about law as a career they think about lawyers — years of university, expensive qualifications, courtrooms. That is one path. But the legal ecosystem is vastly wider than that, and most of the work inside it does not require a law degree. Think about what three simultaneous legal systems actually need to function: In the Cadi Courts — Arabic-Mandinka translators. Court clerks. Document scribes. Case administrators. Interpreters who can explain Islamic inheritance rules to a Mandinka family in terms they recognize from their own customary tradition. In the District Tribunals — Community mediators. Customary law researchers. Genealogy specialists who can establish which family originally settled a piece of land and therefore who holds rightful claim under customary succession rules. Elders who serve on mediation panels. In the statutory courts — Legal aid workers. Paralegals. Family advocates who accompany women and children through processes that are conducted in English, in formal legal language, in institutions that can feel entirely foreign to someone from a rural Mandinka compound. Across all three — Document translators. Legal literacy educators who help families understand which system applies to their situation and what their rights are in each. Community advocates. Family counselors. Notaries. Genealogical researchers who establish lineage for inheritance claims. And underneath all of it — people who understand Mandinka kinship deeply enough to explain the Lu to a statutory court, or explain the Kouroukan Fouga to a young person who thinks their only rights are the ones written in the 1997 Constitution. That knowledge lives in your elders. And right now it is not written down anywhere that a District Tribunal clerk could find it, that a legal aid worker could reference it, or that a young Mandinka woman navigating a Cadi Court could use to understand her own rights. That is what you are building.</p>
+
+<h3>What Your Elders Still Carry</h3>
+
+<p>The formal legal systems have courts, clerks, and records. Customary law has elders. And the elders carry something no court document contains — the living memory of how the Kouroukan Fouga actually worked, how Sanankouya prevents disputes from becoming bloodshed, how the mediation protocols of the Lu have resolved family conflicts for centuries without a single lawyer in the room. In Mandinka society knowledge is highly specialized. Different elders hold completely different libraries of information based on their inherited social role. To build a complete picture of Mandinka kinship law you need to speak with people who hold different layers of that knowledge.</p>
+
+<h4>The Jelilu — The Griots</h4>
+
+<p>The <em>jelilu</em> are the literal custodians of the Epic of Sundiata and the Kouroukan Fouga. They spend their lives memorizing the precise wording of ancient histories, genealogies, and legal codes. Look for elders carrying historic surnames — Kouyaté, Diabaté, Dioubaté, Sissoko.</p>
+
+<p><strong>What they hold:</strong> The grand legal history. The edicts. The stories behind the principles. The genealogies that establish who is related to whom and therefore what obligations and rights flow between families.</p>
+
+<ul>
+<li><em>"How do the stories of Sundiata's family teach us to handle conflicts between siblings or relatives today?"</em></li>
+<li><em>"Can you tell me the edicts of the Manden Charter regarding the rights of mothers? How are those rights understood in our community now?"</em></li>
+<li><em>"When a jeli sings the praise song of a family, what legal obligations does that family carry? What does the song say they owe to the community?"</em></li>
+</ul>
+
+<h4>The Dugu-Tigi and Council Elders — Village Chiefs and Mediators</h4>
+
+<p>The <em>dugu-tigi</em> knows how the law actually touches the earth on an ordinary morning. They are the supreme mediators of family disputes, land allocations, and local marital negotiations — the people a family approaches before they ever consider a formal court.</p>
+
+<p><strong>What they hold:</strong> The practical application of customary law. The mediation protocols. The knowledge of which disputes can be resolved within the compound and which require the District Tribunal. The memory of how specific disputes were resolved and what precedents those resolutions set.</p>
+
+<ul>
+<li><em>"When a family compound has a major internal dispute — over land, over inheritance, over a marriage — what is the first step in the mediation process? Who speaks first and why?"</em></li>
+<li><em>"What happens when customary law and Sharia law give different answers to the same family dispute? Who decides which system applies?"</em></li>
+<li><em>"What does a young person need to understand about customary law before they can be useful in a District Tribunal or community mediation?"</em></li>
+</ul>
+
+<h4>The Eldest Women of the Lu — The Matriarchs</h4>
+
+<p>While men hold the public titles, the senior women of the compound wield immense internal authority over the family fabric. They are the direct guardians of rites of passage, early childhood education, and the hidden emotional framework of <em>badenya</em> — the solidarity between mother and child, between full siblings, between the branches of a family that must somehow continue to live together after a conflict.</p>
+
+<p><strong>What they hold:</strong> The interior law of the compound. The unwritten protocols that govern how co-wives negotiate space and resources. How the <em>barka</em> — a mother's blessing — functions as spiritual and social currency. How women have historically exercised authority within systems that did not always formally recognize it.</p>
+
+<ul>
+<li><em>"When there is a conflict between two branches of the family — between co-wives, between half-siblings — how is it resolved before it reaches the elders? What happens first, inside the compound?"</em></li>
+<li><em>"The Kouroukan Fouga said women must be included in all levels of governance. How has that principle survived in the compound, even when the formal systems did not honor it?"</em></li>
+<li><em>"What does a young woman need to know about her rights — in customary law, in Sharia, in statutory law — before she enters a marriage? What do you wish someone had told you?"</em></li>
+</ul>
+
+<h4>The Donsolu — The Hunter Brotherhood Elders</h4>
+
+<p>Long before the Mali Empire, the Manding world was organized around hunter brotherhoods. These elders possess a deeply philosophical understanding of human character, obligation, and the ethics of protection — the duty of the strong toward the vulnerable, the rules of reciprocal obligation, the boundaries that must never be crossed.</p>
+
+<p><strong>What they hold:</strong> The pre-Islamic philosophical foundation of Mandinka ethics. The esoteric understanding of <em>nyama</em> — the life force — as it applies to human relationships and obligations. The ancient codes of conduct that predate both Sharia and statutory law and still inform how Mandinka people understand duty, loyalty, and protection.</p>
+
+<ul>
+<li><em>"What do the ancient hunting codes teach about a man's obligation to protect his family? How does that obligation change as the family grows larger?"</em></li>
+<li><em>"Are there situations where customary law and the hunter's code give different guidance? Which takes precedence, and how is that decided?"</em></li>
+<li><em>"What is the difference between a man who follows the law because he fears punishment, and a man who follows it because he understands why it exists?"</em></li>
+</ul>
+
+<p>The knowledge your elders carry about Mandinka kinship law is not just culturally significant. It is professionally valuable — right now, in The Gambia, in the courts and tribunals and mediation rooms that handle family disputes every day. A paralegal who understands the Kouroukan Fouga's inheritance edicts can explain to a family why the customary rule and the Sharia rule give different outcomes — and help them understand which system applies to their situation. A community mediator who knows the Lu's internal protocols can resolve a compound dispute before it reaches a District Tribunal — saving the family money, time, and public exposure. A Cadi court clerk who speaks fluent Mandinka and understands the kinship terminology can serve families who would otherwise navigate that system without comprehension. A legal literacy educator who can explain — in Mandinka, in terms rooted in the Kouroukan Fouga — what the Children's Act of 2005 means for a rural family, what the Women's Act of 2010 changed, what rights a person has in each of the three legal systems — that person is needed in every district of this country. None of those roles require a law degree. All of them require exactly what you are building right now — deep, documented, precise knowledge of Mandinka kinship, its history, its principles, and the language in which it lives. The elder you visit this week holds that knowledge. Your job is to receive it carefully, document it honestly, and add your own voice to it. That is not a school project. That is the beginning of a career.</p>
+
+</td></tr>
+</table>
 
 ## **Your Task**
 
@@ -673,7 +1556,7 @@ Learn these terms before you begin. Use them in your editing sessions, your grou
 
 Before finalization, conduct the final **Knowledge Exchange** and confirm approval from all contributing elders and community members for classroom publishing, archival deposit, and student attribution. Record the name of every contributor who gave permission for their knowledge to appear in a published work.
 
-### **2\. Inside Front — Publishing Information and Attribution Statement**
+## **Legal & Copyright Notice**
 
 This page carries the legal and ethical identity of the book. Copy this template and fill in every blank.
 
@@ -695,7 +1578,7 @@ You are not the illustrator. But you are responsible for telling the illustrator
 
 **Illustration Brief Template:**
 
-**Chapter:** \[Number and title\] **Proverb:** \[Mandinka text\] **Scene:** \[One clear paragraph. Include: location, time of day, what the bird is doing, what the human figure (if any) is doing, and what feeling the image should carry.\] **Do not include:** \[List anything that must NOT appear — sacred symbols, restricted knowledge, anything the community said should not be reproduced visually.\] **Color or mood:** \[One sentence — warm morning light, dry season dust, cool riverbank, etc.\]
+**Chapter:** \[Number and title\] **Proverb:** \[Mandinka text\] **Scene:** \[One clear paragraph. Include: location, time of day, what the scene depicts, what the human figure (if any) is doing, and what feeling the image should carry.\] **Do not include:** \[List anything that must NOT appear — sacred symbols, restricted knowledge, anything the community said should not be reproduced visually.\] **Color or mood:** \[One sentence — warm morning light, dry season dust, cool riverbank, etc.\]
 
 ### **6\. Back Cover**
 
@@ -749,11 +1632,36 @@ Before the book is submitted, your group presents the work aloud. Your audience 
 
 **Structure (10–15 minutes):**
 
-1. **What we studied** — name the domain, the bird knowledge you focused on, and why it matters.  
+1. **What we studied** — name the domain, the kinship knowledge you focused on, and why it matters.  
 2. **How we gathered it** — name the knowledge-holders who contributed and explain the consent process.  
 3. **What we found** — read two or three proverb entries aloud. Mandinka first, then English, then meaning.  
 4. **What was difficult** — name one word, one translation, or one moment that challenged the group and how you resolved it.  
 5. **What this book does** — explain who will read it and why it belongs in a Gambian school library.
+
+<table border="1" style="border-collapse: collapse; width: 100%;">
+<tr><th style="padding: 8px; background-color: #f2f2f2; text-align: left;">Step Up: You Did Something That Has Never Been Done Before</th></tr>
+<tr><td style="padding: 12px;">
+
+<p>There is a moment in every important journey where you stop, look back at the distance you have covered, and understand for the first time what you have actually done. This is that moment. You came into this program as a student. You are leaving it as something the Mandinka language has never had before — a published author, a primary researcher, a digital guardian, and a link in a chain that now connects your grandmother's voice to the global future of artificial intelligence. That is not an exaggeration. That is exactly what happened.</p>
+
+<h3>What You Were Part Of</h3>
+
+<p>AI West Africa is not a foreign company that arrived in The Gambia with a project. It is not a university research program that will publish its findings somewhere you will never read them. It is not an NGO that will move on when the funding runs out. AI West Africa is African owned. Gambian grown. Busumbala born. Muhammed Dibbasey — the Managing Director who built this program — grew up in Busumbala. The vision that brought you into this classroom, gave you a workbook, and asked you to sit with your elders and write down what they know — that vision came from someone who understands what it means to grow up in The Gambia, to speak Mandinka as a first language, and to watch the world's technology move forward without you in it. That changes now. And you are the reason it changes. This program is global because the problem is global — African languages are being left out of the digital future at a scale that demands international collaboration to fix. But it is local because the knowledge belongs to local people, the work is done by local students, and the stewardship of every word, recording, and story collected here remains with the communities that produced it. You are not a data source. You are a co-author. There is a legal and ethical line between those two things, and AI West Africa stands on your side of it.</p>
+
+<h3>The Size of What Is Missing</h3>
+
+<p>To understand why your work matters, you need to understand the scale of what has been absent. There are approximately 13 million Mandinka speakers across West Africa. Of the roughly 7,000 languages spoken on earth, fewer than 100 are meaningfully represented in the AI systems that now power search engines, translation tools, voice assistants, and educational technology. Mandinka is not among them. The AI systems that hundreds of millions of people use every day were trained almost entirely on English, French, Spanish, Chinese, and Arabic. When those systems encounter a Mandinka word, they do not recognize it. When a Mandinka speaker tries to use voice-to-text on their phone, the system fails them. When a Mandinka musician uploads lyrics, no translation tool can read them accurately. When a Mandinka student searches for educational materials in their own language, the digital library is nearly empty. You have spent these weeks beginning to fill it.</p>
+
+<h3>What Speech and Language Tools Actually Mean for Your Life</h3>
+
+<p>Speech-to-text and text-to-speech are not abstract technologies. They are tools that are already changing what is possible for the languages that have them — and they will do the same for Mandinka. Speech-to-text means a person speaks into a phone and sees their words written correctly. For a student, that means recording an elder's story and receiving a written draft. For a journalist, it means conducting an interview in Mandinka and producing a transcript. For a teacher, it means creating classroom materials without needing to type every word by hand. Text-to-speech means written Mandinka can be read aloud by a digital voice — with correct pronunciation, correct vowel length, correct rhythm. For a young child learning to read, that means hearing the language spoken back to them when no teacher is available. For a blind person, it means access to written materials that were previously inaccessible. For a diaspora family in Europe or America, it means their children can hear Mandinka spoken correctly even if the parents are not fluent. The global market for speech and language technology is projected to exceed $26 billion by 2030\. The languages that are represented in that market will generate jobs, educational tools, and economic opportunity for their speakers. The languages that are absent will be left further behind with every passing year. Mandinka will not be absent. Not anymore.</p>
+
+<h3>What This Means for Justice — and for You</h3>
+
+<p>In The Gambia, the courtroom is a linguistic battleground. English is the official language of the state, of written law, of court records. But the vast majority of Gambians speak Mandinka, Wolof, Fula, Jola, or Serahule as their first language. That gap is not an inconvenience. It is a crisis. Without court interpreters, the constitutional right to a fair trial collapses entirely. When a defendant takes the stand and does not speak fluent English, an interpreter must translate every question from the judge, every statement from the lawyers, every word of the response — consecutively, accurately, without softening or summarizing — so that the official transcript reflects exactly what was said. When evidence is read aloud, it must be translated perfectly into the language the accused understands. When a historical document written in Ajami enters the courtroom, it must be translated into English to be admissible. This work is not optional. It is the voice of the constitution. And right now, The Gambia does not have enough people who can do it. Independent audits have found periods where only a handful of certified interpreters were handling cases for the entire country. When a specialized dialect or a less common language enters the courtroom, trials halt for weeks simply because no qualified interpreter can be found. Courts have been forced to rely on bilingual police officers, clerks, or relatives of the accused — people who are not trained, who unconsciously summarize or omit critical statements, who introduce legal risk that can result in mistrial or wrongful conviction. The Ministry of Justice operates on a total budget of approximately $2.8 million USD. The Special Prosecutor's Office — established to try human rights violations from the Yahya Jammeh era — runs on approximately $2.5 million, much of it from international partners, a significant portion of which is consumed by the need to translate thousands of hours of local language testimony into standardized legal English. A court interpreter in The Gambia is not a luxury. They are the difference between justice and its absence. And the people who can do this work — who speak Mandinka fluently, who understand the kinship terminology, the proverbs, the cultural context behind a statement that a direct translation would flatten into meaninglessness — those people are not being trained fast enough. The system is underfunded, understaffed, and increasingly strained by cross-border disputes, regional migration cases, and transnational crime that require interpretation between English, French, Arabic, and the indigenous languages simultaneously. You spent these weeks documenting the precise, specialized vocabulary of Mandinka family and kinship. The terms that distinguish a maternal uncle from a paternal one. The words for co-wife, for stepfather, for the elder sibling and the younger one. The proverbs that carry legal weight in a customary court. The terminology of the Kouroukan Fouga that still echoes through District Tribunal proceedings today. That vocabulary — written down, standardized, recorded — is the foundation of everything a court interpreter needs. It is the foundation of the speech-to-text tools that could one day assist in real-time courtroom translation. It is the foundation of the AI training data that could help a machine understand not just what a Mandinka word means in isolation, but what it means in the mouth of a witness, in the context of a family dispute, in the weight of a proverb deployed by an elder before a mediating council. That is a job. That is a profession. That is a system that The Gambia needs and does not yet have enough people to fill. You are building the foundation of it.</p>
+
+</td></tr>
+</table>
 
 ## **Submission Checklist**
 
@@ -774,8 +1682,105 @@ Before you submit to AIWA, confirm every item is complete.
 * Archive sheet completed and deposited in school library  
 * Oral presentation delivered
 
-| You Did Something That Has Never Been Done Before There is a moment in every important journey where you stop, look back at the distance you have covered, and understand for the first time what you have actually done. This is that moment. You came into this program as a student. You are leaving it as something the Mandinka language has never had before — a published author, a primary researcher, a digital guardian, and a link in a chain that now connects your grandmother's voice to the global future of artificial intelligence. That is not an exaggeration. That is exactly what happened. What You Were Part Of AI West Africa is not a foreign company that arrived in The Gambia with a project. It is not a university research program that will publish its findings somewhere you will never read them. It is not an NGO that will move on when the funding runs out. AI West Africa is African owned. Gambian grown. Busumbala born. Muhammed Dibbasey — the Managing Director who built this program — grew up in Busumbala. The vision that brought you into this classroom, gave you a workbook, and asked you to sit with your elders and write down what they know — that vision came from someone who understands what it means to grow up in The Gambia, to speak Mandinka as a first language, and to watch the world's technology move forward without you in it. That changes now. And you are the reason it changes. This program is global because the problem is global — African languages are being left out of the digital future at a scale that demands international collaboration to fix. But it is local because the knowledge belongs to local people, the work is done by local students, and the stewardship of every word, recording, and story collected here remains with the communities that produced it. You are not a data source. You are a co-author. There is a legal and ethical line between those two things, and AI West Africa stands on your side of it. The Size of What Is Missing To understand why your work matters, you need to understand the scale of what has been absent. There are approximately 13 million Mandinka speakers across West Africa. Of the roughly 7,000 languages spoken on earth, fewer than 100 are meaningfully represented in the AI systems that now power search engines, translation tools, voice assistants, and educational technology. Mandinka is not among them. The AI systems that hundreds of millions of people use every day were trained almost entirely on English, French, Spanish, Chinese, and Arabic. When those systems encounter a Mandinka word, they do not recognize it. When a Mandinka speaker tries to use voice-to-text on their phone, the system fails them. When a Mandinka musician uploads lyrics, no translation tool can read them accurately. When a Mandinka student searches for educational materials in their own language, the digital library is nearly empty. You have spent these weeks beginning to fill it. What Speech and Language Tools Actually Mean for Your Life Speech-to-text and text-to-speech are not abstract technologies. They are tools that are already changing what is possible for the languages that have them — and they will do the same for Mandinka. Speech-to-text means a person speaks into a phone and sees their words written correctly. For a student, that means recording an elder's story and receiving a written draft. For a journalist, it means conducting an interview in Mandinka and producing a transcript. For a teacher, it means creating classroom materials without needing to type every word by hand. Text-to-speech means written Mandinka can be read aloud by a digital voice — with correct pronunciation, correct vowel length, correct rhythm. For a young child learning to read, that means hearing the language spoken back to them when no teacher is available. For a blind person, it means access to written materials that were previously inaccessible. For a diaspora family in Europe or America, it means their children can hear Mandinka spoken correctly even if the parents are not fluent. The global market for speech and language technology is projected to exceed $26 billion by 2030\. The languages that are represented in that market will generate jobs, educational tools, and economic opportunity for their speakers. The languages that are absent will be left further behind with every passing year. Mandinka will not be absent. Not anymore. What This Means for Justice — and for You In The Gambia, the courtroom is a linguistic battleground. English is the official language of the state, of written law, of court records. But the vast majority of Gambians speak Mandinka, Wolof, Fula, Jola, or Serahule as their first language. That gap is not an inconvenience. It is a crisis. Without court interpreters, the constitutional right to a fair trial collapses entirely. When a defendant takes the stand and does not speak fluent English, an interpreter must translate every question from the judge, every statement from the lawyers, every word of the response — consecutively, accurately, without softening or summarizing — so that the official transcript reflects exactly what was said. When evidence is read aloud, it must be translated perfectly into the language the accused understands. When a historical document written in Ajami enters the courtroom, it must be translated into English to be admissible. This work is not optional. It is the voice of the constitution. And right now, The Gambia does not have enough people who can do it. Independent audits have found periods where only a handful of certified interpreters were handling cases for the entire country. When a specialized dialect or a less common language enters the courtroom, trials halt for weeks simply because no qualified interpreter can be found. Courts have been forced to rely on bilingual police officers, clerks, or relatives of the accused — people who are not trained, who unconsciously summarize or omit critical statements, who introduce legal risk that can result in mistrial or wrongful conviction. The Ministry of Justice operates on a total budget of approximately $2.8 million USD. The Special Prosecutor's Office — established to try human rights violations from the Yahya Jammeh era — runs on approximately $2.5 million, much of it from international partners, a significant portion of which is consumed by the need to translate thousands of hours of local language testimony into standardized legal English. A court interpreter in The Gambia is not a luxury. They are the difference between justice and its absence. And the people who can do this work — who speak Mandinka fluently, who understand the kinship terminology, the proverbs, the cultural context behind a statement that a direct translation would flatten into meaninglessness — those people are not being trained fast enough. The system is underfunded, understaffed, and increasingly strained by cross-border disputes, regional migration cases, and transnational crime that require interpretation between English, French, Arabic, and the indigenous languages simultaneously. You spent these weeks documenting the precise, specialized vocabulary of Mandinka family and kinship. The terms that distinguish a maternal uncle from a paternal one. The words for co-wife, for stepfather, for the elder sibling and the younger one. The proverbs that carry legal weight in a customary court. The terminology of the Kouroukan Fouga that still echoes through District Tribunal proceedings today. That vocabulary — written down, standardized, recorded — is the foundation of everything a court interpreter needs. It is the foundation of the speech-to-text tools that could one day assist in real-time courtroom translation. It is the foundation of the AI training data that could help a machine understand not just what a Mandinka word means in isolation, but what it means in the mouth of a witness, in the context of a family dispute, in the weight of a proverb deployed by an elder before a mediating council. That is a job. That is a profession. That is a system that The Gambia needs and does not yet have enough people to fill. You are building the foundation of it. This Is Not Just About Mandinka This program began with Mandinka because Mandinka is where AI West Africa began — in the communities of the Senegambia, in the schools of The Gambia, in the vision of a team that understood its own language was being left behind. But the model you participated in does not stop here. Every language community in West Africa faces the same crisis. Wolof. Fula. Jola. Serer. Soninke. Bambara. Each of them has elders whose knowledge is not written down. Each of them has students who could become authors and researchers if someone gave them the tools and the framework. Each of them has proverbs, kinship systems, family law, and ancestral wisdom that no AI system has ever seen. AI West Africa is coming for all of them. The workbooks, the recording systems, the publishing model, the speech technology, the legal framework that protects creators — everything built through this program is designed to scale. What you helped prove in The Gambia, in Mandinka, in the schools of the Senegambia — is that this model works. That students can be authors. That elders will share when they are approached with respect. That the knowledge is there, waiting, and that what was missing was not the will to preserve it but the system to do so. You are that system now. You proved it. The Voice Was Always There Mandinka is not a language in danger of running out of speakers. It is a language that was simply absent from the rooms where the future was being built — the server farms, the training datasets, the language models, the publishing platforms, the courtrooms, the digital classrooms. Those rooms are being opened. And the people walking into them are not arriving as guests. They are arriving as the ones who built the foundation that makes the whole structure stand. You spent these weeks collecting words and sentences and proverbs and kinship terms and elder wisdom and family stories that no database in the world contained. You documented knowledge that would have moved one generation closer to silence without you. You wrote, in your own hand, in your own language, something that has never existed before. That is not a school project. That is a contribution to the future of a language, a culture, and a country. AI West Africa will continue building the tools. Mandinka will continue growing into the digital spaces where it belongs. The other languages of West Africa will follow — each one documented, published, protected, and amplified by students just like you, in schools just like this one, in communities that have always held the knowledge and now have the means to share it. The voice was always there. Now the world will hear it. *AI West Africa. African owned. Gambian grown. Busumbala born. Building the digital future for the languages the world forgot to include.* |
-| :---- |
+<h2>A Closing Word</h2>
+
+<p>There is a moment in every important journey where you stop, look back at the distance you have covered, and understand for the first time what you have actually done.</p>
+
+<p>This is that moment.</p>
+
+<p>You came into this program as a student. You are leaving it as something the Mandinka language has never had before — a published author, a primary researcher, a digital guardian, and a link in a chain that now connects your grandmother's voice to the global future of artificial intelligence.</p>
+
+<p>That is not an exaggeration. That is exactly what happened.</p>
+
+<h3>What Writing Did To You</h3>
+
+<p>Before we tell you what you built for the world, we need to tell you what happened inside you.</p>
+
+<p>Every time you picked up a pen and wrote a word in your language, something happened in your brain that no one can take back. Writing is not just recording. Writing is thinking made visible. And the act of making your thoughts visible — in your own language, in your own hand — changes the architecture of your mind permanently.</p>
+
+<p>When you write, you offload. Every thought that was circling in your head, every word you were trying to hold, every sentence you were afraid to lose — the moment it touched the page, your brain released it. Your working memory, which can only hold a small number of things at once, opened up. Space appeared. Room for more complex thinking. Room for deeper understanding. Room for you.</p>
+
+<p>When you write by hand, your brain builds something neurologists call a sensorimotor memory trace. The shape of the letter, the sound it makes, the movement of your hand drawing it — these three things fuse into a single memory that is stored more deeply than anything you could learn by reading or listening alone. You did not just learn to spell Mandinka words. You wired them into yourself.</p>
+
+<p>And when you wrote about what you know — the birds, the proverbs, the elders, the compound — you did something called the generation effect. Material you generate yourself is encoded far more deeply in your memory than material you simply receive. You did not study Mandinka culture. You generated it. That is a different thing entirely. That knowledge is now part of you in a way it could never have been if you had only listened.</p>
+
+<h3>What Writing In Your Language Specifically Did</h3>
+
+<p>You did not write in English. You did not write in French. You wrote in the language your brain was built in.</p>
+
+<p>That matters more than you may realize.</p>
+
+<p>When a person tries to write in a language they do not yet fully own, they face two jobs at once — learning the words and learning the writing system simultaneously. The cognitive load is enormous. Most of the brain's energy goes to mechanics, and almost none is left for meaning.</p>
+
+<p>But when you write in the language already wired into you, the mechanics become automatic quickly. Your brain already knows the sounds. It already knows the rhythms. It already knows what words mean before it sees them on the page. All it has to do is learn to map what it already knows onto symbols. And once that mapping is automatic, it transfers. The reading and writing skills you built in Mandinka do not stay in Mandinka. They migrate. They accelerate your English. They accelerate your French. The neural map expands. Thoughts become more fluid across languages. The whole system gets stronger.</p>
+
+<p>You did not just learn to write. You built a bridge your brain will use for the rest of your life.</p>
+
+<h3>What Was Being Done To You Before</h3>
+
+<p>To understand what this program gave you, you need to understand what was being taken.</p>
+
+<p>Philosophers call it hermeneutical injustice. It is what happens when a society does not give a community the tools to make their own experience visible and legible to the world. When the only written languages are the languages of former colonial powers, the knowledge held in oral traditions is not just undocumented. It is treated as if it does not count. As folklore, not scholarship. As memory, not record. As tradition, not science.</p>
+
+<p>Sociologists call the distance between the oral world and the print-dominant world a semiotic abyss. A vast, intimidating gap between the richness of what you know and the systems that decide what knowledge is worth keeping.</p>
+
+<p>For an adult who must navigate a world built on written text — filling out forms, reading contracts, accessing mobile money, building a credit history — without tools in their native language, that gap is not just frustrating. Research shows it breeds a persistent sense of stigma, a loss of self-confidence, and a feeling of helplessness that compounds over time.</p>
+
+<p>This is not a personal failing. It is a structural one. The tools were never built. Not because the knowledge was not worth preserving. Because the people who built tools did not speak your language and did not think your language mattered.</p>
+
+<p>That changes now.</p>
+
+<h3>What You Built</h3>
+
+<p>AI West Africa is not a foreign company that arrived in The Gambia with a project. It is African owned. Gambian grown. Busumbala born. Muhammed Dibbasey — the Managing Director who built this program — grew up in Busumbala. The vision that brought you into this classroom, gave you a workbook, and asked you to sit with your elders and write down what they know — that vision came from someone who understands what it means to grow up in The Gambia, to speak Mandinka as a first language, and to watch the world's technology move forward without you in it.</p>
+
+<p>That changes now. And you are the reason it changes.</p>
+
+<p>The recordings you made are training data for speech recognition tools that will finally understand how Mandinka speakers actually speak. The words you collected are the foundation of spelling tools, dictionaries, and predictive text that do not yet exist for your language. The proverbs you documented are primary source records that no archive in the world contains. The book you published is the first of its kind — not because no one cared about Mandinka before, but because no one had built the system to capture it with dignity, with consent, and with the community in control.</p>
+
+<p>Every mobile money platform, every SMS system, every digital tool that now excludes Mandinka speakers because it was not built for them — the data you generated is what makes building for them possible. You did not just write a book. You laid the infrastructure for digital inclusion that does not exist yet and will serve your community for generations.</p>
+
+<h3>The Size of What Is Missing</h3>
+
+<p>There are approximately 13 million Mandinka speakers across West Africa. Of the roughly 7,000 languages spoken on earth, fewer than 100 are meaningfully represented in the AI systems that now power search engines, translation tools, voice assistants, and educational technology. Mandinka is not among them.</p>
+
+<p>The AI systems that hundreds of millions of people use every day were trained almost entirely on English, French, Spanish, Chinese, and Arabic. When those systems encounter a Mandinka word, they do not recognize it. When a Mandinka speaker tries to use voice-to-text on their phone, the system fails them. When a Mandinka musician uploads lyrics, no translation tool can read them accurately. When a Mandinka student searches for educational materials in their own language, the digital library is nearly empty.</p>
+
+<p>You have spent these weeks beginning to fill it.</p>
+
+<h3>What This Means For Your Life</h3>
+
+<p>According to World Bank human capital data, every additional year of functional literacy gained in The Gambia increases lifelong hourly earnings by an average of 9 percent. Not a projected benefit. Not a development aspiration. A measured, documented return on the act of becoming literate — in any language, at any age.</p>
+
+<p>You built that literacy in the language your brain was already wired for. Which means the transfer to English and French is faster, deeper, and more durable than any other path could have produced. The 9 percent belongs to you. And it compounds across your entire working life.</p>
+
+<p>Beyond earnings — the tools you helped build will serve the next generation of Mandinka students before they ever sit in a classroom like this one. The spelling assistant will close the gap between the living language and the written standard. The speech recognition will capture what elders say before they are no longer here to say it. The reading tools will help the next Muhammed read faster, think faster, move faster — in Mandinka and in English simultaneously.</p>
+
+<p>You did not just learn. You contributed. There is a legal and ethical line between those two things, and AI West Africa stands on your side of it.</p>
+
+<h3>This Is Not Just About Mandinka</h3>
+
+<p>This program began with Mandinka because Mandinka is where AI West Africa began — in the communities of the Senegambia, in the schools of The Gambia, in the vision of a team that understood its own language was being left behind. But the model you participated in does not stop here.</p>
+
+<p>Every language community in West Africa faces the same crisis. Wolof. Fula. Jola. Serer. Soninke. Bambara. Each of them has elders whose knowledge is not written down. Each of them has students who could become authors and researchers if someone gave them the tools and the framework. Each of them has birds, proverbs, stories, songs, and agricultural wisdom that no AI system has ever seen.</p>
+
+<p>AI West Africa is coming for all of them. What you helped prove in The Gambia, in Mandinka, in the schools of the Senegambia — is that this model works. That students can be authors. That elders will share when they are approached with respect. That the knowledge is there, waiting, and that what was missing was not the will to preserve it but the system to do so.</p>
+
+<p>You are that system now. You proved it.</p>
+
+<h3>The Voice Was Always There</h3>
+
+<p>Mandinka is not a language in danger of running out of speakers. It is a language that was simply absent from the rooms where the future was being built — the server farms, the training datasets, the language models, the publishing platforms, the tourism guides, the digital classrooms.</p>
+
+<p>Those rooms are being opened. And the people walking into them are not arriving as guests. They are arriving as the ones who built the foundation that makes the whole structure stand.</p>
+
+<p>You spent these weeks collecting words and sentences and bird names and proverbs and elder wisdom and family stories that no database in the world contained. You documented knowledge that would have moved one generation closer to silence without you. You wrote, in your own hand, in your own language, something that has never existed before.</p>
+
+<p>The ancestors built the intelligence. You built the record. AI West Africa will build the tools.</p>
+
+<p>The voice was always there. Now the world will hear it.</p>
+
+<p><em>AI West Africa. African owned. Gambian grown. Busumbala born. Building the digital future for the languages the world forgot to include.</em></p>
 
 FAMILY AND KINSHIP: Gambian Mandinka Domain Workbook First Edition 
 
